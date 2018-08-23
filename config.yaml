@@ -1,11 +1,13 @@
 baseURL: "http://example.org/"
 title: "CorrelAid"
-DefaultContentLanguage: en
+DefaultContentLanguage: de
 copyright: Everything is mine
 languages:
   en:
-    title: "CorrelAid"
-    weight: 1
-  de:
-    title: "CorrelAid"
+    contentDir: content/english
+    title: CorrelAid
     weight: 2
+  de:
+    contentDir: content/german
+    title: CorrelAid
+    weight: 1
