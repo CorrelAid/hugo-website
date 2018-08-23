@@ -237,6 +237,11 @@ p {
     overflow-x: hidden;
 }
 
+.hero.small {
+    height: 40vh;
+    min-height: 300px;
+}
+
 .hero a.start {
     color: #FFFFFF;
     top: 0;

@@ -35,33 +35,17 @@
         </div>
     </div>
     <div class="row">
+    {{ range first 3 (where .Pages "Section" "news").ByPublishDate.Reverse }}
         <div class="col-12 col-md-4">
             <div class="ca-img-container">
-                <img class="img-fluid dark" src="/images/data-science-for-society.jpg" alt="Data Science for Society" />
+                <img class="img-fluid dark" src="/images/news/{{ .Params.image }}" alt="Data Science for Society" />
                 <div class="ca-img-border"></div>
             </div>
-            <p style="margin-bottom: 0">05. August 2018</p>
-            <h3 class="ca-green-text">Hackathon München</h3>
-            <p>Bliblablub</p>
+            <p style="margin-bottom: 0">{{ .Date.Format "2006-01-02" }}</p>
+            <h3 class="ca-green-text"><a href="{{ .URL }}">{{ .Title }}</a></h3>
+            <p>{{ .Summary }}</p>
         </div>
-        <div class="col-12 col-md-4">
-            <div class="ca-img-container">
-                <img class="img-fluid dark" src="/images/data-science-for-society.jpg" alt="Data Science for Society" />
-                <div class="ca-img-border"></div>
-            </div>
-            <p style="margin-bottom: 0">05. August 2018</p>
-            <h3 class="ca-green-text">Hackathon München</h3>
-            <p>Bliblablub</p>
-        </div>
-        <div class="col-12 col-md-4">
-            <div class="ca-img-container">
-                <img class="img-fluid dark" src="/images/data-science-for-society.jpg" alt="Data Science for Society" />
-                <div class="ca-img-border"></div>
-            </div>
-            <p style="margin-bottom: 0">05. August 2018</p>
-            <h3 class="ca-green-text">Hackathon München</h3>
-            <p>Bliblablub</p>
-        </div>
+    {{ end }}
     </div>
 </div>
 <!-- /END NEWS -->
