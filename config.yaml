@@ -4,10 +4,10 @@ DefaultContentLanguage: de
 copyright: Everything is mine
 languages:
   en:
-    contentDir: content/english
+    contentDir: content/en
     title: CorrelAid
     weight: 2
   de:
-    contentDir: content/german
+    contentDir: content/de
     title: CorrelAid
     weight: 1
