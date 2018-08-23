@@ -1,0 +1,16 @@
+<div class="container" id="data-science">
+    <div class="row my-5">
+        <div class="col-12 col-md-6 col-lg-7 align-self-center {{.Get `order`}}">
+            <h1 class="{{.Get "color"}}">{{.Get "title"}}</h1>
+            <p class="lead">
+                {{.Inner}}
+            </p>
+        </div>
+        <div class="col-12 col-md-6 col-lg-5 align-self-center">
+            <div class="ca-img-container">
+                <img class="img-fluid dark" src="{{.Get `img`}}" alt="{{.Get `title`}}" />
+                <div class="ca-img-border"></div>
+            </div>
+        </div>
+    </div>
+</div>
