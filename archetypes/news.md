@@ -1,0 +1,9 @@
+---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+draft: false
+---
+
+## Heading
+
+Here comes the content.
