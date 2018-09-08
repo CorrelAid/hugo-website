@@ -31,14 +31,14 @@
 <div class="container">
     <div class="row">
         <div class="col-12">
-            <h1>Neuigkeiten</h1>
+            <h1>{{ i18n "news"}}</h1>
         </div>
     </div>
     <div class="row">
     {{ range first 3 (where .Pages "Section" "news").ByPublishDate.Reverse }}
         <div class="col-12 col-md-4">
             <div class="ca-img-container">
-                <img class="img-fluid dark" src="/images/news/{{ .Params.image }}" alt="Data Science for Society" />
+                <img class="img-fluid dark" src="/images/news/{{ .Params.image }}" alt="{{ .Title }}" />
                 <div class="ca-img-border"></div>
             </div>
             <p style="margin-bottom: 0">{{ .Date.Format "2006-01-02" }}</p>
@@ -49,5 +49,28 @@
     </div>
 </div>
 <!-- /END NEWS -->
+
+<!-- BLOG -->
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-12">
+            <h1>Blog</h1>
+        </div>
+    </div>
+    <div class="row">
+        {{ range first 3 (where .Pages "Section" "blog").ByPublishDate.Reverse }}
+        <div class="col-12 col-md-4">
+            <div class="ca-img-container">
+                <img class="img-fluid dark" src="/images/blog/{{ .Params.image }}" alt="{{ .Title }}" />
+                <div class="ca-img-border"></div>
+            </div>
+            <p style="margin-bottom: 0">{{ .Date.Format "2006-01-02" }}</p>
+            <h3 class="ca-green-text"><a href="{{ .URL }}">{{ .Title }}</a></h3>
+            <p>{{ .Summary }}</p>
+        </div>
+        {{ end }}
+    </div>
+</div>
+<!-- /END BLOG -->
 
 {{ end }}
