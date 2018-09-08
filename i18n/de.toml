@@ -2,3 +2,15 @@
 other = "Spenden"
 [news]
 other = "Neuigkeiten"
+[about-us]
+other = "Über uns"
+[about-correlaid]
+other = "Über CorrelAid"
+[people]
+other = "Ansprechpersonen"
+[ethics]
+other = "Ethikkodex"
+[data-privacy]
+other = "Datenschutz"
+[contact]
+other = "Kontakt"

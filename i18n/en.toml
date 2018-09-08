@@ -2,3 +2,15 @@
 other = "Donate"
 [news]
 other = "News"
+[about-us]
+other = "About us"
+[about-correlaid]
+other = "About CorrelAid"
+[people]
+other = "People"
+[ethics]
+other = "Ethics"
+[data-privacy]
+other = "Data Privacy"
+[contact]
+other = "Contact"
