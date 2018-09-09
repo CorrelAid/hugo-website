@@ -1,7 +1,9 @@
 ---
 title: "Tic Tac Toe"
 date: 2018-09-08T23:45:48+02:00
-image: stifterhelfen.jpg
+image: tic-tac-toe.jpg
+summary: "Johannes provides an introduction to build an AI model which play Tic Tac Toe. In 4 simple steps you'll learn to beat any human player."
+language: "en"
 draft: true
 ---
 

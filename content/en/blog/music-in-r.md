@@ -1,7 +1,9 @@
 ---
 title: "Music in R"
 date: 2018-09-08T23:47:09+02:00
-image: stifterhelfen.jpg
+image: music-in-r.jpg
+summary: "In this tutorial Jochen shows you how to compose music in R. While R is usually used in academia today you'll learn how to become the next Jimmy Hendrix."
+language: "en"
 draft: true
 ---
 
