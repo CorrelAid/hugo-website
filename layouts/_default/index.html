@@ -15,43 +15,47 @@
 
 {{.Content}}
 
-
 <!-- CALL FOR ACTION -->
 <div class="row my-5 py-5 ca-dark-blue justify-content-center">
-    <div class="col-12 col-md-5 col-lg-2">
-        <a href="" class="ca-btn block">Projekt einreichen</a>
-    </div>
     <div class="col-12 col-md-5 col-lg-2">
         <a href="" class="ca-btn block">Mitmachen</a>
     </div>
 </div>
 <!-- /END CALL FOR ACTION -->
 
+
 <!-- NEWS -->
 <div class="container">
     <div class="row">
         <div class="col-12">
-            <h1>{{ i18n "news"}}</h1>
+            <h1><a href="/news">{{ i18n "news"}}</a></h1>
         </div>
     </div>
     <div class="row">
     {{ range first 3 (where .Pages "Section" "news").ByPublishDate.Reverse }}
         <div class="col-12 col-md-4">
-            <div class="ca-img-container">
+            <a href="{{ .URL }}" class="ca-img-container link">
                 <img class="img-fluid dark" src="/images/news/{{ .Params.image }}" alt="{{ .Title }}" />
                 <div class="ca-img-border"></div>
-            </div>
+            </a>
             <p style="margin-bottom: 0">{{ .Date.Format "2006-01-02" }}</p>
             <h3 class="ca-dark-blue-text"><a href="{{ .URL }}">{{ .Title }}</a></h3>
-            <p>{{ .Summary }}</p>
         </div>
     {{ end }}
     </div>
 </div>
 <!-- /END NEWS -->
 
+<!-- CALL FOR ACTION -->
+<div class="row my-5 py-5 ca-dark-blue justify-content-center">
+    <div class="col-12 col-md-5 col-lg-2">
+        <a href="" class="ca-btn block">Projekt einreichen</a>
+    </div>
+</div>
+<!-- /END CALL FOR ACTION -->
+
 <!-- BLOG -->
-<div class="container mt-5">
+<div class="container">
     <div class="row">
         <div class="col-12">
             <h1><a href="/blog">Blog</a></h1>
@@ -60,10 +64,10 @@
     <div class="row">
         {{ range first 3 (where .Pages "Section" "blog").ByPublishDate.Reverse }}
         <div class="col-12 col-md-4">
-            <div class="ca-img-container">
+            <a href="{{ .URL }}" class="ca-img-container link">
                 <img class="img-fluid dark" src="/images/blog/{{ .Params.image }}" alt="{{ .Title }}" />
                 <div class="ca-img-border"></div>
-            </div>
+            </a>
             <p style="margin-bottom: 0">{{ .Date.Format "2006-01-02" }}</p>
             <h3 class="ca-dark-blue-text"><a href="{{ .URL }}">{{ .Title }}</a></h3>
             <p>{{ .Params.summary }}</p>

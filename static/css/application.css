@@ -160,6 +160,11 @@ p {
     background-image: linear-gradient(90deg,#92de3f 0,#3863a2);
 }
 
+.ca-img-container.link:hover > .ca-img-border::after,
+.ca-img-container.link:hover > .ca-img-border::before {
+    background-image: linear-gradient(90deg,#f04451 0,#3863a2);
+}
+
 .ca-img-container > .ca-img-border::before {
     top: 0;
 }
@@ -185,6 +190,11 @@ p {
     margin-right: auto;
     opacity: .7;
     border-left: 10px solid #92de3f;
+    border-right: 10px solid #3863a2;
+}
+
+.ca-img-container.link:hover > .ca-img-border {
+    border-left: 10px solid #f04451;
     border-right: 10px solid #3863a2;
 }
 

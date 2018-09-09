@@ -1,26 +1,10 @@
 {{ define "main" }}
 
-<!-- HERO SECTION -->
-<div
-    class="hero small mb-5"
-    style="background: linear-gradient(45deg,rgba(56, 99, 162, .82), rgba(146, 222, 63, .82)),url(../../images/news/{{ .Params.image }})"
->
-    <div class="row justify-content-center h-100">
-        <div class="container">
-            <div class="row justify-content-center h-100">
-                <div class="col-12 align-self-center text-center">
-                    <h1 class="text-white">{{ .Title }}</h1>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- /END HERO SECTION -->
-
-<div class="container mt-5">
+<div class="container mt-5 pt-5">
     <div class="row justify-content-center">
         <div class="col-12 col-md-8 col-lg-6">
             <p class="lead">{{ .Params.city }}, {{ .Date.Format "2006-01-02" }}</p>
+            <h1>{{ .Title }}</h1>
             <p class="lead">{{ .Content }}</p>
         </div>
     </div>
