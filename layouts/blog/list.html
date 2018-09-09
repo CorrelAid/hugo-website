@@ -1,6 +1,24 @@
 {{ define "main" }}
-<h1>Blog</h1>
-{{ range .Pages}}
-    <a href="{{ .URL }}">{{ .Title }}</a>
-{{ end }}
+<!-- BLOG -->
+<div class="container mt-5 pt-5">
+    <div class="row">
+        <div class="col-12">
+            <h1>Blog</h1>
+        </div>
+    </div>
+    <div class="row">
+        {{ range (where .Pages "Section" "blog").ByPublishDate.Reverse }}
+        <div class="col-12 col-sm-6 col-lg-4">
+            <div class="ca-img-container">
+                <img class="img-fluid dark" src="/images/blog/{{ .Params.image }}" alt="{{ .Title }}" />
+                <div class="ca-img-border"></div>
+            </div>
+            <p style="margin-bottom: 0">{{ .Date.Format "2006-01-02" }}</p>
+            <h3 class="ca-dark-blue-text"><a href="{{ .URL }}">{{ .Title }}</a></h3>
+            <p>{{ .Params.summary }}</p>
+        </div>
+        {{ end }}
+    </div>
+</div>
+<!-- /END BLOG -->
 {{ end }}
