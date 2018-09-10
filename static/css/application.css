@@ -162,7 +162,7 @@ p {
 
 .ca-img-container.link:hover > .ca-img-border::after,
 .ca-img-container.link:hover > .ca-img-border::before {
-    background-image: linear-gradient(90deg,#f04451 0,#3863a2);
+    background-image: linear-gradient(90deg,#3863a2 0,#92de3f);
 }
 
 .ca-img-container > .ca-img-border::before {
@@ -194,8 +194,8 @@ p {
 }
 
 .ca-img-container.link:hover > .ca-img-border {
-    border-left: 10px solid #f04451;
-    border-right: 10px solid #3863a2;
+    border-left: 10px solid #3863a2;
+    border-right: 10px solid #92de3f;
 }
 
 /* =============== BUTTON =============== */
