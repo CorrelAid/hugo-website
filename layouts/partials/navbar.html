@@ -12,6 +12,8 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav mr-auto"></ul>
         <ul class="navbar-nav">
+
+            <!-- ABOUT US -->
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="about-us-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     {{ i18n "about-us" }}
@@ -22,6 +24,28 @@
                     {{ end }}
                 </div>
             </li>
+            <!-- /END ABOUT US -->
+
+            <!-- PROJECTS -->
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="projects-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    {{ i18n "projects" }}
+                </a>
+                <div class="dropdown-menu" aria-labelledby="projects-dropdown">
+                    {{ range .Site.Menus.projects }}
+                    <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                    {{ end }}
+                </div>
+            </li>
+            <!-- /END PROJECTS -->
+
+            <!-- BLOG -->
+            <li class="nav-item">
+                <a class="nav-link" href="{{ .Site.Home.Permalink }}blog">Blog</a>
+            </li>
+            <!-- /END BLOG -->
+
+            <!-- LANGUAGE -->
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="languages-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     <i class="fas fa-lg fa-language"></i>
@@ -32,6 +56,7 @@
                     {{ end}}
                 </div>
             </li>
+            <!-- /END LANGUAGE -->
 
 
 
