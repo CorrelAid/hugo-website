@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+
+DefaultContentLanguage = "en"
+
+[Languages]
+[Languages.en]
+    contentDir      = "content/en"
+    title           = "CorrelAid"
+    weight          = 0
+    languageName    = "English"
+    [Languages.en.params]
+        [Languages.en.params.navigation]
+            about   = "About"
+
+[Languages.de]
+    contentDir      = "content/de"
+    title           = "CorrelAid"
+    weight          = 0
+    languageName    = "Deutsch"
+    [Languages.de.params]
+            [Languages.de.params.navigation]
+                about   = "Über uns"

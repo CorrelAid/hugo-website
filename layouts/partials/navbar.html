@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-md navbar-dark fixed-top ca-dark-blue">
 
-    <a class="navbar-brand" href="/">
-        <img src="/images/correlaid/correlaid.png" height="30" alt="CorrelAid"/>
+    <a class="navbar-brand" href="{{ .Site.Home.URL }}">
+        <img src="/images/correlaid/icon.png" height="30" alt="CorrelAid"/>
     </a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -14,28 +14,30 @@
         <ul class="navbar-nav">
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="about-us-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    {{ i18n "about-us"}}
+                    {{ i18n "about-us" }}
                 </a>
                 <div class="dropdown-menu" aria-labelledby="about-us-dropdown">
-                    <a class="dropdown-item" href="#">{{ i18n "about-correlaid"}}</a>
-                    <a class="dropdown-item" href="#">{{ i18n "people"}}</a>
-                    <a class="dropdown-item" href="#">{{ i18n "ethics"}}</a>
-                    <a class="dropdown-item" href="#">{{ i18n "data-privacy"}}</a>
-                    <a class="dropdown-item" href="#">{{ i18n "contact"}}</a>
+                    {{ range .Site.Menus.about }}
+                    <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                    {{ end }}
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="languages-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <i class="fas fa-lg fa-language"></i>
+                </a>
+                <div class="dropdown-menu" aria-labelledby="languages-dropdown">
+                    {{ range .Translations }}
+                    <a class="dropdown-item" href="{{ .Permalink }}">{{ upper .Language }}</a>
+                    {{ end}}
                 </div>
             </li>
 
 
 
 
-
-
-            <li class="nav-item">
-                <a class="nav-link" href="/blog">Blog</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/en">EN</a>
-            </li>
         </ul>
+
+
     </div>
 </nav>
