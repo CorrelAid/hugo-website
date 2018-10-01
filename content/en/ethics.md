@@ -9,4 +9,4 @@ menu:
 
 # Ethic Guidelines
 
-## TRANSLATION MISSING!
+{{< blink >}}TRANSLATION MISSING{{< /blink >}} 

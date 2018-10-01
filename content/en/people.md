@@ -9,7 +9,7 @@ menu:
 
 # People
 
-## TRANSLATION MISSING
+{{< blink >}}TRANSLATION MISSING{{< /blink >}} 
 
 {{< person 
     name="Arndt"
