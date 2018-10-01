@@ -5,6 +5,6 @@ draft: true
 translationKey: "services"
 menu: 
     projects:
-        weight: 1
+        weight: 2
 ---
 
