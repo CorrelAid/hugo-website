@@ -9,4 +9,4 @@ menu:
 
 # Datenschutz
 
-## CONTENT IS MISSING!
+{{< blink >}}CONTENT MISSING{{< /blink >}} 
