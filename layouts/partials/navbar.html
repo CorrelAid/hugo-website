@@ -33,6 +33,7 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="support-dropdown">
                     <a class="nav-link" href="#">{{ i18n "donate" }}</a>
+                    <a class="nav-link" href="{{ .Site.Home.Permalink }}correlaid-x">CorrelAidX</a>
                 </div>
             </li>
             <!-- /END SUPPORT -->
@@ -70,6 +71,13 @@
             </li>
             <!-- /END LANGUAGE -->
 
+            <!-- LANGUAGE
+            {{ range .Translations }}
+            <li class="nav-item">
+                <a class="nav-link" href="{{ .Permalink }}">{{ upper .Language }}</a>
+            </li>
+            {{ end}}
+            <!-- /END LANGUAGE -->
 
 
 
