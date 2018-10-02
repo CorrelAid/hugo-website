@@ -32,8 +32,12 @@
                     {{ i18n "support" }}
                 </a>
                 <div class="dropdown-menu" aria-labelledby="support-dropdown">
-                    <a class="nav-link" href="#">{{ i18n "donate" }}</a>
-                    <a class="nav-link" href="{{ .Site.Home.Permalink }}correlaid-x">CorrelAidX</a>
+                    <a class="dropdown-item" href="{{ .Site.Home.Permalink }}correlaid-x">CorrelAidX</a>
+                    {{ range .Site.Menus.contribute }}
+                    <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                    {{ end }}
+                    <a class="dropdown-item" href="http://localhost/website-php/mailing-list">{{ i18n "mailing-list" }}</a>
+                    <a class="dropdown-item" href="#">{{ i18n "donate" }}</a>
                 </div>
             </li>
             <!-- /END SUPPORT -->
