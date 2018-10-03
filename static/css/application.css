@@ -4,10 +4,6 @@ body {
     overflow-x: hidden;
 }
 
-main {
-    margin-top: 56px;
-}
-
 /* ========== COLORS ========== */
 
 .ca-blue {
@@ -34,6 +30,11 @@ main {
 
 .ca-dark-blue-text a {
     color: #233140 !important;
+}
+
+.ca-red {
+    background-color: #f04451;
+    color: #FFFFFF;
 }
 
 .ca-green {
@@ -339,4 +340,12 @@ i.caveat {
 .hero a.start:hover,
 .hero a.start:visited {
     color: #FFFFFF;
+}
+
+/* ========== ALERTS ========== */
+
+.alert {
+    margin-top: 0;
+    margin-bottom: 0;
+    border-radius: 0;
 }
