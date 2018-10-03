@@ -4,6 +4,10 @@ body {
     overflow-x: hidden;
 }
 
+main {
+    margin-top: 56px;
+}
+
 /* ========== COLORS ========== */
 
 .ca-blue {

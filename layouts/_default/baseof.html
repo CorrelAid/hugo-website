@@ -18,16 +18,17 @@
     </head>
     <body>
 
-        <!-- BANNER -->
-        {{ partial "banner" . }}
-        <!-- /END BANNER -->
-
         <!-- NAVBAR -->
         {{ partial "navbar" . }}
         <!-- /END NAVBAR -->
 
+
         <!-- MAIN -->
         <main role="main">
+            <!-- BANNER -->
+            {{ partial "banner" . }}
+            <!-- /END BANNER -->
+
             {{ block "main" . }}
 
             {{ end }}
