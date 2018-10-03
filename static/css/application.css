@@ -133,6 +133,16 @@ h1 a:hover {
     color: #444444;
 }
 
+h1.correlaid-x {
+    display: inline;
+    padding: 3px 5px;
+    background-color: #f04451;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    font-weight: 500;
+}
+
 footer h1,
 footer h2,
 footer h3,
@@ -321,8 +331,18 @@ i.caveat {
     overflow-x: hidden;
 }
 
+.hero.correlaid-x {
+    background: linear-gradient(45deg,rgba(56, 99, 162, .82), rgba(240, 68, 81, .82)),url(../images/hero-1.jpg);
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
 .hero.small {
-    height: 40vh;
+    height: 60vh;
     min-height: 300px;
 }
 

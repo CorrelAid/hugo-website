@@ -1,0 +1,20 @@
+{{ define "main" }}
+<!-- HERO SECTION -->
+<div class="hero small correlaid-x">
+    <div class="row justify-content-center h-100">
+        <div class="col-6 col-md-5 col-lg-4 col-xl-3 align-self-center text-center">
+            <img class="img-fluid mb-5" src="/images/correlaid/correlaid-x.png" alt="CorrelAid Logo" />
+            <h1 class="correlaid-x">{{ trim .Title " " }}</h1>
+        </div>
+    </div>
+</div>
+<!-- /END HERO SECTION -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-12 my-5">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+{{ end }}
