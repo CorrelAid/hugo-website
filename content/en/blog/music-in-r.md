@@ -4,7 +4,7 @@ date: 2018-09-08T23:47:09+02:00
 image: music-in-r.jpg
 summary: "In this tutorial Jochen shows you how to compose music in R. While R is usually used in academia today you'll learn how to become the next Jimmy Hendrix."
 language: "en"
-draft: true
+draft: false
 ---
 
 _The programming language R is widely used in the academic world, and, increasingly, in data journalism, too. People run analyses, plot their data and calculate predictions of real world phenomena. But R can do more than that – things that many people don’t even know about: making presentations, writing books, and so on. We start a new, loose series about the crazy stuff you can do in R apart from science. Today, Jochen of the Mannheim local chapter starts with explaining you how to make R play music._

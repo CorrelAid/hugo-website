@@ -1,7 +1,7 @@
 ---
 title: "Dienstleistungen"
 date: 2018-08-23T12:37:35+02:00
-draft: true
+draft: false
 translationKey: "services"
 menu: 
     projects:

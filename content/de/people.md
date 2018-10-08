@@ -1,7 +1,7 @@
 ---
 title: "Ansprechpartner"
 date: 2018-08-23T12:35:36+02:00
-draft: true
+draft: false
 menu: 
     about:
         weight: 2
