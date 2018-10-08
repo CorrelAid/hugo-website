@@ -13,7 +13,9 @@ translationKey: "home"
     img="/images/data-science-for-good.jpg"
     order="order-md-0"
 >}}
-    We provide project-based consultancy. We are doing this 
+    We provide project-based consultancy for non-profit organizations. Through our decentral
+	network of over 650 skilled voluntary data scientists we democratize the potential of 
+	advanced data analysis.  
 {{< /feature >}}
 
 {{< feature 
@@ -22,9 +24,9 @@ translationKey: "home"
     img="/images/data-science-for-tomorrow.jpg"
     order="order-md-1"
 >}}
-    Wir schulen engagierte Data Scientists in Datenschutz, Projektmanagement und der Kommunikation mit
-    Non-Profits. Wir sind eine Weiterbildungs- und Vernetzungsplattform für die sozial-denkenden
-    DatenanalystInnen von morgen.
+    We are training committed data scientists in data privacy, project management and the communication
+	with non-profit organizations. We are a platform to educate and connect the socially dedicated
+	data analysts of tomorrow.
 {{< /feature >}}
 
 {{< feature 
@@ -33,7 +35,6 @@ translationKey: "home"
     img="/images/data-science-for-society.jpg"
     order="order-md-0"
 >}}
-    Wir setzen uns für einen breiteren Dialog über das Potential und die Grenzen von Data Science in
-    der Gesellschaft ein. Wir zeigen in Talks, Workshops und auf Konferenzen wie man mit
-    Daten Gutes tun kann.
+    We advocate a broad dialogue about the potential and the limits of data science in civil society.
+	We demonstrate in talks, workshops and conferences how to do good with data.
 {{< /feature >}}
