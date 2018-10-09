@@ -8,9 +8,19 @@ You can find detailed installation instructions on the official hugo [website](h
 
 #### Windows
 
+Congratulations! You are on the most complicated system for any programming :tada:.
+
+1. Download the latest zipped _Hugo Extended_ executable from [Hugo Releases](https://github.com/gohugoio/hugo/releases). The current version for 64-bit is called `hugo_extended_0.49_Windows-64bit.zip`.
+2. Extract all contents to your `..\Hugo\bin` folder.
+3. The hugo executable will be named as hugo_hugo-version_platform_arch.exe. Rename the executable to hugo.exe for ease of use.
+4. In PowerShell or your preferred CLI, add the hugo.exe executable to your PATH by navigating to C:\Hugo\bin (or the location of your hugo.exe file) and use the command set `PATH=%PATH%;C:\Hugo\bin`.
+5. Reboot your system.
+6. Open the PowerShell or your preferred CLI and enter `hugo version` to verify your installation.
+
+
 #### Mac
 
-Use `brew` to install `hugo` on your local system. Run `hugo version` to verify the installation.
+Use `brew` to install `hugo` on your local system. Run `hugo version` to verify your installation.
 
 ```
 brew install hugo
@@ -18,8 +28,10 @@ brew install hugo
 
 #### Linux (Ubuntu 18.04)
 
+Use `apt` to install `hugo` on your local system. Run `hugo version` to verify your installation.
+
 ```
-brew install hugo
+sudo apt-get install hugo
 ```
 
 
