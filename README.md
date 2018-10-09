@@ -2,16 +2,28 @@
 
 ## 1. Installation :gear:
 
-### Install Hugo
+### 1.1 Install Hugo
+
+You can find detailed installation instructions on the official hugo [website](https://gohugo.io/getting-started/installing/). Below you find the basic configurations to quickly install hugo on your local system. If you encounter any problems or require a special configuration visit the official website.
 
 #### Windows
 
 #### Mac
 
+Use `brew` to install `hugo` on your local system. Run `hugo version` to verify the installation.
+
+```
+brew install hugo
+```
+
 #### Linux (Ubuntu 18.04)
 
+```
+brew install hugo
+```
 
-### Clone Directory
+
+### 1.2 Clone Directory
 
 ```
 git clone https://github.com/CorrelAid/hugo-website.git
@@ -19,11 +31,11 @@ git clone https://github.com/CorrelAid/hugo-website.git
 
 ## 2. Development
 
-1. Install Hugo
-2. Run `hugo server -D`
+`hugo server -D`
 
 
 
 ## 3. Deployment
 
-1. Run `hugo`
+1. Run `hugo`.
+2. Copy the content of the `public` directory to the webserver.
