@@ -1,5 +1,6 @@
 # CorrelAid Hugo Website
 
+
 ## 1. Installation :gear:
 
 ### 1.1 Install Hugo
@@ -17,7 +18,6 @@ Congratulations! You are on the most complicated system for any programming :tad
 5. Reboot your system.
 6. Open the PowerShell or your preferred CLI and enter `hugo version` to verify your installation.
 
-
 #### Mac
 
 Use `brew` to install `hugo` on your local system. Run `hugo version` to verify your installation.
@@ -34,20 +34,24 @@ Use `apt` to install `hugo` on your local system. Run `hugo version` to verify y
 sudo apt-get install hugo
 ```
 
-
 ### 1.2 Clone Directory
 
 ```
 git clone https://github.com/CorrelAid/hugo-website.git
 ```
 
+
 ## 2. Development :keyboard:
 
-`hugo server -D`
+Hugo provides a development server that enables _hot-reload_. The folder is watched by hugo and as soon as you change a file the website is automatically reloaded.
+
+1. Open your favorite CLI and direct to the folder of your web application.
+2. Use `hugo server -D` to start the development server. The `-D` flag is important to indicate that drafts are also shown.
+3. Use CTRL + C to shutdown the server.
 
 
 
 ## 3. Deployment :computer:
 
 1. Run `hugo`.
-2. Copy the content of the `public` directory to the webserver.
+2. Copy the complete content of the `public` directory to the web server.
