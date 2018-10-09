@@ -9,7 +9,7 @@ You can find detailed installation instructions on the official hugo [website](h
 
 #### Windows
 
-Congratulations! You are on the most complicated system for any programming :tada:.
+Congratulations! You are on the most complicated system for using hugo :tada:.
 
 1. Download the latest zipped _Hugo Extended_ executable from [Hugo Releases](https://github.com/gohugoio/hugo/releases). The current version for 64-bit is called `hugo_extended_0.49_Windows-64bit.zip`.
 2. Extract all contents to your `..\Hugo\bin` folder.
@@ -55,3 +55,13 @@ Hugo provides a development server that enables _hot-reload_. The folder is watc
 
 1. Run `hugo`.
 2. Copy the complete content of the `public` directory to the web server.
+
+
+## 4. Add content
+
+### 4.1 Create a new page
+
+
+### 4.2 Using images
+
+Every image that is used for a block entry or news has the size **800px\*500px**.
