@@ -1,7 +1,12 @@
 # CorrelAid Hugo Website
 
+1. [Installation](#1-installation)
+2. [Development](#2-deployment)
+3. [Deployment](#3-deployment)
+4. [Add Content](#4-add-content)
 
-## 1. Installation :gear:
+
+## 1. Installation
 
 ### 1.1 Install Hugo
 
@@ -40,8 +45,7 @@ sudo apt-get install hugo
 git clone https://github.com/CorrelAid/hugo-website.git
 ```
 
-
-## 2. Development :keyboard:
+## 2. Development
 
 Hugo provides a development server that enables _hot-reload_. The folder is watched by hugo and as soon as you change a file the website is automatically reloaded.
 
@@ -51,7 +55,7 @@ Hugo provides a development server that enables _hot-reload_. The folder is watc
 
 
 
-## 3. Deployment :computer:
+## 3. Deployment
 
 1. Run `hugo`.
 2. Copy the complete content of the `public` directory to the web server.
