@@ -1,6 +1,6 @@
-# :earth_africa: CorrelAid Hugo Website
+# CorrelAid Hugo Website
 
-## Installation
+## 1. Installation :gear:
 
 ### Install Hugo
 
@@ -17,13 +17,13 @@
 git clone https://github.com/CorrelAid/hugo-website.git
 ```
 
-## Development
+## 2. Development
 
 1. Install Hugo
 2. Run `hugo server -D`
 
 
 
-## Release
+## 3. Deployment
 
 1. Run `hugo`
