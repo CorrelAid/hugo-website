@@ -41,13 +41,13 @@ sudo apt-get install hugo
 git clone https://github.com/CorrelAid/hugo-website.git
 ```
 
-## 2. Development
+## 2. Development :keyboard:
 
 `hugo server -D`
 
 
 
-## 3. Deployment
+## 3. Deployment :computer:
 
 1. Run `hugo`.
 2. Copy the content of the `public` directory to the webserver.
