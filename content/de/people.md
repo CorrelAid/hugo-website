@@ -28,7 +28,7 @@ Damon, in den Endzügen meines Masters in Statistik. Ich bin seit 2015 bei Corre
 {{< person 
     name="Frie"
     subline="Chief Technology Officer"
-    img="/images/people/waldo.png"
+    img="/images/people/frie.jpg"
 >}}
 Frie, Data Scientist bei codecentric. Bei CorrelAid kümmere ich mich um … Ich bin bei CorrelAid, weil ich Data Science demokratisieren will, sei es durch Projekte mit sozialen Organisationen oder durch den Wissensaustausch mit anderen jungen Datenanalyst*innen. Was mache ich sonst so? Klettern, Bouldern, Netflixen, Ausflüge in die Natur machen und meine Zeit auf Twitter totschlagen. (@ameisen_strasse)
 {{< /person >}}
