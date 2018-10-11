@@ -373,3 +373,33 @@ i.caveat {
     margin-bottom: 0;
     border-radius: 0;
 }
+
+/* ========== LOCAL GROUPS BOXES ========== */
+
+.local-group-box-outer {
+    width: 100%;
+}
+
+.local-group-box-inner {
+    display: block;
+    height: 150px;
+    width: 100%;
+    background-color: #3c3c3b;
+    padding: 15px;
+    text-align: start;
+    align-content: end;
+}
+
+.local-group-box-inner h3 {
+    color: white;
+}
+
+.local-group-box-inner:hover {
+    background: linear-gradient(45deg,rgba(56, 99, 162, 1), rgba(240, 68, 81, 1));
+    text-decoration: none;
+}
+
+.local-group-box-inner:hover h3 {
+    color: white;
+    text-decoration: none;
+}

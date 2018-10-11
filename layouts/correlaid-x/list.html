@@ -6,9 +6,17 @@
         </div>
         <div class="col-12 mt-2 mb-5">
             <h2>Lokalgruppen</h2>
-            {{ range .Pages.ByTitle }}
-            <h4><a class="text-muted" href="{{ .URL | absLangURL }}">{{ .Title }}</a></h4>
-            {{ end }}
+            <div class="row">
+                {{ range .Pages.ByTitle }}
+                <div class="col-12 col-md-6">
+                    <div class="local-group-box-outer py-2">
+                    <a class="local-group-box-inner" href="{{ .URL | absLangURL }}">
+                        <h3>{{ .Title }}</h3>
+                    </a>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
         </div>
     </div>
 </div>
