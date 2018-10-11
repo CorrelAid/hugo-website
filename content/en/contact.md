@@ -5,3 +5,4 @@ draft: false
 menu: "about"
 ---
 
+{{< mail >}}Contact{{</ mail >}} 

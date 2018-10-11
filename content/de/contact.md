@@ -7,3 +7,5 @@ menu:
         weight: 5
 ---
 
+
+{{< mail >}}Kontakt{{</ mail >}} 
