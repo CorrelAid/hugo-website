@@ -125,6 +125,15 @@ h6 {
     color: #444444;
 }
 
+a {
+    color: #a2b846;
+}
+
+a:hover {
+    color: #92de3f;
+    text-decoration: underline;
+}
+
 h1 a {
     color: #444444;
 }
