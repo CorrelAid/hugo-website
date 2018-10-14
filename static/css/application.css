@@ -134,6 +134,15 @@ a:hover {
     text-decoration: underline;
 }
 
+h1 {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+h2 {
+    margin-top: 1em;
+}
+
 h1 a {
     color: #444444;
 }
@@ -164,6 +173,15 @@ footer h6 {
 p {
     font-family: "Raleway", sans-serif;
     color: #444444;
+    font-size: 1.25rem;
+}
+
+main ul {
+    list-style-position: outside;
+    padding-left: 1.3rem;
+}
+
+main ul li {
     font-size: 1.25rem;
 }
 
@@ -253,6 +271,13 @@ i.caveat {
     border-left: 10px solid #3863a2;
     border-right: 10px solid #92de3f;
 }
+
+/* =============== BOOTSTRAP BUTTON =============== */
+
+.btn {
+    border-radius: 0px;
+}
+
 
 /* =============== BUTTON =============== */
 .ca-btn {
@@ -387,6 +412,36 @@ i.caveat {
     margin-top: 0;
     margin-bottom: 0;
     border-radius: 0;
+}
+
+/* ========== CORRELAID BOXES ========== */
+
+.correlaid-box-outer {
+    width: 100%;
+}
+
+.correlaid-box-inner {
+    display: block;
+    height: 150px;
+    width: 100%;
+    background-color: #3c3c3b;
+    padding: 15px;
+    text-align: start;
+    align-content: end;
+}
+
+.correlaid-box-inner h3 {
+    color: white;
+}
+
+.correlaid-box-inner:hover {
+    background: linear-gradient(45deg,rgba(56, 99, 162, 1), rgba(146, 222, 63, 1));
+    text-decoration: none;
+}
+
+.correlaid-box-inner:hover h3 {
+    color: white;
+    text-decoration: none;
 }
 
 /* ========== LOCAL GROUPS BOXES ========== */

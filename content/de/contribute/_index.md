@@ -12,13 +12,13 @@ menu:
 
 Unser Netzwerk bietet Dir vielfältige Möglichkeiten zum Engagement und zur Vernetzung. Melde Dich gleich in unserem Netzwerk an.
 
-### Sozialen Organisationen helfen
+## Sozialen Organisationen helfen
 
 Herzstück unserer Arbeit und unseres Angebots für Euch sind die Projekte mit Non-Profit Organisationen (NPOs). Als Teil eines 3-7 - köpfigen Projektteams kannst Du einer sozialen Organisation dabei helfen, aus ihren Daten wertvolle Erkenntnisse zu generieren. Ausschreibungen für Projekte werden traditionell über unseren Netzwerk-Verteiler verschickt, deswegen trag Dich am besten Direkt hier ein! Einen Einblick in unsere bisherige Arbeit findest Du hier.
 
 Wenn Du Kontakt zu einer NPO hast, die auf spannenden Daten sitzt und unsere Hilfe gebrauchen könnte, dann schicke doch eine Mail an Arndt. Wenn Du außerdem bereits Erfahrung in der Analytics-Beratung hast und uns helfen möchtest, unsere Projektarbeit auszuweiten, dann schreibe eine Mail an Johannes.
 
-### Austauschen und vernetzen
+## Austauschen und vernetzen
 
 Ein- bis zweimal im Jahr treffen wir uns in einer immer anderen Stadt zu unserem deutschlandweiten Meetup. Ob in Berlin, Duisburg oder Bonn: In Workshops, Diskussionen und abendlichen Entdeckungstouren lernst Du viele neue Gleichgesinnte treffen.
 
@@ -26,12 +26,12 @@ In Städten, in denen es großes Interesse an Data-for-Good gibt, wollen wir mit
 
 Unser Netzwerk ist der perfekte Ort zum Wissensaustausch. In Workshops auf unseren deutschlandweiten Meetups geben Mitglieder ihr Wissen weiter und in unserem #netzwerk-help Slack-Channel (s.u.) hat noch jedeR eine Antwort auf eine Frage gefunden. Zudem planen wir für die Zukunft eine Webinar-Reihe sowie eine Knowledge Database. Ob Du nun also dein Wissen weitergeben willst oder neue Dinge lernen möchtest - bei CorrelAid geht beides!
 
-### Die Öffentlichkeit über Data for Good informieren
+## Die Öffentlichkeit über Data for Good informieren
 
 Wenn Du derzeit an interessanten Datenanalyse-Projekten sitzt und deine Ergebnisse vorstellen möchtest oder auf interessanten Veranstaltungen zu Gast bist und deine Erfahrungen mit den anderen Netzwerkmitgliedern teilen möchtest, unterstütze uns doch als GastbloggerIn und melde Dich bei Lisa.
 
 Du hast Hinweise zu coolen Events, Ausschreibungen oder Data Science Ressourcen? Rahel freut sich über Hinweise für unseren Newsletter.
 
-### CorrelAid organisieren
+## CorrelAid organisieren
 
 CorrelAid wird organisiert von unserem ehrenamtlichen core team, einem Kreis von rund 10-15 Mitgliedern. Die tagtägliche Organisation und Koordination findet dabei über Slack statt und wir freuen uns über jedes neue Gesicht! Wenn Du aktiv werden möchtest, schreib eine Mail an Regina sie kann Dich dann freischalten.
