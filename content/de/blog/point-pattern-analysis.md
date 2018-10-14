@@ -1,7 +1,7 @@
 ---
  title: "Spatial Analysis of Airplane Accidents"
- date: NA
- image: /images/blog/map_usa2.png
+ date: 2017-10-14T00:00:00+02:00
+ image: map_usa2.png
  summary: "Employing a Point Pattern Analysis on the Case of Florida"
  author: "Lisa"
 ---
@@ -83,7 +83,7 @@ East Coast and in Central Florida, respectively, whereas fewer accidents
 seem to happen in North and South Florida.
 
 \
-![](/images/blog/airplanes1.jpg){.img-responsive
+![](airplanes1.jpg){.img-responsive
 .no-border}*Figure 1: Accidents seem to cluster along the East Coast and
 in Central Florida.*\
 \
@@ -102,8 +102,8 @@ minimize distortions. Second, the spatial points were transformed into a
 two-dimensional spatial point pattern object containing information
 about the observation window.
 
-A basic step of PPA is to investigate the intensity (λ) of the spatial
-point pattern, i.e., the average number of events per unit. λ can either
+A basic step of PPA is to investigate the intensity (<U+03BB>) of the spatial
+point pattern, i.e., the average number of events per unit. <U+03BB> can either
 be homogeneous or inhomogeneous, depending on whether the number of
 events varies across the area being studied. When dealing with airplane
 accidents, contextual factors leading to variations in the spatial
@@ -121,7 +121,7 @@ intensity is homogeneous, the number of events within each quadrat
 should, approximately, be the same.
 
 \
-![](/images/blog/airplanes2.jpg){.img-responsive
+![](airplanes2.jpg){.img-responsive
 .no-border}*Figure 2: The intensity of the point process is
 inhomogeneous.*\
 \
@@ -145,7 +145,7 @@ there are several accident hotspots in Central Florida and along the
 eastern coastline of Florida.
 
 \
-![](/images/blog/airplanes3.jpg){.img-responsive
+![](airplanes3.jpg){.img-responsive
 .no-border}*Figure 3: There are several accident hotspots in Central
 Florida and along the eastern coastline of Florida.*\
 \
@@ -162,7 +162,7 @@ increases nor decreases the propability of other accidents happening
 nearby.
 
 \
-![](/images/blog/airplanes4.jpg){.img-responsive
+![](airplanes4.jpg){.img-responsive
 .no-border}*Figure 4: From Left to Right: (a) Observed points, (b)
 Random points, (c) Regular points.*\
 \
@@ -189,7 +189,7 @@ Ripley’s K function (1977) for inhomogeneous point patterns was
 computed.
 
 \
-![](/images/blog/airplanes5.jpg){.img-responsive
+![](airplanes5.jpg){.img-responsive
 .no-border}*Figure 5: A statistically significant clustering of airplane
 accidents occurred only at smaller distances.*\
 \

@@ -1,7 +1,7 @@
 ---
  title: "Wir wissen heute bereits wie die Bundestagswahl wahrscheinlich ausgeht"
- date: 2017-09-21
- image: /images/blog/2017-09-20_zweitstimme_passend.jpg
+ date: 2017-09-21T00:00:00+02:00
+ image: 2017-09-20_zweitstimme_passend.jpg
  summary: "und es ist trotzdem noch spannend!"
  author: "zweitstimme.org"
 ---
@@ -60,7 +60,7 @@ Ergebnisse vergangener Wahlen vorhergesagt hat.
 
 ### Wie geht die Wahl also wahrscheinlich aus? Die folgenden Zahlen liefert unser Modell am 19. September. {#wie-geht-die-wahl-also-wahrscheinlich-aus-die-folgenden-zahlen-liefert-unser-modell-am-19-september-}
 
-![](/images/blog/2017-09-19_forecast_fb.png){.img-responsive}*Abbildung
+![](2017-09-19_forecast_fb.png){.img-responsive}*Abbildung
 1: Wahlprognose von zweitstimme.org. Zuletzt aktualisiert: 19.09.17.*
 ### Die CDU/CSU wird wahrscheinlich verlieren – und trotzdem nahezu sicher stärkste Kraft. {#die-cdu-csu-wird-wahrscheinlich-verlieren-und-trotzdem-nahezu-sicher-st-rkste-kraft-}
 
@@ -85,7 +85,7 @@ könnte. In diesen Simulationen kann es aber auch Möglichkeiten zu einer
 Regierungsbildung jenseits der SPD geben. In anderen Worten: Das Martin
 Schulz Kanzler wird, ist sehr unwahrscheinlich.
 
-![](/images/blog/2017-09-20_third_ts_fb.png){.img-responsive}*Abbildung
+![](2017-09-20_third_ts_fb.png){.img-responsive}*Abbildung
 2: Die Wahrscheinlichkeit drittstärkste Kraft zu werden im Zeitverlauf.
 Zuletzt aktualisiert: 19.09.17.*
 ### Wer drittstärkste Kraft im Bundestag wird, ist noch völlig offen. {#wer-drittst-rkste-kraft-im-bundestag-wird-ist-noch-v-llig-offen-}

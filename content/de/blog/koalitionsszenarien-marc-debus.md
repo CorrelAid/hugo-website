@@ -1,7 +1,7 @@
 ---
  title: "Was kommt nach dem 24. September?"
  date: NA
- image: /images/blog/koalitionsszenarien.jpg
+ image: koalitionsszenarien.jpg
  summary: "Wahrscheinlichkeiten ausgewählter Koalitionsszenarien nach der Bundestagswahl 2017"
  author: "Prof."
 ---
@@ -112,7 +112,7 @@ haben jedoch leicht konservativere gesellschaftspolitische Positionen
 des Unions-Wahlprogramms 2013 heranzieht.
 
 \
-![](/images/blog/graph-koalition.png){.img-responsive
+![](graph-koalition.png){.img-responsive
 .no-border}*Abbildung 1: Programmatische Positionen der deutschen
 Parteien auf der Grundlage ihrer Wahlprogramme 2013 und 2017*\
 \
@@ -237,7 +237,7 @@ deutschen Bundesländern. Wiesbaden: VS Verlag für Sozialwissenschaften.
 Parteienwettbewerb in Baden-Württemberg zwischen 2011 und 2016. In:
 Felix Hörisch und Stefan Wurster (Hrsg.): Das grün-rote Experiment in
 Baden-Württemberg. Eine Bilanz der Landesregierung Kretschmann
-2011−2016. Wiesbaden: Springer VS: 15-45.
+2011-2016. Wiesbaden: Springer VS: 15-45.
 
 **Debus, Marc und Jochen Müller. 2013.** "Do voters' coalition
 preferences affect government formation?" West European Politics 36(5):

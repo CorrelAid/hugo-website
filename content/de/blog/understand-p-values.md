@@ -1,7 +1,7 @@
 ---
  title: "About P-Values"
  date: NA
- image: /images/blog/gauss.jpg
+ image: gauss.jpg
  summary: "Understanding Common Misconceptions"
  author: "Daniel"
 ---
@@ -31,7 +31,7 @@ sample when the null-hypothesis is true) in this post.
 
 \
 \
-![](/images/blog/pv1.png){.img-responsive
+![](pv1.png){.img-responsive
 .no-border}\
 \
 I’ve recently realized that things become a lot clearer if you just plot
@@ -43,7 +43,7 @@ differences as a Cohen’s d effect size).
 
 \
 \
-![](/images/blog/pv2.png){.img-responsive
+![](pv2.png){.img-responsive
 .no-border}\
 \
 The first thing to notice is that we expect that the mean of the
@@ -56,7 +56,7 @@ you can see how the null-model changes, when the sample size increases.
 
 \
 \
-![](/images/blog/pv3.png){.img-responsive
+![](pv3.png){.img-responsive
 .no-border}\
 \
 When we collect 5000 instead of 50 observations, we see the null-model
@@ -109,7 +109,7 @@ population (indicated by a black line).
 
 \
 \
-![](/images/blog/pv4.png){.img-responsive
+![](pv4.png){.img-responsive
 .no-border}\
 \
 But Omniscient Jones could have said the true difference was much
@@ -120,7 +120,7 @@ moves over to the right.
 
 \
 \
-![](/images/blog/pv5.png){.img-responsive
+![](pv5.png){.img-responsive
 .no-border}\
 \
 Now, we are finally ready to address some common misconceptions about
@@ -146,7 +146,7 @@ under the null-model.
 
 \
 \
-![](/images/blog/pv6.png){.img-responsive
+![](pv6.png){.img-responsive
 .no-border}\
 \
 All the p-value tells us is that this value is not extremely surprising,
@@ -183,7 +183,7 @@ downloaded R).
 
 \
 \
-![](/images/blog/pv7.png){.img-responsive
+![](pv7.png){.img-responsive
 .no-border}\
 \
 This misconception can be expressed in many forms. For example, one
@@ -214,7 +214,7 @@ substantial level of accuracy because we collected so much data.
 
 \
 \
-![](/images/blog/pv8.png){.img-responsive
+![](pv8.png){.img-responsive
 .no-border}\
 \
 Note that nothing about the definition of a p-value changes: It still
@@ -243,7 +243,7 @@ distribution:
 
 \
 \
-![](/images/blog/pv9.png){.img-responsive
+![](pv9.png){.img-responsive
 .no-border}\
 \
 If this is our reality, it means that 100% of the time that we observe a
@@ -286,7 +286,7 @@ observed mean in the original study (we have a statistical power of
 
 \
 \
-![](/images/blog/pv10.png){.img-responsive
+![](pv10.png){.img-responsive
 .no-border}\
 \
 This very specific situation is almost always not your reality. It is

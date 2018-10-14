@@ -1,7 +1,7 @@
 ---
  title: "Die Visualisierung von Wahlumfrageergebnissen"
  date: NA
- image: /images/blog/2017-09-18_graphical_web.jpg
+ image: 2017-09-18_graphical_web.jpg
  summary: "Wie stellen wir Wahlumfragen am Verständlichsten dar?"
  author: "Richard"
 ---
@@ -52,7 +52,7 @@ gleichzeitig vergleichen möchte: etwa die wahrgenommene Kompetenz der
 Parteien in verschiedenen Politikbereichen.
 
 \
-![](/images/blog/blogpost_fig3.png){.img-responsive
+![](blogpost_fig3.png){.img-responsive
 .no-border}*Abbildung 1: Balkendiagramm, *Dot Plot* und Liniendiagramm
 im Vergleich.*\
 \

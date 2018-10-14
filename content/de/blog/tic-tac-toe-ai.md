@@ -1,7 +1,7 @@
 ---
  title: "Developing an AI for Tic-Tac-Toe in R "
- date: NA
- image: /images/blog/tictactoe.JPG
+ date: 2018-07-13T00:00:00+02:00
+ image: tictactoe.JPG
  summary: "How Can We Model the Game?"
  author: "Johannes"
 ---
@@ -48,7 +48,7 @@ Basically, the TTT board represents an array with 9 elements
 representing the individual cells, which can be either 0 (not played
 yet), 1 (player 1), or 2 (player 2).
 
-![](/images/blog/vector.JPG){.img-responsive
+![](vector.JPG){.img-responsive
 .no-border}
 From there on we have to write some help functions: 1. determine all
 possible moves; 2. make a move; 3. evaluate the board if anyone has won.
@@ -98,7 +98,7 @@ like this as we need a highly flexible non-linear function that maps the
 features to the outcome. It roughly looks as follows (Source Pic:
 https://www.researchgate.net/figure/The-topology-of-a-typical-multiple-layer-neural-network-consisting-of-one-input-layer\_fig2\_228589481):
 
-![](/images/blog/topology.png){.img-responsive
+![](topology.png){.img-responsive
 .no-border}
 The neural net has 4 layers: An input layer with 18 input nodes, two
 hidden layers with 9 nodes each, and an output layer with 3 nodes which
@@ -137,7 +137,7 @@ The accuracy of predictions is at around 64 % which doesn't sound like a
 good value but keep in mind that there are some very early game
 positions in the dataset where only one or two moves have been played.
 
-![](/images/blog/training.JPG){.img-responsive
+![](training.JPG){.img-responsive
 .no-border}
 ### 4. Implement a function that chooses the best next move
 
@@ -178,7 +178,7 @@ has played TTT knows that you should always start with the field in the
 middle. And indeed, the model also calculates the highest win percentage
 for this move out of all possible opening moves:
 
-![](/images/blog/opening_move.JPG){.img-responsive
+![](opening_move.JPG){.img-responsive
 .no-border}
 Now lets see if the AI beats the random player. Therefore, I simulated
 200 games each of "random vs. random", "aggressive AI vs. random", and

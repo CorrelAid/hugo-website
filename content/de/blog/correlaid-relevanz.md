@@ -1,7 +1,7 @@
 ---
  title: "7 Gründe, warum CorrelAid relevant ist"
- date: 2015-11-12
- image: /images/blog/coffee.jpg
+ date: 2015-11-12T00:00:00+02:00
+ image: coffee.jpg
  summary: ""
  author: "Johannes"
 ---

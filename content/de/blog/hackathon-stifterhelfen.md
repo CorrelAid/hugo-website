@@ -1,9 +1,9 @@
 ---
-title: "Hackathon mit Stifter-Helfen und PwC "
-date: 2018-09-09
-image: /images/blog/pwc_1.jpg
-summary: "Ein Rückblick auf unsere Veranstaltung in M�nchen"
-author: "CorrelAid"
+ title: "Hackathon mit Stifter-Helfen und PwC "
+ date: 2018-09-09T00:00:00+02:00
+ image: pwc_1.jpg
+ summary: "Ein Rückblick auf unsere Veranstaltung in München"
+ author: "CorrelAid"
 ---
 
 
@@ -80,7 +80,7 @@ wurden mithilfe von plotly.js erstellt. Für die Gestaltung der Website
 selbst haben wir [vue.js](https://vuejs.org/) verwendet.
 
 \
-![](/images/blog/pwc_2.png){.img-responsive
+![](pwc_2.png){.img-responsive
 .no-border}\
 \
 ### Abschluss
@@ -94,7 +94,7 @@ und nachhaltiges Projekt sowie PwC für die Unterstützung und
 erstklassige Versorgung in München!
 
 \
-![](/images/blog/pwc_3.png){.img-responsive
+![](pwc_3.png){.img-responsive
 .no-border}
 
 ------------------------------------------------------------------------

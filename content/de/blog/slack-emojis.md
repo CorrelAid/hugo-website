@@ -1,7 +1,7 @@
 ---
  title: "+1, beers and tada "
- date: 2017-09-09
- image: /images/blog/emoji.jpg
+ date: 2017-09-09T00:00:00+02:00
+ image: emoji.jpg
  summary: "Emojis on the CorrelAid Slack"
  author: "Frie"
 ---
@@ -33,7 +33,7 @@ react to the messages others have sent using emojis - similar to
 Facebook but with the exception that you can use **all** emojis. Isn’t
 that great? Yes! And so we use this feature extensively, mainly because
 it’s a quick and easy way to express your opinion. Even if your opinion
-might be 🍻.
+might be <f0><U+009F><U+008D><U+00BB>.
 
 So why did I even care to analyze those data? Well… first of all, I’m a
 curious person. I always wondered which emoji would top the rankings and
@@ -50,7 +50,7 @@ come on, seeing some emojis is why you clicked in the first place.
 
 <div id="the-results-or-and" class="section level2">
 
-### The results or: 👍, 🍻, and 🎉
+### The results or: <f0><U+009F><U+0091><U+008D>, <f0><U+009F><U+008D><U+00BB>, and <f0><U+009F><U+008E><U+0089>
 
 Using the Slack API, I was able to pull out \~5,800 messages in public
 channels out of approximately 20,000 we have sent in total according to
@@ -66,49 +66,49 @@ you’re welcome!
 
   emoji   emoji\_name     count
   ------- --------------- -------
-  👍       +1              691
-  🎉       tada            303
-  👌       ok\_hand        170
-  ❤       heart           86
-  😍       heart\_eyes     39
-  😂       joy             39
-  💪       muscle          39
-  😀       grinning        19
-  😁       grin            17
-  😄       smile           15
-  👏       clap            13
-  ☝       point\_up       12
-  🙈       see\_no\_evil   12
-  😌       relieved        11
-  😢       cry             10
-  🤖       robot\_face     10
+  <f0><U+009F><U+0091><U+008D>       +1              691
+  <f0><U+009F><U+008E><U+0089>       tada            303
+  <f0><U+009F><U+0091><U+008C>       ok\_hand        170
+  <U+2764>       heart           86
+  <f0><U+009F><U+0098><U+008D>       heart\_eyes     39
+  <f0><U+009F><U+0098><U+0082>       joy             39
+  <f0><U+009F><U+0092><U+00AA>       muscle          39
+  <f0><U+009F><U+0098><U+0080>       grinning        19
+  <f0><U+009F><U+0098><U+0081>       grin            17
+  <f0><U+009F><U+0098><U+0084>       smile           15
+  <f0><U+009F><U+0091><U+008F>       clap            13
+  <U+261D>       point\_up       12
+  <f0><U+009F><U+0099><U+0088>       see\_no\_evil   12
+  <f0><U+009F><U+0098><U+008C>       relieved        11
+  <f0><U+009F><U+0098><U+00A2>       cry             10
+  <f0><U+009F><U+00A4><U+0096>       robot\_face     10
   ???     thomas\_mann    10
 
 ------------------------------------------------------------------------
 
   count   emojis
   ------- ---------------------------------------------------
-  8       🤔 ???
-  7       🙂 ??? 🚅
-  6       🤓
-  5       💚 😎
-  4       💯 👫 🍯 🙉 🐴 💁 😄 😭 😛 🏆😋
-  3       🛫 🍻 😇 💸 😱 ??? 🙂 🍝 🙊 😅 ☹
-  2       ??? 😊😵👻😬😻🤗😘🔏🎓🎥😄🙆🙌 ??? 😃😏🖖🦄🙃✌
-  1       👎👶???🍺🐱😰👑✉😑👊🤞🇺😳✋⁉😆🍋📬🌑😮???👉???❄❓🍉???😒😜???👋✅???😉???
+  8       <f0><U+009F><U+00A4><U+0094> ???
+  7       <f0><U+009F><U+0099><U+0082> ??? <f0><U+009F><U+009A><U+0085>
+  6       <f0><U+009F><U+00A4><U+0093>
+  5       <f0><U+009F><U+0092><U+009A> <f0><U+009F><U+0098><U+008E>
+  4       <f0><U+009F><U+0092><U+00AF> <f0><U+009F><U+0091><U+00AB> <f0><U+009F><U+008D><U+00AF> <f0><U+009F><U+0099><U+0089> <f0><U+009F><U+0090><U+00B4> <f0><U+009F><U+0092><U+0081> <f0><U+009F><U+0098><U+0084> <f0><U+009F><U+0098><U+00AD> <f0><U+009F><U+0098><U+009B> <f0><U+009F><U+008F><U+0086><f0><U+009F><U+0098><U+008B>
+  3       <f0><U+009F><U+009B><U+00AB> <f0><U+009F><U+008D><U+00BB> <f0><U+009F><U+0098><U+0087> <f0><U+009F><U+0092><U+00B8> <f0><U+009F><U+0098><U+00B1> ??? <f0><U+009F><U+0099><U+0082> <f0><U+009F><U+008D><U+009D> <f0><U+009F><U+0099><U+008A> <f0><U+009F><U+0098><U+0085> <U+2639>
+  2       ??? <f0><U+009F><U+0098><U+008A><f0><U+009F><U+0098><U+00B5><f0><U+009F><U+0091><U+00BB><f0><U+009F><U+0098><U+00AC><f0><U+009F><U+0098><U+00BB><f0><U+009F><U+00A4><U+0097><f0><U+009F><U+0098><U+0098><f0><U+009F><U+0094><U+008F><f0><U+009F><U+008E><U+0093><f0><U+009F><U+008E><U+00A5><f0><U+009F><U+0098><U+0084><f0><U+009F><U+0099><U+0086><f0><U+009F><U+0099><U+008C> ??? <f0><U+009F><U+0098><U+0083><f0><U+009F><U+0098><U+008F><f0><U+009F><U+0096><U+0096><f0><U+009F><U+00A6><U+0084><f0><U+009F><U+0099><U+0083><U+270C>
+  1       <f0><U+009F><U+0091><U+008E><f0><U+009F><U+0091><U+00B6>???<f0><U+009F><U+008D><U+00BA><f0><U+009F><U+0090><U+00B1><f0><U+009F><U+0098><U+00B0><f0><U+009F><U+0091><U+0091><U+2709><f0><U+009F><U+0098><U+0091><f0><U+009F><U+0091><U+008A><f0><U+009F><U+00A4><U+009E><f0><U+009F><U+0087><U+00BA><f0><U+009F><U+0098><U+00B3><U+270B><U+2049><f0><U+009F><U+0098><U+0086><f0><U+009F><U+008D><U+008B><f0><U+009F><U+0093><U+00AC><f0><U+009F><U+008C><U+0091><f0><U+009F><U+0098><U+00AE>???<f0><U+009F><U+0091><U+0089>???<U+2744><U+2753><f0><U+009F><U+008D><U+0089>???<f0><U+009F><U+0098><U+0092><f0><U+009F><U+0098><U+009C>???<f0><U+009F><U+0091><U+008B><U+2705>???<f0><U+009F><U+0098><U+0089>???
 
 So what can we see? Something that pretty much summarizes my experience
 being a Core Team member at CorrelAid: Lots of positivity, party vibes
-and love: 👍, 🎉, ❤ and 👌. I knew this before but look at the numbers.
+and love: <f0><U+009F><U+0091><U+008D>, <f0><U+009F><U+008E><U+0089>, <U+2764> and <f0><U+009F><U+0091><U+008C>. I knew this before but look at the numbers.
 Those positive emojis outnumber everything else by faaaaar. You just
 have to love those people!
 
 Speaking about the numbers: The following barplot shows the `count` for
-each emoji sorted by the count. So basically the first bar is 👍, the
-second 🎉 and so on. What we see is that the distribution of counts is
+each emoji sorted by the count. So basically the first bar is <f0><U+009F><U+0091><U+008D>, the
+second <f0><U+009F><U+008E><U+0089> and so on. What we see is that the distribution of counts is
 heavily skewed to the right.
 
-![](/images/blog/barplot_emoji.png){.img-responsive}*Barplot
+![](barplot_emoji.png){.img-responsive}*Barplot
 of emoji counts*\
 \
 Some other observations can be made:
@@ -134,12 +134,12 @@ Looking at the names, we can see the following themes emerge:
 -   goal-orientation: emoji weltherrschaft (German for “world
     domination”). Speaks for itself.
 
-2.  For being a Germany-based team, 🍻 performance is disappointing. At
-    least, there is no 🍷 emoji at all.
+2.  For being a Germany-based team, <f0><U+009F><U+008D><U+00BB> performance is disappointing. At
+    least, there is no <f0><U+009F><U+008D><U+00B7> emoji at all.
 
-3.  As data scientists, the nerd is strong with some of us. 🤓 and 🤖 are
+3.  As data scientists, the nerd is strong with some of us. <f0><U+009F><U+00A4><U+0093> and <f0><U+009F><U+00A4><U+0096> are
     doing ok in the rankings (counts 10 respectively 6) but both are
-    beaten by the strongest animal on earth - at least emoji-wise: the 🙈
+    beaten by the strongest animal on earth - at least emoji-wise: the <f0><U+009F><U+0099><U+0088>
     (12).
 
 That’s it for now. Some more fun analyses and visualizations would be:
@@ -151,7 +151,7 @@ That’s it for now. Some more fun analyses and visualizations would be:
 If you’d have fun “working” on these really important questions, stay
 tuned for updates on our meetup that’ll take place from the 17th to 19th
 of November in Hamburg. Maybe you’ll get a chance to hack those data??
-Who knows… 😉
+Who knows… <f0><U+009F><U+0098><U+0089>
 
 Please don’t forget to read the following section on how I got and
 processed the data if you want to learn more about that. I promise it’s
@@ -263,7 +263,7 @@ you write normal text (like all the blabla here) but also allows to
 insert R code, for example to generate the tables above or to make the
 emoji\_name -&gt; emoji converion. Pretty cool, huh?
 
-🎉.
+<f0><U+009F><U+008E><U+0089>.
 
 Ps: Please excuse the abrupt ending of this post - I ran out of space
 but more importantly time. If you want to know more about it, please

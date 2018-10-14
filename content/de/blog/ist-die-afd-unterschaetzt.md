@@ -1,7 +1,7 @@
 ---
  title: "Die unterschätzten Rechtspopulisten"
- date: 2017-09-23
- image: /images/blog/bundestag.jpg
+ date: 2017-09-23T00:00:00+02:00
+ image: bundestag.jpg
  summary: "Wird die AfD bei der Bundestagswahl stärker, als es Umfragen und Prognosen vorhersagen?"
  author: "Yannik"
 ---
@@ -75,7 +75,7 @@ Dimap und Forschungsgruppe Wahlen zwischen Wahl- und Umfrageergebnis in
 Prozentpunkten.
 
 \
-![](/images/blog/Vorwahl.jpeg){.img-responsive
+![](Vorwahl.jpeg){.img-responsive
 .no-border}*Abbildung 1: Differenz zwischen tatsächlichem Ergebnis der
 AfD und der letzten Vorwahlbefragung von Infratest Dimap und der
 Forschungsgr. Wahlen.*\
@@ -93,7 +93,7 @@ repräsentativ direkt vor den Wahllokalen durchgeführt werden und die
 Basis für die erste 18-Uhr-Hochrechnung bilden.
 
 \
-![](/images/blog/Exitpoll.jpeg){.img-responsive
+![](Exitpoll.jpeg){.img-responsive
 .no-border}*Abbildung 1: Differenz zwischen tatsächlichem Ergebnis der
 AfD und der ersten Nachwahlbefragung (18 Uhr) von Infratest Dimap und
 der Forschungsgr. Wahlen.*\

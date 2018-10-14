@@ -1,7 +1,7 @@
 ---
  title: "Newsletter 2016"
- date: NA
- image: /images/blog/newsletter-2016.jpg
+ date: 2016-02-02T00:00:00+02:00
+ image: newsletter-2016.jpg
  summary: ""
  author: "CorrelAid"
 ---

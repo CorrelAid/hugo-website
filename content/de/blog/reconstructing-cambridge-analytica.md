@@ -1,9 +1,9 @@
 ---
-title: "Reconstructing Cambridge Analytica's 'psychological warfare tool'"
-date: NA
-image: /images/blog/crowd.jpg
-summary: "Building a personality classifier in R  - using facebook data, machine learning and personality traits"
-author: "Johannes"
+ title: "Reconstructing Cambridge Analytica's "psychological warfare tool""
+ date: 2018-03-28T00:00:00+02:00
+ image: crowd.jpg
+ summary: "Building a personality classifier in R  - using facebook data, machine learning and personality traits"
+ author: "Johannes"
 ---
 
 
@@ -120,7 +120,7 @@ Facebook:
 ****
 Version 1: "immigrants ... mayham ... build a wall ... "
 
-![](/images/blog/trump_ad_immigrants.JPG){.img-responsive
+![](trump_ad_immigrants.JPG){.img-responsive
 .no-border}\
 \
 The first ad we are using is a classic fear mongering example of a Trump
@@ -130,7 +130,7 @@ high values on the neuroticism scale.
 ****
 Version 2: "Crooked Hillary ... emails ... unfit ..."
 
-![](/images/blog/trump_ad_clinton.JPG){.img-responsive
+![](trump_ad_clinton.JPG){.img-responsive
 .no-border}\
 \
 The second ad creates the image of Hillary Clinton as a corrupt

@@ -1,7 +1,7 @@
 ---
  title: "Wahlvorhersagen mit Schwarmintelligenz"
  date: NA
- image: /images/blog/koalitionsszenarien.jpg
+ image: koalitionsszenarien.jpg
  summary: "Ein Modell mit Potenzial?"
  author: "Felix,"
 ---
@@ -16,7 +16,7 @@ nach der Wahl feststellen. Unsere Vorhersage(n) - und was dahinter
 steckt - wollen wir aber jetzt schon mal vorstellen.
 
 \
-![](/images/blog/04_Unsere-Prognose-fuer-die-Bundestagswahl.jpg){.img-responsive
+![](04_Unsere-Prognose-fuer-die-Bundestagswahl.jpg){.img-responsive
 .no-border}*Abbildung 1: Vorhersage der Bundestagswahl mit einem
 vote-expectation-model, Anzahl Befragte: 1009.*\
 \

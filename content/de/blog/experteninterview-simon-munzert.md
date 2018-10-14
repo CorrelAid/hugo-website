@@ -1,7 +1,7 @@
 ---
  title: "Archimedes, der erste Empiriker?"
  date: NA
- image: /images/blog/experteninterview.jpg
+ image: experteninterview.jpg
  summary: "Simon Munzert im Experteninterview"
  author: "Simon"
 ---

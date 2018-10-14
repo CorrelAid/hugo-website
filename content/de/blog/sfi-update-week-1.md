@@ -1,7 +1,7 @@
 ---
  title: "Komplexität in nicht-linearen und chaotischen Systemen"
- date: NA
- image: /images/blog/sfi-2.jpg
+ date: 2017-07-08T00:00:00+02:00
+ image: sfi-2.jpg
  summary: ""
  author: "Ramona"
 ---
@@ -48,7 +48,7 @@ Systems möglich sind. Wir unterscheiden zwischen liniären und
 nicht-liniären Systemen, wobei letztere noch die Unterkategorie
 chaotische Systeme enthalten (siehe Abbildung 1).
 
-![](/images/blog/sfi-circles.jpg){.img-responsive}*Abbildung
+![](sfi-circles.jpg){.img-responsive}*Abbildung
 1: Systemkategorien*\
 \
 ### Liniäre dynamische Systeme
@@ -125,7 +125,7 @@ Methoden sind keine perfekten Lösungen. Da sie Zeit diskretisieren, sind
 die Berechnungen nie zu 100% exakt. Je kleiner $\Delta t$ desto genauer
 werden die Berechnungen, jedoch ist hierfür mehr rechenarbeit nötig.
 
-![](/images/blog/sfi-euler.jpg){.img-responsive}*Abbildung
+![](sfi-euler.jpg){.img-responsive}*Abbildung
 2: Explizites Euler Verfahren zur numerischen Lösung von
 Differenzialgleichungen*\
 \
@@ -146,13 +146,13 @@ irgendwann zum Stillstand kommen. In diesem Fall wäre der Attraktor
 unseres Systems ein (fixed point) und wir sähen eine Spirale im
 Phasendiagram (siehe Abbildung 5).
 
-![](/images/blog/sfi-periodic.jpg){.img-responsive}*Abbildung
+![](sfi-periodic.jpg){.img-responsive}*Abbildung
 3: Systemzustand über Zeit hinweg*\
 \
-![](/images/blog/sfi-limit-cycle.jpg){.img-responsive}*Abbildung
+![](sfi-limit-cycle.jpg){.img-responsive}*Abbildung
 4: Phasendiagram mit Grenzzyklus*\
 \
-![](/images/blog/sfi-fixed-point.jpg){.img-responsive}*Abbildung
+![](sfi-fixed-point.jpg){.img-responsive}*Abbildung
 5: Phasendiagram mit Fixpunkt*\
 \
 ### Chaotische dynamische Systeme
@@ -160,7 +160,7 @@ Phasendiagram (siehe Abbildung 5).
 Jedoch weisen die wenigsten Systeme diese Regelmäßigkeiten auf. Echte
 Datensätze aus der Natur sehen meist anders aus (siehe Abbildung 6)
 
-![](/images/blog/sfi-chaotic.jpg){.img-responsive}*Abbildung
+![](sfi-chaotic.jpg){.img-responsive}*Abbildung
 6: Nicht liniäre oder chaotische Zeitreihe*\
 \
 Ein solches Systemverhalten weist auf Chaos hin, was wir im Folgenden
@@ -202,7 +202,7 @@ echten Lösung abweichen. Es empfihelt sich daher das System mehrmals zu
 lösen und einen Mittelwert zu berechnen.
 
 Ein chaotisches System hat mindestens drei Parameter und mindestens
-einen positiven Lyapunov Exponenten. Der Lyapunov Exponent λ misst wie
+einen positiven Lyapunov Exponenten. Der Lyapunov Exponent <U+03BB> misst wie
 stark sich die Trajekte eines Systems im Phasendiagramm mit der Zeit
 voneinander entfernen. Ein positiver Lyapunov exponent impliziert, dass
 die Trajekte sich stets mehr voneinander entfernen und daher kleine
@@ -278,9 +278,9 @@ Bradley, 2016).
 liniär
 nicht liniär, nicht chaotisch
 chaotisch
-kleine Ursache → kleine Konsequenz
-kleine Ursache → mögliche Konsequenz
-kleine Ursache → mögliche große Konsequenz
+kleine Ursache <U+2192> kleine Konsequenz
+kleine Ursache <U+2192> mögliche Konsequenz
+kleine Ursache <U+2192> mögliche große Konsequenz
 Attraktor ist immer ein Fixpunkt
 verschiedene Attraktoren möglich
 immer seltsamer Attraktor
