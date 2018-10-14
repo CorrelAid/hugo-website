@@ -1,8 +1,8 @@
 ---
  title: "Learn to scrape and mine text data"
- date: NA
- image: /images/blog/reddit5.jpg
- summary: "Analyzing Reddit comments from 'Today I learned'"
+ date: 2018-02-19T00:00:00+02:00
+ image: reddit5.jpg
+ summary: "Analyzing Reddit comments from "Today I learned""
  author: "Lisa"
 ---
 
@@ -123,7 +123,7 @@ extracting the most common words by running the following code:
 
 \
 \
-![](/images/blog/reddit1.png){.img-responsive
+![](reddit1.png){.img-responsive
 .no-border}\
 \
 As you can see in the above plot, *sound(s)* (you can prevent such word
@@ -157,7 +157,7 @@ disgust, fear, joy, sadness, surprise, and trust.
 
 \
 \
-![](/images/blog/reddit2.png){.img-responsive
+![](reddit2.png){.img-responsive
 .no-border}\
 \
 According to the *NRC* sentiment analysis, most words in the comments
@@ -198,7 +198,7 @@ Liu and collaborators.
 
 \
 \
-![](/images/blog/reddit3.png){.img-responsive
+![](reddit3.png){.img-responsive
 .no-border}\
 \
 As the second sentiment graph shows, the most common negative words in
@@ -224,7 +224,7 @@ the most common negative ones.
 
 \
 \
-![](/images/blog/reddit4.png){.img-responsive
+![](reddit4.png){.img-responsive
 .no-border}\
 \
 \

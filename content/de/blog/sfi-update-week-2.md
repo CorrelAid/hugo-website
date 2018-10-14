@@ -1,7 +1,7 @@
 ---
  title: "Informations-theorie und Markov Modelle"
- date: NA
- image: /images/blog/sfi-3.jpg
+ date: 2017-07-29T00:00:00+02:00
+ image: sfi-3.jpg
  summary: "Makromuster in Daten erkennen"
  author: "Ramona"
 ---
@@ -58,7 +58,7 @@ System in einem internen Zustand befindet, sehen wir das System in dem
 zugeh&oumlrigen externen Zustand (siehe Abbildung 1).
 
 \
-![](/images/blog/1_state%20space.jpg){.img-responsive}*Abb.
+![](1_state%20space.jpg){.img-responsive}*Abb.
 1: Ein System im Zustandsraum. Zu jedem Zeitpunkt befindet sich das
 System in einem anderen internen Zustand.*\
 \
@@ -101,10 +101,10 @@ ausgew&aumlhlt. Abbildungen 2 und 3 zeigen jeweils Beispiele einer
 Wahrscheinlichkeitsverteilung und einer &uumlbergangsmatrix.
 
 \
-![](/images/blog/2_trannsition%20matrix.jpg){.img-responsive}
+![](2_trannsition%20matrix.jpg){.img-responsive}
 *Abb. 2: Beispiel einer &Uumlbergangsmatrix.*\
 \
-![](/images/blog/3_probability%20distribution.jpg){.img-responsive}
+![](3_probability%20distribution.jpg){.img-responsive}
 *Abb. 3: Eine H&aumlufigkeitsverteilung (links) kann anhand des
 Datensatzes ermittelt werden. Daraus ergibt sich eine
 Wahrscheinlichkeitsverteilung (rechts).*\
@@ -114,13 +114,13 @@ Test-HMMs. F&uumlr jedes dieser HMMs berechnen wir die Maximum
 Likelihood &Lcirc des Modells:
 
 \
-![](/images/blog/4_L_max.png){.img-responsive}\
-![](/images/blog/5_explanation%20L_max.png){.img-responsive}\
+![](4_L_max.png){.img-responsive}\
+![](5_explanation%20L_max.png){.img-responsive}\
 Danach berechnen wir das AIC:
 
 \
-![](/images/blog/6_AIC.png){.img-responsive}\
-![](/images/blog/7_explanation%20AIC.png){.img-responsive}\
+![](6_AIC.png){.img-responsive}\
+![](7_explanation%20AIC.png){.img-responsive}\
 Von allen Test-HMM w&aumlhlen wir jenes als optimale L&oumlsung, welches
 das AIC minimiert.
 
@@ -141,8 +141,8 @@ Eigenvektoren ist gleich der Anzahl ihrer Reihen oder Spalten (die
 internen Zust&aumlnde des HMM.
 
 \
-![](/images/blog/8_Viterbi.png){.img-responsive}\
-![](/images/blog/9_explanation%20Viterbi.png){.img-responsive}\
+![](8_Viterbi.png){.img-responsive}\
+![](9_explanation%20Viterbi.png){.img-responsive}\
 Im dritten und letzten Schritt verwenden wir die Struktur der
 Eigenvektoren der &uumlbergangsmatrix, um Makromuster zu erkennen. Der
 zweite Eigenvektor der &uumlbergangsmatrix beschreibt die St&oumlrungen

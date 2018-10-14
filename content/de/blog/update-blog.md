@@ -1,7 +1,7 @@
 ---
  title: "Good Causes. Better Effects. Stories with Impact:"
- date: NA
- image: /images/blog/relaunch.jpg
+ date: 2017-06-15T00:00:00+02:00
+ image: relaunch.jpg
  summary: "Die Geburtsstunde des neuen CorrelAid-Blogs!"
  author: "Lisa"
 ---

@@ -1,7 +1,7 @@
 ---
  title: "Coin Tosses, Markov Chains and an Existential Crisis"
- date: NA
- image: /images/blog/münze.jpg
+ date: 2018-06-25T00:00:00+02:00
+ image: münze.jpg
  summary: "Visualising Markov Chains Based On A Simple Statistical Experiment"
  author: "Johannes"
 ---
@@ -46,7 +46,7 @@ let’s quickly simulate the experiment in R:
 
 \
 \
-![](/images/blog/hist_bob.JPG){.img-responsive
+![](hist_bob.JPG){.img-responsive
 .no-border}\
 \
      
@@ -57,7 +57,7 @@ let’s quickly simulate the experiment in R:
 
 \
 \
-![](/images/blog/hist_alice.JPG){.img-responsive
+![](hist_alice.JPG){.img-responsive
 .no-border}\
 \
 The intuitive explanation is as follows: Both Alice and Bob first need
@@ -107,10 +107,10 @@ has an additional arrow (from "H" to "T").
 
 \
 \
-![](/images/blog/tp_bob.JPG){.img-responsive
+![](tp_bob.JPG){.img-responsive
 .no-border}\
 \
-![](/images/blog/tp_alice.JPG){.img-responsive
+![](tp_alice.JPG){.img-responsive
 .no-border}\
 \
 ### Existential Crisis

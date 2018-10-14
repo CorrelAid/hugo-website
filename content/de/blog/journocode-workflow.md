@@ -1,7 +1,7 @@
 ---
  title: "From the data to the story"
  date: NA
- image: /images/blog/jcheader.png
+ image: jcheader.png
  summary: "Journocode: A typical DDJ workflow in R"
  author: "Marie-Louise"
 ---
@@ -291,7 +291,7 @@ only comment the code for the choropleth:
 And this is what the result should look like:
 
 \
-![](/images/blog/jcgermany.png){.img-responsive
+![](jcgermany.png){.img-responsive
 .no-border}\
 \
 Of course, our analyzed example data isn’t a data story treasure. The
