@@ -1,5 +1,5 @@
 ---
- title: ""Es ist wichtig, quantitativ und qualitativ zu arbeiten""
+ title: "'Es ist wichtig, quantitativ und qualitativ zu arbeiten'"
  date: NA
  image: "work1.jpg"
  summary: "Ein Interview mit Hans Verbeek, dem stv. Leiter im Berliner Büro des Instituts für Sozialforschung und Gesellschaftspolitik Berlin"

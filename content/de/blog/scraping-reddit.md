@@ -2,7 +2,7 @@
  title: "Learn to scrape and mine text data"
  date: 2018-02-19T00:00:00+02:00
  image: "reddit5.jpg"
- summary: "Analyzing Reddit comments from "Today I learned""
+ summary: "Analyzing Reddit comments from 'Today I learned'"
  author: "Lisa"
 ---
 
