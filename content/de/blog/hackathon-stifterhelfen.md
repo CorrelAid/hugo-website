@@ -1,9 +1,9 @@
 ---
- title: "Hackathon mit Stifter-Helfen und PwC "
- date: 2018-09-09
- image: /images/blog/pwc_1.jpg
- summary: "Ein Rückblick auf unsere Veranstaltung in München"
- author: "CorrelAid"
+title: "Hackathon mit Stifter-Helfen und PwC "
+date: 2018-09-09
+image: /images/blog/pwc_1.jpg
+summary: "Ein RÃ¼ckblick auf unsere Veranstaltung in Mï¿½nchen"
+author: "CorrelAid"
 ---
 
 

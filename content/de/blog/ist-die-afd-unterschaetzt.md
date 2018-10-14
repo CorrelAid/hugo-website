@@ -1,8 +1,8 @@
 ---
- title: "Die untersch‰tzten Rechtspopulisten"
+ title: "Die untersch√§tzten Rechtspopulisten"
  date: 2017-09-23
  image: /images/blog/bundestag.jpg
- summary: "Wird die AfD bei der Bundestagswahl st‰rker, als es Umfragen und Prognosen vorhersagen?"
+ summary: "Wird die AfD bei der Bundestagswahl st√§rker, als es Umfragen und Prognosen vorhersagen?"
  author: "Yannik"
 ---
 

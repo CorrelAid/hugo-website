@@ -2,7 +2,7 @@
  title: "Neue Wege in der Bericht-erstattung von Umfragen"
  date: 2017-08-12
  image: /images/blog/umfragen.png
- summary: "Ein Überblick über aktuelle journalistische Projekte."
+ summary: "Ein Ãœberblick Ã¼ber aktuelle journalistische Projekte."
  author: "Arndt"
 ---
 

@@ -2,7 +2,7 @@
  title: "#meetup_hh"
  date: NA
  image: /images/blog/meetup3.jpg
- summary: "In Hamburg haben wir unser diesjähriges Netzwerk-Meeting gefeiert"
+ summary: "In Hamburg haben wir unser diesjÃ¤hriges Netzwerk-Meeting gefeiert"
  author: "Sophia"
 ---
 

@@ -1,5 +1,5 @@
 ---
- title: "Komplexit‰t in nicht-linearen und chaotischen Systemen"
+ title: "Komplexit√§t in nicht-linearen und chaotischen Systemen"
  date: NA
  image: /images/blog/sfi-2.jpg
  summary: ""

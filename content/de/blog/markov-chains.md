@@ -1,7 +1,7 @@
 ---
  title: "Coin Tosses, Markov Chains and an Existential Crisis"
  date: NA
- image: /images/blog/münze.jpg
+ image: /images/blog/mÃ¼nze.jpg
  summary: "Visualising Markov Chains Based On A Simple Statistical Experiment"
  author: "Johannes"
 ---

@@ -1,5 +1,5 @@
 ---
- title: ""A data scientist in every non-profit-organisation.""
+ title: "A data scientist in every non-profit-organisation."
  date: NA
  image: /images/blog/data-scientist.jpg
  summary: ""

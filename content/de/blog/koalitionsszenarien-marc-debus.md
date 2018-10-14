@@ -2,7 +2,7 @@
  title: "Was kommt nach dem 24. September?"
  date: NA
  image: /images/blog/koalitionsszenarien.jpg
- summary: "Wahrscheinlichkeiten ausgew‰hlter Koalitionsszenarien nach der Bundestagswahl 2017"
+ summary: "Wahrscheinlichkeiten ausgew√§hlter Koalitionsszenarien nach der Bundestagswahl 2017"
  author: "Prof."
 ---
 

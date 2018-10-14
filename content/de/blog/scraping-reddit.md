@@ -2,7 +2,7 @@
  title: "Learn to scrape and mine text data"
  date: NA
  image: /images/blog/reddit5.jpg
- summary: "Analyzing Reddit comments from "Today I learned""
+ summary: "Analyzing Reddit comments from 'Today I learned'"
  author: "Lisa"
 ---
 

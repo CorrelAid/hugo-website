@@ -1,8 +1,8 @@
 ---
- title: "Komplexität begreiflich machen"
+ title: "KomplexitÃ¤t begreiflich machen"
  date: NA
  image: /images/blog/santa-fe.jpg
- summary: " Die Summer School des Santa Fe Institutes - Einführung"
+ summary: " Die Summer School des Santa Fe Institutes - Einfï¿½hrung"
  author: "Ramona"
 ---
 
