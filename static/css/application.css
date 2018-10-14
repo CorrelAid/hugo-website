@@ -424,3 +424,22 @@ i.caveat {
 .row.testimonial {
     background: linear-gradient(135deg, rgba(56, 99, 162, 1), rgba(146, 222, 63, 1));
 }
+
+/* ========== FORMS ========== */
+
+.form-control {
+    border-radius: 0;
+}
+
+.form-control:disabled, .form-control[readonly] {
+    background-color: #e9ecef;
+    opacity: 1;
+}
+
+.form-control:focus {
+    color: #5a5a5a;
+    background-color: #ffffff;
+    border-color: rgba(146, 222, 63, .8);
+    outline: 0;
+    box-shadow: 0 0 0 .2rem rgba(146, 222, 63, .8);
+}
