@@ -9,8 +9,9 @@
             <div class="col-12 col-md-4 text-center text-md-left">
                 <h5>CorrelAid. ©2015-2018</h5>
                 <ul class="list-unstyled text-small">
-                    <li><a class="text-muted" href="http://localhost/website-php/imprint">Impressum</a></li>
-                    <li><a class="text-muted" href="http://localhost/website-php/imprint#privacy">Datenschutz</a></li>
+                    {{ range .Site.Menus.essentials }}
+                    <li><a class="text-muted" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+                    {{ end }}
                 </ul>
                 <div class="row d-none d-md-flex">
                     <div class="col-2">
