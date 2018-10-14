@@ -1,0 +1,9 @@
+<div class="row my-5 py-4 px-2 justify-content-center testimonial">
+    <div class="col-12 col-sm-4 col-md-3 col-lg-2 align-self-center d-none d-sm-block">
+        <img class="img-fluid rounded-circle" src="{{ .Get `image` }}" />
+    </div>
+    <div class="col-12 col-sm-8 col-md-9 col-lg-10 align-self-center">
+        <blockquote><i class="fas fa-quote-left fa-2x fa-pull-left"></i>{{ .Inner }}</blockquote>
+        <p class="text-white">{{ .Get `contact` }}, <i>{{ .Get `organisation` }}</i></p>
+    </div>
+</div>

@@ -167,6 +167,12 @@ p {
     font-size: 1.25rem;
 }
 
+blockquote {
+    font-family: "Raleway", sans-serif;
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+
 i.caveat {
     font-family: "Caveat", cursive;
     font-style: normal;
@@ -411,4 +417,10 @@ i.caveat {
 .local-group-box-inner:hover h3 {
     color: white;
     text-decoration: none;
+}
+
+/* ========== TESTIMONIAL ========== */
+
+.row.testimonial {
+    background: linear-gradient(135deg, rgba(56, 99, 162, 1), rgba(146, 222, 63, 1));
 }
