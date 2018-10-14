@@ -12,7 +12,7 @@ menu:
 
 
 
-The imprint is valid on: [https://correlaid.org/](https://correlaid.org/) and the respective sub-domains and our social media channels [https://twitter.com/CorrelAid](Twitter), [https://facebook.com/WeAreCorrelAid](Facebook) and Youtube.
+The imprint is valid on: [https://correlaid.org/](https://correlaid.org/) and the respective sub-domains and our social media channels [https://twitter.com/CorrelAid](Twitter), [https://facebook.com/WeAreCorrelAid](Facebook) and [Youtube](https://www.youtube.com/channel/UC59n41SakYfllEU6tqg5yLA).
 
 
 ## Information in accordance with section 5 TMG

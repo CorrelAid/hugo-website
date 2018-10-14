@@ -10,7 +10,7 @@ menu:
 
 # Impressum
 
-Das Impressum gilt für: [https://correlaid.org/](https://correlaid.org/), alle Subdomains die auf *correlaid.org* enden, und unsere Social Media Präsenz auf [Twitter](https://twitter.com/CorrelAid), [Facebook](https://facebook.com/WeAreCorrelAid) und Youtube.
+Das Impressum gilt für: [https://correlaid.org/](https://correlaid.org/), alle Subdomains die auf *correlaid.org* enden, und unsere Social Media Präsenz auf [Twitter](https://twitter.com/CorrelAid), [Facebook](https://facebook.com/WeAreCorrelAid) und [Youtube](https://www.youtube.com/channel/UC59n41SakYfllEU6tqg5yLA).
 
 ## Angaben gemäß § 5 TMG
 
