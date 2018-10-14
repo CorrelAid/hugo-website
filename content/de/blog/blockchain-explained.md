@@ -1,7 +1,7 @@
 ---
  title: "Understanding Blockchains "
  date: 2018-01-11T00:00:00+02:00
- image: blockchain.jpg
+ image: "blockchain.jpg"
  summary: "A Cryptography Coding Example in R"
  author: "Johannes"
 ---

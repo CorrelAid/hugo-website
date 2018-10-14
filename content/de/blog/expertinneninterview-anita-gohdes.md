@@ -1,7 +1,7 @@
 ---
  title: "Daten und Menschenrechte"
  date: NA
- image: experteninterview.jpg
+ image: "experteninterview.jpg"
  summary: "Anita Gohdes im Expertinneninterview"
  author: "Anita"
 ---

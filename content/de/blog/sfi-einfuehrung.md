@@ -1,7 +1,7 @@
 ---
  title: "Komplexität begreiflich machen"
  date: 2017-06-25T00:00:00+02:00
- image: santa-fe.jpg
+ image: "santa-fe.jpg"
  summary: " Die Summer School des Santa Fe Institutes - Einführung"
  author: "Ramona"
 ---

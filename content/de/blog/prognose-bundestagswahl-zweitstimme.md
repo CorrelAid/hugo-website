@@ -1,7 +1,7 @@
 ---
  title: "Wir wissen heute bereits wie die Bundestagswahl wahrscheinlich ausgeht"
  date: 2017-09-21T00:00:00+02:00
- image: 2017-09-20_zweitstimme_passend.jpg
+ image: "2017-09-20_zweitstimme_passend.jpg"
  summary: "und es ist trotzdem noch spannend!"
  author: "zweitstimme.org"
 ---

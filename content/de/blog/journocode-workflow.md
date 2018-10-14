@@ -1,7 +1,7 @@
 ---
  title: "From the data to the story"
  date: NA
- image: jcheader.png
+ image: "jcheader.png"
  summary: "Journocode: A typical DDJ workflow in R"
  author: "Marie-Louise"
 ---

@@ -1,7 +1,7 @@
 ---
  title: "+1, beers and tada "
  date: 2017-09-09T00:00:00+02:00
- image: emoji.jpg
+ image: "emoji.jpg"
  summary: "Emojis on the CorrelAid Slack"
  author: "Frie"
 ---

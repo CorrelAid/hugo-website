@@ -1,7 +1,7 @@
 ---
  title: "Unser Data-for-Good Netzwerk traf sich in Bonn"
  date: 2016-12-04T00:00:00+02:00
- image: meetup-bonn.jpg
+ image: "meetup-bonn.jpg"
  summary: ""
  author: "CorrelAid"
 ---

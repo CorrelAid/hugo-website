@@ -1,7 +1,7 @@
 ---
  title: "Die Visualisierung von Wahlumfrageergebnissen"
  date: NA
- image: 2017-09-18_graphical_web.jpg
+ image: "2017-09-18_graphical_web.jpg"
  summary: "Wie stellen wir Wahlumfragen am Verständlichsten dar?"
  author: "Richard"
 ---

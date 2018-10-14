@@ -1,7 +1,7 @@
 ---
  title: "About P-Values"
  date: NA
- image: gauss.jpg
+ image: "gauss.jpg"
  summary: "Understanding Common Misconceptions"
  author: "Daniel"
 ---

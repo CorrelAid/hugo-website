@@ -1,7 +1,7 @@
 ---
  title: "Spatial Analysis of Airplane Accidents"
  date: 2017-10-14T00:00:00+02:00
- image: map_usa2.png
+ image: "map_usa2.png"
  summary: "Employing a Point Pattern Analysis on the Case of Florida"
  author: "Lisa"
 ---

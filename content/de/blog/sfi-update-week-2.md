@@ -1,7 +1,7 @@
 ---
  title: "Informations-theorie und Markov Modelle"
  date: 2017-07-29T00:00:00+02:00
- image: sfi-3.jpg
+ image: "sfi-3.jpg"
  summary: "Makromuster in Daten erkennen"
  author: "Ramona"
 ---

@@ -1,7 +1,7 @@
 ---
  title: "Datenanalysen zu Migration und Integration"
  date: 2018-09-05T00:00:00+02:00
- image: datemdialog2.jpg
+ image: "datemdialog2.jpg"
  summary: "Unser Datendialog dazu findet am 5. Oktober in Berlin statt "
  author: "CorrelAid"
 ---
