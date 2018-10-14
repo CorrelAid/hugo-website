@@ -1,18 +1,22 @@
 [donate]
-other = "Donate"
+other       = "Donate"
 [news]
-other = "News"
+other       = "News"
 [about-us]
-other = "About us"
+other       = "About"
 [about-correlaid]
-other = "About CorrelAid"
+other       = "About CorrelAid"
 [people]
-other = "People"
+other       = "People"
 [ethics]
-other = "Ethics"
+other       = "Ethikkodex"
 [data-privacy]
-other = "Data Privacy"
+other       = "Datenschutz"
 [contact]
-other = "Contact"
+other       = "Kontakt"
 [projects]
-other = "Projects"
+other       = "Projects"
+[support]
+other       = "Support"
+[mailing-list]
+other       = "Mailing List"

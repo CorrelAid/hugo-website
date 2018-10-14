@@ -3,7 +3,7 @@ title: "Hackathon Stifterhelfen"
 date: 2018-09-08T23:33:29+02:00
 image: stifterhelfen.jpg
 summary: "Ende August hat sich ein Team aus 8 Freiwilligen zu einem Hackathon in München getroffen. In einer Kooperation von CorrelAid und PwC wurde ein Dashboard zur Visalierung von Geschäftsprozessen realisiert."
-draft: true
+draft: false
 ---
 
 Das Potential von Datenanalyse demokratisieren. Wir haben uns Anfang des Jahres gefragt, wie wir auf dieser Mission auch Unternehmen einbeziehen können. Letzten Monat haben wir deshalb ein neues Format getestet: Wir veranstalten einen Hackathon mit engagierten AnalystInnen aus unserem Netzwerk und MitarbeiterInnen aus Data-Science-Abteilungen von Unternehmen.

@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="container">
+    <div class="row">
+        <div class="col-12 my-5">
+            {{ .Content }}
+        </div>
+        <div class="col-12 mt-2 mb-5">
+            <h2>Lokalgruppen</h2>
+            <div class="row">
+                {{ range .Pages.ByTitle }}
+                <div class="col-12 col-md-6">
+                    <div class="local-group-box-outer py-2">
+                    <a class="local-group-box-inner" href="{{ .URL | absLangURL }}">
+                        <h3>{{ .Title }}</h3>
+                    </a>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

@@ -1,6 +1,12 @@
 ---
-title: "Privacy"
+title: "Datenschutz"
 date: 2018-08-23T12:35:58+02:00
-draft: true
+draft: false
+menu: 
+    about:
+        weight: 4
 ---
 
+# Datenschutz
+
+{{< blink >}}CONTENT MISSING{{< /blink >}} 

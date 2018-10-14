@@ -7,6 +7,6 @@ language: "en"
 author: "Johannes"
 authorSummary: "Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsitzender. Er studiert im Master \"Evidence-based Policymaking\" an der University of Oxford und Policy-Analyse an der Universität Konstanz. Er interessiert sich vor allem für Evaluierungsmethoden, die Nutzung von Evidenz und Daten in Gesellschaft und Politik, und Social Entrepreneurship."
 authorImage: "johannes.jpg"
-draft: true
+draft: false
 ---
 

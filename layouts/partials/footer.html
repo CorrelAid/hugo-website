@@ -3,7 +3,7 @@
         <a href="" class="ca-btn block">{{ i18n "donate"}}</a>
     </div>
 </div>
-<footer class="py-5 ca-dark-blue text-white" style="padding-top: 5rem;">
+<footer class="pt-5 pt-2 ca-dark-blue text-white" style="padding-top: 5rem;">
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-4 text-center text-md-left">
@@ -28,34 +28,40 @@
                 </div>
             </div>
             <div class="col-12 col-md-2 text-center text-md-left">
-                <h5>Über uns</h5>
+                <h5>{{ i18n "about-us" }}</h5>
                 <ul class="list-unstyled text-small">
-                    <li><a class="text-muted" href="http://localhost/website-php/about">Über CorrelAid</a></li>
-                    <li><a class="text-muted" href="http://localhost/website-php/people">Ansprechpartner</a></li>
-                    <li><a class="text-muted" href="http://localhost/website-php/ethics">Ethikkodex</a></li>
-                    <li><a class="text-muted" href="http://localhost/website-php/privacy">Datenschutz</a></li>
-                    <li><a class="text-muted" href="http://localhost/website-php/contact">Kontakt</a></li>
+                    {{ range .Site.Menus.about }}
+                    <li><a class="text-muted" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+                    {{ end }}
                 </ul>
             </div>
             <div class="col-12 col-md-2 text-center text-md-left">
-                <h5>Beitragen</h5>
+                <h5>{{ i18n "support" }}</h5>
                 <ul class="list-unstyled text-small">
-                    <li><a class="text-muted" href="http://localhost/website-php/contribute">Wie kann ich beitragen?</a></li>
-                    <li><a class="text-muted" href="http://localhost/website-php/correlaid-x">CorrelAidX</a></li>
+
+                    <li><a class="text-muted" href="{{ .Site.Home.Permalink }}correlaid-x">CorrelAidX</a></li>
+                    {{ range .Site.Menus.contribute }}
+                    <li><a class="text-muted" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+                    {{ end }}
+                    <li><a class="text-muted" href="http://localhost/website-php/mailing-list">{{ i18n "mailing-list" }}</a></li>
+                    <li><a class="text-muted" href="#">{{ i18n "donate" }}</a></li>
                 </ul>
             </div>
             <div class="col-12 col-md-2 text-center text-md-left">
-                <h5>Projekte</h5>
+                <h5>{{ i18n "projects" }}</h5>
                 <ul class="list-unstyled text-small">
-                    <li><a class="text-muted" href="http://localhost/website-php/services">Unsere Leistungen</a></li>
-                    <li><a class="text-muted" href="http://localhost/website-php/references">Erfolgsgeschichten</a></li>
+                    {{ range .Site.Menus.projects }}
+                    <li><a class="text-muted" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+                    {{ end }}
+                    <li><a class="text-muted" href="https://data4good.correlaid.org">Data4Good</a></li>
                 </ul>
             </div>
             <div class="col-12 col-md-2 text-center text-md-left">
                 <h5>Blog</h5>
                 <ul class="list-unstyled text-small">
-                    <li><a class="text-muted" href="http://localhost/website-php/services">Unsere Leistungen</a></li>
-                    <li><a class="text-muted" href="http://localhost/website-php/references">Erfolgsgeschichten</a></li>
+                    {{ range first 3 (where .Pages "Section" "blog").ByPublishDate.Reverse }}
+                    <li><a class="text-muted" href="{{ .URL | absLangURL }}">{{ .Title }}</a></li>
+                    {{ end }}
                 </ul>
             </div>
         </div>
@@ -71,6 +77,22 @@
             </div>
             <div class="col-3 col-md-2 text-center text-md-left">
                 <h3><i class="fab fa-github"></i></h3>
+            </div>
+        </div>
+        <div class="row my-2">
+            <div class="col-12">
+                <p class="text-muted" style="font-size: 1rem;">
+                    <i class="fas fa-lg fa-language"></i>
+                    <a href="">{{ .Site.Language.LanguageName }}</a>
+                    {{ range .Translations }}
+                    <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+                    {{ end}}
+                </p>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-12 text-center">
+                <p class="text-white small text-muted">Created by <i class="caveat">Jan Dix</i>.</p>
             </div>
         </div>
     </div>

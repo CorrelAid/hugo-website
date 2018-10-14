@@ -3,7 +3,7 @@ title: "Core Team Meeting 2018"
 date: 2018-08-23T19:33:51+02:00
 image: data-science-for-good.jpg
 city: Berlin
-draft: true
+draft: false
 ---
 
 Wir setzen uns für einen breiteren Dialog über das Potential und die Grenzen von Data Science in der Gesellschaft ein. 

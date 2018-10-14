@@ -1,18 +1,22 @@
 [donate]
-other = "Spenden"
+other       = "Spenden"
 [news]
-other = "Neuigkeiten"
+other       = "Neuigkeiten"
 [about-us]
-other = "Über uns"
+other       = "Über uns"
 [about-correlaid]
-other = "Über CorrelAid"
+other       = "Über CorrelAid"
 [people]
-other = "Ansprechpersonen"
+other       = "Ansprechpersonen"
 [ethics]
-other = "Ethikkodex"
+other       = "Ethikkodex"
 [data-privacy]
-other = "Datenschutz"
+other       = "Datenschutz"
 [contact]
-other = "Kontakt"
+other       = "Kontakt"
 [projects]
-other = "Projekte"
+other       = "Projekte"
+[support]
+other       = "Unterstützen"
+[mailing-list]
+other       = "Email Verteiler"
