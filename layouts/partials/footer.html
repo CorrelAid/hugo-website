@@ -1,10 +1,24 @@
+<!--
 <div class="row mt-5 pt-5 ca-dark-blue justify-content-center">
     <div class="col-12">
         <a href="" class="ca-btn block">{{ i18n "donate"}}</a>
     </div>
 </div>
-<footer class="pt-5 pt-2 ca-dark-blue text-white" style="padding-top: 5rem;">
+-->
+<footer class="pt-2 pt-2 ca-dark-blue text-white" style="padding-top: 5rem;">
     <div class="container">
+        <div class="row mt-2 mb-4">
+            <div class="col-12 text-center">
+                <p class="text-muted" style="font-size: 1rem;">
+                    <i class="fas fa-2x fa-language"></i>
+                    <br />
+                    <a class="text-muted" href="#">{{ .Site.Language.LanguageName }}</a>
+                    {{ range .Translations }}
+                    <a class="text-muted" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+                    {{ end}}
+                </p>
+            </div>
+        </div>
         <div class="row">
             <div class="col-12 col-md-4 text-center text-md-left">
                 <h5>CorrelAid. ©2015-2018</h5>
@@ -68,27 +82,16 @@
         </div>
         <div class="row mt-5 d-md-none">
             <div class="col-3 col-md-2 text-center text-md-left">
-                <h3><i class="fab fa-facebook-f"></i></h3>
+                <h3><a href="https://facebook.com/WeAreCorrelAid"><i class="fab fa-facebook-f"></i></a></h3>
             </div>
             <div class="col-3 col-md-2 text-center text-md-left">
-                <h3><i class="fab fa-twitter"></i></h3>
+                <h3><a href="https://twitter.com/CorrelAid"><i class="fab fa-twitter"></i></a></h3>
             </div>
             <div class="col-3 col-md-2 text-center text-md-left">
-                <h3><i class="fab fa-youtube"></i></h3>
+                <h3><a href="https://www.youtube.com/channel/UC59n41SakYfllEU6tqg5yLA"><i class="fab fa-youtube"></i></a></h3>
             </div>
             <div class="col-3 col-md-2 text-center text-md-left">
-                <h3><i class="fab fa-github"></i></h3>
-            </div>
-        </div>
-        <div class="row my-2">
-            <div class="col-12">
-                <p class="text-muted" style="font-size: 1rem;">
-                    <i class="fas fa-lg fa-language"></i>
-                    <a href="">{{ .Site.Language.LanguageName }}</a>
-                    {{ range .Translations }}
-                    <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
-                    {{ end}}
-                </p>
+                <h3><a href="https://github.com/correlaid"><i class="fab fa-github"></i></a></h3>
             </div>
         </div>
         <div class="row justify-content-center">
