@@ -1,6 +1,6 @@
 baseURL = "https://hugo.correlaid.org/"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 
 [Languages]
 [Languages.en]
