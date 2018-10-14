@@ -1,20 +1,14 @@
 ---
-title: "Jobs"
+title: "Awareness Person"
 date: 2018-08-23T12:38:21+02:00
 draft: false
-menu: 
-    contribute:
-        weight: 3
 ---
 
-# Jobs
-
-
-## Ausschreibung der Position als Awareness Person
+# Ausschreibung der Position als Awareness Person
 
 Wir suchen ab sofort eine Awareness Person, welche als AnsprechpartnerIn und VermittlerIn für das gesamte CorrelAid-Netzwerk fungiert. Bei Fragen oder Problemen können sich die Netzwerkmitglieder stets vertrauensvoll an dich wenden, um gemeinsam mit dir Lösungsansätze zu entwickeln und Konflikte zwischen Netzwerkmitgliedern zu lösen.
 
-#### Zu deinen Aufgaben als Awareness Person gehören:
+### Zu deinen Aufgaben als Awareness Person gehören:
 
 - AnsprechpartnerIn für das Netzwerk von CorrelAid sein
 - Mögliche Probleme und Konflikte zwischen Netzwerkmitgliedern lösen und Lösungsvorchläge erarbeiten
@@ -22,7 +16,7 @@ Wir suchen ab sofort eine Awareness Person, welche als AnsprechpartnerIn und Ver
 - Anregungen und Kritik der Netzwerkmitglieder aufnehmen
 - Teilnahme an gemeinsamen Telefonkonferenzen
 
-#### Das solltest du mitbringen:
+### Das solltest du mitbringen:
 
 - Spaß an der Arbeit im Team und der Kommunikation mit anderen Personen im Netzwerk
 - Diskretion und ein sehr vertrauensvoller Umgang mit den persönlichen Anfragen der Netzwerkmitglieder
