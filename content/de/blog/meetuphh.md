@@ -1,7 +1,7 @@
 ---
  title: "#meetup_hh"
  date: 2017-12-18T00:00:00+02:00
- image: meetup3.jpg
+ image: "meetup3.jpg"
  summary: "In Hamburg haben wir unser diesjähriges Netzwerk-Meeting gefeiert"
  author: "Sophia"
 ---

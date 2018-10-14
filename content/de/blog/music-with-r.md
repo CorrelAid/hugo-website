@@ -1,7 +1,7 @@
 ---
  title: "Happy Bi/R/thday"
  date: 2018-07-01T00:00:00+02:00
- image: musik.jpg
+ image: "musik.jpg"
  summary: "Learn How to Make R Play Music"
  author: "Jochen"
 ---

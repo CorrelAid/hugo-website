@@ -1,7 +1,7 @@
 ---
  title: "Hackathon mit Stifter-Helfen und PwC "
  date: 2018-09-09T00:00:00+02:00
- image: pwc_1.jpg
+ image: "pwc_1.jpg"
  summary: "Ein Rückblick auf unsere Veranstaltung in München"
  author: "CorrelAid"
 ---

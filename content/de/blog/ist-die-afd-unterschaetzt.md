@@ -1,7 +1,7 @@
 ---
  title: "Die unterschätzten Rechtspopulisten"
  date: 2017-09-23T00:00:00+02:00
- image: bundestag.jpg
+ image: "bundestag.jpg"
  summary: "Wird die AfD bei der Bundestagswahl stärker, als es Umfragen und Prognosen vorhersagen?"
  author: "Yannik"
 ---

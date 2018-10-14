@@ -1,7 +1,7 @@
 ---
  title: "Wahlvorhersagen mit Schwarmintelligenz"
  date: NA
- image: koalitionsszenarien.jpg
+ image: "koalitionsszenarien.jpg"
  summary: "Ein Modell mit Potenzial?"
  author: "Felix,"
 ---

@@ -1,7 +1,7 @@
 ---
  title: "Reconstructing Cambridge Analytica's "psychological warfare tool""
  date: 2018-03-28T00:00:00+02:00
- image: crowd.jpg
+ image: "crowd.jpg"
  summary: "Building a personality classifier in R  - using facebook data, machine learning and personality traits"
  author: "Johannes"
 ---

@@ -1,7 +1,7 @@
 ---
  title: "Erste Einblicke und Netzwerkanalyse"
  date: NA
- image: experteninterview.jpg
+ image: "experteninterview.jpg"
  summary: "Ein Experteninterview mit Dr. Nadine Meidert"
  author: "Dr."
 ---
