@@ -8,11 +8,15 @@ menu:
         weight: 2
 ---
 
-CorrelAid übernimmt eine Vermittlerrolle zwischen Data Science Community und Zivilgesellschaft ein. Das setzen wir in unterschiedlichen Formaten um.
-
-
-
-
 ## Workshops
 
 In unseren Workshops bilden wir unser Data Science Netzwerk weiter. In unserem Netzwerk kommen Analysten und Analystinnen aus den unterschiedlichsten akademschen Disziplinen und Branchen zusammen. Dadurch können wir unglaublich viel voneinander lernen. Deshalb setzen wir auf Peer Learning. Mit unseren Workshop Konzepten schaffen wir dafür den Rahmen. Finde dein lokales Netzwerk bei unseren CorrelAidX Gruppen (insert Link here)
+
+
+{{< testimonial 
+    contact="Jane Doe"
+    organisation="Sample Organization"
+    image="/images/testimonials/3.jpg"
+>}}
+    Der R Workshop von CorrelAid hat mir geholfen einen Einstieg in das Programmieren zu finden.
+{{< /testimonial >}}
