@@ -414,6 +414,43 @@ i.caveat {
     border-radius: 0;
 }
 
+/* ========== DONATE BOXES ========== */
+
+.donation-section .hidden {
+    display: none;
+}
+
+.donate-box-outer {
+    width: 100%;
+}
+
+.donate-box-inner {
+    display: block;
+    height: 150px;
+    width: 100%;
+    background-color: #3c3c3b;
+    padding: 15px;
+    text-align: start;
+    align-content: end;
+    cursor: pointer;
+}
+
+.donate-box-inner h3 {
+    color: white;
+}
+
+.donate-box-inner p {
+    color: #3c3c3b;
+}
+
+.donate-box-inner.active {
+    background: linear-gradient(45deg,rgba(56, 99, 162, 1), rgba(146, 222, 63, 1));
+}
+
+.donate-box-inner.active p {
+    color: #FFFFFF;
+}
+
 /* ========== CORRELAID BOXES ========== */
 
 .correlaid-box-outer {
@@ -497,4 +534,14 @@ i.caveat {
     border-color: rgba(146, 222, 63, .8);
     outline: 0;
     box-shadow: 0 0 0 .2rem rgba(146, 222, 63, .8);
+}
+
+/* ========== MODAL ========== */
+
+.modal-content {
+    border-radius: 0px;
+}
+
+.modal-body p {
+    font-size: 1rem;
 }
