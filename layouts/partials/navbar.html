@@ -46,7 +46,7 @@
                 <a class="nav-link dropdown-toggle" href="#" id="projects-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     {{ i18n "projects" }}
                 </a>
-                <div class="dropdown-menu" aria-labelledby="projects-dropdown">
+                <div class="dropdown-menu" aria-labeledby="projects-dropdown">
                     {{ range .Site.Menus.projects }}
                     <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
                     {{ end }}
