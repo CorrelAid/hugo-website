@@ -363,6 +363,12 @@ i.caveat {
 .fixed-top.second {
     top: 56px;
     z-index: 990;
+    transition: all .3s ease .3s;
+}
+
+.fixed-top.second.up:hover {
+    top: 56px !important;
+    transition: all .3s ease .3s;
 }
 
 .navbar-toggler {

@@ -22,24 +22,31 @@ function getCookie(cname) {
 /* =============== CORRELAID X BAR =============== */
 
 
-if (getCookie('correlaidx-bar-hidden')) $('#correlaid-x-navbar').removeClass('d-md-block');
+if (getCookie('correlaidx-bar-hidden')) $('#correlaid-x-navbar').css('top', 12).addClass('up');
 
 
 $('#close-correlaid-x-navbar').click(function (e) {
     e.preventDefault();
-    $('#correlaid-x-navbar').removeClass('d-md-block');
+    $('#correlaid-x-navbar').animate({
+        top: 12
+    }, 100, function () {
+        $('#correlaid-x-navbar').addClass('up');
+    });
     setCookie('correlaidx-bar-hidden', 1);
+    $('#close-correlaid-x-navbar').blur();
 });
 
 /* =============== COOKIE BAR =============== */
 
 
-if (getCookie('cookie-bar-hidden')) $('#correlaid-cookie-bar').hide();
+if (getCookie('cookie-bar-hidden')) $('#correlaid-cookie-bar').css('bottom', -56);
 
 
 $('#close-correlaid-cookie-bar').click(function (e) {
     e.preventDefault();
-    $('#correlaid-cookie-bar').hide();
+    $('#correlaid-cookie-bar').animate({
+        bottom: -56
+    }, 500);
     setCookie('cookie-bar-hidden', 1);
 });
 

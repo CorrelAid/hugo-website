@@ -92,24 +92,37 @@
 <!-- /END MAIN NAV -->
 
 <!-- CORRELAID X NAV -->
-<span class="d-none d-md-block" id="correlaid-x-navbar">
-    <nav class="navbar navbar-expand-md fixed-top second navbar-dark ca-x-gradient">
-        <div class="collapse navbar-collapse">
-            <div class="navbar-nav mr-auto"></div>
-            <div class="navbar-nav mr-auto">
-                {{ range .Site.Menus.correlaidx }}
-                <a class="nav-item nav-link active" href="{{ .URL | absLangURL }}">{{ .Title }}</a>
-                {{ end }}
-            </div>
-            <div class="navbar-nav">
-                <a href="#" class="nav-item nav-link active" id="close-correlaid-x-navbar"><i class="far fa-times-circle"></i></a>
-            </div>
+<nav class="navbar navbar-expand-md fixed-top second navbar-dark ca-x-gradient d-none d-md-block" id="correlaid-x-navbar">
+    <div class="collapse navbar-collapse">
+        <div class="navbar-nav mr-auto"></div>
+        <div class="navbar-nav mr-auto">
+            {{ range .Site.Menus.correlaidx }}
+            <a class="nav-item nav-link active" href="{{ .URL | absLangURL }}">{{ .Title }}</a>
+            {{ end }}
         </div>
-    </nav>
-</span>
+        <div class="navbar-nav">
+            <a href="#" class="nav-item nav-link active" id="close-correlaid-x-navbar"><i class="fas fa-chevron-circle-up"></i></a>
+        </div>
+    </div>
+</nav>
 <!-- /END CORRELAID X NAV -->
 
-<!-- COOKIE DISCLAIMER -->
+<!-- CORRELAID X NAV -->
+<nav class="navbar navbar-expand-md fixed-bottom navbar-dark ca-dark-blue" id="correlaid-cookie-bar">
+    <div class="collapse navbar-collapse">
+        <div class="navbar-nav mr-auto">
+            Wir benutzen Cookies, um uns zu merken, ob du Leisten, wie diese geschlossen hast. Mehr Informationen findest du hier.
+        </div>
+        <div class="navbar-nav">
+            <a href="#" class="nav-item nav-link active" id="close-correlaid-cookie-bar"><i class="far fa-times-circle"></i></a>
+        </div>
+    </div>
+</nav>
+<!-- /END CORRELAID X NAV -->
+
+
+
+<!--
 <div class="cookie-bar ca-dark-blue" id="correlaid-cookie-bar">
     <div class="row">
         <div class="col-10 col-md-11">
@@ -120,4 +133,4 @@
         </div>
     </div>
 </div>
-<!-- /END COOKIE DISCLAIMER -->
+ /END COOKIE DISCLAIMER -->
