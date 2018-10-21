@@ -1,10 +1,7 @@
 /* =============== SET & GET COOKIES =============== */
 
-function setCookie(cname, cvalue, exdays) {
-    var d = new Date();
-    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
-    var expires = "expires="+d.toUTCString();
-    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+function setCookie(cname, cvalue) {
+    document.cookie = cname + "=" + cvalue + ";path=/";
 }
 
 function getCookie(cname) {
@@ -31,9 +28,20 @@ if (getCookie('correlaidx-bar-hidden')) $('#correlaid-x-navbar').removeClass('d-
 $('#close-correlaid-x-navbar').click(function (e) {
     e.preventDefault();
     $('#correlaid-x-navbar').removeClass('d-md-block');
-    setCookie('correlaidx-bar-hidden', 1, 1);
+    setCookie('correlaidx-bar-hidden', 1);
 });
 
+/* =============== COOKIE BAR =============== */
+
+
+if (getCookie('cookie-bar-hidden')) $('#correlaid-cookie-bar').hide();
+
+
+$('#close-correlaid-cookie-bar').click(function (e) {
+    e.preventDefault();
+    $('#correlaid-cookie-bar').hide();
+    setCookie('cookie-bar-hidden', 1);
+});
 
 
 /* =============== BLINK (ONLY FOR DEV PURPOSES) =============== */

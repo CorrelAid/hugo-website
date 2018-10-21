@@ -575,3 +575,20 @@ i.caveat {
 .modal-body p {
     font-size: 1rem;
 }
+
+/* ========== COOKIE BAR ========== */
+
+.cookie-bar {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1100;
+    padding: 16px 16px;
+}
+
+.cookie-bar .row p {
+    margin: 0;
+    font-size: 1rem;
+}
