@@ -10,8 +10,13 @@ main {
 
 /* ========== COLORS ========== */
 
-.ca-blue-green {
+.ca-original-gradient {
     background: linear-gradient(90deg,rgba(56, 99, 162, 1), rgba(146, 222, 63, 1));
+    color: #FFFFFF;
+}
+
+.ca-x-gradient {
+    background: linear-gradient(90deg,rgba(56, 99, 162, 1), rgba(240, 68, 81, 1));
     color: #FFFFFF;
 }
 
@@ -191,6 +196,10 @@ p {
     font-size: 1.25rem;
 }
 
+main .navbar ul li {
+    font-size: 1rem;
+}
+
 main ul {
     list-style-position: outside;
     padding-left: 1.3rem;
@@ -350,6 +359,12 @@ i.caveat {
 }
 
 /* ========== NAVIGATION ========== */
+
+.fixed-top.second {
+    top: 56px;
+    z-index: 990;
+}
+
 .navbar-toggler {
     border: none;
 }

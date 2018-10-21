@@ -1,7 +1,44 @@
+/* =============== SET & GET COOKIES =============== */
+
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+
+/* =============== CORRELAID X BAR =============== */
+
+
+if (getCookie('correlaidx-bar-hidden')) $('#correlaid-x-navbar').removeClass('d-md-block');
+
+
+$('#close-correlaid-x-navbar').click(function (e) {
+    e.preventDefault();
+    $('#correlaid-x-navbar').removeClass('d-md-block');
+    setCookie('correlaidx-bar-hidden', 1, 1);
+});
+
+
 
 /* =============== BLINK (ONLY FOR DEV PURPOSES) =============== */
 
-setInterval(function(){
+setInterval(function () {
     $('.blink').each(function() {
         $(this).toggle();
     });

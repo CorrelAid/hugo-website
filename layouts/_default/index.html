@@ -1,5 +1,4 @@
 {{ define "main" }}
-
 <!-- HERO SECTION -->
 <div class="hero">
     <div class="row justify-content-center h-100">
@@ -17,8 +16,17 @@
 
 <!-- CALL FOR ACTION -->
 <div class="row my-5 py-5 ca-dark-blue justify-content-center">
-    <div class="col-12 col-md-5 col-lg-2">
-        <a href="" class="ca-btn block">Mitmachen</a>
+    <div class="col-12">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center pt-5 pb-3">
+                    <h3 class="text-white">Du möchtest bei CorrelAid aktiv werden? Du möchtest mit uns gemeinsam die Welt verändern? Du glaubst auch daran, dass Datenanalyse allen zur Verfügung stehen sollte?</h3>
+                </div>
+                <div class="col-12 text-center pb-5">
+                    <a href="" class="ca-btn block">Los geht's!</a>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 <!-- /END CALL FOR ACTION -->
@@ -32,7 +40,7 @@
         </div>
     </div>
     <div class="row">
-    {{ range first 3 (where .Pages "Section" "news").ByPublishDate.Reverse }}
+        {{ range first 3 (where .Pages "Section" "news").ByPublishDate.Reverse }}
         <div class="col-12 col-md-4">
             <a href="{{ .URL }}" class="ca-img-container link">
                 <img class="img-fluid dark" src="/images/news/{{ .Params.image }}" alt="{{ .Title }}" />
@@ -41,15 +49,24 @@
             <p style="margin-bottom: 0">{{ .Date.Format "2006-01-02" }}</p>
             <h3 class="ca-dark-blue-text"><a href="{{ .URL }}">{{ .Title }}</a></h3>
         </div>
-    {{ end }}
+        {{ end }}
     </div>
 </div>
 <!-- /END NEWS -->
 
 <!-- CALL FOR ACTION -->
 <div class="row my-5 py-5 ca-dark-blue justify-content-center">
-    <div class="col-12 col-md-5 col-lg-2">
-        <a href="" class="ca-btn block">Projekt einreichen</a>
+    <div class="col-12">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center pt-5 pb-3">
+                    <h3 class="text-white">Du arbeitest für eine NGO und glaubst, dass ein gemeinsames Projekt euch hilft? Du weißt nicht genau, ob wir euch helfen können? Du hast eine konkrete Idee?</h3>
+                </div>
+                <div class="col-12 text-center pb-5">
+                    <a href="" class="ca-btn block">Kontaktiere uns!</a>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 <!-- /END CALL FOR ACTION -->

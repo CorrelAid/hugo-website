@@ -88,3 +88,32 @@
 
     </div>
 </nav>
+
+<span class="d-none d-md-block" id="correlaid-x-navbar">
+    <nav class="navbar navbar-expand-md fixed-top second navbar-dark ca-x-gradient">
+        <div class="collapse navbar-collapse">
+            <div class="navbar-nav mr-auto"></div>
+            <div class="navbar-nav mr-auto">
+                {{ range .Site.Menus.correlaidx }}
+                <a class="nav-item nav-link active" href="{{ .URL | absLangURL }}">{{ .Title }}</a>
+                {{ end }}
+            </div>
+            <div class="navbar-nav">
+                <a href="#" class="nav-item nav-link active" id="close-correlaid-x-navbar"><i class="far fa-times-circle"></i></a>
+            </div>
+        </div>
+    </nav>
+</span>
+
+<span id="correlaid-cookie-bar">
+    <div class="cookie-bar ca-dark-blue">
+        <div class="row">
+            <div class="col-11">
+                <p>Wir benutzen Cookies, um uns einige Einstellungen, die vornimmst zu merken. Mehr Informationen findest du hier.</p>
+            </div>
+            <div class="col-1">
+
+            </div>
+        </div>
+    </div>
+</span>
