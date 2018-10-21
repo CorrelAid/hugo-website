@@ -10,7 +10,7 @@
         {{ range (where .Pages "Section" "blog").ByPublishDate.Reverse }}
         <div class="col-12 col-sm-6 col-lg-4">
             <div class="ca-img-container">
-                <img class="img-fluid dark" src="/images/blog/{{ .Params.image }}" alt="{{ .Title }}" />
+                <img class="img-fluid dark" src="/images/blog/thumbs-x800/{{ .Params.image }}" alt="{{ .Title }}" />
                 <div class="ca-img-border"></div>
             </div>
             <p style="margin-bottom: 0">{{ .Date.Format "2006-01-02" }}</p>
