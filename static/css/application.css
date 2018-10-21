@@ -8,6 +8,8 @@ main {
     margin-top: 56px;
 }
 
+*:focus {outline:none !important}
+
 /* ========== COLORS ========== */
 
 .ca-original-gradient {
