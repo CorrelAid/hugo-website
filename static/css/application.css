@@ -10,6 +10,11 @@ main {
 
 /* ========== COLORS ========== */
 
+.ca-blue-green {
+    background: linear-gradient(90deg,rgba(56, 99, 162, 1), rgba(146, 222, 63, 1));
+    color: #FFFFFF;
+}
+
 .ca-blue {
     background-color: #3863a2 !important;
     color: #FFFFFF;
@@ -127,6 +132,16 @@ h6 {
 
 a {
     color: #a2b846;
+}
+
+a i.fab {
+    color: #6c757d;
+}
+
+
+a i.fab:hover {
+    color: #FFFFFF;
+    text-decoration: none;
 }
 
 a:hover {
