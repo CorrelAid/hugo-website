@@ -1,10 +1,10 @@
 ---
- title: "CorrelAidX
-"
+ title: "CorrelAidX"
  date: 2018-09-14T00:00:00+02:00
  image: "correlaidx_2.jpg"
  summary: "Kick-off für unsere Data-for-Good-Lokalgruppen"
  author: "CorrelAid"
+ category: ["CorrelAid"]
 ---
 
 
@@ -28,13 +28,13 @@ zu werden:
 
 ### **CorrelAidX – Data-for-Good Lokalgruppen**
 
-![](correlaidx_1.png){.img-responsive
-.no-border}
+{{< image 
+    image="509-correlaidx_1.png"
+>}}
+CorrelAid X
+{{< /image >}}
 
 
-
-\
-\
 Wir wollen zusammen mit euch überall in Deutschland Lokalgruppen
 gründen. Es sollen Anlaufstellen für DatenanalystInnen und lokale NPOs
 entstehen. Damit verfolgen wir drei Ziele:
@@ -85,10 +85,14 @@ interessierten CommunitymanagerInnen zusammenbringen und zusammen das
 kommende Semester oder Jahr planen. Bei Fragen stehen wir euch natürlich
 jederzeit zur Verfügung (regina.s@correlaid.org).
 
-\
-![](correlaidx_3.png){.img-responsive
-.no-border}\
-\
+
+
+{{< image 
+    image="509-correlaidx_3.png"
+>}}
+CorrelAid X
+{{< /image >}}
+
 ### Also, wer von euch hat Lust, mit uns loszulegen?!
 
 ------------------------------------------------------------------------

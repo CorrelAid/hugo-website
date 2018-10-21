@@ -1,7 +1,7 @@
 ---
  title: "Datenanalysen zu Migration und Integration"
  date: 2018-09-05T00:00:00+02:00
- image: "datemdialog2.jpg"
+ image: "509-datendialog-berlin.jpg"
  summary: "Unser Datendialog dazu findet am 5. Oktober in Berlin statt "
  author: "CorrelAid"
 ---
@@ -12,10 +12,13 @@ wollen einen Dialog zwischen der Zivilgesellschaft und der Data Science
 Community anstoßen und gemeinsam Ideen für Data-for-Good-Projekte
 entwickeln.
 
-\
-![](datendialog1.jpg){.img-responsive
-.no-border}\
-\
+
+{{< image 
+    image="509-datendialog1.jpg"
+>}}
+CorrelAid X
+{{< /image >}}
+
 Am 5. Oktober steht unser Datendialog „Migration und Integration" in
 Berlin an. Dazu laden wir auf der einen Seite NGOs und Initiativen, die
 in den Bereichen Migration und Integration in Deutschland tätig sind,
