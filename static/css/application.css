@@ -583,7 +583,7 @@ i.caveat {
     position: fixed;
     bottom: 0;
     left: 0;
-    width: 100%;
+    width: 100vw;
     z-index: 1100;
     padding: 16px 16px;
 }
@@ -591,4 +591,23 @@ i.caveat {
 .cookie-bar .row p {
     margin: 0;
     font-size: 1rem;
+}
+
+/* ========== CODE HIGHLIGHTING ========== */
+
+.highlight pre {
+    padding: 10px;
+    border: 1px solid #e2e2e2;
+}
+
+/* ========== PRESS ABOUT US ========== */
+
+.newspaper-image {
+    height: 40px;
+}
+
+@media screen and (max-width: 600px) {
+    .newspaper-image {
+        height: 30px;
+    }
 }
