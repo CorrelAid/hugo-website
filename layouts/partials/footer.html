@@ -25,6 +25,20 @@
     </div>
 </div>
 
+<div class="ca-x-gradient">
+    <div class="container">
+        <div class="row text-center py-3">
+            <div class="col-12">
+                <p class="my-0">
+                    {{ range .Site.Menus.correlaidx }}
+                    <a class="text-white small" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                    {{ end }}
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 <footer class="ca-dark-blue text-white pt-3">
 
