@@ -1,7 +1,7 @@
 ---
  title: "Happy Bi/R/thday"
  date: 2018-07-01T00:00:00+02:00
- image: "musik.jpg"
+ image: "509-music-with-r.jpg"
  summary: "Learn How to Make R Play Music"
  author: "Jochen"
 ---
@@ -42,12 +42,15 @@ we will just create a vector of characters in R, in which we are going
 to insert the notes. In case of happy birthday, our R code would look
 like this:
 
-     
-     
+```r
+pitch <- c('D4', 'D4', 'E4', 'D4',
+           'G4', 'F#4', 'D4', 'D4', 
+           'E4', 'D4', 'A4', 'G4', 
+           'D4', 'D4', 'D5', 'B4', 
+           'G4', 'F#4', 'E4', 'C5', 
+           'C5', 'B4', 'G4', 'A4', 'G4')
+```
 
-    pitch 
-
-\
 Make sure to use the english notation, this will make things easier
 later on.
 
@@ -58,23 +61,21 @@ values in a vector of type "numeric". Because the first six notes are
 repeated once in Happy Birthday, we can shorten things a bit by using
 the *rep()* function.
 
-     
-     
+```r
+value <- c(rep(c(0.75, 0.25, 1, 1, 1, 2), 2),
+              0.75, 0.25, 1, 1, 1, 1, 1, 0.75, 0.25, 1, 1, 1, 2)
+```
 
-    value 
-
-\
 If everything went well so far, we should now have two vectors of the
 same size in our workspace. As pitch and duration of course belong
 together, we are now going to join them in a data frame named bday by
 using *cbind*:
 
-     
-     
+```r
+bday <- cbind.data.frame(pitch, value)
+```
 
-    bday 
 
-\
 This gives us a data frame containing pitch and values of the notes we
 want to play – So far for the easy part. Now, we have to determine the
 frequencies of the audio waves associated with our notes. Of course,
@@ -89,23 +90,24 @@ exchanging the comma with a point as the decimal separator and
 *substr()* will remove unneccessary contents, such as links and
 annotations.
 
-     
-     
+```r
+wikitab <- htmltab("https://de.wikipedia.org/wiki/Frequenzen_der_gleichstufigen_Stimmung",
+                   1, 
+                   colNames = c("note","eng","ger","freq"))
+wikitab$freq <- as.numeric(gsub(",", ".", wikitab$freq))
+wikitab$eng <- substr(wikitab$eng,0,3)
+```
 
-    wikitab 
-
-\
 After having successfully mined the frequencies from the web, it is time
 to combine our new knowledge with the data in our bday-dataframe. We can
 do this using lapply, which will apply a function that assigns the
 correct frequency to every row of our database.
 
-     
-     
+```r
+bday$freq <- lapply(bday$pitch, function(x) wikitab[wikitab$eng==x,4])
+```
 
-    bday$freq 
 
-\
 Now, we're almost done. All we have to do now is to create the actual
 audio file: Technically speaking, audio files usually are digital
 representations of sound waves, which have been captured by a
@@ -123,14 +125,12 @@ in seconds. This can easily be calculated by dividing the value of the
 individual notes by the tempo (we will try 110 BPM). With all that
 sorted out, its time to create the wave:
 
-     
-     
+```r
+wave <-mapply(Sine, bday$freq, (bday$value/110)*60, rate=44100, channels=1 ) %>%
+  do.call("c", .)
+wave <- as.Sample(wave)
+```
 
-    wave %
-      do.call("c", .)
-    wave 
-
-\
 Allthough this piece of code looks a bit odd, we need to do it that way
 to get a continuous wave: Mapply splits the bday-dataframe into
 individual entries and applies *Sine()* to every one of them. These
@@ -139,30 +139,36 @@ operator, which will combine them into one large object. *as.Sample()*
 then tells R to treat wave as a Sound Sample, so all that's left to do
 is to
 
-     
-     
+```r
+play(wave)
+```
 
-    play(wave)
-
-\
 relax and enjoy your first, self-made biRthday song.
 
 *The code in this post was inspired by [a posting on
 stackoverflow](https://stackoverflow.com/questions/31782580/how-can-i-play-birthday-music-using-r#%0D%0A).
 You can copy the whole piece of code in the following:*
 
-     
-     
+```r
+if(!require(sound)){install.packages("sound")}
+if(!require(dplyr)){install.packages("dplyr")}
+if(!require(htmltab)){install.packages("htmltab")}
 
-    if(!require(sound)){install.packages("sound")}
-    if(!require(dplyr)){install.packages("dplyr")}
-    if(!require(htmltab)){install.packages("htmltab")}
+pitch <- c('D4', 'D4', 'E4', 'D4', 'G4', 'F#4', 'D4', 'D4', 'E4', 'D4', 'A4', 'G4', 'D4', 'D4', 'D5', 'B4', 'G4', 'F#4', 'E4', 'C5', 'C5', 'B4', 'G4', 'A4', 'G4')
+value <- c(rep(c(0.75, 0.25, 1, 1, 1, 2), 2),
+              0.75, 0.25, 1, 1, 1, 1, 1, 0.75, 0.25, 1, 1, 1, 2)
+bday <- cbind.data.frame(pitch, value)
 
-    pitch % 
-      do.call("c", .)
+wikitab <- htmltab("https://de.wikipedia.org/wiki/Frequenzen_der_gleichstufigen_Stimmung",1, colNames = c("note","eng","ger","freq"))
+wikitab$freq <- as.numeric(gsub(",", ".", wikitab$freq))
+wikitab$eng <- substr(wikitab$eng,0,3)
 
-    wave 
+bday$freq <- lapply(bday$pitch, function(x) wikitab[wikitab$eng==x,4])
 
-------------------------------------------------------------------------
+wave <-mapply(Sine, bday$freq, (bday$value/110)*60, rate=44100, channels=1 ) %>%
+  do.call("c", .)
 
+wave <- as.Sample(wave)
 
+play(wave)
+```
