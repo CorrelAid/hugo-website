@@ -57,15 +57,41 @@ players playing each other with random moves. The function
 random\_move() first determines the possible moves and then returns a
 random possible move.
 
+```r
+game <- function(){
 
+  # Init Board
+  board <-  c(0,0,0,
+              0,0,0,
+              0,0,0)
+  winner = NULL
 
-    game 
+  while(is.null(winner)){
+
+    #player 1:
+    next_move <- random_move(board)
+    board <- make_move(board, 1, next_move)
+    winner <- evaluate_win(board)
+
+    if(is.null(winner)){
+      #player 2:
+      next_move <- random_move(board)
+      board <- make_move(board, 2, next_move)
+      winner <- evaluate_win(board)
+    }
+  }
+  return(winner)
+}
+```
 
 So far so good, we can now let two random players play the game. You can
 also actively play the game by adding some print() functions after each
 move and the line
 
-`next_move  `
+```r
+next_move <- as.integer(readline(prompt = "Next Move Player 1: "))
+```
+
 ### 2. Build a training data set
 
 To train our AI we have to give it some idea of what a "good move" is.
@@ -76,9 +102,14 @@ slightly modified version of the code above) and keep a record of all
 the different boards that were played and to which outcome they lead:
 (0) TIE, (1) Victory Player 1, (2) Victory Player 2.
 
+```r
+boards_df <- simulate_game()
 
-
-    boards_df 
+for(i in 1:5000){
+  new_game <- simulate_game()
+  boards_df <- rbind(boards_df, new_game)
+}
+```
 
 This provides us with a dataset with 37.961 different board settings and
 their respective outcomes. Using this dataset we can now train a neural
@@ -98,47 +129,61 @@ like this as we need a highly flexible non-linear function that maps the
 features to the outcome. It roughly looks as follows (Source Pic:
 https://www.researchgate.net/figure/The-topology-of-a-typical-multiple-layer-neural-network-consisting-of-one-input-layer\_fig2\_228589481):
 
-![](topology.png){.img-responsive
-.no-border}
+
+{{< image 
+    image="509-topology.png"
+>}}
+Topology
+{{< /image >}}
+
+
 The neural net has 4 layers: An input layer with 18 input nodes, two
 hidden layers with 9 nodes each, and an output layer with 3 nodes which
 represent the three outcomes (Tie, Win Player 1, Win Player 2). For the
 hidden layers I use the relu activation function and for the outcome
 layer softmax activation for multiclass classification.
 
+```r
+#Initialize model
+model <- keras_model_sequential()
 
+#Build layers of model
+model %>%
+  layer_dense(units = 9,
+              kernel_initializer = "uniform",
+              activation = 'relu',
+              input_shape = c(18)) %>%
+  layer_dense(units = 9,
+              kernel_initializer = "uniform",
+              activation = 'relu') %>%
+  layer_dense(units = 3, activation = 'softmax')
 
-    #Initialize model
-    model %
-      layer_dense(units = 9,
-                  kernel_initializer = "uniform",
-                  activation = 'relu',
-                  input_shape = c(18)) %>%
-      layer_dense(units = 9,
-                  kernel_initializer = "uniform",
-                  activation = 'relu') %>%
-      layer_dense(units = 3, activation = 'softmax')
+# Compile Model
+model %>% compile(loss = 'categorical_crossentropy',
+                  optimizer = optimizer_rmsprop(),
+                  metrics = c('accuracy'))
 
-    # Compile Model
-    model %>% compile(loss = 'categorical_crossentropy',
-                      optimizer = optimizer_rmsprop(),
-                      metrics = c('accuracy'))
+# Train Model
+history <- model %>% fit(
+  x_train, y_train,
+  epochs = 20, batch_size = 100,
+  validation_split = 0.2
+)
 
-    # Train Model
-    history % fit(
-      x_train, y_train,
-      epochs = 20, batch_size = 100,
-      validation_split = 0.2
-    )
-
-    model %>% evaluate(x_test, y_test)
+model %>% evaluate(x_test, y_test)
+```
 
 The accuracy of predictions is at around 64 % which doesn't sound like a
 good value but keep in mind that there are some very early game
 positions in the dataset where only one or two moves have been played.
 
-![](training.JPG){.img-responsive
-.no-border}
+{{< image 
+    image="509-training.jpg"
+>}}
+Training
+{{< /image >}}
+
+
 ### 4. Implement a function that chooses the best next move
 
 Now that we have a model that can predict what the probability for each
@@ -159,16 +204,50 @@ meaning that it optimises for the win probability. The other one plays
 defensively meaning that it optimises for the probability of "not
 losing". The style of the AI is passed to the function as an argument.
 
+```r
+AI_move <- function(board, player, ai_mode = "aggressive"){
+  if(length(possible_moves(board)) >1){
 
+    move_probas <- c()
+    ### Iterate over all possible moves and calculate winning probability
+    for(move in possible_moves(board)){
+      potential_board <- make_move(board, player, move)
 
-    AI_move 1){
+        # if aggressive it will maximize for winning probability
+      if(ai_mode == "aggressive"){
+        potential_board_proba <- evaluate_board_position(potential_board,
+                                                             boards_df,
+                                                             model)[2]
+      }else{
+        # if defensive it will maximze for "not loosing" probability
+        potential_board_proba <- 1 - evaluate_board_position(potential_board,
+                                                             boards_df,
+                                                             model)[3]
+      }
 
-        move_probas 
+      move_probas <- c(move_probas, potential_board_proba)
+    }
+
+    ### find move which creates board with best winning probability
+    best_move_proba <- max(move_probas)
+    next_move <- possible_moves(board)[c(move_probas == best_move_proba)]
+
+  }else{
+    #if there is only on possible move left, do this move
+    next_move <- possible_moves(board)
+  }
+  return(next_move)
+}
+```
 
 This function can then simply be added to the code above by replacing
 the line for *next\_move*:
 
-`next_move . `
+```r
+next_move <- AI_move(board, player = 1, ai_mode)
+```
+
+
 ### 5. Results
 
 And *et voilà*: There you have an AI model playing TTT. Now the question
@@ -178,8 +257,12 @@ has played TTT knows that you should always start with the field in the
 middle. And indeed, the model also calculates the highest win percentage
 for this move out of all possible opening moves:
 
-![](opening_move.JPG){.img-responsive
-.no-border}
+{{< image 
+    image="509-opening_move.jpg"
+>}}
+Opening Move
+{{< /image >}}
+
 Now lets see if the AI beats the random player. Therefore, I simulated
 200 games each of "random vs. random", "aggressive AI vs. random", and
 "defensive AI vs. random". And indeed, the aggressive AI wins 85 % of
