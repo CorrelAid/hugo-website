@@ -1,7 +1,7 @@
 ---
  title: "Coin Tosses, Markov Chains and an Existential Crisis"
  date: 2018-06-25T00:00:00+02:00
- image: "münze.jpg"
+ image: "509-markov-coin.jpg"
  summary: "Visualising Markov Chains Based On A Simple Statistical Experiment"
  author: "Johannes"
 ---
@@ -29,37 +29,82 @@ the time in which I should actually write my thesis to find out what
 this is about. Before I explain the experiment using markov chains,
 let’s quickly simulate the experiment in R:
 
-     
-         
-        # Write a function to simulate one coin toss 
+```r
+# Write a function to simulate one coin toss
 
-        coin_toss  Bob: condition = c(1,1); Alice: condition = c(1,0) 
-        
-        simulate_game  
+coin_toss <- function(){
 
-        
+    rbinom(1,1, 0.5)
 
-     
-        # Mean and Distribution for Heads, Heads (Bob) to end the game 
-        [1] 6.007 
-        
+}
 
-\
-\
-![](hist_bob.JPG){.img-responsive
-.no-border}\
-\
-     
-        # Mean and Distribution for Heads, Tails (Alice) to end the game  
-    [1] 3.961 
-        
-        
 
-\
-\
-![](hist_alice.JPG){.img-responsive
-.no-border}\
-\
+# Write a function that simulates the game --> Bob: condition = c(1,1); Alice: condition = c(1,0)
+
+simulate_game <- function(condition = c(1,1)){
+
+    condition_met <- F
+
+    tosses <- c()
+
+    while(condition_met != T){
+
+        tosses <- c(tosses, coin_toss())
+
+        condition_met <- all.equal(tail(tosses, 2), condition)
+
+    }
+
+    return(tosses)
+
+}
+
+
+# Simulate game for 10000 times and save the number of tosses each one needed
+
+
+games_bob <- c(); games_alice <- c()
+
+
+for(i in 1:10000){
+
+    games_bob[i] <- length(simulate_game(condition = c(1,1)))
+
+    games_alice[i] <- length(simulate_game(condition = c(1,0)))
+
+}
+
+# Mean and Distribution for Heads, Heads to end the game
+mean(games_bob)
+
+
+# Mean and Distribution for Heads, Tails to end the game
+mean(games_alice)
+```
+  
+```
+# Mean and Distribution for Heads, Heads (Bob) to end the game 
+[1] 6.007
+```
+  
+{{< image 
+    image="509-hist_bob.jpg"
+>}}
+Histogram Bob
+{{< /image >}}
+
+```     
+# Mean and Distribution for Heads, Tails (Alice) to end the game  
+[1] 3.961 
+```        
+   
+{{< image 
+    image="509-hist_alice.jpg"
+>}}
+Histogram Alice
+{{< /image >}}
+
+
 The intuitive explanation is as follows: Both Alice and Bob first need
 to get *heads*. For Alice, if she gets *tails* for the next toss the
 game is over. If she doesn't get *tails* but *heads* shows up again it
@@ -81,38 +126,69 @@ For Bob there are the following three possible states: **H (Heads), T
 (Tails), HH (Heads, Heads)** . For Alice there are the following three
 possible states: **H (Heads), T (Tails), HT (Heads, Tails)**
 
-     
-         
-        
-        states_bob  
-        
+```r
+states_bob <-c("H","T","HH")
+states_alice <- c("H", "T", "HT")
+```        
 
 Then we first have to build the transition matrices for both Bob and
 Alice. After that we create markov chain objects so that we can plot
 them.
 
-     
-         
-        
-        library(markovchain) 
-        
-        #Transition matrix for Bob 
-        tm_bob  
-        
+```r
+library(markovchain)
+
+#Transition matrix for Bob
+tm_bob <- matrix(c(0,.5,.5,
+0.5,0.5,0,
+0,0,1),
+nrow=3, byrow=TRUE)
+row.names(tm_bob) <- states_bob; colnames(tm_bob) <- states_bob
+tm_bob
+
+#Transition Matrix for Alice
+tm_alice <- matrix(c(.5,0,0.5,
+0.5,.5,0,
+0,0,1),
+nrow=3, byrow=TRUE)
+row.names(tm_alice) <- states_alice; colnames(tm_alice) <- states_alice
+tm_alice
+
+
+#Layout for Transition Plot
+layout_tp <- matrix(c(0,0,0,1,1,1), ncol = 2, byrow = TRUE)
+
+# Plot transition for Bob
+mc_bob <- new("markovchain", states=states_bob, transitionMatrix=tm_bob)
+plot(mc_bob,package="diagram",
+layout = layout_tp,
+edge.curved = -0.1)
+
+#Plot transition for Alice
+mc_alice <- new("markovchain", states=states_alice, transitionMatrix=tm_alice)
+plot(mc_alice,package="diagram",
+layout = layout_tp,
+edge.curved = -0.1)
+```
 
 The expectation for Alice's markov chain (MC) to converge to the state
 of "HT" are 4 iterations, and the expectation for Bob's MC to converge
 to the state of "HH" are six iterations. You immediately see, why: Bob
 has an additional arrow (from "H" to "T").
 
-\
-\
-![](tp_bob.JPG){.img-responsive
-.no-border}\
-\
-![](tp_alice.JPG){.img-responsive
-.no-border}\
-\
+{{< image 
+    image="509-tp_bob.jpg"
+>}}
+Transition Plot Bob
+{{< /image >}}
+
+{{< image 
+    image="509-tp_alice.jpg"
+>}}
+Transition Plot Alice
+{{< /image >}}
+
+
 ### Existential Crisis
 
 I came across this problem first in a Tweet by David Robinson (@drob)
