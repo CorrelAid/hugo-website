@@ -1,7 +1,7 @@
 ---
  title: "Developing an AI for Tic-Tac-Toe in R "
  date: 2018-07-13T00:00:00+02:00
- image: "tictactoe.JPG"
+ image: "509-tic-tac-toe.jpg"
  summary: "How Can We Model the Game?"
  author: "Johannes"
 ---
