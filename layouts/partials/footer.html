@@ -77,13 +77,10 @@
             <div class="col-12 col-md-2 text-center text-md-left">
                 <h5>{{ i18n "support" }}</h5>
                 <ul class="list-unstyled text-small">
-
-                    <li><a class="text-muted" href="{{ .Site.Home.Permalink }}correlaid-x">CorrelAidX</a></li>
                     {{ range .Site.Menus.contribute }}
                     <li><a class="text-muted" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
                     {{ end }}
                     <li><a class="text-muted" href="http://localhost/website-php/mailing-list">{{ i18n "mailing-list" }}</a></li>
-                    <li><a class="text-muted" href="#">{{ i18n "donate" }}</a></li>
                 </ul>
             </div>
             <div class="col-12 col-md-2 text-center text-md-left">
@@ -96,10 +93,10 @@
                 </ul>
             </div>
             <div class="col-12 col-md-2 text-center text-md-left">
-                <h5>Blog</h5>
+                <h5>CorrelAidX</h5>
                 <ul class="list-unstyled text-small">
-                    {{ range first 3 (where .Pages "Section" "blog").ByPublishDate.Reverse }}
-                    <li><a class="text-muted" href="{{ .URL | absLangURL }}">{{ .Title }}</a></li>
+                    {{ range .Site.Menus.correlaidx }}
+                    <li><a class="text-muted" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
                     {{ end }}
                 </ul>
             </div>
