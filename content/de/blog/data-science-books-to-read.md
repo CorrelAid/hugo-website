@@ -1,7 +1,7 @@
 ---
  title: "Data Science is not just about Data Science"
  date: 2018-05-01T00:00:00+02:00
- image: "buecher2.jpg"
+ image: "509-data-science-books.jpg"
  summary: "7 Popular Science Books that you have to read"
  author: "Johannes"
 ---
