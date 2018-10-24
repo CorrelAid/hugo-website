@@ -1,7 +1,7 @@
 ---
  title: "Reconstructing Cambridge Analytica's 'psychological warfare tool'"
  date: 2018-03-28T00:00:00+02:00
- image: "crowd.jpg"
+ image: "509-cambridge-analytica.jpg"
  summary: "Building a personality classifier in R  - using facebook data, machine learning and personality traits"
  author: "Johannes"
 ---
@@ -120,9 +120,12 @@ Facebook:
 ****
 Version 1: "immigrants ... mayham ... build a wall ... "
 
-![](trump_ad_immigrants.JPG){.img-responsive
-.no-border}\
-\
+{{< image 
+    image="509-trump_ad_immigrants.jpg"
+>}}
+Trump Ad Immigrants
+{{< /image >}}
+
 The first ad we are using is a classic fear mongering example of a Trump
 campaign ad. We assume that this one will work well with people with
 high values on the neuroticism scale.
@@ -130,9 +133,12 @@ high values on the neuroticism scale.
 ****
 Version 2: "Crooked Hillary ... emails ... unfit ..."
 
-![](trump_ad_clinton.JPG){.img-responsive
-.no-border}\
-\
+{{< image 
+    image="509-trump_ad_clinton.jpg"
+>}}
+Trump Ad Immigrants
+{{< /image >}}
+
 The second ad creates the image of Hillary Clinton as a corrupt
 politician. We want to feed this ad to people who are less neurotic and
 are unlikely to vote for Trump anyways. The goal targeting this group is
@@ -153,25 +159,28 @@ the data can be used for research purposes. The dataset can be
 downloaded
 [here](http://mypersonality.org/wiki/doku.php?id=download_databases) .
 
+```r
+library(readr)
+library(caret)
+library(tm)
 
+data <- read_csv("~/projects/cambridge_ana/mypersonality_final.csv")
+head(data)
+```
 
-    library(readr)
-    library(caret)
-    library(tm)
-
-    data 
-
-    # A tibble: 6 x 21
-      `#AUT~ STATUS    sEXT  sNEU  sAGR  sCON  sOPN cEXT  cNEU  cAGR  cCON  cOPN  DATE  NETW~
-      
-    1 b7b77~ likes t~  2.65  3.00  3.15  3.25  4.40 n     y     n     n     y     06/1~   180
-    2 b7b77~ is so s~  2.65  3.00  3.15  3.25  4.40 n     y     n     n     y     07/0~   180
-    3 b7b77~ is sore~  2.65  3.00  3.15  3.25  4.40 n     y     n     n     y     06/1~   180
-    4 b7b77~ likes h~  2.65  3.00  3.15  3.25  4.40 n     y     n     n     y     06/2~   180
-    5 b7b77~ is home~  2.65  3.00  3.15  3.25  4.40 n     y     n     n     y     07/2~   180
-    6 b7b77~ www.the~  2.65  3.00  3.15  3.25  4.40 n     y     n     n     y     07/1~   180
-    # ... with 7 more variables: BETWEENNESS , NBETWEENNESS , DENSITY ,
-    #   BROKERAGE , NBROKERAGE , TRANSITIVITY , neu_dummy 
+```r
+# A tibble: 6 x 21
+  `#AUT~ STATUS    sEXT  sNEU  sAGR  sCON  sOPN cEXT  cNEU  cAGR  cCON  cOPN  DATE  NETW~
+                   
+1 b7b77~ likes t~  2.65  3.00  3.15  3.25  4.40 n     y     n     n     y     06/1~   180
+2 b7b77~ is so s~  2.65  3.00  3.15  3.25  4.40 n     y     n     n     y     07/0~   180
+3 b7b77~ is sore~  2.65  3.00  3.15  3.25  4.40 n     y     n     n     y     06/1~   180
+4 b7b77~ likes h~  2.65  3.00  3.15  3.25  4.40 n     y     n     n     y     06/2~   180
+5 b7b77~ is home~  2.65  3.00  3.15  3.25  4.40 n     y     n     n     y     07/2~   180
+6 b7b77~ www.the~  2.65  3.00  3.15  3.25  4.40 n     y     n     n     y     07/1~   180
+# ... with 7 more variables: BETWEENNESS , NBETWEENNESS , DENSITY ,
+#   BROKERAGE , NBROKERAGE , TRANSITIVITY , neu_dummy
+```
 
 As already mentioned above, we simplify things again. Let's say we only
 want to assess whether one Facebook status was written by a neurotic
@@ -188,30 +197,47 @@ to retain only the word stems. We then create a document term matrix,
 which provides us with single words as features to build our
 classifiers.
 
+```r
+# Preparing the outcome variable Neuroticism
+data$neu_dummy <- rep(0, nrow(data))
+data$neu_dummy[data$sNEU > median(data$sNEU)] <- 1  #median split
+
+# Preparing the document term matrix
+data$STATUS <- iconv(data$STATUS, "ASCII", "UTF-8", sub="")
+corpus <- VCorpus(VectorSource(data$STATUS))
+tdm <- DocumentTermMatrix(corpus, list(removePunctuation = TRUE,
+                                       stopwords = TRUE,
+                                       stemming = TRUE,
+                                       removeNumbers = TRUE))
+```
 
 
-    # Preparing the outcome variable Neuroticism 
-    data$neu_dummy  median(data$sNEU)] 
-
-\
 #### Step 3: Train the model
 
 Now we can train a model to predict whether a status was written by a
 neurotic person. For this purpose, we will use a simple linear support
 vector machine implemented in the caret package.
 
+```r
+# Prepare dataframe for modelling
+train <- as.data.frame(as.matrix(tdm))
+keep <- (colSums(train) >=5) #drop words that appear less than 5 times in the dataset. This decreases our accuracy but also might prevent overfitting.
+  train <- train[, keep]
+train$y <- as.factor(as.character(data$neu_dummy))
 
+# Training the model using a linear svm
+fit <- train(y ~ ., data = train, method = 'svmLinear3')
+```
 
-    # Prepare dataframe for modelling 
-    train =5) #drop words that appear less than 5 times in the dataset. This decreases our accuracy but also might prevent overfitting.
-      train 
+```r
+# Check accuracy on training.
+predict(fit, newdata = train)
+sum(predict(fit, newdata = train) == train$y)/nrow(train)
+```
 
-
-    # Check accuracy on training.
-    predict(fit, newdata = train)
-    sum(predict(fit, newdata = train) == train$y)/nrow(train)
-
-    [1] 0.707472
+```r
+[1] 0.707472
+```
 
 If we check the in-sample accuracy we see that our algorithm can
 classify 70 % of the status updates correctly. This is not great and we
@@ -234,13 +260,29 @@ some status updates from public facebook profiles. Let's determine which
 ad we should show Paul Ryan, speaker of the House of Representatives, as
 an example:
 
+```r
+library(Rfacebook)
 
-    library(Rfacebook)
+token <- "******" # get your token under https://developers.facebook.com/tools/explorer/
 
-    token 
+paulryan_page <- getPage("paulryanwi", token, n = 100, since='2016/01/01', until='2016/06/01')
 
-    [1] 0
-    Levels: 0 1
+# Use one random status update of Paul Ryan for classification
+paulryan_status <- page_paulryan$message[sample(nrow(paulryan_page), 1)]
+
+# Prepare document term matrix
+corpus <- VCorpus(VectorSource(paulryan_status))
+tdm <- DocumentTermMatrix(corpus, control = list(dictionary = Terms(tdm), removePunctuation = TRUE, stopwords = TRUE, stemming = TRUE, removeNumbers = TRUE))
+paulryan_tdm <- as.matrix(tdm)
+
+# Predict which group Paul Ryan belongs to
+predict(fit, newdata = paulryan_tdm)
+```
+
+```r
+[1] 0
+Levels: 0 1
+```
 
 Our classifier would suggest that Paul Ryan is in the calmer, more
 rational group. Therefore, we would show him the second ad (the
