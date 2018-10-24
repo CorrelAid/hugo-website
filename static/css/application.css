@@ -202,12 +202,14 @@ main .navbar ul li {
     font-size: 1rem;
 }
 
-main ul {
+main ul,
+main ol {
     list-style-position: outside;
     padding-left: 1.3rem;
 }
 
-main ul li {
+main ul li,
+main ol li {
     font-size: 1.25rem;
 }
 
