@@ -558,8 +558,12 @@ i.caveat {
 
 /* ========== TESTIMONIAL ========== */
 
-.row.testimonial {
-    background: linear-gradient(135deg, rgba(56, 99, 162, 1), rgba(146, 222, 63, 1));
+.testimonial img {
+    margin: 0 auto 12px auto;
+    border: 6px solid #ffffff;
+    display: block;
+    width: 75%;
+    max-width: 200px;
 }
 
 /* ========== FORMS ========== */
