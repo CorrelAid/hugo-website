@@ -25,19 +25,19 @@
     </div>
 </div>
 
-<div class="ca-x-gradient">
-    <div class="container">
-        <div class="row text-center py-3">
-            <div class="col-12">
-                <p class="my-0">
-                    {{ range .Site.Menus.correlaidx }}
-                    <a class="text-white small" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
-                    {{ end }}
-                </p>
-            </div>
+<!-- CORRELAID X NAV -->
+<nav class="navbar navbar-expand-md navbar-dark ca-x-gradient d-none d-md-block" id="correlaid-x-navbar">
+    <div class="collapse navbar-collapse">
+        <div class="navbar-nav mr-auto"></div>
+        <div class="navbar-nav mr-auto">
+            {{ range .Site.Menus.correlaidx }}
+            <a class="nav-item nav-link active" href="{{ .URL | absLangURL }}">{{ .Title }}</a>
+            {{ end }}
         </div>
     </div>
-</div>
+</nav>
+<!-- /END CORRELAID X NAV -->
+
 
 
 <footer class="ca-dark-blue text-white pt-3">
