@@ -17,8 +17,7 @@ In den darauffolgenden Wochen haben wir zwei R-Einsteiger und einen Python-Einst
 
 {{< person 
     name="Konstantin"
-    subline="mannheim
-    @correlaid.org"
+    subline="mannheim@correlaid.org"
     img="/images/people/damon.jpg"
 >}}
 Damon, in den Endzügen meines Masters in Statistik. Ich bin seit 2015 bei CorrelAid und kümmere mich um den Local Chapter im Ruhrgebiet. Unangefochtener Sieger der CorrelAid Tischtennismeisterschaften 2018.
