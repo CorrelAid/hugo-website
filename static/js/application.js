@@ -36,6 +36,11 @@ $('#close-correlaid-x-navbar').click(function (e) {
     $('#close-correlaid-x-navbar').blur();
 });
 
+$('#correlaid-x-navbar.up').click(function () {
+    $('#correlaid-x-navbar').css('top', 56).removeClass('up');
+    setCookie('correlaidx-bar-hidden', '');
+});
+
 /* =============== COOKIE BAR =============== */
 
 
