@@ -397,6 +397,13 @@ i.caveat {
 
 /* ========== HERO SECTION ========== */
 
+.correlaid-logo {
+    width: 450px;
+    max-width: 75%;
+    display: block;
+    margin: 0 auto;
+}
+
 .hero {
     height: calc(100vh - 56px);
     width: 100vw;
