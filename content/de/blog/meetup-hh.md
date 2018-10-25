@@ -1,7 +1,7 @@
 ---
  title: "#meetup_hh"
  date: 2017-12-18T00:00:00+02:00
- image: "meetup3.jpg"
+ image: "509-meetup-hh.jpg"
  summary: "In Hamburg haben wir unser diesjähriges Netzwerk-Meeting gefeiert"
  author: "Sophia"
 ---
@@ -34,11 +34,13 @@ wir beim Datendialog letztlich eine Vorabeinigung mit Christoph über ein
 längerfristig angelegtes Projekt erzielen, um YFU bei der Akquise von
 Gastfamilien zu unterstützen.
 
-\
-![](meetup5.jpg){.img-responsive
-.no-border}\
-\
-**
+
+{{< image 
+    image="509-meetup5.jpg"
+>}}
+Meetup 5
+{{< /image >}}
+
 **InteGREATer**
 
 Beim Datendialog mit InteGREATer hatten wir die Möglichkeit, uns mit
@@ -89,11 +91,12 @@ Verkauf und Audits zusammen. Wir sprachen mit Miyako über Möglichkeiten,
 diese Daten für die Öffentlichkeitsarbeit zu visualisieren, und wie sie
 effizienter gesammelt werden können.
 
-\
-![](meetup1.jpg){.img-responsive
-.no-border}\
-\
-\
+
+{{< image 
+    image="509-meetup1.jpg"
+>}}
+Meetup 1
+{{< /image >}}
 \
 
 ------------------------------------------------------------------------
@@ -115,10 +118,13 @@ entsteht dadurch die ein oder andere Lokalgruppe! Einige von uns haben
 den Tag gemeinsam im Karolinenviertel ausklingen lassen. Hamburg war
 eine gute Wahl!
 
-\
-![](meetup4.jpg){.img-responsive
-.no-border}\
-\
+
+{{< image 
+    image="509-meetup4.jpg"
+>}}
+Meetup 4
+{{< /image >}}
+
 **\#WeAreCorrelAid**
 
 In der Mitgliederversammlung am Sonntag wurde der neue Vorstand gewählt,
@@ -128,10 +134,13 @@ Aufbau der Local Chapters, die Projektaquise, die Website, die
 Einbindung der Mitglieder, Finanzierungsfragen, und natürlich die
 Frauenförderung diskutiert und bearbeitet.
 
-\
-![](meetup2.jpg){.img-responsive
-.no-border}\
-\
+
+{{< image 
+    image="509-meetup2.jpg"
+>}}
+Meetup 2
+{{< /image >}}
+
 Insgesamt war der Meetup in Hamburg ein großer Erfolg. Vielen Dank an
 alle TeilnehmerInnen, die an diesem Wochenende dabei waren und
 mitgearbeitet haben, und an **fritz cola** und **Selo Soda** für die
