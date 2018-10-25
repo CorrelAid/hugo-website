@@ -1,7 +1,7 @@
 ---
  title: "Big Data und Verantwortung"
  date: 2017-11-07T00:00:00+02:00
- image: "bayreuth.jpg"
+ image: "509-bayreuth.jpg"
  summary: "Ein Besuch bei den Bayreuther Dialogen"
  author: "Vera"
 ---
