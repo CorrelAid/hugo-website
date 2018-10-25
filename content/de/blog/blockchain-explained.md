@@ -1,7 +1,7 @@
 ---
  title: "Understanding Blockchains "
  date: 2018-01-11T00:00:00+02:00
- image: "blockchain.jpg"
+ image: "509-blockchain-explained.jpg"
  summary: "A Cryptography Coding Example in R"
  author: "Johannes"
 ---
@@ -50,9 +50,14 @@ timestamp. We will also add an index and a self-identifying hash (more
 on this in a second). We will just store it in a basic list for the
 moment.
 
-
-
-    block_example 
+```r
+block_example <- list(index = 1,
+                 timestamp = "2018-01-05 17.00 MST",
+                 data = "Some data",
+                 previous_hash = 0,
+                 proof = 9,
+                 new_hash = NULL)
+```
 
 Before we can start building the blockchain – a.k.a. chaining different
 containers with data together – we need to get to know two more
@@ -65,21 +70,21 @@ other blocks in the chain. A hash function takes something as an input
 and gives us a unique, encrypted output. An example would be the
 following: You give your friend a puzzle *"What is the best statistics
 program in the world?"* and you give her the hash of the correct
-solution:
-*"71ec0b920622cf4358bbc21d6a8b41f903584808db53ec07a8aa79119304ce86"*.
+solution: `71ec0b920622cf4358bbc21d6a8b41f903584808db53ec07a8aa79119304ce86`.
 She can know check on her own if she has the correct answer by just
 inputting her answer into the Hash-function (in our case the SHA256
 algorithm):
 
 \
 \
-*First try: sha256("Stata") =
+*First try:*
+ `sha256("Stata") =
 "3ac273f00d52dc9caf89cbd71e73e5915229a588117ca3441630089409ddb7bc"
---&gt; Wrong*
+--> Wrong`
 
-*Second try: sha256("R") =
+*Second try:* `sha256("R") =
 "71ec0b920622cf4358bbc21d6a8b41f903584808db53ec07a8aa79119304ce86"
---&gt; Correct*
+--> Correct`
 
 \
 \
@@ -92,14 +97,18 @@ with an immutable, sequential chain of blocks. If we would alter one
 block afterwards we would have to calculate all the hashes for the
 sequential blocks again.
 
+```r
+#Function that creates a hashed "block"
 
+hash_block <- function(block){
+    block$new_hash <- digest(c(block$index,
+                           block$timestamp,
+                           block$data,
+                           block$previous_hash), "sha256")
+    return(block)
+}
+```
 
-    #Function that creates a hashed "block"
-      
-      hash_block 
-
-\
-\
 **3. Proof-of-Work**
 
 If there is a lot of information that must be stored in the blockchain
@@ -115,12 +124,21 @@ to create an item that is hard to create but easy to verify. I will use
 the following “task” as a PoW: find the next number that is divisible by
 99 and divisable by the proof-number of the last block.
 
+```r
+library("digest") #Loading the hash-algorithm
 
+### Simple Proof of Work Alogrithm
+proof_of_work <- function(last_proof){
+  proof <- last_proof + 1
 
-    library("digest") #Loading the hash-algorithm
+  # Increment the proof number until a number is found that is divisable by 99 and by the proof of the previous block
+  while (!(proof %% 99 == 0 & proof %% last_proof == 0 )){
+    proof <- proof + 1
+  }
 
-    ### Simple Proof of Work Alogrithm
-    proof_of_work 
+  return(proof)
+}
+```
 
 For blockchains like BitCoin or Ethereum the job of creating new blocks
 is done by so-called miners. When a new block has to be created, a
@@ -148,47 +166,83 @@ Now we know how a block looks like, how blocks are chained together
 using hashes and how the pace of creating new blocks is being regulated
 by PoWs. So let's put it together in a function
 
+```r
+#A function that takes the previous block and optionally some data (in our case just a string indicating which block in the chain it is)
+gen_new_block <- function(previous_block){
 
+  #Proof-of-Work
+  new_proof <- proof_of_work(previous_block$proof)
 
-    #A function that takes the previous block and optionally some data (in our case just a string indicating which block in the chain it is)
-    gen_new_block 
+  #Create new Block
+  new_block <- list(index = previous_block$index + 1,
+                    timestamp = Sys.time(),
+                    data = paste0("this is block ", previous_block$index +1),
+                    previous_hash = previous_block$new_hash,
+                    proof = new_proof)
+
+  #Hash the new Block
+  new_block_hashed <- hash_block(new_block)
+
+  return(new_block_hashed)
+}
+```
 
 Before we start building our blockchain we need to start the chain
 somewhere. This is done using a so-called Genesis Block. It contains no
 data and arbitrary values for proof and previous hash (as there is no
 previous block).
 
+```r
+# Define Genesis Block (index 1 and arbitrary previous hash)
+block_genesis <-  list(index = 1,
+                       timestamp = Sys.time(),
+                       data = "Genesis Block",
+                       previous_hash = "0",
+                       proof = 1)
+```
 
-
-    # Define Genesis Block (index 1 and arbitrary previous hash)
-    block_genesis 
-
-\
-\
 **5. Building the Blockchain**
 
 Now we can start building the blockchain. We start with the Genesis
 block and then add a few blocks using a loop.
 
 
+```r
+# Create blockchain
 
-    # Create blockchain
+blockchain <- list(block_genesis)
+previous_block <- blockchain[[1]]
 
-    blockchain 
+# How many blocks should we add to the chain after the genesis block
 
+num_of_blocks_to_add <- 20
 
-    [1] "Proof: 99"
-    [1] "Hash: abe5aebb0ed4ad6bbc3617bd2a573c855a01492d46ca87a9b92b82779306a15a"
-    [1] "Block 2 has been added"
-    [1] "Proof: 198"
-    [1] "Hash: d9dbc00762968d05a5d7ab5d6bdf76dddb70b11d5aaf0265763ae7eec1d453c0"
-    [1] "Block 3 has been added"
-    [1] "Proof: 396"
-    [1] "Hash: aff5da2211f45265c6a733191657445fcdcecb1a4fba60067db9b8ee61879092"
-    [1] "Block 4 has been added"
-    [1] "Proof: 792"
-    [1] "Hash: 2c86896bd6e67a3e3dc5b2e055bea5b4650a9f9e26b6c1d1bed87952a27987a3"
-    [1] "Block 5 has been added"
+# Add blocks to the chain
+for (i in 1: num_of_blocks_to_add){
+    print(system.time(block_to_add <- gen_new_block(previous_block))) # Evaluate time it takes for PoW
+    blockchain[i+1] <- list(block_to_add)
+    previous_block <- block_to_add
+    
+    print(paste0("Block ", block_to_add$index, " has been added"))
+    print(paste0("Proof: ", block_to_add$proof))
+    print(paste0("Hash: ", block_to_add$new_hash))
+}
+```
+
+```r
+[1] "Proof: 99"
+[1] "Hash: abe5aebb0ed4ad6bbc3617bd2a573c855a01492d46ca87a9b92b82779306a15a"
+[1] "Block 2 has been added"
+[1] "Proof: 198"
+[1] "Hash: d9dbc00762968d05a5d7ab5d6bdf76dddb70b11d5aaf0265763ae7eec1d453c0"
+[1] "Block 3 has been added"
+[1] "Proof: 396"
+[1] "Hash: aff5da2211f45265c6a733191657445fcdcecb1a4fba60067db9b8ee61879092"
+[1] "Block 4 has been added"
+[1] "Proof: 792"
+[1] "Hash: 2c86896bd6e67a3e3dc5b2e055bea5b4650a9f9e26b6c1d1bed87952a27987a3"
+[1] "Block 5 has been added"
+```
 
 If we would add more blocks, we would see that the first blocks are
 created quite quickly, but as the proof of work gets much harder for
@@ -197,26 +251,25 @@ also increasingly becoming harder over the years as the mining power
 increases. This is done to hold the time to mine one block more or less
 constant.
 
-
-
-    blockchain[[5]]
+```r
+blockchain[[5]]
+```
       
+```r
+$index
+[1] 5
+$timestamp
+[1] "2018-01-07 17:33:48 CET"
+$data
+[1] "this is block 5"
+$previous_hash
+[1] "aff5da2211f45265c6a733191657445fcdcecb1a4fba60067db9b8ee61879092"
+$proof
+[1] 792
+$new_hash
+[1] "2c86896bd6e67a3e3dc5b2e055bea5b4650a9f9e26b6c1d1bed87952a27987a3"
+```
 
-    $index
-    [1] 5
-    $timestamp
-    [1] "2018-01-07 17:33:48 CET"
-    $data
-    [1] "this is block 5"
-    $previous_hash
-    [1] "aff5da2211f45265c6a733191657445fcdcecb1a4fba60067db9b8ee61879092"
-    $proof
-    [1] 792
-    $new_hash
-    [1] "2c86896bd6e67a3e3dc5b2e055bea5b4650a9f9e26b6c1d1bed87952a27987a3"
-
-\
-\
 **Wrap up**
 
 In this little blog post we created the tiniest blockchain. The main
@@ -240,7 +293,3 @@ To dive deeper into the topic of blockchains I recommend the brilliant,
 orginial whitepaper on [BitCoin](https://bitcoin.org/bitcoin.pdf) and
 the blog post from [BigData
 Dog](https://www.r-bloggers.com/building-your-own-blockchain-in-r/).
-
-------------------------------------------------------------------------
-
-
