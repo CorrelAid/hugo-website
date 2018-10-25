@@ -1,7 +1,7 @@
 ---
  title: "From the data to the story"
- date: NA
- image: "jcheader.png"
+ date: 2017-10-28T00:00:00+02:00
+ image: "509-data-to-story.jpg"
  summary: "Journocode: A typical DDJ workflow in R"
  author: "Marie-Louise"
 ---
@@ -50,17 +50,18 @@ separate R-file that can either be sourced in the beginning of the
 analysis script or have the preprocessed data saved as a new data source
 that can be loaded in the analysis script.
 
-br&gt;
+
 **Head**
 
 Enough talk! Let’s start with loading the packages we need for our
 analysis
 
-
-    # R
-    #install.packages("needs")
-    #library(needs)
-    needs(readxl,tidyr,dplyr,ggplot2,magrittr)
+```r
+# R
+#install.packages("needs")
+#library(needs)
+needs(readxl,tidyr,dplyr,ggplot2,magrittr)
+```
 
 Next, we need to load the data. For this example, I prepared an Excel
 Worksheet with two data sheets. Both contain data on Germany’s 402 city
@@ -69,7 +70,7 @@ as information on whether the district is a county or a city district.
 The first Excel sheet contains the average age of the district’s male
 population, the second contains the same data for the female population.
 
-br&gt;
+
 **Preprocessing**
 
 Now that we have the data, we have to do a little preprocessing. We want
@@ -77,10 +78,14 @@ to merge both dataframes into one that contains the age of the male and
 female population for each district. Let’s have a look at the frames to
 check whether we can do the merge:
 
+```r
+# R
+# Load the two data sheets into two different data variables:
+# Example if your data is in a CSV: file <- read.csv("file.csv", sep=",", dec=";", fileEncoding="latin1", na.strings="#")
+age_male <- read_excel("age_data.xlsx", sheet=1)
+age_female <- read_excel("age_data.xlsx", sheet=2)
+```
 
-    # R
-    # Load the two data sheets into two different data variables:
-    # Example if your data is in a CSV: file 
 
 We have two findings:
 
@@ -92,13 +97,14 @@ We have two findings:
 
 Maybe there are duplicated rows:
 
-
-    # R
-    head(age_male) # check the first rows of the male age data
-    head(age_female) # check the first rows of the female age data
-    # check the number of rows
-    nrow(age_male)
-    nrow(age_female)
+```r
+# R
+head(age_male) # check the first rows of the male age data
+head(age_female) # check the first rows of the female age data
+# check the number of rows
+nrow(age_male)
+nrow(age_female)
+```
 
 Great, we just had to remove some duplicated rows. Now, let’s merge the
 dataframes! If they were ordered in exactly the same way, we could use
@@ -114,10 +120,12 @@ parameters *by.x* for the first and *by.y* for the second dataframe. If
 the matching columns had the same name, we could just use the parameter
 *by*.
 
-
-    # R
-    # merging
-    age_data 
+```r
+# R
+# merging
+age_data <- merge(age_male, age_female[c(1,4)], by.x="district_id", by.y="dist_id")
+head(age_data) # looks good!
+```
 
 P.S.: Merging also works with data frames of different lengths. In that
 case, you can specify whether you want to keep unmatchable rows. Type
@@ -131,14 +139,15 @@ attribute names should be called. We give value the new column name for
 the values and then specify the columns that should be gathered by
 applying the columns’ indexes.
 
-
-    # R
-    # tidyverse
-    age_data 
+```r
+# R
+# tidyverse
+age_data <- gather(age_data, key=key, value=age, 4:5)
+head(age_data) # that's what I call tidy!
+```
 
 By the way: *1:3* is just the same as *c(1,2,3)*.
 
-br&gt;
 **Analysis**
 
 As mentioned before, a very nice package that’s great for getting a
@@ -148,30 +157,31 @@ Hadley Wickham and designed to work well with the tidy data format.
 Let’s get an overview of our data by filtering and summarizing the
 values:
 
-
-    # R
-    # Summarize the data to get the average age in Germany
-    age_data %>% summarize(mean=mean(age))
-    # Now group by the column key to get the average age for males and females in Germany
-    age_data %>% group_by(key) %>% summarize(mean=mean(age))
-    # In the same way, we can group by other columns, for example:
-    age_data %>% group_by(city_county) %>% summarize(mean=mean(age))
-    # Now calculate the average age per district. But instead of summarizing, save the result in a new column.
-    # This time, save the new dataset as a variable in the R environment
-    age2 % group_by(district_id) %>% mutate(district_mean=mean(age))
-    head(age2)
-    # We now want to find the youngest cities of Germany.
-    # We won't need the columns key and age for that. We remove those columns and then reduce the dataset to the unique rows
-    age2 %% select(-c(4,5)) %>% unique()
-    head(age2)
-    # Now, use filter to only keep the cities, not the counties and arrange the dataset in descending order according to the district_mean
-    youngest_cities % filter(city_county %in% "city") %>% arrange(district_mean)
-    head(youngest_cities)
-    # Next, we only want to have a look at bavarian cities, whose district IDs all start with "09". A great base function
-    # called startsWith() can easily find all district IDs that start with certain characters:
-    youngest_cities %>% filter(startsWith(district_id, "09"))
-    # Let's find the oldest bavarian city
-    youngest_cities %>% filter(startsWith(district_id, "09")) %>% arrange(desc(district_mean))
+```r
+# R
+# Summarize the data to get the average age in Germany
+age_data %>% summarize(mean=mean(age))
+# Now group by the column key to get the average age for males and females in Germany
+age_data %>% group_by(key) %>% summarize(mean=mean(age))
+# In the same way, we can group by other columns, for example:
+age_data %>% group_by(city_county) %>% summarize(mean=mean(age))
+# Now calculate the average age per district. But instead of summarizing, save the result in a new column.
+# This time, save the new dataset as a variable in the R environment
+age2 <- age_data %>% group_by(district_id) %>% mutate(district_mean=mean(age))
+head(age2)
+# We now want to find the youngest cities of Germany.
+# We won't need the columns key and age for that. We remove those columns and then reduce the dataset to the unique rows
+age2 %<>% select(-c(4,5)) %>% unique()
+head(age2)
+# Now, use filter to only keep the cities, not the counties and arrange the dataset in descending order according to the district_mean
+youngest_cities <- age2 %>% filter(city_county %in% "city") %>% arrange(district_mean)
+head(youngest_cities)
+# Next, we only want to have a look at bavarian cities, whose district IDs all start with "09". A great base function
+# called startsWith() can easily find all district IDs that start with certain characters:
+youngest_cities %>% filter(startsWith(district_id, "09"))
+# Let's find the oldest bavarian city
+youngest_cities %>% filter(startsWith(district_id, "09")) %>% arrange(desc(district_mean))
+```
 
 See how *dplyr* makes it really easy to have a look at different aspects
 of your data by just combining different functions? You can even easily
@@ -191,12 +201,13 @@ just type *?substr* into your console.
 Finally, arrange the data in ascending order according to the
 *district\_mean*.
 
+```r
+# R
+youngest_cities %>% group_by(state=substr(district_id, 1, 2)) %>%
+filter(district_mean %in% min(district_mean)) %>% arrange(district_mean)
+```
 
-    # R
-    youngest_cities %>% group_by(state=substr(district_id, 1, 2)) %>%
-    filter(district_mean %in% min(district_mean)) %>% arrange(district_mean)
 
-br&gt;
 **Visualize**
 
 We’ve now found out a lot about our data by simply filtering,
@@ -215,9 +226,11 @@ files that have to be stored in the same directory. Nevertheless, we
 only will load the SHP file into R using *rgdal’s readOGR()*.
 
 
-    # R
-    needs(rgdal,broom)
-    krs_shape 
+```r
+# R
+needs(rgdal,broom)
+krs_shape <- readOGR(dsn="krs_shape/krs_shape_germany.shp", layer="krs_shape_germany", stringsAsFactors=FALSE, encoding="utf-8")
+```
 
 *krs\_shape* basically consists of two parts: A dataframe in
 *krs\_shape@data* and the geographic information in
@@ -228,18 +241,20 @@ age values. But, as always, I like to work with tidy data. This is why
 we’ll loaded the package *broom* before. If you take a look at the
 shapefile…
 
-
-    # R
-    head(krs_shape)
-    head(krs_shape@data)
-    head(krs_shape@polygons)
+```r
+# R
+head(krs_shape)
+head(krs_shape@data)
+head(krs_shape@polygons)
+```
 
 …you may understand why I’d like to keep the data a little bit more
 simple. *broom’s tidy()*-function simplifies the geodata:
 
-
-    # R
-    head(tidy(krs_shape))
+```r
+# R
+head(tidy(krs_shape))
+```
 
 Much better! We now have one row per polygon point and group IDs so we
 know which points belong to the same shape. But we have a loss of
@@ -253,18 +268,20 @@ I usually do:
 In the first step, I save the shapefiles’ district IDs as numerics in a
 new variable
 
-
-    # R
-    shape_district_ids 
+```r
+# R
+shape_district_ids <- as.numeric(krs_shape$KRS)
+```
 
 Next, I arrange my dataframe to match the order of the IDs in the
 shapefile, then add new IDs from 0 to 401 that will match the tidied
 shapefile IDs:
 
-
-    # R
-    age2 %% arrange(match(as.numeric(district_id), shape_district_ids))
-    age2$id 
+```r
+# R
+age2 %<>% arrange(match(as.numeric(district_id), shape_district_ids))
+age2$id <- 0:401
+```
 
 Now I merge the tidied shapefile with my data by the new ID. It is
 important to not lose any shapefile rows while merging and keep the
@@ -272,9 +289,11 @@ important to not lose any shapefile rows while merging and keep the
 in ascending order according to the ID column.
 
 
-    # R
-    plot_data % arrange(id) 
-    head(plot_data)
+```r
+# R
+plot_data <- merge(tidy(krs_shape), age2, by="id", all.x=T) %>% arrange(id)
+head(plot_data)
+```
 
 This is our final plotting data. Every point of each district’s
 shapefile now has additional information like the district’s average
@@ -284,16 +303,29 @@ Because we already explained how ggplot basically works in a [previous
 post](http://journocode.com/2016/03/02/r-the-ggplot2-package/), I’ll
 only comment the code for the choropleth:
 
-
-    # R
-    cols 
+```r
+# R
+cols <- c("#e5f5e0","#c7e9c0","#a1d99b","#74c476","#41ab5d","#238b45", "#006d2c","#00441b") # set individual color scheme
+ggplot(data=plot_data, aes(x=long, y=lat, group=group)) + # never forget the grouping aestethic!
+geom_polygon(aes(fill=district_mean)) +
+theme_void() + # clean background theme
+ggtitle("Average Age of Germanys districts") +
+theme(plot.title = element_text(face="bold", size=12, hjust=0, color="#555555")) +
+scale_fill_gradientn(colors=cols, space = "Lab", na.value = "#bdbdbd", name=" ") +
+coord_map() # change projection
+```
 
 And this is what the result should look like:
 
-\
-![](jcgermany.png){.img-responsive
-.no-border}\
-\
+
+
+{{< image 
+    image="509-jcgermany.png"
+>}}
+Polymap Germany
+{{< /image >}}
+
+
 Of course, our analyzed example data isn’t a data story treasure. The
 old eastern Germany might be a story, one of our arranged lists might
 be, too. Or the results just gave you a hint where to dig deeper.
