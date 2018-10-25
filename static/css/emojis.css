@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Noto Color Emoji';
+    src: local('Noto Color Emoji'), url(/static/css/fonts/noto/NotoColorEmoji.ttf) format("truetype");
+}
+
+i.emoji {
+    font-family: "Noto Color Emoji";
+    font-weight: normal;
+    font-style: normal;
+}
+
+i.emoji.grinning-face-with-smiling-eyes:before {
+    content: "\1F389"
+}
+
