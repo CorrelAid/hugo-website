@@ -87,7 +87,6 @@ $donate.click(function (e) {
 // save purpose
 $purpose.click(function (e) {
     purpose = $(this).data('purpose');
-    console.info(purpose);
 });
 
 // next button
@@ -96,9 +95,14 @@ $next.click(function (e) {
     if (progress === 1 && type === 0) return;
     progress++;
     $donationSection.hide();
-    $('#' + progress).show();
+    $('#donate-' + progress).show();
 });
 
 // back button
-
+$back.click(function (e) {
+    if (progress === 0) return;
+    progress--;
+    $donationSection.hide();
+    $('#donate-' + progress).show();
+});
 
