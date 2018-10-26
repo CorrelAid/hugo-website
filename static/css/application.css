@@ -518,7 +518,7 @@ i.caveat {
 }
 
 .donate-box-inner.active.infrastructure {
-    background: linear-gradient(45deg,rgba(56, 99, 162, .82), rgba(146, 222, 63, .82)), url(../images/infrastructure.jpg);
+    background: linear-gradient(45deg,rgba(56, 99, 162, .82), rgba(146, 222, 63, .72)), url(../images/infrastructure.jpg);
     background-position: center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
