@@ -22,22 +22,25 @@ function getCookie(cname) {
 /* =============== CORRELAID X BAR =============== */
 
 
-if (getCookie('correlaidx-bar-hidden')) $('#correlaid-x-navbar').css('top', 12).addClass('up');
+var $correlaidxNavbar = $('#correlaid-x-navbar');
+var $correlaidxNavbarClose = $('#close-correlaid-x-navbar');
+
+if (getCookie('correlaidx-bar-hidden')) $correlaidxNavbar.css('top', 12).addClass('up');
 
 
-$('#close-correlaid-x-navbar').click(function (e) {
+$correlaidxNavbarClose.click(function (e) {
     e.preventDefault();
-    $('#correlaid-x-navbar').animate({
+    $correlaidxNavbar.animate({
         top: 12
     }, 100, function () {
-        $('#correlaid-x-navbar').addClass('up');
+        $correlaidxNavbar.addClass('up');
     });
     setCookie('correlaidx-bar-hidden', 1);
-    $('#close-correlaid-x-navbar').blur();
+    $correlaidxNavbarClose.blur();
 });
 
 $('#correlaid-x-navbar.up').click(function () {
-    $('#correlaid-x-navbar').css('top', 56).removeClass('up');
+    $correlaidxNavbar.css('top', 56).removeClass('up');
     setCookie('correlaidx-bar-hidden', '');
 });
 
@@ -58,7 +61,9 @@ $('#close-correlaid-cookie-bar').click(function (e) {
 
 /* =============== CONTACT FORM =============== */
 
-$('#contact-modal').on('show.bs.modal', function (event) {
+var $contactModal = $('#contact-modal');
+
+$contactModal.on('show.bs.modal', function (event) {
     var trigger = $(event.relatedTarget);
     var email = trigger.data('email');
     var recipient = trigger.data('to');
@@ -67,7 +72,7 @@ $('#contact-modal').on('show.bs.modal', function (event) {
     modal.find('#recipient-name').val(recipient);
 });
 
-$('#contact-modal').on('shown.bs.modal', function (event) {
+$contactModal.on('shown.bs.modal', function (event) {
     var trigger = $(event.relatedTarget);
     if (parseInt(trigger.data('correlaidx')) === 1) $('.modal-backdrop').addClass('x');
 });
