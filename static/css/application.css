@@ -53,6 +53,10 @@ main {
     color: #FFFFFF;
 }
 
+.ca-red-text {
+    color: #f04451 !important;
+}
+
 .ca-green {
     background-color: #92de3f !important;
     color: #FFFFFF;
@@ -632,6 +636,10 @@ i.caveat {
 
 .modal-backdrop {
     background: linear-gradient(45deg,rgba(56, 99, 162, 1), rgba(146, 222, 63, 1));
+}
+
+.modal-backdrop.x {
+    background: linear-gradient(45deg,rgba(56, 99, 162, 1), rgba(240, 68, 81, 1));
 }
 
 .modal-backdrop.show {

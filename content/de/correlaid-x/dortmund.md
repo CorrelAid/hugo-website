@@ -19,8 +19,12 @@ In Workshops wurde erörtert, was mittlerweile mit Data Science alles möglich i
 
 {{< person 
     name="Damon"
-    subline="dortmund@correlaid.org"
+    subline="CorrelAidX Dortmund"
     img="/images/people/damon.jpg"
+    data-email="dortmund@correlaid.org"
+    data-to="Damon (CorrelAidX Dortmund)"
+    link-color="ca-red-text"
+    x="1"
 >}}
 Damon, in den Endzügen meines Masters in Statistik. Ich bin seit 2015 bei CorrelAid und kümmere mich um den Local Chapter im Ruhrgebiet. Unangefochtener Sieger der CorrelAid Tischtennismeisterschaften 2018.
 {{< /person >}}

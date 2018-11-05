@@ -67,6 +67,12 @@ $('#contact-modal').on('show.bs.modal', function (event) {
     modal.find('#recipient-name').val(recipient);
 });
 
+$('#contact-modal').on('shown.bs.modal', function (event) {
+    var trigger = $(event.relatedTarget);
+    if (parseInt(trigger.data('correlaidx')) === 1) $('.modal-backdrop').addClass('x');
+});
+
+
 
 /* =============== BLINK (ONLY FOR DEV PURPOSES) =============== */
 

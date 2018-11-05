@@ -7,12 +7,13 @@
             </div>
         </div>
         <div class="col-md-9 align-self-center">
-            <h1 class="ca-green-text mb-0 mt-0">
+            <h1 class="{{ .Get `link-color` }} mb-0 mt-0">
                 <a href="#"
                    data-toggle="modal"
                    data-target="#contact-modal"
                    data-email="{{ .Get `data-email`}}"
                    data-to="{{ .Get `data-to`}}"
+                   data-correlaidx="{{ .Get `x` }}"
                 >
                 {{ .Get `name` }}
                 </a>
