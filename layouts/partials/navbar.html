@@ -66,7 +66,7 @@
                 <a class="nav-link dropdown-toggle" href="#" id="languages-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     <i class="fas fa-lg fa-language"></i>
                 </a>
-                <div class="dropdown-menu" aria-labelledby="languages-dropdown">
+                <div class="dropdown-menu lang" aria-labelledby="languages-dropdown">
                     {{ range .Translations }}
                     <a class="dropdown-item" href="{{ .Permalink }}">{{ upper .Language }}</a>
                     {{ end}}

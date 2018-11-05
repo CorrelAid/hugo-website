@@ -414,6 +414,10 @@ i.caveat {
     background-color: #ffffff;
 }
 
+.dropdown-menu.lang {
+    min-width: 10px;
+}
+
 /* ========== HERO SECTION ========== */
 
 .correlaid-logo {
