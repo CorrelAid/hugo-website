@@ -17,8 +17,6 @@
         <!-- Application CSS -->
         <link rel="stylesheet" href="/css/application.css" />
 
-        <title>CorrelAid</title>
-
         <!-- FAVICONS -->
         <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
@@ -31,6 +29,24 @@
         <meta name="theme-color" content="#ffffff">
         <!-- /END FAVICONS -->
 
+        <!-- META DATA -->
+        <title>{{ .Params.meta.title }}</title>
+        <meta name="description" content="{{ .Params.meta.description }}">
+        <meta name="keywords" content="{{ .Params.meta.keywords }}">
+        <meta name="author" content="CorrelAid e.V.">
+
+        <meta property="og:title" content="{{ .Params.meta.title }}"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:image" content="{{ .Site.BaseURL }}images/blog/thumbs-x250/{{ .Params.meta.image }}"/>
+        <meta property="og:url" content="{{ .Page.Permalink }}"/>
+        <meta property="og:description" content="{{ .Params.meta.description }}"/>
+
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@CorrelAid" />
+        <meta name="twitter:title" content="{{ .Params.meta.title }}" />
+        <meta name="twitter:description" content="{{ .Params.meta.description }}" />
+        <meta name="twitter:image" content="{{ .Site.BaseURL }}images/blog/thumbs-x250/{{ .Params.meta.image }}" />
+        <!-- /END META DATA -->
 
     </head>
     <body>
