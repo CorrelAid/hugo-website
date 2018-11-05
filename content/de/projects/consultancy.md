@@ -15,9 +15,9 @@ In unseren Projekten vermitteln wir ein Team von ehrenamtlichen Datenanalysten u
 In unseren Projekten ist uns wichtig, dass wir diverse Teams zusammenstellen: Auf der einen Seite bringen wir so alle benötigten Skills zusammen und auf der anderen Seite wird es so eine wertvolle Lernerfahrung für alle Beteiligten.
 
 {{< testimonial 
-    contact="Jane Doe"
-    organisation="Sample Organization"
-    image="/images/testimonials/1.jpg"
+    contact="ProjectTogether"
+    organisation="ProjectTogether"
+    image="andre-lange.jpg"
 >}}
-    CorrelAid hat uns geholfen unsere Wirkungslogik zu schärfen und so unser Angebot besser auf unsere Zielgruppe anzupassen.
+    Die Zusammenarbeit mit CorrelAid hat uns hochspannende Einblicke in die Möglichkeiten der Datenanalyse gegeben.
 {{< /testimonial >}}

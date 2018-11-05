@@ -14,9 +14,9 @@ In unseren Workshops bilden wir unser Data Science Netzwerk weiter. In unserem N
 
 
 {{< testimonial 
-    contact="Jane Doe"
-    organisation="Sample Organization"
-    image="/images/testimonials/3.jpg"
+    contact="André Lange"
+    organisation="Business Manager"
+    image="andre-lange.jpg"
 >}}
-    Der R Workshop von CorrelAid hat mir geholfen einen Einstieg in das Programmieren zu finden.
+    Am meisten Spaß gemacht hat mir, gemeinsam mit dem Team eine neue Version des Dashboards zu publizieren. Meist Sonntagabend, nachdem wir am Wochenende nochmal richtig in die Tasten gehauen und viele Ideen umgesetzt haben. Ich habe während des Projekts extrem viel von den anderen im Team und von GoVolunteer gelernt. Nicht nur besseres Coden in R, sondern auch effektive Projektarbeit im virtuellen Team, das dabei erfreulicherweise sehr lebendig war.
 {{< /testimonial >}}
