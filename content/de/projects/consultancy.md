@@ -8,7 +8,7 @@ menu:
         weight: 1
 ---
 
-## Datenberatung
+# Datenberatung
 
 In unseren Projekten vermitteln wir ein Team von ehrenamtlichen Datenanalysten und Datenanalystinnen aus unserem Netzwerk an gemeinnützige Organisationen. Zusammen helfen wir der Organisation ihre Daten zu nutzen um Prozesse effizienter zu gestalten, die Zielgruppe besser kennenzulernen und Ressourcen besser zu verteilen. Ein Projekt dauert etwa 2 bis 4 Monate.
 
