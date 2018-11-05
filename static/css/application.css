@@ -311,9 +311,15 @@ i.caveat {
 }
 
 .btn-ca-green {
-    color: #fff;
+    color: #FFFFFF;
     background-color: #92de3f;
     border-color: #92de3f;
+}
+
+.btn-ca-dark-blue {
+    color: #FFFFFF;
+    background-color: #233140;
+    border-color: #233140;
 }
 
 
