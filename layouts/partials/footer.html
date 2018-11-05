@@ -64,6 +64,15 @@
                     {{ range .Site.Menus.essentials }}
                     <li><a class="text-muted" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
                     {{ end }}
+                    <li><a href="#"
+                           data-toggle="modal"
+                           data-target="#contact-modal"
+                           data-email="contact@correlaid.org"
+                           data-to="Contact CorrelAid"
+                           class="text-muted"
+                    >
+                        Kontakt
+                    </a></li>
                 </ul>
                 <div class="row d-none d-md-flex">
                     <div class="col-2">
