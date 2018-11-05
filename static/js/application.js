@@ -56,6 +56,18 @@ $('#close-correlaid-cookie-bar').click(function (e) {
 });
 
 
+/* =============== CONTACT FORM =============== */
+
+$('#contact-modal').on('show.bs.modal', function (event) {
+    var trigger = $(event.relatedTarget);
+    var email = trigger.data('email');
+    var recipient = trigger.data('to');
+    var modal = $(this);
+    modal.find('#email').val(email);
+    modal.find('#recipient-name').val(recipient);
+});
+
+
 /* =============== BLINK (ONLY FOR DEV PURPOSES) =============== */
 
 setInterval(function () {

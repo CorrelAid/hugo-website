@@ -630,6 +630,14 @@ i.caveat {
     font-size: 1rem;
 }
 
+.modal-backdrop {
+    background: linear-gradient(45deg,rgba(56, 99, 162, 1), rgba(146, 222, 63, 1));
+}
+
+.modal-backdrop.show {
+    opacity: 1 !important;
+}
+
 /* ========== COOKIE BAR ========== */
 
 .cookie-bar {
