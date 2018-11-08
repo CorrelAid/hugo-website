@@ -6,3 +6,12 @@ menu:
     correlaidx:
         weight: 5
 ---
+
+
+
+We are a group of data science enthusiasts from all over the Netherlands, who are in the process of developing CorrelAidxNL, an organisation that has the goal of connecting data scientists with organisations and foundations that advance the Social Good. 
+These data scientists could either be students in a quantitative field that want to apply their skills on real world problems, or professionals who want to do something meaningful outside of their day job. All this happens on a volunteer basis.
+ 
+CorrelAid X Netherlands is inspired by, and in contact with, CorrelAid which was originally founded in Germany.
+
+If you are interested in CorrelAid X Netherlands or you want to get involved in our network; subscribe to our mailing list.
