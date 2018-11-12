@@ -1,7 +1,7 @@
 ---
  title: "Spatial Analysis of Airplane Accidents"
  date: 2017-10-14T00:00:00+02:00
- image: "map_usa2.png"
+ image: "509-point-pattern-analysis.jpg"
  summary: "Employing a Point Pattern Analysis on the Case of Florida"
  author: "Lisa"
 ---
@@ -82,11 +82,11 @@ occurred. By looking at the map, accidents seem to cluster along the
 East Coast and in Central Florida, respectively, whereas fewer accidents
 seem to happen in North and South Florida.
 
-\
-![](airplanes1.jpg){.img-responsive
-.no-border}*Figure 1: Accidents seem to cluster along the East Coast and
-in Central Florida.*\
-\
+{{< image-subtitle
+    image="509-airplanes1.jpg"
+>}}
+Figure 1: Accidents seem to cluster along the East Coast and in Central Florida.
+{{< /image-subtitle >}}
 
 While visualizations provide a first insight into the spatial
 distribution of events, they do not suffice for (dis-)confirming spatial
@@ -120,11 +120,12 @@ and count the number of events being located within each quadrat. If the
 intensity is homogeneous, the number of events within each quadrat
 should, approximately, be the same.
 
-\
-![](airplanes2.jpg){.img-responsive
-.no-border}*Figure 2: The intensity of the point process is
-inhomogeneous.*\
-\
+{{< image-subtitle
+    image="509-airplanes2.jpg"
+>}}
+Figure 2: The intensity of the point process is inhomogeneous.
+{{< /image-subtitle >}}
+
 Figure 2 indicates that the intensity of the point process is
 inhomogeneous since the number of airplane accidents varies spatially.
 With regard to the spatial distribution of the depicted quadrats,
@@ -144,11 +145,12 @@ the kernel smoother. As indicated by the lighter areas in figure 3,
 there are several accident hotspots in Central Florida and along the
 eastern coastline of Florida.
 
-\
-![](airplanes3.jpg){.img-responsive
-.no-border}*Figure 3: There are several accident hotspots in Central
-Florida and along the eastern coastline of Florida.*\
-\
+{{< image-subtitle
+    image="509-airplanes3.jpg"
+>}}
+Figure 3: There are several accident hotspots in Central Florida and along the eastern coastline of Florida.
+{{< /image-subtitle >}}
+
 After assessing the first-order properties, PPA proceed with testing
 whether events tend to cluster spatially. By employing nonparametric
 distance functions, it can be analyzed if the observed spatial pattern
@@ -161,11 +163,13 @@ occurrence of an airplane accident – at least in most cases – neither
 increases nor decreases the propability of other accidents happening
 nearby.
 
-\
-![](airplanes4.jpg){.img-responsive
-.no-border}*Figure 4: From Left to Right: (a) Observed points, (b)
-Random points, (c) Regular points.*\
-\
+{{< image-subtitle
+    image="509-airplanes4.jpg"
+>}}
+Figure 4: From Left to Right: (a) Observed points, (b)
+Random points, (c) Regular points.
+{{< /image-subtitle >}}
+
 One common testing procedure is to plot the observed points, i.e.,
 accidents, within the study alongside sampled random and regular points
 (see, e.g., Bivand et al. 2008). For the sampled point locations, the
@@ -188,11 +192,15 @@ events being constant across the study area, a generalisation of
 Ripley’s K function (1977) for inhomogeneous point patterns was
 computed.
 
-\
-![](airplanes5.jpg){.img-responsive
-.no-border}*Figure 5: A statistically significant clustering of airplane
-accidents occurred only at smaller distances.*\
-\
+{{< image-subtitle
+    image="509-airplanes5.jpg"
+>}}
+Figure 5: A statistically significant clustering of airplane
+accidents occurred only at smaller distances.
+{{< /image-subtitle >}}
+
+
+
 The plotted K function in figure 5 shows that a statistically
 significant clustering of airplane accidents occurred only at smaller
 distances, whereas the empirical values Kˆ(r) at greater distances lie
