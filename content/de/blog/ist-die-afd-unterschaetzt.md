@@ -1,7 +1,7 @@
 ---
  title: "Die unterschätzten Rechtspopulisten"
  date: 2017-09-23T00:00:00+02:00
- image: "bundestag.jpg"
+ image: "509-ist-die-afd-unterschaetzt.jpg"
  summary: "Wird die AfD bei der Bundestagswahl stärker, als es Umfragen und Prognosen vorhersagen?"
  author: "Yannik"
 ---
@@ -74,12 +74,14 @@ zwölf Wahlen die Abweichung der beiden großen Umfrageinstitute Infratest
 Dimap und Forschungsgruppe Wahlen zwischen Wahl- und Umfrageergebnis in
 Prozentpunkten.
 
-\
-![](Vorwahl.jpeg){.img-responsive
-.no-border}*Abbildung 1: Differenz zwischen tatsächlichem Ergebnis der
+{{< image-subtitle
+    image="509-vorwahl.jpeg"
+>}}
+Abbildung 1: Differenz zwischen tatsächlichem Ergebnis der
 AfD und der letzten Vorwahlbefragung von Infratest Dimap und der
-Forschungsgr. Wahlen.*\
-\
+Forschungsgruppe Wahlen.
+{{< /image-subtitle >}}
+
 Das Schaubild zeigt zweierlei. Erstens: Bis zu den Wahlen in Berlin und
 Mecklenburg-Vorpommern 2016 – und einem Infratest-Ausreißer 2014 in
 Sachsen – wurde die AfD in Vorwahlbefragungen tatsächlich stets
@@ -92,12 +94,15 @@ zeigt dieselbe Auswertung für sogenannte Exit-Polls – Befragungen, die
 repräsentativ direkt vor den Wahllokalen durchgeführt werden und die
 Basis für die erste 18-Uhr-Hochrechnung bilden.
 
-\
-![](Exitpoll.jpeg){.img-responsive
-.no-border}*Abbildung 1: Differenz zwischen tatsächlichem Ergebnis der
+{{< image-subtitle
+    image="509-exitpoll.jpeg"
+>}}
+Abbildung 1: Differenz zwischen tatsächlichem Ergebnis der
 AfD und der ersten Nachwahlbefragung (18 Uhr) von Infratest Dimap und
-der Forschungsgr. Wahlen.*\
-\
+der Forschungsgr. Wahlen.
+{{< /image-subtitle >}}
+
+
 Hier zeigt sich ein ähnliches Bild. Die Unterschätzungen sind weniger
 häufig und weniger stark. Auch die Überschätzungen sind im Ausschlag
 geringer als bei den Vorwahlbefragungen. Trotzdem bewegen sie sich
