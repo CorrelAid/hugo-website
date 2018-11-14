@@ -1,7 +1,7 @@
 ---
  title: "Die Visualisierung von Wahlumfrageergebnissen"
  date: 2017-09-20T00:00:00+02:00
- image: "2017-09-18_graphical_web.jpg"
+ image: "509-graphical-perception-political-polls.jpg"
  summary: "Wie stellen wir Wahlumfragen am Verständlichsten dar?"
  author: "Richard"
 ---
@@ -51,11 +51,13 @@ scheint insbesondere nützlich, wenn man zwei kategoriale Variablen
 gleichzeitig vergleichen möchte: etwa die wahrgenommene Kompetenz der
 Parteien in verschiedenen Politikbereichen.
 
-\
-![](blogpost_fig3.png){.img-responsive
-.no-border}*Abbildung 1: Balkendiagramm, *Dot Plot* und Liniendiagramm
-im Vergleich.*\
-\
+{{< image-subtitle
+    image="509-blogpost-fig3.png"
+>}}
+Abbildung 1: Balkendiagramm, *Dot Plot* und Liniendiagramm im Vergleich.
+{{< /image-subtitle >}}
+
+
 ### Neue experimentelle Evidenz
 
 Mein Kollege Felix Jäger und ich haben nun in einer Reihe von
