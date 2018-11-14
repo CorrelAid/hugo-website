@@ -1,7 +1,7 @@
 ---
  title: "#data4good mit dem Projektbüro"
- date: NA
- image: "2017-10-04_Projektbuero.png.jpg"
+ date: 2017-10-07T00:00:00+02:00
+ image: "509-kooperation-projektbuero-hamburg.jpg"
  summary: "Unser Kooperationspartner für das meet up_HH stellt sich vor."
  author: "Projektbüro"
 ---
