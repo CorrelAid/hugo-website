@@ -1,7 +1,7 @@
 ---
  title: "Wahlvorhersagen mit Schwarmintelligenz"
- date: NA
- image: "koalitionsszenarien.jpg"
+ date: 2017-09-19T00:00:00+02:00
+ image: "509-schwarm-prognose.jpg"
  summary: "Ein Modell mit Potenzial?"
  author: "Felix,"
 ---
@@ -15,11 +15,13 @@ Vorhersagen. Was das Modell wirklich taugt, lässt sich natürlich erst
 nach der Wahl feststellen. Unsere Vorhersage(n) - und was dahinter
 steckt - wollen wir aber jetzt schon mal vorstellen.
 
-\
-![](04_Unsere-Prognose-fuer-die-Bundestagswahl.jpg){.img-responsive
-.no-border}*Abbildung 1: Vorhersage der Bundestagswahl mit einem
-vote-expectation-model, Anzahl Befragte: 1009.*\
-\
+
+{{< image-subtitle
+    image="509-unsere-prognose-fuer-die-bundestagswahl.jpg"
+>}}
+Abbildung 1: Vorhersage der Bundestagswahl mit einem vote-expectation-model, Anzahl Befragte: 1009.
+{{< /image-subtitle >}}
+
 **Was ist besonders an diesem Modell?**
 
 Unser Modell hat zwei große Vorteile. Zum einen ist es für uns relativ
@@ -72,101 +74,27 @@ ist das Gegenteil der Fall. Die tierischen Bezeichnung haben wir uns
 nicht selbst ausgedacht, sondern von Philip E. Tetlock übernommen (ein
 Psychologe und offensichtlich großer Tierfreund).
 
-\
-Vorhersagen einzelner Gruppen
-Gruppe
-CDU/CSU
-SPD
-Linke
-Grüne
-FDP
-AfD
-Sonstige
-Politikstudierende
-38.51
-24.88
-8.07
-8.15
-8.22
-8.15
-4.02
-Nicht-Politikstudierende
-36.23
-25.01
-8.16
-10.08
-7.81
-8.37
-4.34
-Extra informiert
-38.37
-24.66
-8.26
-8.41
-7.88
-8.24
-4.18
-Nicht extra informiert
-36.22
-25.12
-8.07
-9.97
-7.91
-8.45
-4.26
-Viel Wissen
-37.96
-25.12
-8.22
-8.27
-8.19
-8.13
-4.11
-Weniger Wissen
-34.78
-25.18
-8.2
-11.85
-7.43
-8.16
-4.4
-Viel Interesse
-37.67
-24.83
-8.18
-8.7
-8.11
-8.34
-4.16
-Weniger Interesse
-34.78
-25.18
-8.2
-11.85
-7.43
-8.16
-4.4
-Füchse
-37.31
-24.69
-8.24
-9.06
-8.24
-8.26
-4.2
-Igel
-36.87
-25.06
-8.14
-9.58
-7.85
-8.27
-4.23
-^\*^ Politisches Interesse und politisches Wissen jeweils nach
-Selbsteinschätzung
+
+#### Vorhersagen einzelner Gruppen
+
+Gruppe                     | CDU/CSU    | SPD        | Linke      | Grüne      | FDP        | AfD        | Sonstige
+-------------------------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ----------
+Politikstudierende         | 38.51      | 24.88      | 8.07       | 8.15       | 8.22       | 8.15       | 4.02
+Nicht-Politikstudierende   | 36.23      | 25.01      | 8.16       | 10.08      | 7.81       | 8.37       | 4.34
+Extra informiert           | 38.37      | 24.66      | 8.26       | 8.41       | 7.88       | 8.24       | 4.18
+Nicht extra informiert     | 36.22      | 25.12      | 8.07       | 9.97       | 7.91       | 8.45       | 4.26
+Viel Wissen                | 37.96      | 25.12      | 8.22       | 8.27       | 8.19       | 8.13       | 4.11
+Weniger Wissen             | 34.78      | 25.18      | 8.2        | 11.85      | 7.43       | 8.16       | 4.4
+Viel Interesse             | 37.67      | 24.83      | 8.18       | 8.7        | 8.11       | 8.34       | 4.16
+Weniger Interesse          | 34.78      | 25.18      | 8.2        | 11.85      | 7.43       | 8.16       | 4.4
+Füchse                     | 37.31      | 24.69      | 8.24       | 9.06       | 8.24       | 8.26       | 4.2
+Igel                       | 36.87      | 25.06      | 8.14       | 9.58       | 7.85       | 8.27       | 4.23
+
 *Tabelle 1: Selbsteinschätzung des politischen Interesses und Wissens
-und Information über Schätzung.*\
-\
+und Information über Schätzung.*
+
+
+
 **So what - lohnt sich das?**
 
 Bei einer ähnlichen Umfrage zur Landtagswahl Baden-Württemberg 2016
