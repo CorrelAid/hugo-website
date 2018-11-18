@@ -1,7 +1,7 @@
 ---
  title: "Zwei Jahre CorrelAid."
  date: 2017-07-17T00:00:00+02:00
- image: "birthday.jpg"
+ image: "509-happy-birthday-2017.jpg"
  summary: "Drei Highlights aus dem letzten Jahr und ein Blick nach vorn."
  author: "Johannes"
 ---
