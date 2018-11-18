@@ -4,6 +4,7 @@
  image: "emoji.jpg"
  summary: "Emojis on the CorrelAid Slack"
  author: "Frie"
+ draft: true
 ---
 
 
