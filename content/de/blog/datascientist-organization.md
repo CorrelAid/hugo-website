@@ -1,7 +1,7 @@
 ---
  title: "'A data scientist in every non-profit-organisation.'"
  date: 2016-02-23T00:00:00+02:00
- image: "data-scientist.jpg"
+ image: "509-a-data-scientist.jpg"
  summary: ""
  author: "Arndt"
 ---
