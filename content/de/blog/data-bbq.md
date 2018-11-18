@@ -1,7 +1,7 @@
 ---
  title: "Bericht vom Data BBQ"
  date: 2017-05-12T00:00:00+02:00
- image: "data-bbq.jpg"
+ image: "509-data-bbq.jpg"
  summary: ""
  author: "Arndt"
 ---
