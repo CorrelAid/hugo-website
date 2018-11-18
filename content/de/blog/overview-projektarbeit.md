@@ -1,7 +1,7 @@
 ---
  title: "Ein Blick in unsere Projektarbeit"
  date: 2016-12-06T00:00:00+02:00
- image: "projektarbeit.jpg"
+ image: "509-projektarbeit.jpg"
  summary: ""
  author: "Arndt"
 ---
