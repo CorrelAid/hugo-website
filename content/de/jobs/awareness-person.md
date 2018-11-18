@@ -2,6 +2,11 @@
 title: "Awareness Person"
 date: 2018-08-23T12:38:21+02:00
 draft: false
+meta:
+    title: "CorrelAid - Awareness Person"
+    description: "Wir suchen ab sofort eine Awareness Person, welche als AnsprechpartnerIn und VermittlerIn für das gesamte CorrelAid-Netzwerk fungiert. Bei Fragen oder Problemen können sich die Netzwerkmitglieder stets vertrauensvoll an dich wenden, um gemeinsam mit dir Lösungsansätze zu entwickeln und Konflikte zwischen Netzwerkmitgliedern zu lösen."
+    image: "509-correlaid-thumb.jpg"
+    keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
 # Ausschreibung der Position als Awareness Person

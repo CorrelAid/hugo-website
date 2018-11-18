@@ -5,6 +5,11 @@ draft: false
 menu: 
     contribute:
         weight: 3
+meta:
+    title: "CorrelAid - Jobs"
+    description: "Du möchtest CorrelAid unterstützten? Hier findest du aktuelle Job Angebote!"
+    image: "509-correlaid-thumb.jpg"
+    keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
 # Jobs

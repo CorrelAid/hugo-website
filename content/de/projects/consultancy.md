@@ -6,6 +6,11 @@ translationKey: "consultancy"
 menu: 
     projects:
         weight: 1
+meta:
+    title: "CorrelAid - Datenberatung"
+    description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 650 ehrenamtlichen DatenanalystInnen."
+    image: "509-correlaid-thumb.jpg"
+    keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
 # Datenberatung
