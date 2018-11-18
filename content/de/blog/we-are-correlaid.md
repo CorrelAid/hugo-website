@@ -1,7 +1,7 @@
 ---
  title: "#WeAreCorrelAid"
  date: 2015-11-06T00:00:00+02:00
- image: "wearecorrelaid-1.jpg"
+ image: "509-we-are-correlaid.jpg"
  summary: "Kick-Off in Berlin!"
  author: "Stefan"
 ---
