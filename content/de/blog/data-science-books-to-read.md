@@ -1,9 +1,17 @@
 ---
- title: "Data Science is not just about Data Science"
- date: 2018-05-01T00:00:00+02:00
- image: "509-data-science-books.jpg"
- summary: "7 Popular Science Books that you have to read"
- author: "Johannes"
+title: "Data Science is not just about Data Science"
+date: 2018-05-01T00:00:00+02:00
+image: "509-data-science-books.jpg"
+summary: "7 Popular Science Books that you have to read"
+author: "Johannes"
+draft: false
+meta:
+  title: "CorrelAid - Data Science is not just about Data Science"
+  description: "The other day I went through the list of books I have read over the last
+                half a year. And I noticed that most popular science books on that list
+                were somewhat related to data science – in one way or the other."
+  image: "509-data-science-books.jpg"
+  keywords: "CorrelAid, Data4Good, Reading, Data Science Books"
 ---
 
 

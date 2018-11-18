@@ -1,9 +1,15 @@
 ---
- title: "Erste Einblicke und Netzwerkanalyse"
- date: 2017-07-01T00:00:00+02:00
- image: "509-expertinneninterview.jpg"
- summary: "Ein Experteninterview mit Dr. Nadine Meidert"
- author: "Dr."
+title: "Erste Einblicke und Netzwerkanalyse"
+date: 2017-07-01T00:00:00+02:00
+image: "509-expertinneninterview.jpg"
+summary: "Ein Experteninterview mit Dr. Nadine Meidert"
+author: "Dr."
+draft: false
+meta:
+    title: "CorrelAid - Erste Einblicke und Netzwerkanalyse"
+    description: "Ein Expert*inneninterview mit Dr. Nadine Meider über Data Science und Netzwerkanaylse."
+    image: "509-expertinneninterview.jpg"
+    keywords: "CorrelAid, Data4Good, Microsoft, Zukunft, Vision, NGO, Non-Profit, Data Scientist, Netzwerkanalyse"
 ---
 
 

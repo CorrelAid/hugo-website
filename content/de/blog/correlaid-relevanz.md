@@ -1,9 +1,22 @@
 ---
- title: "7 Gründe, warum CorrelAid relevant ist"
- date: 2015-11-12T00:00:00+02:00
- image: "509-correlaid-relevance.jpg"
- summary: ""
- author: "Johannes"
+title: "7 Gründe, warum CorrelAid relevant ist"
+date: 2015-11-12T00:00:00+02:00
+image: "509-correlaid-relevance.jpg"
+summary: ""
+author: "Johannes"
+draft: false
+meta:
+  title: "CorrelAid - 7 Gründe, warum CorrelAid relevant ist"
+  description: "Als ich im März 2015 auf die Idee kam, CorrelAid als Initiative zu
+                starten, fing alles mit einer Mail mit dem Betreff „Data for Good“ an,
+                die ich über verschiedene Verteiler schickte mit dem Ziel,
+                MitstreiterInnen zu finden. Damals hatte ich noch keine Ahnung, ob sich
+                überhaupt jemand dafür begeistern ließe oder wie sich das Ganze
+                entwickeln würde. Jetzt ein halbes Jahr später blicke ich zurück und
+                finde unzählige Gründe, warum es sich gelohnt hat, diese Mail zu
+                schreiben."
+  image: "509-correlaid-relevance.jpg"
+  keywords: "CorrelAid, Data4Good, relevance, relevanz, Vorbild, Entwicklung, Zukunft, Sozialer Sektor, Team"
 ---
 
 

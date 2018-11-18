@@ -1,9 +1,17 @@
 ---
- title: "Zwei Jahre CorrelAid."
- date: 2017-07-17T00:00:00+02:00
- image: "509-happy-birthday-2017.jpg"
- summary: "Drei Highlights aus dem letzten Jahr und ein Blick nach vorn."
- author: "Johannes"
+title: "Zwei Jahre CorrelAid."
+date: 2017-07-17T00:00:00+02:00
+image: "509-happy-birthday-2017.jpg"
+summary: "Drei Highlights aus dem letzten Jahr und ein Blick nach vorn."
+author: "Johannes"
+draft: false
+meta:
+    title: "CorrelAid - Zwei Jahre CorrelAid."
+    description: "Heute vor zwei Jahren ist aus der Idee, ein Netzwerk von
+                  Datenanalystinnen und -analysten zu schaffen, die mit ihren Skills Gutes
+                  tun, der Verein CorrelAid e.V. entstanden."
+    image: "509-happy-birthday-2017.jpg"
+    keywords: "CorrelAid, Data4Good, Happy Birthday, 2 Jahre, Zwei Jahre"
 ---
 
 

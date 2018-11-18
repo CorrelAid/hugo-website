@@ -1,10 +1,21 @@
 ---
- title: "Hackathon mit Stifter-Helfen und PwC "
- date: 2018-09-09T00:00:00+02:00
- image: "509-hackathon-stifter.jpg"
- summary: "Ein Rückblick auf unsere Veranstaltung in München"
- author: "CorrelAid"
- category: ["Projects"]
+title: "Hackathon mit Stifter-Helfen und PwC"
+date: 2018-09-09T00:00:00+02:00
+image: "509-hackathon-stifter.jpg"
+summary: "Ein Rückblick auf unsere Veranstaltung in München"
+author: "CorrelAid"
+category: ["Projects"]
+draft: false
+meta:
+    title: "CorrelAid - Hackathon mit Stifter-Helfen und PwC"
+    description: "Das Potential von Datenanalyse demokratisieren. Wir haben uns Anfang des
+                  Jahres gefragt, wie wir auf dieser Mission auch Unternehmen einbeziehen
+                  können. Letzten Monat haben wir deshalb ein neues Format getestet: Wir
+                  veranstalten einen Hackathon mit engagierten AnalystInnen aus unserem
+                  Netzwerk und MitarbeiterInnen aus Data-Science-Abteilungen von
+                  Unternehmen."
+    image: "509-hackathon-stifter.jpg"
+    keywords: "CorrelAid, Data4Good, Hackathon, München, PwC, PricewaterhouseCoopers, Stifter-helfen, VueJS, Dashboard, Python"
 ---
 
 

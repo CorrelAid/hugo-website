@@ -1,9 +1,17 @@
 ---
- title: "'A data scientist in every non-profit-organisation.'"
- date: 2016-02-23T00:00:00+02:00
- image: "509-a-data-scientist.jpg"
- summary: ""
- author: "Arndt"
+title: "'A data scientist in every non-profit-organisation.'"
+date: 2016-02-23T00:00:00+02:00
+image: "509-a-data-scientist.jpg"
+summary: ""
+author: "Arndt"
+draft: false
+meta:
+  title: "CorrelAid - 'A data scientist in every non-profit-organisation.'"
+  description: "Microsoft hatte einmal die Vision 'A computer on every desk and in every
+                home'. In diesem Sinne würde CorrelAids Vision lauten 'A data scientist
+                in every non-profit-organisation.'"
+  image: "509-a-data-scientist.jpg"
+  keywords: "CorrelAid, Data4Good, Microsoft, Zukunft, Vision, NGO, Non-Profit, Data Scientist"
 ---
 
 

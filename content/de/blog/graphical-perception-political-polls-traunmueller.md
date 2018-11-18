@@ -1,9 +1,17 @@
 ---
- title: "Die Visualisierung von Wahlumfrageergebnissen"
- date: 2017-09-20T00:00:00+02:00
- image: "509-graphical-perception-political-polls.jpg"
- summary: "Wie stellen wir Wahlumfragen am Verständlichsten dar?"
- author: "Richard"
+title: "Die Visualisierung von Wahlumfrageergebnissen"
+date: 2017-09-20T00:00:00+02:00
+image: "509-graphical-perception-political-polls.jpg"
+summary: "Wie stellen wir Wahlumfragen am Verständlichsten dar?"
+author: "Richard"
+draft: false
+meta:
+    title: "CorrelAid - Die Visualisierung von Wahlumfrageergebnissen"
+    description: "Wahlumfragen sind wichtige politische Informationsquellen und bedeutende
+                  Werkzeuge der politischen Selbstbeobachtung. Damit sie diesen Zweck aber
+                  auch erfüllen, kommt es darauf wie ihre Ergebnisse kommuniziert werden."
+    image: "509-graphical-perception-political-polls.jpg"
+    keywords: "CorrelAid, Data4Good, Polls, Wahlumfragen, politische Selbstbeobachtung, Graphical Perception"
 ---
 
 

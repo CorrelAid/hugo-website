@@ -1,9 +1,15 @@
 ---
- title: "Bericht vom Data BBQ"
- date: 2017-05-12T00:00:00+02:00
- image: "509-data-bbq.jpg"
- summary: ""
- author: "Arndt"
+title: "Bericht vom Data BBQ"
+date: 2017-05-12T00:00:00+02:00
+image: "509-data-bbq.jpg"
+summary: ""
+author: "Arndt"
+draft: false
+meta:
+  title: "CorrelAid - Bericht vom Data BBQ"
+  description: "Am Samstag, den 6. Mai, war CorrelAid zu Gast beim Data Viz BBQ des Data Viz Rhein Main Meetups. Die Veranstaltung fand im SAS Institute, in malerischer Lage direkt am Neckar statt, und wurde großzügig unterstützt von SAS."
+  image: "509-data-bbq.jpg"
+  keywords: "CorrelAid, Data4Good, Data Viz BBQ, Data Viz Rhein Main, openpetition.de"
 ---
 
 

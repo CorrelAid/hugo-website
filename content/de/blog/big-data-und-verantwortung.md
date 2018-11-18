@@ -4,6 +4,16 @@
  image: "509-bayreuth.jpg"
  summary: "Ein Besuch bei den Bayreuther Dialogen"
  author: "Vera"
+ draft: false
+ meta:
+     title: "CorrelAid - Big Data und Verantwortung"
+     description: "Die Bayreuther Dialoge der Universität Bayreuth bezeichnen sich selbst
+                   als 'Zukunftsforum für Ökonomie, Philosophie und Gesellschaft'. Sie
+                   bieten den Rahmen, dass sich Interessierte aus allen Bereichen der
+                   Gesellschaft austauschen können. Dieses Jahr ging es um Verantwortung –
+                   und Vera von CorrelAid war mit dabei."
+     image: "509-bayreuth.jpg"
+     keywords: "CorrelAid, Data4Good, Bayreuth, Zukunftsforum, Bayreuther Dialoge"
 ---
 
 

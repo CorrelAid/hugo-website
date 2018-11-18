@@ -1,9 +1,15 @@
 ---
- title: "Daten und Menschenrechte"
- date: 2017-09-16T00:00:00+02:00
- image: "509-expertinneninterview.jpg"
- summary: "Anita Gohdes im Expertinneninterview"
- author: "Anita"
+title: "Daten und Menschenrechte"
+date: 2017-09-16T00:00:00+02:00
+image: "509-expertinneninterview.jpg"
+summary: "Anita Gohdes im Expertinneninterview"
+author: "Anita"
+draft: false
+meta:
+    title: "CorrelAid - Daten und Menschenrechte"
+    description: "Ein Expert*inneninterview mit Anita Gohdes über Data Science und Menschenrechte."
+    image: "509-expertinneninterview.jpg"
+    keywords: "CorrelAid, Data4Good, Microsoft, Zukunft, Vision, NGO, Non-Profit, Data Scientist, Menschenrechte"
 ---
 
 

@@ -1,9 +1,19 @@
 ---
- title: "Datenanalysen zu Migration und Integration"
- date: 2018-09-05T00:00:00+02:00
- image: "509-datendialog-berlin.jpg"
- summary: "Unser Datendialog dazu findet am 5. Oktober in Berlin statt "
- author: "CorrelAid"
+title: "Datenanalysen zu Migration und Integration"
+date: 2018-09-05T00:00:00+02:00
+image: "509-datendialog-berlin.jpg"
+summary: "Unser Datendialog dazu findet am 5. Oktober in Berlin statt "
+author: "CorrelAid"
+draft: false
+meta:
+  title: "CorrelAid - Datenanalysen zu Migration und Integration"
+  description: "Am 5. Oktober steht unser Datendialog 'Migration und Integration' in
+                Berlin an. Dazu laden wir auf der einen Seite NGOs und Initiativen, die
+                in den Bereichen Migration und Integration in Deutschland tätig sind,
+                ein. Auf der anderen Seite laden wir alle interessierten
+                Datenanalystinnen und -analysten ein."
+  image: "509-datendialog-berlin.jpg"
+  keywords: "CorrelAid, Data4Good, Migration, Datendialog, Minor, Wefugee, La Red, ReDi School for Digital Integration"
 ---
 
 

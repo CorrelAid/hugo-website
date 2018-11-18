@@ -1,10 +1,18 @@
 ---
- title: "CorrelAidX"
- date: 2018-09-14T00:00:00+02:00
- image: "509-correlaidx_2.jpg"
- summary: "Kick-off für unsere Data-for-Good-Lokalgruppen"
- author: "CorrelAid"
- category: ["CorrelAid"]
+title: "CorrelAidX"
+date: 2018-09-14T00:00:00+02:00
+image: "509-correlaidx_2.jpg"
+summary: "Kick-off für unsere Data-for-Good-Lokalgruppen"
+author: "CorrelAid"
+category: ["CorrelAid"]
+draft: false
+meta:
+  title: "CorrelAid - CorrelAidX - Kick-off für unsere Data-for-Good-Lokalgruppen"
+  description: "CorrelAid ist ein dezentrales Projekt. Jeder und jede, die ihre Coding-
+                und Statistik-Kenntnisse für den guten Zweck einsetzen will, soll bei
+                uns dazu die Möglichkeit haben."
+  image: "509-correlaidx_2.jpg"
+  keywords: "CorrelAid, Data4Good, CorrelAidX, LC, local chapter, Lokalgruppen"
 ---
 
 

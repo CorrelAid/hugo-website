@@ -1,9 +1,18 @@
 ---
- title: "Die unterschätzten Rechtspopulisten"
- date: 2017-09-23T00:00:00+02:00
- image: "509-ist-die-afd-unterschaetzt.jpg"
- summary: "Wird die AfD bei der Bundestagswahl stärker, als es Umfragen und Prognosen vorhersagen?"
- author: "Yannik"
+title: "Die unterschätzten Rechtspopulisten"
+date: 2017-09-23T00:00:00+02:00
+image: "509-ist-die-afd-unterschaetzt.jpg"
+summary: "Wird die AfD bei der Bundestagswahl stärker, als es Umfragen und Prognosen vorhersagen?"
+author: "Yannik"
+draft: false
+meta:
+    title: "CorrelAid - Die unterschätzten Rechtspopulisten"
+    description: "Die Alternative für Deutschland (AfD) ist eine von vier Parteien, die
+                  laut Umfragen bei der Bundestagswahl drittstärkste Kraft werden können.
+                  Gerade extreme Parteien bekommen bei Wahlen jedoch oft mehr Stimmen, als
+                  es die Umfrageinstitute vorhergesagt haben. Warum ist das so?"
+    image: "509-ist-die-afd-unterschaetzt.jpg"
+    keywords: "CorrelAid, Data4Good, BTW2017, AfD, Wahlprognosen"
 ---
 
 

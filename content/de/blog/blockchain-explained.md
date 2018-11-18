@@ -1,9 +1,18 @@
 ---
- title: "Understanding Blockchains "
- date: 2018-01-11T00:00:00+02:00
- image: "509-blockchain-explained.jpg"
- summary: "A Cryptography Coding Example in R"
- author: "Johannes"
+title: "Understanding Blockchains"
+date: 2018-01-11T00:00:00+02:00
+image: "509-blockchain-explained.jpg"
+summary: "A Cryptography Coding Example in R"
+author: "Johannes"
+draft: false
+meta:
+  title: "CorrelAid - Understanding Blockchains"
+  description: "Everybody is talking about cryptocurrencies now – thanks to the hype
+                about BitCoin. Much more interesting than whether there is a BitCoin
+                bubble or not is the question how this technology actually works and
+                what it is capable of."
+  image: "509-blockchain-explained.jpg"
+  keywords: "CorrelAid, Data4Good, Blockchain, cryptocurrencies, DIY, bitcoin, coding example"
 ---
 
 

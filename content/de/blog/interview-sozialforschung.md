@@ -1,9 +1,15 @@
 ---
- title: "'Es ist wichtig, quantitativ und qualitativ zu arbeiten.'"
- date: 2018-03-12T00:00:00+02:00
- image: "509-interview-sozialforschung.jpg"
- summary: "Ein Interview mit Hans Verbeek, dem stv. Leiter im Berliner Büro des Instituts für Sozialforschung und Gesellschaftspolitik Berlin"
- author: "Hans"
+title: "'Es ist wichtig, quantitativ und qualitativ zu arbeiten.'"
+date: 2018-03-12T00:00:00+02:00
+image: "509-interview-sozialforschung.jpg"
+summary: "Ein Interview mit Hans Verbeek, dem stv. Leiter im Berliner Büro des Instituts für Sozialforschung und Gesellschaftspolitik Berlin"
+author: "Hans"
+draft: false
+meta:
+    title: "CorrelAid - 'Es ist wichtig, quantitativ und qualitativ zu arbeiten.'"
+    description: "Ein Interview mit Hans Verbeek, dem stv. Leiter im Berliner Büro des Instituts für Sozialforschung und Gesellschaftspolitik Berlin über wissenschaftliches Arbeiten."
+    image: "509-interview-sozialforschung.jpg"
+    keywords: "CorrelAid, Data4Good, quantitativ, qualitativ, wissenschaftliches Arbeiten, Mixed Methods"
 ---
 
 

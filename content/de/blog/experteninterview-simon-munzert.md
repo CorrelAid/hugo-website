@@ -1,9 +1,15 @@
 ---
- title: "Archimedes, der erste Empiriker?"
- date: 2017-08-05T00:00:00+02:00
- image: "509-expertinneninterview.jpg"
- summary: "Simon Munzert im Experteninterview"
- author: "Simon"
+title: "Archimedes, der erste Empiriker?"
+date: 2017-08-05T00:00:00+02:00
+image: "509-expertinneninterview.jpg"
+summary: "Simon Munzert im Experteninterview"
+author: "Simon"
+draft: false
+meta:
+  title: "CorrelAid - Archimedes, der erste Empiriker?"
+  description: "Ein Expert*inneninterview mit Simon Munzert über Data Science und Archimedes."
+  image: "509-expertinneninterview.jpg"
+  keywords: "CorrelAid, Data4Good, Microsoft, Zukunft, Vision, NGO, Non-Profit, Data Scientist, Archimedes"
 ---
 
 
