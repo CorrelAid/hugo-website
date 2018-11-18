@@ -1,7 +1,7 @@
 ---
  title: "What's out there? #2"
  date: 2017-08-19T00:00:00+02:00
- image: "whats-out.jpg"
+ image: "509-whats-out-there.jpg"
  summary: "Wissenswertes aus der Data Science-Welt."
  author: "Marcus"
 ---
