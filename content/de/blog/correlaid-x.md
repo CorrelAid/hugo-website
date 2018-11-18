@@ -37,7 +37,7 @@ zu werden:
 ### **CorrelAidX – Data-for-Good Lokalgruppen**
 
 {{< image 
-    image="509-correlaidx_1.png"
+    image="509-correlaidx-1.png"
 >}}
 CorrelAid X
 {{< /image >}}
@@ -96,7 +96,7 @@ jederzeit zur Verfügung (regina.s@correlaid.org).
 
 
 {{< image 
-    image="509-correlaidx_3.png"
+    image="509-correlaidx-3.png"
 >}}
 CorrelAid X
 {{< /image >}}
