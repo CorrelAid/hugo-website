@@ -1,7 +1,7 @@
 ---
  title: "Was kommt nach dem 24. September?"
- date: NA
- image: "koalitionsszenarien.jpg"
+ date: 2017-07-22T00:00:00+02:00
+ image: "509-koalitionsszenarien-marc-debus.jpg"
  summary: "Wahrscheinlichkeiten ausgewählter Koalitionsszenarien nach der Bundestagswahl 2017"
  author: "Prof."
 ---
@@ -111,11 +111,15 @@ haben jedoch leicht konservativere gesellschaftspolitische Positionen
 2017 in ihrem Wahlprogramm besetzt, wenn man als Vergleich die Position
 des Unions-Wahlprogramms 2013 heranzieht.
 
-\
-![](graph-koalition.png){.img-responsive
-.no-border}*Abbildung 1: Programmatische Positionen der deutschen
-Parteien auf der Grundlage ihrer Wahlprogramme 2013 und 2017*\
-\
+
+
+{{< image-subtitle
+    image="509-graph-koalition.png"
+>}}
+Abbildung 1: Programmatische Positionen der deutschen
+Parteien auf der Grundlage ihrer Wahlprogramme 2013 und 2017
+{{< /image-subtitle >}}
+
 Durch die Dynamik von Wahlkämpfen und die wachsende Zahl von Wählern,
 die sich kurzfristig entscheiden, können sich die aufgrund von Umfragen
 ermittelten Stärken der Parteien durchaus verschieben und zu
@@ -156,25 +160,18 @@ aller möglichen und schließlich gebildeten Koalitionen in Deutschland im
 Bund und auf Landesebene seit 1990 (vgl. Bräuninger und Debus 2008,
 2009, 2012; Debus und Müller 2013; Debus 2017).
 
-\
-Szenario 1
-Szenario 2
-CDU/CSU-SPD
-33,3%
-41,9%
-CDU/CSU-FDP- Grüne
-40,4%
-52%
-SPD-FDP-Grüne
-11,4%
-SPD-Grüne-Linke
-11,8%
-Alle übrigen theoretisch möglichen Koalitionen
-3,1%
-6,1%
+
+Koalition          | Szenario 1 | Szenario 2 |
+------------------ | ---------- | ---------- |
+CDU/CSU-SPD        | 33,3%      | 41,9%      |
+CDU/CSU-FDP- Grüne | 40,4%      | 52%        |
+SPD-FDP-Grüne      | 11,4%      | <0,1%      |
+SPD-Grüne-Linke    | 11,8%      | <0,1%      |
+Alle übrigen theoretisch möglichen Koalitionen |3,1% | 6,1% |
 *Tabelle 1: Eintrittswahrscheinlichkeiten ausgewählter
 Koalitionsmodelle, je nach Sitzverteilung in den beiden Szenarien*\
-\
+
+
 Die Schätzungen ergeben eine leichte, jedoch nicht stark ausgeprägte
 höhere Chance auf Bildung einer Jamaika-Koalition gegenüber der
 Fortführung der großen Koalition aus Union und SPD, selbst wenn es
