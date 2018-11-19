@@ -4,7 +4,10 @@ date:       2018-09-14T00:00:00+02:00
 image:      "509-correlaidx_2.jpg"
 summary:    "Kick-off für unsere Data-for-Good-Lokalgruppen"
 draft:      false
-tags:       ["Veranstaltungen", "CorrelAidX"]
+categories:       
+    - Veranstaltungen
+    - CorrelAidX
+    - News
 author: 
     name:           "CorrelAid"
     image:          "correlaid.jpg"

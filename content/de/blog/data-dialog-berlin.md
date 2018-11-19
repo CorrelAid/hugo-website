@@ -3,8 +3,19 @@ title: "Datenanalysen zu Migration und Integration"
 date: 2018-09-05T00:00:00+02:00
 image: "509-datendialog-berlin.jpg"
 summary: "Unser Datendialog dazu findet am 5. Oktober in Berlin statt "
-author: "CorrelAid"
-draft: false
+draft:      false
+categories:       
+    - Veranstaltungen
+    - News
+author: 
+    name:           "CorrelAid"
+    image:          "correlaid.jpg"
+    description:    "CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 650 ehrenamtlichen DatenanalystInnen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für DatenanalystInnen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten."
+    twitter:        "https://twitter.com/correlaid"
+    facebook:       "https://facebook.com/WeAreCorrelAid"
+    github:         "https://github.com/correlaid"
+    email:          "kontakt@correlaid.org"
+    website:        "https://correlaid.org"
 meta:
   title: "CorrelAid - Datenanalysen zu Migration und Integration"
   description: "Am 5. Oktober steht unser Datendialog 'Migration und Integration' in

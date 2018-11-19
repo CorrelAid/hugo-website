@@ -170,12 +170,14 @@ h2 {
 }
 
 h2 a.author-links i.fab,
+h2 a.author-links i.far,
 h2 a.author-links i.fas {
     color: #6c757d;
     text-decoration: none;
 }
 
 h2 a.author-links i.fab:hover,
+h2 a.author-links i.far:hover,
 h2 a.author-links i.fas:hover {
     color: #6c757d;
     text-decoration: none;
