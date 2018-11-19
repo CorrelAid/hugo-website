@@ -1,9 +1,27 @@
 ---
- title: "Reconstructing Cambridge Analytica's 'psychological warfare tool'"
- date: 2018-03-28T00:00:00+02:00
- image: "509-cambridge-analytica.jpg"
- summary: "Building a personality classifier in R  - using facebook data, machine learning and personality traits"
- author: "Johannes"
+title: "Reconstructing Cambridge Analytica's 'psychological warfare tool'"
+date: 2018-03-28T00:00:00+02:00
+image: "509-cambridge-analytica.jpg"
+summary: "Building a personality classifier in R  - using facebook data, machine learning and personality traits"
+draft:      false
+categories:       
+    - R
+    - DIY
+    - Programming
+author: 
+    name:           "Johannes"
+    image:          "johannes.jpg"
+    description:    "Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsitzender. Er studiert im Master 'Evidence-based Policymaking' an der University of Oxford und Policy-Analyse an der Universität Konstanz. Er interessiert sich vor allem für Evaluierungsmethoden, die Nutzung von Evidenz und Daten in Gesellschaft und Politik, und Social Entrepreneurship."
+    twitter:        "https://twitter.com/jj_mllr"
+    facebook:       ""
+    github:         ""
+    email:          "johannes.m@correlaid.org"
+    website:        ""
+meta:
+    title:          "CorrelAid - Reconstructing Cambridge Analytica's 'psychological warfare tool'"
+    description:    "The British analytics firm helped the Trump campaign to build a massive voter database to inform micro-targeting campaigns. The goal was to reach voters on an individual level with messages they are recpetive to in order to persuade them to vote for the 'right' candidate."
+    image:          "509-cambridge-analytica.jpg"
+    keywords:       "CorrelAid, Data4Good, Cambridge Analytica, R"
 ---
 
 

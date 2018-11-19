@@ -1,9 +1,31 @@
 ---
- title: "Happy Bi/R/thday"
- date: 2018-07-01T00:00:00+02:00
- image: "509-music-with-r.jpg"
- summary: "Learn How to Make R Play Music"
- author: "Jochen"
+title: "Happy Bi/R/thday"
+date: 2018-07-01T00:00:00+02:00
+image: "509-music-with-r.jpg"
+summary: "Learn How to Make R Play Music"
+draft:      false
+categories:       
+    - R
+    - Crazy R
+    - DIY
+    - Programming
+author: 
+    name:           "Jochen"
+    image:          "jochen.jpg"
+    description:    "Nach einem Bachelor in Politik- und Verwaltungswissenschaft studiert Jochen nun Data Science an der Universität Mannheim. Ausgerüstet mit ThinkPad, R und Python arbeitet er im dortigen Local Chapter mit und berät außerdem freiberuflich Medienunternehmen zu den Themen Datenjournalismus und digitale Inhalte."
+    twitter:        "https://twitter.com/@Joschkon"
+    facebook:       ""
+    github:         ""
+    email:          ""
+    website:        ""
+meta:
+    title:          "CorrelAid - Happy Bi/R/thday"
+    description:    "R is, and I cannot state this enough, an incredibly versatile tool. Back
+                     at the University of Konstanz, where my experience with R took root, one
+                     of my professors once coined the phrase 'Using R, it is never a question
+                     if you can do something. The only question is how.'"
+    image:          "509-music-with-r.jpg"
+    keywords:       "CorrelAid, Data4Good, R, Crazy R, Happy Birthday, Composing"
 ---
 
 

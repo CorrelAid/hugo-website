@@ -3,8 +3,21 @@ title: "'Es ist wichtig, quantitativ und qualitativ zu arbeiten.'"
 date: 2018-03-12T00:00:00+02:00
 image: "509-interview-sozialforschung.jpg"
 summary: "Ein Interview mit Hans Verbeek, dem stv. Leiter im Berliner Büro des Instituts für Sozialforschung und Gesellschaftspolitik Berlin"
-author: "Hans"
 draft: false
+categories:       
+    - Data Science
+    - Statistics
+    - Expertinneninterview
+    - Social Science
+author: 
+    name:           "Hans Verbeek"
+    image:          "hans-verbeek.jpg"
+    description:    "Hans Verbeek studierte VWL in Mannheim. Seit 2013 ist er als wissenschaftlicher Mitarbeiter und stellvertretender Leiter im Berliner Büro des Instituts für Sozialforschung und Gesellschaftspolitik (ISG) tätig. Seine Arbeitsschwerpunkte liegen u.a. in der Evaluation arbeitsmarktpolitischer Maßnahmen und der wissenschaftlichen Begleitung und Bewertung öffentlich geförderter Beschäftigungsprogramme."
+    twitter:        ""
+    facebook:       ""
+    github:         ""
+    email:          "verbeek@isg-institut.de"
+    website:        ""
 meta:
     title: "CorrelAid - 'Es ist wichtig, quantitativ und qualitativ zu arbeiten.'"
     description: "Ein Interview mit Hans Verbeek, dem stv. Leiter im Berliner Büro des Instituts für Sozialforschung und Gesellschaftspolitik Berlin über wissenschaftliches Arbeiten."

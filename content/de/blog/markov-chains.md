@@ -1,9 +1,28 @@
 ---
- title: "Coin Tosses, Markov Chains and an Existential Crisis"
- date: 2018-06-25T00:00:00+02:00
- image: "509-markov-coin.jpg"
- summary: "Visualising Markov Chains Based On A Simple Statistical Experiment"
- author: "Johannes"
+title: "Coin Tosses, Markov Chains and an Existential Crisis"
+date: 2018-06-25T00:00:00+02:00
+image: "509-markov-coin.jpg"
+summary: "Visualising Markov Chains Based On A Simple Statistical Experiment"
+draft:      false
+categories:       
+    - R
+    - DIY
+    - Statistics
+    - Programming
+author: 
+    name:           "Johannes"
+    image:          "johannes.jpg"
+    description:    "Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsitzender. Er studiert im Master 'Evidence-based Policymaking' an der University of Oxford und Policy-Analyse an der Universität Konstanz. Er interessiert sich vor allem für Evaluierungsmethoden, die Nutzung von Evidenz und Daten in Gesellschaft und Politik, und Social Entrepreneurship."
+    twitter:        "https://twitter.com/jj_mllr"
+    facebook:       ""
+    github:         ""
+    email:          "johannes.m@correlaid.org"
+    website:        ""
+meta:
+    title:          "CorrelAid - Coin Tosses, Markov Chains and an Existential Crisis"
+    description:    "While procrastinating from writing my thesis, I came across an interesting property of coin tosses (I realise how pathetic that sounds while writing it). But bare with me, in the end it is about more than a simple coin toss experiment but also about why this experiment exemplifies a major flaw in the thinking of today's researchers. "
+    image:          "509-markov-coin.jpg"
+    keywords:       "CorrelAid, Data4Good, Markov Chains, Coin Toss, R, Statistical Experiment"
 ---
 
 

@@ -1,9 +1,32 @@
 ---
- title: "Developing an AI for Tic-Tac-Toe in R "
- date: 2018-07-13T00:00:00+02:00
- image: "509-tic-tac-toe.jpg"
- summary: "How Can We Model the Game?"
- author: "Johannes"
+title: "Developing an AI for Tic-Tac-Toe in R "
+date: 2018-07-13T00:00:00+02:00
+image: "509-tic-tac-toe.jpg"
+summary: "How Can We Model the Game?"
+draft:      false
+categories:       
+    - R
+    - DIY
+    - Artificial Intelligence
+    - Programming
+author: 
+    name:           "Johannes"
+    image:          "johannes.jpg"
+    description:    "Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsitzender. Er studiert im Master 'Evidence-based Policymaking' an der University of Oxford und Policy-Analyse an der Universität Konstanz. Er interessiert sich vor allem für Evaluierungsmethoden, die Nutzung von Evidenz und Daten in Gesellschaft und Politik, und Social Entrepreneurship."
+    twitter:        "https://twitter.com/jj_mllr"
+    facebook:       ""
+    github:         ""
+    email:          "johannes.m@correlaid.org"
+    website:        ""
+meta:
+    title:          "CorrelAid - Developing an AI for Tic-Tac-Toe in R "
+    description:    "A couple of weeks ago I watched a documentary
+                     (https://www.alphagomovie.com/) on the team of DeepMind. They developed
+                     an Artificial Intelligence (AI) called AlphaGo which was later capable
+                     of beating the best player in the Game Go - an ancient Chinese board
+                     game considered one of the most difficult games in the world."
+    image:          "509-tic-tac-toe.jpg"
+    keywords:       "CorrelAid, Data4Good, R, Artificial Intelligence, DeepMind, Tic Tac Toe"
 ---
 
 

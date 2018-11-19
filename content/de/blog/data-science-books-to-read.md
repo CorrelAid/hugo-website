@@ -3,8 +3,20 @@ title: "Data Science is not just about Data Science"
 date: 2018-05-01T00:00:00+02:00
 image: "509-data-science-books.jpg"
 summary: "7 Popular Science Books that you have to read"
-author: "Johannes"
-draft: false
+draft:      false
+categories:       
+    - Data Science
+    - Statistics
+    - Reading
+author: 
+    name:           "Johannes"
+    image:          "johannes.jpg"
+    description:    "Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsitzender. Er studiert im Master 'Evidence-based Policymaking' an der University of Oxford und Policy-Analyse an der Universität Konstanz. Er interessiert sich vor allem für Evaluierungsmethoden, die Nutzung von Evidenz und Daten in Gesellschaft und Politik, und Social Entrepreneurship."
+    twitter:        "https://twitter.com/jj_mllr"
+    facebook:       ""
+    github:         ""
+    email:          "johannes.m@correlaid.org"
+    website:        ""
 meta:
   title: "CorrelAid - Data Science is not just about Data Science"
   description: "The other day I went through the list of books I have read over the last
