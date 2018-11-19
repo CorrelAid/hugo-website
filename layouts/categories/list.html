@@ -1,0 +1,27 @@
+{{ define "main" }}
+<!-- BLOG -->
+<div class="container mt-5 pt-5">
+    <div class="row">
+        <div class="col-12">
+            <h1>Categories</h1>
+        </div>
+    </div>
+    <div class="row">
+        {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+        <li><a href="{{ "/" | relLangURL}}{{ $taxonomyname | urlize }}">{{ $taxonomyname }}</a>
+            <ul>
+                {{ range $key, $value := $taxonomy }}
+                <li> {{ $key }} </li>
+                <ul>
+                    {{ range $value.Pages }}
+                    <li><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+            </ul>
+        </li>
+        {{ end }}
+    </div>
+</div>
+<!-- /END BLOG -->
+{{ end }}
