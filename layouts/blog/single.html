@@ -1,32 +1,12 @@
 {{ define "main" }}
 
-
-<!-- HERO SECTION
-<div
-        class="hero small mb-5"
-        style="background: linear-gradient(45deg,rgba(56, 99, 162, .82), rgba(146, 222, 63, .82)),url(../../images/blog/{{ .Params.image }});
-            background-position: center center;">
-    <div class="row justify-content-center h-100">
-        <div class="container">
-            <div class="row justify-content-center h-100">
-                <div class="col-12 align-self-center text-center">
-                    <h1 class="text-white">{{ .Title }}</h1>
-                    <p class="lead text-white">{{ .Date.Format "2006-01-02" }}</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- /END HERO SECTION -->
-
-
 <!-- TITLE -->
 <div class="container mt-5">
     <div class="row justify-content-center pt-5">
         <div class="col-12 col-md-10 col-lg-8">
             <h1>{{ .Title }}</h1>
             <p class="lead">{{ .Params.summary }}</p>
-            <p>{{ .Date.Format "2006-01-02" }} | {{ .Params.author }}</p>
+            <p>{{ .Date.Format "2006-01-02" }} | {{ .Params.author.name }}</p>
         </div>
     </div>
 </div>
@@ -59,13 +39,40 @@
             <div class="row">
                 <div class="col-6 col-md-5 col-lg-4">
                     <div class="ca-img-container">
-                        <img class="img-fluid dark" src="/images/blog/authors/{{ .Params.authorImage }}" alt="{{ .Params.author }}" />
+                        <img class="img-fluid dark" src="/images/people/{{ .Params.author.image }}" alt="{{ .Params.author.name }}" />
                         <div class="ca-img-border"></div>
                     </div>
                 </div>
                 <div class="col-7 col-md-7 col-lg-8" style="margin-top: 24px;">
-                    <h3>{{ .Params.author }}</h3>
-                    <p>{{ .Params.authorSummary }}</p>
+                    <h3>{{ .Params.author.name }}</h3>
+                    <h2 class="my-1">
+                        {{ if .Params.author.website }}
+                        <a class="author-links" href="{{ .Params.author.website }}" target="_blank">
+                            <i class="fas fa-globe-africa mr-1"></i>
+                        </a>
+                        {{ end }}
+                        {{ if .Params.author.email }}
+                        <a class="author-links" href="{{ .Params.author.email }}" target="_blank">
+                            <i class="fas fa-envelope-square mr-1"></i>
+                        </a>
+                        {{ end }}
+                        {{ if .Params.author.twitter }}
+                        <a class="author-links" href="{{ .Params.author.twitter }}" target="_blank">
+                            <i class="fab fa-twitter-square mr-1"></i>
+                        </a>
+                        {{ end }}
+                        {{ if .Params.author.facebook }}
+                        <a class="author-links" href="{{ .Params.author.facebook }}" target="_blank">
+                            <i class="fab fa-facebook-square mr-1"></i>
+                        </a>
+                        {{ end }}
+                        {{ if .Params.author.github }}
+                        <a class="author-links" href="{{ .Params.author.github }}" target="_blank">
+                            <i class="fab fa-github-square"></i>
+                        </a>
+                        {{ end }}
+                    </h2>
+                    <p>{{ .Params.author.description }}</p>
                 </div>
         </div>
     </div>
