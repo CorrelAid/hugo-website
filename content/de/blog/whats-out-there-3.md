@@ -1,9 +1,24 @@
 ---
- title: "What's out there? #3"
- date: 2017-09-30T00:00:00+02:00
- image: "509-whats-out-there.jpg"
- summary: "Wissenswertes aus der Data Science-Welt."
- author: "Marcus"
+title: "What's out there? #3"
+date: 2017-09-30T00:00:00+02:00
+image: "509-whats-out-there.jpg"
+summary: "Wissenswertes aus der Data Science-Welt."
+draft: false
+tags:       ["What's out there?", "Data Science"]
+author: 
+    name:           "Marcus"
+    image:          "marcus-s.jpg"
+    description:    "Marcus Seuser studierte Geographie und Geoinformatik an den Universitäten Leipzig und Tübingen. Sein Studienschwerpunkt war die Einbindung von Methoden der Geoinformatik in der Humangeographie, wobei er sich mit Modellierung von Städtewachstum und der Vorhersage von Bürgerkriegsrisiken beschäftigt hat. Er arbeitet hauptberuflich als Datenanalyst für die Managementberatung conmobility und ist externer Mitarbeiter der Universität Frankfurt im Fachbereich Humangeographie."
+    twitter:        ""
+    facebook:       "https://www.facebook.com/https://de-de.facebook.com/Mogli.Marcus"
+    github:         ""
+    email:          "marcus.seuser@gmx.de"
+    website:        ""
+meta:
+    title:          "CorrelAid - CorrelAidX - Kick-off für unsere Data-for-Good-Lokalgruppen"
+    description:    "CorrelAid ist ein dezentrales Projekt. Jeder und jede, die ihre Coding- und Statistik-Kenntnisse für den guten Zweck einsetzen will, soll bei uns dazu die Möglichkeit haben."
+    image:          "509-correlaidx_2.jpg"
+    keywords:       "CorrelAid, Data4Good, CorrelAidX, LC, local chapter, Lokalgruppen"
 ---
 
 
