@@ -25,5 +25,6 @@ In den darauffolgenden Wochen haben wir zwei R-Einsteiger und einen Python-Einst
     subline="mannheim@correlaid.org"
     img="/images/people/damon.jpg"
 >}}
-Damon, in den Endzügen meines Masters in Statistik. Ich bin seit 2015 bei CorrelAid und kümmere mich um den Local Chapter im Ruhrgebiet. Unangefochtener Sieger der CorrelAid Tischtennismeisterschaften 2018.
+Konstantin zählt bereits zum CorrelAid Urgestein und ist als Doktorant an der UMA euer Ansprechpartner im Raum Mannheim.
+Ihn reizt an Datenanalyse vor allem aus vermeindlich unstrukturierten Daten Informationen zur Problemlösung zu gewinnen. In der Projektarbeit freut er sich dabei vor allem über die Reaktionen der Partnerorganisationen auf die Projektergebnisse.
 {{< /person >}}

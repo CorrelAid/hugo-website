@@ -165,11 +165,25 @@ h1 {
     margin-bottom: 1em;
 }
 
-
-
-
 h2 {
     margin-top: 1em;
+}
+
+h2 a.author-links i.fab,
+h2 a.author-links i.fas {
+    color: #6c757d;
+    text-decoration: none;
+}
+
+h2 a.author-links i.fab:hover,
+h2 a.author-links i.fas:hover {
+    color: #6c757d;
+    text-decoration: none;
+}
+
+h2 a.author-links:hover {
+    color: #6c757d;
+    text-decoration: none;
 }
 
 h1 a {
