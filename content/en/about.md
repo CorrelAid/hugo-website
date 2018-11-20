@@ -11,18 +11,16 @@ menu:
 
 # About
 
-{{< blink >}}TRANSLATION MISSING{{< /blink >}} 
+In 2015, CorrelAid has officially been registered as a non-profit association in Konstanz, Germany. As of today, our network consists of around 650 volunteers, all of which contribute their very own skills and ideas. Apart from that, a core team of around 15 people takes care of general organisational matters. So far, we have successfully launched over 10 projects, always in close cooperation with non-profit organisations of different size and scope (e.g. Ashoka, The European Youth Parliament or streetfootballworld), and organised more than 50 Data Science related workshops.
 
-CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 650 ehrenamtlichen DatenanalystInnen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für DatenanalystInnen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten.
-
-# Auszeichnungen
+# Prizes and Awards
 
 {{< price 
     year="2018" 
     img="/images/ideen.jpg"
     order="order-md-1"
 >}}
-100 ausgezeichnete Orte im Land der Ideen 2018
+Laureate in the "Germany - Land of Ideas" initiative
 {{< /price >}}
 
 {{< price 
@@ -30,7 +28,7 @@ CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen.
     img="/images/fes.jpg"
     order="order-md-0"
 >}}
-Engagementpreis der Friedrich-Ebert-Stiftung Alumni
+Civic engagement prize of the Friedrich-Ebert-Foundation Alumni
 {{< /price >}}
 
 {{< price 
@@ -38,7 +36,7 @@ Engagementpreis der Friedrich-Ebert-Stiftung Alumni
     img="/images/start-social.jpg"
     order="order-md-1"
 >}}
-Bundesauswahl des startsocial-Programms unter Schirmherrschaft von Bundeskanzlerin Angela Merkel
+Participation in the startsocial initiative under the patronage of chancellor Angela Merkel
 {{< /price >}}
 
 {{< price 
@@ -46,7 +44,7 @@ Bundesauswahl des startsocial-Programms unter Schirmherrschaft von Bundeskanzler
     img="/images/o2.jpg"
     order="order-md-0"
 >}}
-Think-Big Preis für soziales Engagement der Telefonica-Stiftung
+Think-Big Prize for social engagement of the Telefonica Foundation
 {{< /price >}}
 
 {{< price 
@@ -54,5 +52,4 @@ Think-Big Preis für soziales Engagement der Telefonica-Stiftung
     img="/images/uni-kn.jpg"
     order="order-md-1"
 >}}
-Preis des Universitätsrates der Uni Konstanz für besonderes Engagement
-{{< /price >}}
+Prize of Konstanz University for outstanding commitment{{< /price >}}

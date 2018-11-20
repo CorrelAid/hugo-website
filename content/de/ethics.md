@@ -28,4 +28,4 @@ Da uns bewusst ist, dass viele zivilgesellschaftliche Organisationen innerhalb e
 
 CorrelAid übernimmt im Projektprozess die Erstberatung, Projektdefinition und Ausschreibung sowie die Auswahl und Vermittlung des Projektteams.
 
-Um eine gute Zusammenarbeit zwischen NGO und dem ehrenamtlichen Projektteam zu fördern, wird zu Beginn eines Projektes ein Kick-off Workshop mit allen Beteiligten organisiert. Dieser findet nach Möglichkeit in den Räumlichkeiten der NGO statt und die ie Kosten des Workshops (Anreise, Verpflegung) sind von der NGO zu tragen.
+Um eine gute Zusammenarbeit zwischen NGO und dem ehrenamtlichen Projektteam zu fördern, wird zu Beginn eines Projektes ein Kick-off Workshop mit allen Beteiligten organisiert. Dieser findet nach Möglichkeit in den Räumlichkeiten der NGO statt und die Kosten des Workshops (Anreise, Verpflegung) sind von der NGO zu tragen.
