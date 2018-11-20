@@ -8,6 +8,16 @@ menu:
         weight: 2
 ---
 
-## Workshops
+## Education and Workshops
 
-In unseren Workshops bilden wir unser Data Science Netzwerk weiter. In unserem Netzwerk kommen Analysten und Analystinnen aus den unterschiedlichsten akademschen Disziplinen und Branchen zusammen. Dadurch können wir unglaublich viel voneinander lernen. Deshalb setzen wir auf Peer Learning. Mit unseren Workshop Konzepten schaffen wir dafür den Rahmen. Finde dein lokales Netzwerk bei unseren CorrelAidX Gruppen (insert Link here)
+Workshops are the key to maintaining and improving the skill set of our data science network. CorrelAid unites analysts and data experts from a variety of different academic and professional backgrounds. This diversity allows us to constantly learn from one another and forms the basis of the "peer learning" approach that is implemented in our workshops. 
+
+If you're interested in joining your local network, you might want to visit our local CorrelAidX chapters (LINK).
+
+{{< testimonial 
+    contact="André Lange"
+    organisation="Business Manager"
+    image="andre-lange.jpg"
+>}}
+    What I enjoyed most, was publishing a new version of our dashboard. Usually, this happened on Sunday evenings, after a weekend of programming and implementing new ideas. I've learned a lot from my teammates and our partners at GoVolunteer during the project: Not only did I improve my coding skills in R, but I also learned how to do effective project work in a vivid virtual team.
+{{< /testimonial >}}

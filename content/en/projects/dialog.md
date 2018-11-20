@@ -1,5 +1,5 @@
 ---
-title: "Dialog"
+title: "Dialogue"
 date: 2018-08-23T12:37:19+02:00
 draft: false
 translationKey: "dialog"
@@ -8,6 +8,8 @@ menu:
         weight: 3
 ---
 
-## Dialog
+## Dialogue
 
-Wir wollen einen Dialog zwischen der Zivilgesellschaft und der Data Science Community anstoßen und gemeinsam Ideen für Data-for-Good-Projekte entwickeln. Dafür haben wir das Konzept des "Datendialogs" entwickelt. Bei einem Datendialog kommen drei bis fünf NGOs mit ca. 20 DatenanalystInnen zusammen. Beide Seiten lernen sich und ihre Arbeit dabei besser kennen und loten aus, welche Daten den jeweiligen Organisationen zur Verfügung stehen und welche Datenanalysen die Arbeit der Organisation unterstützen können. Was wir bei unseren bisherigen Datendialogen gemacht haben könnt ihr hier lesen (Insert Link: Datendialog in Hamburg; Insert Link: Datendialog in Berlin)
+We have the vision of establishing an open dialogue between the civic society and the data science community: Such a dialogue could be used to develop new ideas on how to use data science for social good. This is why we came up with the concept of the "Data Dialogue". During such an event, three to five non-profit organisations will have the opportunity to meet, discuss and connect with around 20 data scientists. By doing so, both sides can obtain a more in-depth impression of each other and gauge which relevant data is already present at the NPO and how it can be used to support the organisation's goals.
+
+If you're interested in what we did during past data dialogues, click here: LINK EINFÜGEN
