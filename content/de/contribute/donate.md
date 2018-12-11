@@ -1,7 +1,7 @@
 ---
 title: "Spenden"
 date: 2018-08-23T12:38:21+02:00
-draft: false
+draft: true
 menu: 
     contribute:
         weight: 4
