@@ -42,3 +42,5 @@ other       = "Nachricht"
 other       = "Schließen"
 [send]
 other       = "Senden"
+[no-jobs]
+other       = "Zurzeit gibt es leider keine Ausschreibungen."

@@ -42,3 +42,5 @@ other       = "Message"
 other       = "Close"
 [send]
 other       = "Send"
+[no-jobs]
+other       = "Currently, we don't have any open positions."
