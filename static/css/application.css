@@ -451,8 +451,8 @@ i.caveat {
 /* ========== HERO SECTION ========== */
 
 .correlaid-logo {
-    width: 420px;
-    max-width: 30%;
+    width: 80%;
+    max-width: 420px;
     display: block;
     margin: 0 auto;
 }
