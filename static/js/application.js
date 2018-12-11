@@ -100,8 +100,6 @@ $emailButton.click(function () {
         email:     $messageFromEmail.val()
     };
 
-    console.log(parameters);
-
     // send email
     $.get('https://correlaid.org/php/mail.php', parameters)
         .done(function(response) {
