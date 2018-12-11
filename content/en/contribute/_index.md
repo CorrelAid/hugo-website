@@ -1,13 +1,12 @@
 ---
-title: "Support CorrelAid"
+title: "Contribute"
 date: 2018-08-23T12:38:17+02:00
 draft: false
 menu: 
     contribute:
         weight: 1
----
 meta:
-    title: "Support CorrelAid"
+    title: "CorrelAid - Contribute"
     description: "CorrelAid is a registered association with a network of 650 data analysts"
     image: "509-correlaid-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
