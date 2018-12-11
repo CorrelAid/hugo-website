@@ -24,3 +24,7 @@ other       = "Email Verteiler"
 other       = "Die Presse über uns:"
 [correlaidx]
 other       = "CorrelAid vor Ort:"
+[cookies]
+other       = "Wir benutzen Cookies, um uns zu merken, ob du Leisten, wie diese geschlossen hast."
+[cookies-more]
+other       = "Mehr Informationen findest du hier."

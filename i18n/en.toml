@@ -24,3 +24,7 @@ other       = "Mailing List"
 other       = "The press about us:"
 [correlaidx]
 other       = "CorrelAid on site:"
+[cookies]
+other       = "We are using cookies to remember if you closed bars such as this."
+[cookies-more]
+other       = "More Information."
