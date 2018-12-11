@@ -28,3 +28,17 @@ other       = "CorrelAid on site:"
 other       = "We are using cookies to remember if you closed bars such as this."
 [cookies-more]
 other       = "More Information."
+[email]
+other       = "Email"
+[recipient]
+other       = "Recipient"
+[your-name]
+other       = "Your Name"
+[your-email]
+other       = "Your Email"
+[your-message]
+other       = "Message"
+[close]
+other       = "Close"
+[send]
+other       = "Send"

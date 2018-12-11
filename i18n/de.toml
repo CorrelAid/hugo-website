@@ -28,3 +28,17 @@ other       = "CorrelAid vor Ort:"
 other       = "Wir benutzen Cookies, um uns zu merken, ob du Leisten, wie diese geschlossen hast."
 [cookies-more]
 other       = "Mehr Informationen findest du hier."
+[email]
+other       = "Email"
+[recipient]
+other       = "Empfänger"
+[your-name]
+other       = "Dein Name"
+[your-email]
+other       = "Deine Email Adresse"
+[your-message]
+other       = "Nachricht"
+[close]
+other       = "Schließen"
+[send]
+other       = "Senden"
