@@ -23,7 +23,7 @@ In den darauffolgenden Wochen haben wir zwei R-Einsteiger und einen Python-Einst
 {{< person 
     name="Konstantin"
     subline="mannheim@correlaid.org"
-    img="/images/people/damon.jpg"
+    img="/images/people/konstantin.jpg"
 >}}
 Konstantin zählt bereits zum CorrelAid Urgestein und ist als Doktorant an der UMA euer Ansprechpartner im Raum Mannheim.
 Ihn reizt an Datenanalyse vor allem aus vermeindlich unstrukturierten Daten Informationen zur Problemlösung zu gewinnen. In der Projektarbeit freut er sich dabei vor allem über die Reaktionen der Partnerorganisationen auf die Projektergebnisse.
