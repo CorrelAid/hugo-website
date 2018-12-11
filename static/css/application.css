@@ -743,3 +743,8 @@ td {
     padding: 10px;
     font-size: 1.25rem;
 }
+
+/* ========== MESSAGE INFO ========== */
+#message-info {
+    display: none;
+}
