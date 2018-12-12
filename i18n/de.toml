@@ -52,3 +52,7 @@ other       = "Los geht's!"
 other       = "Du arbeitest für eine NGO und glaubst, dass ein gemeinsames Projekt euch hilft? Du weißt nicht genau, ob wir euch helfen können? Du hast eine konkrete Idee?"
 [claim-2-btn]
 other       = "Kontaktiere uns!"
+[error-claim-1]
+other       = "Das sieht aus wie Fehler 404. Leider konnten wir diese Seite nicht finden."
+[error-claim-2]
+other       = "Hier findest du ein paar hilfreiche Links:"
