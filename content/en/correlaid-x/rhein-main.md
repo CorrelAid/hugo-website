@@ -6,13 +6,13 @@ menu:
     correlaidx:
         weight: 5
 meta:
-    title: "CorrelAid - CorrelAidX Rhein-Main"
-    description: "We want to use the potential of data science to help Non-Profit Organisations to increase their impact. In our local volunteer projects we want to bring together Rhein-Main’s Data Scientists with local NPOs."
+    title: "CorrelAidX - Rhein-Main"
+    description: "You want to get to know Data-for-good analysts around you and use data for social good? In this case, you are interested in CorrelAidX!"
     image: "509-correlaid-x-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
-We want to use the potential of data science to help Non-Profit Organisations to increase their impact. In our local volunteer projects we want to bring together Rhein-Main’s Data Scientists with local NPOs.
+We want to use the potential of data science to help Non-Profit Organisations to increase their impact. In our local volunteer projects we want to bring together Rhein-Main's Data Scientists with local NPOs.
 CorrelAid projects are usually run by a small and diverse team of Social Data Scientists who help the NPO to make better evidence-based decisions, understand their target group better, and optimize their processes.
 
 We want to bring the Rhein-Main community of Social Data Scientist together by offering a platform for exchange, workshops and other events.

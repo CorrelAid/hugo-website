@@ -6,6 +6,11 @@ translationKey: "dialog"
 menu: 
     projects:
         weight: 3
+meta:
+    title: "CorrelAid - Data Dialogue"
+    description: "CorrelAid Homepage. We are a network of young data analysts that wants to change the world with a more inclusive, integrated and innovative approach to data analysis."
+    image: "509-correlaid-thumb.jpg"
+    keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
 ## Dialogue

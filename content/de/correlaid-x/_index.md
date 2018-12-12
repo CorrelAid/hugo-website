@@ -6,7 +6,7 @@ menu:
     contribute:
         weight: 2
 meta:
-    title: "CorrelAid - CorrelAidX"
+    title: "CorrelAidX"
     description: "Du möchtest Data-for-Good-AnalystInnen aus deiner Region kennenlernen, und zusammen Daten für den guten Zweck nutzen? Mit CorrelAidX bringen wir Data for Good in deine Stadt!"
     image: "509-correlaid-x-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"

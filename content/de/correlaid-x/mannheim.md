@@ -6,7 +6,7 @@ menu:
     correlaidx:
         weight: 4
 meta:
-    title: "CorrelAid - CorrelAidX Mannheim"
+    title: "CorrelAidX - Mannheim"
     description: "Du möchtest Data-for-Good-AnalystInnen aus deiner Region kennenlernen, und zusammen Daten für den guten Zweck nutzen? Mit CorrelAidX bringen wir Data for Good in deine Stadt!"
     image: "509-correlaid-x-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
