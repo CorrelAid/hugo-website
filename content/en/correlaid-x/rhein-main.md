@@ -24,7 +24,7 @@ There are numerous ways to make an impact, e.g.:
 3.    as an organiser for the local community
 
 
-## Kontakt
+## Contact
 
 {{< person 
     name="André"
