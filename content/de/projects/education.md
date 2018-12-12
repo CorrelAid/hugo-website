@@ -5,7 +5,7 @@ draft: false
 translationKey: "education"
 menu: 
     projects:
-        weight: 2
+        weight: 1
 meta:
     title: "CorrelAid - Bildung"
     description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 650 ehrenamtlichen DatenanalystInnen."
