@@ -6,19 +6,23 @@
             <h1>Blog</h1>
         </div>
     </div>
-    <div class="row">
-        {{ range (where .Pages "Section" "blog").ByPublishDate.Reverse }}
-        <div class="col-12 col-sm-6 col-lg-4">
+    {{ range (where .Pages "Section" "blog").ByPublishDate.Reverse }}
+    <div class="row my-2">
+        <div class="col-12 col-sm-6 col-lg-4 align-self-center">
             <a href="{{ .URL }}" class="ca-img-container link">
                 <img class="img-fluid dark" src="/images/blog/thumbs-x800/{{ .Params.image }}" alt="{{ .Title }}" />
                 <div class="ca-img-border"></div>
             </a>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-8 align-self-center">
             <p style="margin-bottom: 0">{{ .Date.Format "2006-01-02" }}</p>
             <h3 class="ca-dark-blue-text"><a href="{{ .URL }}">{{ .Title }}</a></h3>
+            <p>{{ i18n "written-by" }}: {{ .Params.author.name }}</p>
             <p>{{ .Params.summary }}</p>
+            <p><a href="{{ .URL }}">{{ i18n "read-more" }}</a></p>
         </div>
-        {{ end }}
     </div>
+    {{ end }}
 </div>
 <!-- /END BLOG -->
 {{ end }}

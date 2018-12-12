@@ -56,3 +56,7 @@ other       = "Contact us!"
 other       = "That looks like Error 404. Unfortunately, we could not find that page."
 [error-claim-2]
 other       = "Here are some helpful links instead:"
+[read-more]
+other       = "Read more"
+[written-by]
+other       = "By"

@@ -56,3 +56,7 @@ other       = "Kontaktiere uns!"
 other       = "Das sieht aus wie Fehler 404. Leider konnten wir diese Seite nicht finden."
 [error-claim-2]
 other       = "Hier findest du ein paar hilfreiche Links:"
+[read-more]
+other       = "Mehr lesen"
+[written-by]
+other       = "Von"
