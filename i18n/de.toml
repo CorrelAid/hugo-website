@@ -44,3 +44,11 @@ other       = "Schließen"
 other       = "Senden"
 [no-jobs]
 other       = "Zurzeit gibt es leider keine Ausschreibungen."
+[claim-1]
+other       = "Du möchtest bei CorrelAid aktiv werden? Du möchtest mit uns gemeinsam die Welt verändern? Du glaubst auch daran, dass Datenanalyse allen zur Verfügung stehen sollte?"
+[claim-1-btn]
+other       = "Los geht's!"
+[claim-2]
+other       = "Du arbeitest für eine NGO und glaubst, dass ein gemeinsames Projekt euch hilft? Du weißt nicht genau, ob wir euch helfen können? Du hast eine konkrete Idee?"
+[claim-2-btn]
+other       = "Kontaktiere uns!"

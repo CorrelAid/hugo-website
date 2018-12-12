@@ -44,3 +44,11 @@ other       = "Close"
 other       = "Send"
 [no-jobs]
 other       = "Currently, we don't have any open positions."
+[claim-1]
+other       = "You want to support CorrelAid? You want to change the world togehter with us? Do you believe that Data Science should be available for everyone?"
+[claim-1-btn]
+other       = "Let's start!"
+[claim-2]
+other       = "Do you work for a NGO? Do you think we could start a project toghter? Do you don't know how we may help you? You know exactly what you want to analyze?"
+[claim-2-btn]
+other       = "Contact us!"
