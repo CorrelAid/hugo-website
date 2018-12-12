@@ -16,12 +16,3 @@ meta:
 # Datendialog
 
 Wir wollen einen Dialog zwischen der Zivilgesellschaft und der Data Science Community anstoßen und gemeinsam Ideen für Data-for-Good-Projekte entwickeln. Dafür haben wir das Konzept des "Datendialogs" entwickelt. Bei einem Datendialog kommen drei bis fünf NGOs mit ca. 20 DatenanalystInnen zusammen. Beide Seiten lernen sich und ihre Arbeit dabei besser kennen und loten aus, welche Daten den jeweiligen Organisationen zur Verfügung stehen und welche Datenanalysen die Arbeit der Organisation unterstützen können. Was wir bei unseren bisherigen Datendialogen gemacht haben könnt ihr hier lesen: [Datendialog Hamburg](/blog/meetup-hh) und [Datendialog in Berlin](/blog/datendialog-berlin).
-
-
-{{< testimonial 
-    contact="Jane Doe"
-    organisation="Sample Organization"
-    image="/images/testimonials/2.jpg"
->}}
-    Beim Datendialog konnten wir Optimierungspotential identifizieren. Anschließend kam es zu einem gemeinsamen Projekt.
-{{< /testimonial >}}
