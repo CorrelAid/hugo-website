@@ -17,7 +17,7 @@ meta:
 
 Workshops are the key to maintaining and improving the skill set of our data science network. CorrelAid unites analysts and data experts from a variety of different academic and professional backgrounds. This diversity allows us to constantly learn from one another and forms the basis of the "peer learning" approach that is implemented in our workshops. 
 
-If you're interested in joining your local network, you might want to visit our local CorrelAidX chapters (LINK).
+If you're interested in joining your local network, you might want to visit our [local CorrelAidX chapters](/en/correlaid-x).
 
 {{< testimonial 
     contact="André Lange"
