@@ -19,7 +19,7 @@ meta:
 
 CorrelAid is an independent and inclusive non-partisan network. Our projects are aimed at supporting non-profit organisations in expanding their impact by enabling them to actively participate in the digital world. While doing so, we take a stand against all forms discrimination, racism and sexism and show deep commitment to encouraging equality in our teams and transparency in our work.
 
-We try to keep thresholds as low as possible and provide the volunteers in our network with diverse opportunities of getting involved - Allowing them to find one that fits their lives.
+We try to keep entry barriers as low as possible and provide the volunteers in our network with diverse opportunities of getting involved - Allowing them to find one that fits their lives.
 
 When deciding on partners to cooperate with, our ethics commission will place great emphasis on the organisation's dedication to our values, its commitment to social good and the benefit for society resulting from a potential project. 
 

@@ -16,7 +16,7 @@ meta:
 
 ## Ethikkodex
 
-CorrelAid ist ein unabhängiges, überparteiliches und inklusives Netzwerk. Durch unsere Projekte wollen wir digitale Teilhabe für zivilgesellschaftliche Organisationen ermöglichen und ihnen somit helfen ihren Impact zu stärken. Dabei setzen wir uns gegen Rassismus, Sexismus und Diskriminierung ein und achten auf Gleichberechtigung innerhalb unserer Teams und Transparenz in unserer Arbeit.
+CorrelAid ist ein unabhängiges, überparteiliches und inklusives Netzwerk. Durch unser Volunteering-Angebot wollen wir digitale Teilhabe für zivilgesellschaftliche Organisationen ermöglichen und ihnen somit helfen ihren Impact zu stärken. Dabei setzen wir uns gegen Rassismus, Sexismus und Diskriminierung ein und achten auf Gleichberechtigung innerhalb unserer Teams und Transparenz in unserer Arbeit.
 
 Unser Angebot ist bewusst niedrigschwellig gehalten und ermöglicht unseren Netzwerkmitgliedern flexibeles Engagement. Von potentiellen Partnern erwarten wir, dass diese Werte geteilt werden. Bei der Auswahl unserer Kooperationen legen wir dementsprechend Wert auf eine soziale Ausrichtung der Partnerorganisationen und einen gesellschaftlichen Mehrwert der Projekte. Um diesen Ansprüchen gerecht zu werden, überprüfen wir potenzielle Projekte in unserem Ethikrat intensiv auf Übereinstimmung mit unseren Werten.
 

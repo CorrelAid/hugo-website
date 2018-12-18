@@ -19,9 +19,9 @@ Unser Netzwerk bietet Dir vielfältige Möglichkeiten zum Engagement und zur Ver
 
 ## Sozialen Organisationen helfen
 
-Herzstück unserer Arbeit und unseres Angebots für Euch sind die Projekte mit Non-Profit Organisationen (NPOs). Als Teil eines 3-7 - köpfigen Projektteams kannst Du einer sozialen Organisation dabei helfen, aus ihren Daten wertvolle Erkenntnisse zu generieren. Ausschreibungen für Projekte werden traditionell über unseren Netzwerk-Verteiler verschickt, deswegen trag Dich am besten Direkt [hier](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) ein!
+Herzstück unserer Arbeit und unseres Angebots für Euch sind die Volunteering-Projekte mit Non-Profit Organisationen (NPOs). Als Teil eines 3-7 - köpfigen Projektteams kannst Du einer sozialen Organisation dabei helfen, aus ihren Daten wertvolle Erkenntnisse zu generieren. Ausschreibungen für Projekte werden traditionell über unseren Netzwerk-Verteiler verschickt, deswegen trag Dich am besten Direkt [hier](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) ein!
 
-Wenn Du Kontakt zu einer NPO hast, die auf spannenden Daten sitzt und unsere Hilfe gebrauchen könnte, dann schicke doch eine Mail an [Arndt](mailto:arndt.l@correlaid.org). Wenn Du außerdem bereits Erfahrung in der Analytics-Beratung hast und uns helfen möchtest, unsere Projektarbeit auszuweiten, dann schreibe eine Mail an [Johannes](mailto:johannes.m@correlaid.org).
+Wenn Du Kontakt zu einer NPO hast, die auf spannenden Daten sitzt und unsere Hilfe gebrauchen könnte, dann schicke doch eine Mail an [Arndt](mailto:johannes.m@correlaid.org). Wenn Du außerdem bereits Erfahrung in der Analytics-Beratung hast und uns helfen möchtest, unsere Projektarbeit auszuweiten, dann schreibe eine Mail an [Johannes](mailto:johannes.m@correlaid.org).
 
 ## Austauschen und vernetzen
 

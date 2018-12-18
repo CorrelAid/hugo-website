@@ -18,9 +18,9 @@ meta:
     img="/images/data-science-for-good.jpg"
     order="order-md-0"
 >}}
-    We provide project-based consultancy for non-profit organizations. Through our decentral
+    We provide an innovative skilled-volunteering solution. Through our decentral
 	network of over 650 skilled voluntary data scientists we democratize the potential of 
-	advanced data analysis.  
+	advanced data analysis and start projects with mission-driven organisations.
 {{< /feature >}}
 
 {{< feature 

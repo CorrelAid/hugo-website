@@ -17,9 +17,7 @@ meta:
     img="/images/data-science-for-good.jpg"
     order="order-md-0"
 >}}
-    Wir bieten eine projektbasierte Datenberatung für Non-Profit-Organisationen an. Mit unserem dezentralen
-    skilled-volunteering Angebot und einem Netzwerk von über 650 Data Scientists demokratisieren wir das
-    Potential fortgeschrittener Datenanalyse.
+    Wir bieten innovatives Skilled-Volunteering: Wir bringen gesellschaftlich denkende Data Scientists mit sozialen Organisationen zusammen und stoßen gemeinsame Projekte an. Mit einem dezentralen Netzwerk von über 650 Data Scientists demokratisieren wir so das Potential fortgeschrittener Datenanalyse.
 {{< /feature >}}
 
 {{< feature 

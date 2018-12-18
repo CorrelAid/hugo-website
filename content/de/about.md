@@ -16,7 +16,7 @@ meta:
 
 # Über CorrelAid
 
-CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 650 ehrenamtlichen DatenanalystInnen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für DatenanalystInnen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten.
+CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 650 ehrenamtlichen DatenanalystInnen. Wir haben bereits über 15 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für DatenanalystInnen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten.
 
 # Auszeichnungen
 
@@ -37,11 +37,19 @@ Engagementpreis der Friedrich-Ebert-Stiftung Alumni
 {{< /price >}}
 
 {{< price 
-    year="2016" 
+    year="2017" 
     img="/images/start-social.jpg"
     order="order-md-1"
 >}}
 Bundesauswahl des startsocial-Programms unter Schirmherrschaft von Bundeskanzlerin Angela Merkel
+{{< /price >}}
+
+{{< price 
+    year="2016" 
+    img="/images/uni-kn.jpg"
+    order="order-md-1"
+>}}
+Preis des Universitätsrates der Uni Konstanz für besonderes Engagement
 {{< /price >}}
 
 {{< price 
@@ -50,12 +58,4 @@ Bundesauswahl des startsocial-Programms unter Schirmherrschaft von Bundeskanzler
     order="order-md-0"
 >}}
 Think-Big Preis für soziales Engagement der Telefonica-Stiftung
-{{< /price >}}
-
-{{< price 
-    year="2015" 
-    img="/images/uni-kn.jpg"
-    order="order-md-1"
->}}
-Preis des Universitätsrates der Uni Konstanz für besonderes Engagement
 {{< /price >}}

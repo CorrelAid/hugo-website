@@ -37,12 +37,19 @@ Civic engagement prize of the Friedrich-Ebert-Foundation Alumni
 {{< /price >}}
 
 {{< price 
-    year="2016" 
+    year="2017" 
     img="/images/start-social.jpg"
     order="order-md-1"
 >}}
-Participation in the startsocial initiative under the patronage of chancellor Angela Merkel
+National Selection of the startsocial initiative under the patronage of chancellor Angela Merkel
 {{< /price >}}
+
+{{< price 
+    year="2016" 
+    img="/images/uni-kn.jpg"
+    order="order-md-1"
+>}}
+Prize of Konstanz University for outstanding commitment{{< /price >}}
 
 {{< price 
     year="2015" 
@@ -52,9 +59,3 @@ Participation in the startsocial initiative under the patronage of chancellor An
 Think-Big Prize for social engagement of the Telefonica Foundation
 {{< /price >}}
 
-{{< price 
-    year="2015" 
-    img="/images/uni-kn.jpg"
-    order="order-md-1"
->}}
-Prize of Konstanz University for outstanding commitment{{< /price >}}
