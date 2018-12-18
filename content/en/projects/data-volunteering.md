@@ -20,14 +20,6 @@ In our volunteering projects, we connect non-profit organisations with a team of
 When setting up the teams, diversity plays an important role. This allows us to gather all relevant skills required for a project, while at the same time providing a unique and valuable learning opportunity for all people involved in the project.
 
 {{< testimonial 
-    contact="Ivo (Product Manager)"
-    organisation="ProjectTogether"
-    image="ivo-project-together.jpg"
->}}
-    The cooperation with CorrelAid gave us fascinating insights into what is possible with data analysis.
-{{< /testimonial >}}
-
-{{< testimonial 
     contact="Anna Saraste"
     organisation="European Youth Parliament"
     image="eyp.jpg"
@@ -45,4 +37,12 @@ When setting up the teams, diversity plays an important role. This allows us to 
     after a weekend of programming and implementing new ideas. I've learned a lot from my teammates and our partners 
     at GoVolunteer during the project: Not only did I improve my coding skills in R, but I also learned how to do 
     effective project work in a vivid virtual team.
+{{< /testimonial >}}
+
+{{< testimonial 
+    contact="Ivo (Product Manager)"
+    organisation="ProjectTogether"
+    image="ivo-project-together.jpg"
+>}}
+    The cooperation with CorrelAid gave us fascinating insights into what is possible with data analysis.
 {{< /testimonial >}}

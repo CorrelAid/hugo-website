@@ -20,14 +20,6 @@ In unseren Volunteering-Angebot vermitteln wir ein Team von ehrenamtlichen Daten
 In unseren Projekten ist uns wichtig, dass wir diverse Teams zusammenstellen: Auf der einen Seite bringen wir so alle benötigten Skills zusammen und auf der anderen Seite wird es so eine wertvolle Lernerfahrung für alle Beteiligten.
 
 {{< testimonial 
-    contact="Ivo (Product Manager)"
-    organisation="ProjectTogether"
-    image="ivo-project-together.jpg"
->}}
-    Die Zusammenarbeit mit CorrelAid hat uns hochspannende Einblicke in die Möglichkeiten der Datenanalyse gegeben.
-{{< /testimonial >}}
-
-{{< testimonial 
     contact="Anna Saraste"
     organisation="European Youth Parliament"
     image="eyp.jpg"
@@ -46,4 +38,12 @@ In unseren Projekten ist uns wichtig, dass wir diverse Teams zusammenstellen: Au
     Meist Sonntagabend, nachdem wir am Wochenende nochmal richtig in die Tasten gehauen und viele Ideen umgesetzt haben. 
     Ich habe während des Projekts extrem viel von den anderen im Team und von GoVolunteer gelernt. Nicht nur besseres 
     Coden in R, sondern auch effektive Projektarbeit im virtuellen Team, das dabei erfreulicherweise sehr lebendig war.
+{{< /testimonial >}}
+
+{{< testimonial 
+    contact="Ivo (Product Manager)"
+    organisation="ProjectTogether"
+    image="ivo-project-together.jpg"
+>}}
+    Die Zusammenarbeit mit CorrelAid hat uns hochspannende Einblicke in die Möglichkeiten der Datenanalyse gegeben.
 {{< /testimonial >}}
