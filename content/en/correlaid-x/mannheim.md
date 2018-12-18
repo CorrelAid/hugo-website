@@ -13,18 +13,17 @@ meta:
 ---
 
 
+The local Chapter Mannheim exists since fall 2017. To get our vision of CorrelAid out to the students of Mannheim university, we organized our kick-off event as a panel discussion with Johannes, founder of CorrelAid, Open data expert Oliver Rack, Prof. Thomas Gschwend and Malte Schierholz, both from the Social Science Faculty of the University. Together with 80 interested students, we discussed the emerging relevance of data in society and the possibility for each and everyone to get involved here.
 
-Das Local Chapter Mannheim hat sich im Herbst 2017 konstituiert. Um unsere Vision von CorrelAid unter den Studierenden der Universität Mannheim zu verbreiten, veranstalteten wir ein Kick-Off Event. Zu diesem Kick-Off Event hatten wir unseren Vorsitzenden Johannes, Open-Data Experten Oliver Rack, Statistik- und empirische Methoden-Professor Thomas Gschwend und Malte Schierholz, Soziologe der Universität Mannheim geladen. Gemeinsam mit ihnen und 80 Interessierten haben wir über die steigende Relevanz von Daten in der Zivilgesellschaft und den Möglichkeiten des Einzelnen in diesem Prozess diskutiert.
+In the following weeks, we held two introductory workshops into R, as well as one to Python to give students an insight onto open source programming languages. We also planned more panel discussions on risks and benefits of open data in the goverment context and worked together with student initiatives to help associations to be better structurally prepared for the digital age.
+In the long run, we hope to make CorrelAid Mannheim a relevant and important voice in the Rhein-Neckar region.
 
-In den darauffolgenden Wochen haben wir zwei R-Einsteiger und einen Python-Einsteigerkurs veranstaltet, um die Studierenden der Universität Mannheim mit den wichtigsten Open-Source Programmen in der Datenanalyse vertraut zu machen. In den kommenden Wochen planen wir eine gemeinsame Veranstaltung mit einer studentischen Initiative der Universität Mannheim, welche zivilgesellschaftliche Organisationen dabei unterstützen möchte, sich sowohl organisatorisch als auch strukturell für die digitale Zukunft fit zu machen. Weiterhin ist eine Podiumsdiskussion zu den Nutzen und Risiken der Verwendung von Offenen Regierungsdaten geplant. Auf Grundlage unserer Workshops, der Zusammenarbeit mit anderen Organisationen und Podiumsdiskussionen versuchen wir CorrelAid in der Rhein-Neckar Region bekannt und relevant zu machen.
-
-## Kontakt
+## Contact
 
 {{< person 
     name="Konstantin"
     subline="mannheim@correlaid.org"
     img="/images/people/konstantin.jpg"
 >}}
-Konstantin zählt bereits zum CorrelAid Urgestein und ist als Doktorant an der UMA euer Ansprechpartner im Raum Mannheim.
-Ihn reizt an Datenanalyse vor allem aus vermeindlich unstrukturierten Daten Informationen zur Problemlösung zu gewinnen. In der Projektarbeit freut er sich dabei vor allem über die Reaktionen der Partnerorganisationen auf die Projektergebnisse.
+Konstantin is part of CorrelAid since...forever and works on his PhD at the University of Mannheim. He's fascinated by seemingly unstructured data that still often holds a lot of information to solve problems. The motivation to work for CorrelAid stems  from the positive reactions of the project team and the partner organisations.
 {{< /person >}}
