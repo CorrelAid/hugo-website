@@ -15,6 +15,7 @@ meta:
     title="Data Science for Good." 
     color="ca-blue-text"
     img="/images/data-science-for-good.jpg"
+    href="/projects/data-volunteering/"
     order="order-md-0"
 >}}
     Wir bieten innovatives Skilled-Volunteering: Wir bringen gesellschaftlich denkende Data Scientists mit sozialen Organisationen zusammen und stoßen gemeinsame Projekte an. Mit einem dezentralen Netzwerk von über 650 Data Scientists demokratisieren wir so das Potential fortgeschrittener Datenanalyse.
@@ -24,6 +25,7 @@ meta:
     title="Data Science for Tomorrow."
     color="ca-green-text"
     img="/images/data-science-for-tomorrow.jpg"
+    href="/projects/education/"
     order="order-md-1"
 >}}
     Wir schulen engagierte Data Scientists in Datenschutz, Projektmanagement und der Kommunikation mit
@@ -35,6 +37,7 @@ meta:
     title="Data Science for Society." 
     color="ca-dark-blue-text"
     img="/images/data-science-for-society.jpg"
+    href="/projects/dialog/"
     order="order-md-0"
 >}}
     Wir setzen uns für einen breiteren Dialog über das Potential und die Grenzen von Data Science in
