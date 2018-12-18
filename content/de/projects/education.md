@@ -19,9 +19,9 @@ In unseren Workshops bilden wir unser Data Science Netzwerk weiter. In unserem N
 
 
 {{< testimonial 
-    contact="André Lange"
-    organisation="Business Manager"
-    image="andre-lange.jpg"
+    contact="Winnie"
+    organisation=""
+    image=""
 >}}
-    Am meisten Spaß gemacht hat mir, gemeinsam mit dem Team eine neue Version des Dashboards zu publizieren. Meist Sonntagabend, nachdem wir am Wochenende nochmal richtig in die Tasten gehauen und viele Ideen umgesetzt haben. Ich habe während des Projekts extrem viel von den anderen im Team und von GoVolunteer gelernt. Nicht nur besseres Coden in R, sondern auch effektive Projektarbeit im virtuellen Team, das dabei erfreulicherweise sehr lebendig war.
+    ...
 {{< /testimonial >}}

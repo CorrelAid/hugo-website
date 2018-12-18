@@ -26,3 +26,24 @@ In unseren Projekten ist uns wichtig, dass wir diverse Teams zusammenstellen: Au
 >}}
     Die Zusammenarbeit mit CorrelAid hat uns hochspannende Einblicke in die Möglichkeiten der Datenanalyse gegeben.
 {{< /testimonial >}}
+
+{{< testimonial 
+    contact="Anna Saraste"
+    organisation="European Youth Parliament"
+    image="eyp.jpg"
+>}}
+    Wir haben sehr, sehr gute Erfahrungen gemacht. CorrelAid hat uns großartige und sehr nützliche 
+    Einblicke verschafft. Mit unserem begrenzten Budget hätten wir diese Leistungen nie bezahlen können. Es sollte mehr
+    Organisationen, wie CorrelAid geben.
+{{< /testimonial >}}
+
+{{< testimonial 
+    contact="André Lange"
+    organisation="Business Manager"
+    image="andre-lange.jpg"
+>}}
+    Am meisten Spaß gemacht hat mir, gemeinsam mit dem Team eine neue Version des Dashboards zu publizieren. 
+    Meist Sonntagabend, nachdem wir am Wochenende nochmal richtig in die Tasten gehauen und viele Ideen umgesetzt haben. 
+    Ich habe während des Projekts extrem viel von den anderen im Team und von GoVolunteer gelernt. Nicht nur besseres 
+    Coden in R, sondern auch effektive Projektarbeit im virtuellen Team, das dabei erfreulicherweise sehr lebendig war.
+{{< /testimonial >}}

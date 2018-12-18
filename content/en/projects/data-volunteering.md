@@ -26,3 +26,23 @@ When setting up the teams, diversity plays an important role. This allows us to 
 >}}
     The cooperation with CorrelAid gave us fascinating insights into what is possible with data analysis.
 {{< /testimonial >}}
+
+{{< testimonial 
+    contact="Anna Saraste"
+    organisation="European Youth Parliament"
+    image="eyp.jpg"
+>}}
+    It was a very, very positive experience for us. It was amazing insight that CorrelAid brought and was super practical. On our limited budget, we would never have 
+    been able to afford this. I think what the group does is outstanding. There should be more like this.
+{{< /testimonial >}}
+
+{{< testimonial 
+    contact="André Lange"
+    organisation="Business Manager"
+    image="andre-lange.jpg"
+>}}
+    What I enjoyed most, was publishing a new version of our dashboard. Usually, this happened on Sunday evenings, 
+    after a weekend of programming and implementing new ideas. I've learned a lot from my teammates and our partners 
+    at GoVolunteer during the project: Not only did I improve my coding skills in R, but I also learned how to do 
+    effective project work in a vivid virtual team.
+{{< /testimonial >}}
