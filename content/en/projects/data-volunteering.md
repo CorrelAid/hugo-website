@@ -1,8 +1,8 @@
 ---
-title: "Data Consultancy"
+title: "Data Volunteering"
 date: 2018-08-23T12:37:19+02:00
 draft: false
-translationKey: "consultancy"
+translationKey: "data-volunteering"
 menu: 
     projects:
         weight: 2
@@ -13,7 +13,7 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
-## Data-for-Good Volunteering
+## Data Volunteering
 
 In our volunteering projects, we connect non-profit organisations with a team of volunteer data analysts from our network. Together, we will support NPOs in optimising their processes, discovering new insights and working towards a more efficient allocation of resources. In general, projects run from 2 to 4 months. 
 
