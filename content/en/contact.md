@@ -40,7 +40,7 @@ Johannes had the idea to found CorrelAid in 2015 and head of the association eve
 I study "Evidence-based Policymaking" at the University of Oxford and Policy-Analysis at Universität Konstanz. I'm especially interested in evaluation methods, using evidence and data for society and politics and social entrepreneurship.
 {{< /person >}}
 
-
+<!--
 {{< person 
     name="Regina"
     subline="Local Chapter coordinator"
@@ -52,3 +52,4 @@ I study "Evidence-based Policymaking" at the University of Oxford and Policy-Ana
 >}}
     MISSING CONTENT!
 {{< /person >}}
+-->

@@ -39,7 +39,7 @@ Jan, Masterstudent an der Copenhagen Business School. Zur Datenanalyse bin ich w
 Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsitzender. Er studiert im Master "Evidence-based Policymaking" an der University of Oxford und Policy-Analyse an der Universität Konstanz. Er interessiert sich vor allem für Evaluierungsmethoden, die Nutzung von Evidenz und Daten in Gesellschaft und Politik, und Social Entrepreneurship.
 {{< /person >}}
 
-
+<!--
 {{< person 
     name="Regina"
     subline="Lokalgruppenkoordinatorin"
@@ -51,3 +51,4 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
 >}}
     MISSING CONTENT!
 {{< /person >}}
+-->
