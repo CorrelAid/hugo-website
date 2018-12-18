@@ -23,6 +23,7 @@ We try to keep entry barriers as low as possible and provide the volunteers in o
 
 When deciding on partners to cooperate with, our ethics commission will place great emphasis on the organisation's dedication to our values, its commitment to social good and the benefit for society resulting from a potential project. 
 
+<!--
 ## Payment
 
 Only high-quality work ensures a long-lasting positive impact of our projects on the civic society. Because of that, we constantly try to maintain and develop the skills and qualifications held by our volunteers, who are the cornerstone of our network. In order to facilitate such education opportunities on a regular basis, we need a certain budget.
@@ -32,3 +33,4 @@ Nevertheless, we are well aware that many non-profit organisations are facing se
 In the process of completing a project, CorrelAid provides its partners with initial consultation as well as assistance in the definition of the project and the acquisition of a project team.
 
 To promote a successfull cooperation between the organisation and the team of volunteers, we highly recommend organising a kick-off event prior to the launch of the project phase. If possible, this event should take place at the NPO's premises, with arising expenses (travel costs, catering) being covered by the NPO.
+-->

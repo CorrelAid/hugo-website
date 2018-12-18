@@ -20,6 +20,7 @@ CorrelAid ist ein unabhängiges, überparteiliches und inklusives Netzwerk. Durc
 
 Unser Angebot ist bewusst niedrigschwellig gehalten und ermöglicht unseren Netzwerkmitgliedern flexibeles Engagement. Von potentiellen Partnern erwarten wir, dass diese Werte geteilt werden. Bei der Auswahl unserer Kooperationen legen wir dementsprechend Wert auf eine soziale Ausrichtung der Partnerorganisationen und einen gesellschaftlichen Mehrwert der Projekte. Um diesen Ansprüchen gerecht zu werden, überprüfen wir potenzielle Projekte in unserem Ethikrat intensiv auf Übereinstimmung mit unseren Werten.
 
+<!--
 ## Bezahlung
 
 Nur durch qualitativ hochwertige Arbeit in unseren Projekten können wir längerfristig einen positiven Impact auf die deutsche Zivilgesellschaft erreichen. Hierfür ist die Weiterbildung unserer Netzwerkmitglieder durch hochwertige Bildungsangebote und Schulungen essentiell. Um diese Angebote regelmäßig zur Verfügung stellen zu können, benötigen wir ein gewisses Budget.
@@ -29,3 +30,4 @@ Da uns bewusst ist, dass viele zivilgesellschaftliche Organisationen innerhalb e
 CorrelAid übernimmt im Projektprozess die Erstberatung, Projektdefinition und Ausschreibung sowie die Auswahl und Vermittlung des Projektteams.
 
 Um eine gute Zusammenarbeit zwischen NGO und dem ehrenamtlichen Projektteam zu fördern, wird zu Beginn eines Projektes ein Kick-off Workshop mit allen Beteiligten organisiert. Dieser findet nach Möglichkeit in den Räumlichkeiten der NGO statt und die Kosten des Workshops (Anreise, Verpflegung) sind von der NGO zu tragen.
+-->
