@@ -20,9 +20,10 @@ Workshops are the key to maintaining and improving the skill set of our data sci
 If you're interested in joining your local network, you might want to visit our [local CorrelAidX chapters](/en/correlaid-x).
 
 {{< testimonial 
-    contact="Winnie"
-    organisation=""
-    image=""
+    contact="Winnie Poel"
+    organisation="PhD Student"
+    image="winnie.jpg"
 >}}
-    ...
+    I attended the data journalism workshop at the Meetup in Mannheim. After the workshop I overcame the awe to start my
+    own project and download and experiment with public data sources.
 {{< /testimonial >}}
