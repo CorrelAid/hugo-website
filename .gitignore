@@ -2,3 +2,4 @@
 .idea/
 *.exe
 public/*
+.Rproj.user
