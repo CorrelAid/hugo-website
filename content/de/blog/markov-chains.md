@@ -236,6 +236,8 @@ the "Intellectuals Yet Idiots (IYI)".
 Wow, a simple coin toss experiment turned into an existential academic
 crisis really fast...
 
+*The title image of this post is licensed under Public Domain Mark 1.0 (no copyright).*
+
 ------------------------------------------------------------------------
 
 
