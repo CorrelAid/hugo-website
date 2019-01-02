@@ -313,3 +313,5 @@ To dive deeper into the topic of blockchains I recommend the brilliant,
 orginial whitepaper on [BitCoin](https://bitcoin.org/bitcoin.pdf) and
 the blog post from [BigData
 Dog](https://www.r-bloggers.com/building-your-own-blockchain-in-r/).
+
+*The title image of this post is licensed under CC0 1.0.*
