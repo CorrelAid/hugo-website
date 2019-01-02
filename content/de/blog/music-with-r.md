@@ -194,3 +194,5 @@ wave <- as.Sample(wave)
 
 play(wave)
 ```
+
+*The title picture of this post is licensed under Public Domain Mark 1.0 (no Copyright).*
