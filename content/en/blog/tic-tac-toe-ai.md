@@ -312,6 +312,8 @@ smaller scale for TTT
 brilliant way to understand the core concepts behind one of the most
 advanced AI projects out there.
 
+*The title picture of this post is licensed under CC BY 2.0.*
+
 ------------------------------------------------------------------------
 
 

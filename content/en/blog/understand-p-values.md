@@ -350,6 +350,8 @@ allowed us to cross-post this very insightful post on our blog. You can
 find the original blog post
 [here.](https://daniellakens.blogspot.de/2017/12/understanding-common-misconceptions.html)*
 
+*The title picture was published 1917 and so it does not include any copyright.*
+
 ------------------------------------------------------------------------
 
 

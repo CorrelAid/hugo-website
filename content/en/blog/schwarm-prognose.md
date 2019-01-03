@@ -134,6 +134,8 @@ erfahren!
 
 \
 
+*Das Titelbild dieses Posts ist lizensiert unter CC BY-SA 2.0.*
+
 ------------------------------------------------------------------------
 
 

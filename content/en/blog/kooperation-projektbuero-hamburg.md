@@ -153,6 +153,8 @@ eine große Bandbreite an Anfragen von gemeinnützigen Akteuren aus der
 Zivilgesellschaft bedient werden; darüber hinaus profitiert die jeweils
 andere Einrichtung von den Kontakten und dessen Reichweite.
 
+*Das Titelfoto ist lizensiert ohne Copyright unter Public Domain Mark 1.0.*
+
 ------------------------------------------------------------------------
 
 

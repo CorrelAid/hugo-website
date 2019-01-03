@@ -349,6 +349,8 @@ Cambridge Analytica sure knows how to market their services or to use
 the words of Alexander Nix, founder of CA: "It doesn't have to be true,
 it just has to be believed."
 
+*The title picture of this post was published in 1932 and has no copyrights.*
+
 ------------------------------------------------------------------------
 
 

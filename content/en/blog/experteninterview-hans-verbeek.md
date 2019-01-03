@@ -104,6 +104,8 @@ andere Programme, auch wenn ich sie sehr spannend finde. Letztlich sieht
 man aber, dass wir, die wir von der VWL kommen, alle Stata benutzen. Als
 wir das studierten, war das das Standardprogramm.
 
+*Das Titelbild wurde 1922 veröffentlicht und unterliegt keinem Copyright.*
+
 ------------------------------------------------------------------------
 
 

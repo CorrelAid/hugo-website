@@ -314,6 +314,8 @@ which the golf tournament was being played."*
 Did you guess correctly? For more things to learn visit
 [Reddit](https://www.reddit.com/r/todayilearned/).
 
+*The title picture is free from copyrights under Creative Commons CC0.*
+
 ------------------------------------------------------------------------
 
 

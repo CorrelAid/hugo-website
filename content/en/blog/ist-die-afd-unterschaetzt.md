@@ -159,6 +159,8 @@ Desirability’ in Survey Studies.” *American Journal of Sociology* 77
 Die Daten wurden der Seite
 [wahlrecht.de](%E2%80%9Dhttp://wahlrecht.de/%E2%80%9C) entnommen.
 
+*Das Titelfoto diese Posts ist lizensiert unter CC0 1.0 (Public Domain).*
+
 ------------------------------------------------------------------------
 
 
