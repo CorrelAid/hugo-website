@@ -87,8 +87,8 @@
                 <div class="ca-img-border"></div>
             </a>
             <p style="margin-bottom: 0">{{ .Date.Format "2006-01-02" }}</p>
-            <h3 class="ca-dark-blue-text"><a href="{{ .URL }}">{{ .Title }}</a></h3>
-            <p>{{ .Params.summary }}</p>
+            <h3 class="ca-dark-blue-text"><a href="{{ .URL }}">{{ .Title | markdownify }}</a></h3>
+            <p>{{ .Params.summary | markdownify }}</p>
         </div>
         {{ end }}
     </div>

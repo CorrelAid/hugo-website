@@ -16,12 +16,12 @@
         </div>
         <div class="col-12 col-sm-6 col-lg-8 align-self-center">
             <p style="margin-bottom: 0">{{ .Date.Format "2006-01-02" }}</p>
-            <h3 class="ca-dark-blue-text"><a href="{{ .URL }}">{{ .Title }}</a></h3>
+            <h3 class="ca-dark-blue-text"><a href="{{ .URL }}">{{ .Title | markdownify }}</a></h3>
             <p>{{ i18n "written-by" }}: {{ .Params.author.name }}</p>
             {{ if .Params.summary }}
-                <p>{{ .Params.summary }}</p>
+                <p>{{ .Params.summary | markdownify }}</p>
             {{ else }}
-                <p>{{ .Params.meta.description }}</p>
+                <p>{{ .Params.meta.description | markdownify }}</p>
             {{ end }}
             <p><a href="{{ .URL }}">{{ i18n "read-more" }}</a></p>
         </div>
