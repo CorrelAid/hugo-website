@@ -18,7 +18,7 @@ author:
 meta:
   title: "Three problems of the current hype around *Artificial Intelligence*"
   description: "why we think that the current usage of the term *AI* is problematic"
-  image: "mannheim.jpg"
+  image: "509-a-data-scientist.jpg"
   keywords: "CorrelAid, Data4Good, AI, buzzword, hype"
 ---
 
@@ -28,7 +28,7 @@ At CorrelAid we are deeply passionate about the potential of data and analytics.
 
 # AI in Data Science  
 
-https://twitter.com/matvelloso/status/1065778379612282885?lang=en
+{{< tweet 1065778379612282885 >}}
 
 Today AI is mostly used synonymously with applied **machine learning** (ML). The intelligent part of Machine Learning is that we can develop models that can predict outcomes (supervised learning), or find patterns (unsupervised learning) that were not explicitly coded by a programmer but are "learned" by the computer. This is done using **linear algebra and applied statistics**. In its most advanved forms ML helps us to tackle enourmously complex tasks like [protein folding](https://thenewstack.io/deepmind-ai-makes-breakthrough-with-protein-folding-problem/) or [diagnosing diseases](https://thenewstack.io/scientists-artificially-intelligent-nanoarray-can-diagnose-disease-using-breath/). However, the sophistication of most ML models in production is far away from the latest "breakthroughs" dicussed in the news.
 
