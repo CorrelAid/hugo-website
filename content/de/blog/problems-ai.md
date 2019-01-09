@@ -28,7 +28,11 @@ At CorrelAid we are deeply passionate about the potential of data and analytics.
 
 # AI in Data Science  
 
-{{< tweet 1065778379612282885 >}}
+
+> *"Difference between machine learning and AI:
+>If it is written in Python, it's probably machine learning. 
+>If it is written in PowerPoint, it's probably AI."* [@matvelloso 5:25 PM - 22 Nov 2018](https://twitter.com/matvelloso/status/1065778379612282885?lang=en) 
+
 
 Today AI is mostly used synonymously with applied **machine learning** (ML). The intelligent part of Machine Learning is that we can develop models that can predict outcomes (supervised learning), or find patterns (unsupervised learning) that were not explicitly coded by a programmer but are "learned" by the computer. This is done using **linear algebra and applied statistics**. In its most advanved forms ML helps us to tackle enourmously complex tasks like [protein folding](https://thenewstack.io/deepmind-ai-makes-breakthrough-with-protein-folding-problem/) or [diagnosing diseases](https://thenewstack.io/scientists-artificially-intelligent-nanoarray-can-diagnose-disease-using-breath/). However, the sophistication of most ML models in production is far away from the latest "breakthroughs" dicussed in the news.
 
@@ -50,9 +54,9 @@ This challenge gets even harder if everything - "classical" data science models,
 ## It introduces unnecessary barriers  
 
 ### For Data Scientists
-Artificial intelligence has the potential to attract and amaze new people for the field of data science. However, this kind of framing attracts certain people more than others and might even **discourage some from getting into the field of data science**. The brilliant project fast.ai (which has the goal to make machine learning more inclusive) describes the problem with the current framing of AI as follows: 
+Artificial intelligence has the potential to attract and amaze new people for the field of data science. However, this kind of framing attracts certain people more than others and might even **discourage some from getting into the field of data science**. The brilliant project [fast.ai](fast.ai) (which has the goal to make machine learning more inclusive) describes the problem with the current framing of AI as follows: 
 
-> Being cool is about being exclusive, and that’s the opposite of what we want. We want to make deep learning as accessible as possible– including to people using uncool languages like C#, uncool operating systems like Windows (which is used by the majority of the world), uncool datasets (way smaller than anything at Google, and in domain areas you’d consider obscure), and with uncool backgrounds (maybe you didn’t go to Stanford)
+> "*Being cool is about being exclusive, and that’s the opposite of what we want. We want to make deep learning as accessible as possible– including to people using uncool languages like C#, uncool operating systems like Windows (which is used by the majority of the world), uncool datasets (way smaller than anything at Google, and in domain areas you’d consider obscure), and with uncool backgrounds (maybe you didn’t go to Stanford)*"
 
 On another level this creates the next problem: Not all people are in the lingo and know that currently "can you do AI?" in 80% of cases basically means: "can you do some intermediate data science?" This could keep people with realistic views of their own skills who are probably good data scientists from getting into IT jobs. This will probably disproportionately affect people from groups currently underrepresented in IT as they are less likely to know people in the business - not only [gender minorities](https://www.wired.com/story/artificial-intelligence-researchers-gender-imbalance/) but also people from non-technical backgrounds. **Data science is an inherently diverse and interdisciplinary field** - it would be a shame (and economically unwise) if this potential was kept out by a buzzword hype.
 
