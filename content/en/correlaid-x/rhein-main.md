@@ -24,8 +24,6 @@ There are numerous ways to make an impact, e.g.:
 3.    as an organiser for the local community
 
 
-## Contact
-
 {{< person 
     name="André"
     subline="CorrelAidX Rhein-Main"

@@ -19,8 +19,6 @@ CorrelAid X Netherlands is inspired by, and in contact with, CorrelAid which was
 
 If you are interested in CorrelAid X Netherlands or you want to get involved in our network; subscribe to our mailing list.
 
-## Contact
-
 {{< person 
     name="Joel"
     subline="CorrelAidX Niederlande"

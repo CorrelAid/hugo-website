@@ -23,8 +23,6 @@ Es gibt viele Möglichkeiten, um aktiv zu werden, z.B.:
 2. als Engagierte/r in einer NPO, die herausfinden möchte, ob sie mit Ihren Daten eine größere Wirkung erzielen könnte
 3. als Organisator für CorrelAid Rhein-Main-Community
 
-## Kontakt
-
 {{< person 
     name="André"
     subline="CorrelAidX Rhein-Main"

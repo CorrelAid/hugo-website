@@ -20,8 +20,6 @@ Aufbauend auf diesem Potential wurden erste Anfänge für den Aufbau eines Local
 
 In Workshops wurde erörtert, was mittlerweile mit Data Science alles möglich ist, wie Machine Learning grundsätzlich funktioniert (und in R umgesetzt werden kann) und wie man mit dem Datenvisualiserungs-Tool Tableau schicke interaktive Grafiken basteln kann. Kritischen Input gab es von unserem Referenten vom Wissenschaftsladen Dortmund zum Thema Verschlüsselung und dem Verhältnis zwischen Daten und Gesellschaft. Ein erstes lokales Projekt steht womöglich in Kooperation mit dem Wissenschaftsladen Dortmund, der z.B. kostenloses Internet für Geflüchtetenheime bereitstellt, bereits in den Startlöchern.
 
-## Kontakt
-
 {{< person 
     name="Damon"
     subline="CorrelAidX Ruhrgebiet"

@@ -12,8 +12,6 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
-## Kontakt
-
 {{< person 
     name="Annerose"
     subline="CorrelAidX Düsseldorf"

@@ -23,7 +23,6 @@ CorrelAidxNL is geïnspireerd op en in contact met CorrelAid, opgericht in Duits
 
 Als je geïnteresseerd bent in CorrelAidxNL of als je wil meedoen; schrijf je in op de mailing list en je krijg meer informatie!
 
-## Contact
 
 {{< person 
     name="Joel"

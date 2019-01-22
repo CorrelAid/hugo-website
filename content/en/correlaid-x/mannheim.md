@@ -18,8 +18,6 @@ The local Chapter Mannheim exists since fall 2017. To get our vision of CorrelAi
 In the following weeks, we held two introductory workshops into R, as well as one to Python to give students an insight onto open source programming languages. We also planned more panel discussions on risks and benefits of open data in the goverment context and worked together with student initiatives to help associations to be better structurally prepared for the digital age.
 In the long run, we hope to make CorrelAid Mannheim a relevant and important voice in the Rhein-Neckar region.
 
-## Contact
-
 {{< person 
     name="Konstantin"
     subline="mannheim@correlaid.org"

@@ -25,8 +25,6 @@ implemented in R and how to vizualize your data using Tableau. There were also d
 such as encryption and the relationship of data and society. We might soon start a first local project cooperation with 
 the Wissenschaftsladen Dortmund that provides e.g. free internet for refugee homes.
 
-## Contact
-
 {{< person 
     name="Damon"
     subline="CorrelAidX Ruhrgebiet"
