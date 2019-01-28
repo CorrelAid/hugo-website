@@ -16,7 +16,7 @@ end of 2018. Through people-to-people contact, several interested people from th
 informatics participated in the first meeting that brought the actual foundation process on its way. 
 
 By now, a core team has been developed which regularly meets in the conference room of the University’s General 
-Students Committee (ASta). For the near future we decided to establish new contacts with socially-oriented 
+Students Committee (AStA). For the near future we decided to establish new contacts with socially-oriented 
 initiatives in Bremen and „umzu“. Secondly, we would like to create a network for local data analysts. 
 For this purpose we aim to build a strong cooperation with different faculties and departments at the 
 University of Bremen.
