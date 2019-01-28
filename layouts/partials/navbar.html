@@ -23,6 +23,10 @@
                     {{ range .Site.Menus.about }}
                     <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
                     {{ end }}
+
+                    {{ if eq .Site.Language.Lang "de"}}
+                    <a class="dropdown-item" href="https://www.spreaker.com/show/correltalk-the-correlaid-podcast"><i class="fas fa-external-link-square-alt"></i> Podcast</a>
+                    {{ end }}
                 </div>
             </li>
             <!-- /END ABOUT US -->
@@ -36,7 +40,7 @@
                     {{ range .Site.Menus.contribute }}
                     <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
                     {{ end }}
-                    <a class="dropdown-item" href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff">{{ i18n "mailing-list" }}</a>
+                    <a class="dropdown-item" href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"><i class="fas fa-external-link-square-alt"></i>  {{ i18n "mailing-list" }}</a>
                 </div>
             </li>
             <!-- /END SUPPORT -->
