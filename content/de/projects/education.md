@@ -18,6 +18,17 @@ meta:
 In unseren Workshops bilden wir unser Data Science Netzwerk weiter. In unserem Netzwerk kommen Analysten und Analystinnen aus den unterschiedlichsten akademschen Disziplinen und Branchen zusammen. Dadurch können wir unglaublich viel voneinander lernen. Deshalb setzen wir auf Peer Learning. Mit unseren Workshop Konzepten schaffen wir dafür den Rahmen. Finde dein lokales Netzwerk bei unseren [CorrelAidX Gruppen](/correlaid-x).
 
 {{< testimonial 
+    contact="André Lange"
+    organisation="Business Manager"
+    image="andre-lange.jpg"
+>}}
+    Am meisten Spaß gemacht hat mir, gemeinsam mit dem Team eine neue Version des Dashboards zu publizieren. 
+    Meist Sonntagabend, nachdem wir am Wochenende nochmal richtig in die Tasten gehauen und viele Ideen umgesetzt haben. 
+    Ich habe während des Projekts extrem viel von den anderen im Team und von GoVolunteer gelernt. Nicht nur besseres 
+    Coden in R, sondern auch effektive Projektarbeit im virtuellen Team, das dabei erfreulicherweise sehr lebendig war.
+{{< /testimonial >}}
+
+{{< testimonial 
     contact="Winnie Poel"
     organisation="Doktorandin"
     image="winnie.jpg"

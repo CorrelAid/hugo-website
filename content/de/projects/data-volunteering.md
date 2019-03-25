@@ -29,15 +29,15 @@ In unseren Projekten ist uns wichtig, dass wir diverse Teams zusammenstellen: Au
     Organisationen, wie CorrelAid geben.
 {{< /testimonial >}}
 
+
+
 {{< testimonial 
-    contact="André Lange"
-    organisation="Business Manager"
-    image="andre-lange.jpg"
+    contact="Claire Samtleben"
+    organisation="Diskutier-Mit-Mir"
+    image="diskutier-mit-mir.jpg"
 >}}
-    Am meisten Spaß gemacht hat mir, gemeinsam mit dem Team eine neue Version des Dashboards zu publizieren. 
-    Meist Sonntagabend, nachdem wir am Wochenende nochmal richtig in die Tasten gehauen und viele Ideen umgesetzt haben. 
-    Ich habe während des Projekts extrem viel von den anderen im Team und von GoVolunteer gelernt. Nicht nur besseres 
-    Coden in R, sondern auch effektive Projektarbeit im virtuellen Team, das dabei erfreulicherweise sehr lebendig war.
+    Durch die Zusammenarbeit mit Correlaid haben wir eine neue Perspektive auf unser Projekt bekommen. Für die 
+    Weiterentwicklung von Diskutier Mit Mir war das super hilfreich!
 {{< /testimonial >}}
 
 {{< testimonial 
