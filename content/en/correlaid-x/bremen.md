@@ -1,6 +1,7 @@
 ---
 title: "Bremen"
 date: 2018-08-23T12:36:49+02:00
+newsletter: "You want to know more about CorrelAidX Bremen? Sign up for our Newsletter!"
 menu: 
     correlaidx:
         weight: 5

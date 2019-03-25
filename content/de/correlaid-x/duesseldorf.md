@@ -2,6 +2,7 @@
 title: "Düsseldorf"
 date: 2018-08-23T12:36:49+02:00
 draft: true
+newsletter: "Du willst mehr über CorrelAidX Düsseldorf erfahren? Dann abonniere unseren Newsletter!"
 menu: 
     correlaidx:
         weight: 5

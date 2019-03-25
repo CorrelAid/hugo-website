@@ -2,6 +2,7 @@
 title: "Netherlands"
 date: 2018-08-23T12:36:49+02:00
 draft: false
+newsletter: "You want to know more about CorrelAidX Netherlands? Sign up for our Newsletter!"
 menu: 
     correlaidx:
         weight: 5

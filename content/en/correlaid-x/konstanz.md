@@ -2,6 +2,7 @@
 title: "Konstanz"
 date: 2018-08-23T12:36:49+02:00
 draft: true
+newsletter: "You want to know more about CorrelAidX Konstanz? Sign up for our Newsletter!"
 menu: 
     correlaidx:
         weight: 3

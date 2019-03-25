@@ -1,6 +1,7 @@
 ---
 title: "Bremen"
 date: 2018-08-23T12:36:49+02:00
+newsletter: "Du willst mehr über CorrelAidX Bremen erfahren? Dann abonniere unseren Newsletter!"
 menu: 
     correlaidx:
         weight: 5

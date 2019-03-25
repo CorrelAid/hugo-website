@@ -2,6 +2,7 @@
 title: "Nederland"
 date: 2018-08-23T12:36:49+02:00
 draft: false
+newsletter: "Wil je meer over CorrelAidX Nederland weten? Abonneer je op onze nieuwsbrief!"
 menu: 
     correlaidx:
         weight: 5
