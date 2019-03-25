@@ -27,7 +27,7 @@ other       = "CorrelAid vor Ort:"
 [cookies]
 other       = "Wir benutzen Cookies, um uns zu merken, ob du Leisten, wie diese geschlossen hast."
 [cookies-more]
-other       = "Mehr Informationen findest du hier."
+other       = " Mehr Informationen findest du hier."
 [email]
 other       = "Email"
 [recipient]
@@ -61,4 +61,4 @@ other       = "Mehr lesen"
 [written-by]
 other       = "Von"
 [footer-newsletter]
-other       = "Du willst mehr über CorrlAid erfahren? Dann abonniere unseren "
+other       = "Du willst mehr über CorrelAid erfahren? Dann abonniere unseren "
