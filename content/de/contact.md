@@ -29,17 +29,16 @@ Jan, Masterstudent an der Copenhagen Business School. Zur Datenanalyse bin ich w
 
 {{< person 
     name="Johannes"
-    subline="Projekte"
+    subline="Vorsitzender"
     img="/images/people/johannes.jpg"
     data-email="johannes.m@correlaid.org"
-    data-to="Johannes (Projekte)"
+    data-to="Johannes (Vorsitzender)"
     link-color="ca-green-text"
     x="0"
 >}}
 Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsitzender. Er studiert im Master "Evidence-based Policymaking" an der University of Oxford und Policy-Analyse an der Universität Konstanz. Er interessiert sich vor allem für Evaluierungsmethoden, die Nutzung von Evidenz und Daten in Gesellschaft und Politik, und Social Entrepreneurship.
 {{< /person >}}
 
-<!--
 {{< person 
     name="Regina"
     subline="Lokalgruppenkoordinatorin"
@@ -49,6 +48,30 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
     link-color="ca-green-text"
     x="0"
 >}}
-    MISSING CONTENT!
+    ADD CONTENT!
 {{< /person >}}
--->
+
+
+{{< person 
+    name="Manuel"
+    subline="Projekte"
+    img="/images/people/manuel.jpg"
+    data-email="projekte@correlaid.org"
+    data-to="Manuel (Projekte)"
+    link-color="ca-green-text"
+    x="0"
+>}}
+    ADD CONTENT!
+{{< /person >}}
+
+{{< person 
+    name="Lisa"
+    subline="Projekte"
+    img="/images/people/lisa.jpg"
+    data-email="projekte@correlaid.org"
+    data-to="Lisa (Projekte)"
+    link-color="ca-green-text"
+    x="0"
+>}}
+    ADD CONTENT!
+{{< /person >}}
