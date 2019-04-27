@@ -15,11 +15,11 @@ meta:
 # CorrelAid unterstützen
 
 
-CorrelAid wäre ohne die Unterstützung durch unsere vielen ehrenamtlichen Mitglieder nicht möglich. Dennoch sind auch wir auf finanzielle Mittel angewiesen, um unser Netzwerk zu fördern und gemeinnützigen Organisationen effektiv helfen zu können.
+CorrelAid wäre ohne die Unterstützung unserer vielen ehrenamtlichen Mitglieder nicht möglich. Dennoch sind auch wir auf finanzielle Mittel angewiesen, um unser Netzwerk zu fördern und gemeinnützigen Organisationen effektiv helfen zu können.
 
-Mit deiner Spende hilfst du uns, auch weiterhin unseren zivilgesellschaftlichen Auftrag erfüllen zu können. Dabei hast du die Wahl, ob du Geld für zukünftige Projekte mit NGOs, Weiterbildungsangebote für Datenenthusiasten oder für unsere technische Infrastruktur spenden möchtest.
+Mit deiner Spende hilfst du uns, auch weiterhin unseren zivilgesellschaftlichen Auftrag erfüllen zu können. Dabei hast du die Wahl, ob du Geld für zukünftige Projekte mit NGOs, Weiterbildungsangebote für Datenenthusiast*innen oder für unsere technische Infrastruktur spenden möchtest.
 
-Egal ob Unternehmer oder Privatperson, kleiner oder großer Betrag: Jede/r Spender/in ist herzlich willkommen!
+Egal ob Unternehmer\*in oder Privatperson, kleiner oder großer Betrag: Jede\*r Spender\*in ist herzlich willkommen!
 
 ## Unterstüzt uns bei:
 
@@ -29,7 +29,7 @@ Egal ob Unternehmer oder Privatperson, kleiner oder großer Betrag: Jede/r Spend
     img="/images/projects.jpg"
     order="order-md-1"
 >}}
-    In unseren Projekten bringen wir motivierte, ehrenamtliche Datenanalystinnen und -analysten aus unserem Netzwerk mit sozialen Organisationen zusammen, um deren Arbeit durch datengetriebene Ansätze zu verbessern.
+    In unseren Projekten bringen wir motivierte, ehrenamtliche Datenanalyst\*innen aus unserem Netzwerk mit sozialen Organisationen zusammen, um deren Arbeit durch datengetriebene Ansätze zu verbessern.
 {{< /feature >}}
 
 
@@ -48,7 +48,7 @@ Egal ob Unternehmer oder Privatperson, kleiner oder großer Betrag: Jede/r Spend
     img="/images/infrastructure.jpg"
     order="order-md-1"
 >}}
-    Unsere Projektarbeit und die Vernetzung unserer Community basiert auf einer umfangreichen technischen Infrastruktur (Homepage, Server, Software). Unterstütze uns bei den laufenden Kosten und dem Einsatz von state-of-the-art Data Science-Technologien.
+    Unsere Projektarbeit und die Vernetzung unserer Community basiert auf einer umfangreichen technischen Infrastruktur (Homepage, Server, Software). Unterstütze uns bei den laufenden Kosten und dem Einsatz von state-of-the-art Data Science Technologien.
 {{< /feature >}}
 
 

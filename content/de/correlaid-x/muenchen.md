@@ -8,7 +8,7 @@ menu:
         weight: 5
 meta:
     title: "CorrelAidX - München"
-    description: "Du möchtest Data-for-Good-AnalystInnen aus deiner Region kennenlernen, und zusammen Daten für den guten Zweck nutzen? Mit CorrelAidX bringen wir Data for Good in deine Stadt!"
+    description: "Du möchtest Data-for-Good-Analyst*innen aus deiner Region kennenlernen und zusammen Daten für den guten Zweck nutzen? Mit CorrelAidX bringen wir Data for Good in deine Stadt!"
     image: "509-correlaid-x-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
@@ -24,5 +24,5 @@ meta:
     x="1"
 >}}
 Ulrike ist Data Scientist bei IBM und eure Ansprechpartnerin für den Raum München.
-Sie begeistert an Datenanalyse vor allem das Aufdecken von verdeckten Strukturen und möchte mit ihrer Arbeit zeigen, dass Daten nicht nur ein Kapital großer Organisationen sind sondern auch das Potenzial haben im sozialen Bereich viel zu bewegen.
+Sie begeistert an Datenanalyse vor allem das Aufdecken von verdeckten Strukturen. Ulrike möchte mit ihrer Arbeit zeigen, dass Daten nicht nur ein Kapital großer Organisationen sind, sondern auch das Potenzial haben im sozialen Bereich viel zu bewegen.
 {{< /person >}}

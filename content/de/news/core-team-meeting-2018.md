@@ -7,4 +7,4 @@ draft: false
 ---
 
 Wir setzen uns für einen breiteren Dialog über das Potential und die Grenzen von Data Science in der Gesellschaft ein. 
-Wir zeigen in Talks, Workshops und auf Konferenzen wie man mit Daten Gutes tun kann. 
+Wir zeigen in Talks, Workshops und auf Konferenzen, wie man mit Daten Gutes tun kann. 

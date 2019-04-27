@@ -23,5 +23,5 @@ meta:
     x="1"
 >}}
 Lena studiert im Master Gesellschaft, Globalisierung und Entwicklung an der Universität Bonn.
-Sie möchte im Rheinland einen Raum schaffen um über den Tellerrannd zu gucken, voneinander zu lernen und sich auszutauschen. Durch Projekte auf lokaler Ebene möchte sie dabei das Feld der Datenanylse für die Zivilgesellschaft nutzbar machen damit diese ihr volles Potenzial ausschöpfen kann.
+Sie möchte im Rheinland einen Raum schaffen, um über den Tellerrannd zu gucken, voneinander zu lernen und sich auszutauschen. Durch Projekte auf lokaler Ebene möchte sie dabei das Feld der Datenanylse für die Zivilgesellschaft nutzbar machen, damit diese ihr volles Potenzial ausschöpfen kann.
 {{< /person >}}

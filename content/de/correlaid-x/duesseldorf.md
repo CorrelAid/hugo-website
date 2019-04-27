@@ -8,7 +8,7 @@ menu:
         weight: 5
 meta:
     title: "CorrelAidX - Düsseldorf"
-    description: "Du möchtest Data-for-Good-AnalystInnen aus deiner Region kennenlernen, und zusammen Daten für den guten Zweck nutzen? Mit CorrelAidX bringen wir Data for Good in deine Stadt!"
+    description: "Du möchtest Data-for-Good-Analyst*innen aus deiner Region kennenlernen und zusammen Daten für den guten Zweck nutzen? Mit CorrelAidX bringen wir Data for Good in deine Stadt!"
     image: "509-correlaid-x-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
@@ -23,5 +23,5 @@ meta:
     x="1"
 >}}
 Annerose ist Technology Consultant im VDI Technologie Zentrum und eure Ansprechpartnerin im Raum Düsseldorf.
-Sie begeistert an Datenalayse vor allem das Sichtbarmachen von verdeckten Zusammenhängen und die Möglichkeit der strategischen Weiterentwicklung. Durch lokale Projekte möchte sie Organisationen deren Ressourcen sowieso schon knapp sind helfen, um diese besser zu nutzen.
+Sie begeistert an Datenalayse vor allem das Sichtbarmachen von verdeckten Zusammenhängen und die Möglichkeit der strategischen Weiterentwicklung. Durch lokale Projekte möchte sie Organisationen, deren Ressourcen sowieso schon knapp sind, helfen, um diese besser zu nutzen.
 {{< /person >}}
