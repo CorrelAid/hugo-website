@@ -4,6 +4,8 @@ date: 2018-08-23T19:33:51+02:00
 image: data-science-for-good.jpg
 city: Berlin
 draft: false
+params:
+  Subtitle: "Für unser Core Team Meeting treffen wir uns dieses Jahr in Göttingen und planen unsere strategische Ausrichtung für das nächste Jahr..."
 ---
 
 Wir setzen uns für einen breiteren Dialog über das Potential und die Grenzen von Data Science in der Gesellschaft ein. 
