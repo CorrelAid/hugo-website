@@ -24,7 +24,7 @@ meta:
     link-color="ca-green-text"
     x="0"
 >}}
-Jan, Masterstudent an der Copenhagen Business School. Zur Datenanalyse bin ich während meines Bachelors gestoßen und seitdem engagiere ich mich bei CorrelAid. Wenn ich nicht mit CorrelAid beschäftigt bin, kann man mich meistens (morgens, mittags & abends) in der Bar um die Ecke antreffen.
+Jan, Masterstudent an der Copenhagen Business School. Zur Datenanalyse ist Jan während seines Bachelors gestoßen und ist seitdem bei CorrelAid engagiert. Bei CorrelAid kümmert er sich um alle finanziellen Angelegenheiten und kann für Spenden kontaktiert werden. 
 {{< /person >}}
 
 {{< person 
@@ -48,7 +48,7 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
     link-color="ca-green-text"
     x="0"
 >}}
-    ADD CONTENT!
+    Regina studiert Survey Statistik an der Universität Bamberg. Sie interessiert sich für Evaluation und kausale Inferenz und ich bei CorrelAid für die Organisation der Lokalgruppen zuständig.
 {{< /person >}}
 
 
@@ -70,6 +70,18 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
     img="/images/people/lisa.jpg"
     data-email="projekte@correlaid.org"
     data-to="Lisa (Projekte)"
+    link-color="ca-green-text"
+    x="0"
+>}}
+    ADD CONTENT!
+{{< /person >}}
+
+{{< person 
+    name="Jasmin"
+    subline="Bildung"
+    img="/images/people/jasmin.jpg"
+    data-email="projekte@correlaid.org"
+    data-to="Jasmin (Bildung)"
     link-color="ca-green-text"
     x="0"
 >}}
