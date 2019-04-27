@@ -25,7 +25,7 @@ Wenn Du Kontakt zu einer NPO hast, die auf spannenden Daten sitzt und unsere Hil
 
 ## Austauschen und vernetzen
 
-Ein- bis zweimal im Jahr treffen wir uns in einer immer anderen Stadt zu unserem deutschlandweiten Meetup. Ob in Berlin, Hamburg,Mannheim, Duisburg oder Bonn: Bei Workshops, Diskussionen und abendlichen Entdeckungstouren lernst Du viele neue Gleichgesinnte treffen. Eindrücke vom der 2018er Ausgabe in  Mannheim kannst du Dir [hier](https://www.spreaker.com/user/correlaid/meetup-podcast-correlaid) in der ersten Ausgabe unseres Podcasts CorrelTalk anhören.
+Ein- bis zweimal im Jahr treffen wir uns in einer immer anderen Stadt zu unserem deutschlandweiten Meetup. Ob in Berlin, Hamburg, Mannheim, Duisburg oder Bonn: Bei Workshops, Diskussionen und abendlichen Entdeckungstouren lernst Du viele neue Gleichgesinnte treffen. Eindrücke von der 2018er Ausgabe in  Mannheim kannst du Dir [hier](https://www.spreaker.com/user/correlaid/meetup-podcast-correlaid) in der ersten Ausgabe unseres Podcasts CorrelTalk anhören.
 
 In Städten, in denen es großes Interesse an Data-for-Good gibt, wollen wir mittelfristig noch mehr Local Chapters gründen, damit ihr auch vor Ort Workshops organisieren, Hackathons Durchführen und Euch gegenseitig kennenlernen könnt. Wenn Du Lust hast, ein Local Chapter zu starten, oder Dich einfach erkundigen möchtest, ob es schon andere Leute in deiner Stadt gibt, melde Dich einfach bei [Regina](mailto:regina.s@correlaid.org). Unsere bisherigen Chapters und Ansprechpartner findest du [hier](/correlaid-x).
 
