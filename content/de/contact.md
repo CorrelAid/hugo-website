@@ -48,7 +48,7 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
     link-color="ca-green-text"
     x="0"
 >}}
-    Regina studiert Survey Statistik an der Universität Bamberg. Sie interessiert sich für Evaluation und kausale Inferenz und ich bei CorrelAid für die Organisation der Lokalgruppen zuständig.
+    Regina studiert Survey Statistik an der Universität Bamberg. Sie interessiert sich für Evaluation und kausale Inferenz und ist bei CorrelAid für die Organisation der Lokalgruppen zuständig.
 {{< /person >}}
 
 
@@ -80,7 +80,7 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
     name="Jasmin"
     subline="Bildung"
     img="/images/people/jasmin.jpg"
-    data-email="projekte@correlaid.org"
+    data-email="bildung@correlaid.org"
     data-to="Jasmin (Bildung)"
     link-color="ca-green-text"
     x="0"
