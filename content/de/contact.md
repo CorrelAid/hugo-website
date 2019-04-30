@@ -80,7 +80,7 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
     name="Jasmin"
     subline="Bildung"
     img="/images/people/jasmin.jpg"
-    data-email="bildung@correlaid.org"
+    data-email="education@correlaid.org"
     data-to="Jasmin (Bildung)"
     link-color="ca-green-text"
     x="0"
