@@ -32,7 +32,7 @@ dafür hilfreich wäre). Habt ihr Lust, im Orgateam aktiv zu werden, könnt ihr 
     name="Hendrik"
     subline="CorrelAidX Bremen"
     img="/images/people/hendrik-f.jpg"
-    data-email="hen_fie@uni-bremen.de"
+    data-email="bremen@correlaid.org"
     data-to="Hendrik (CorrelAidX Bremen)"
     link-color="ca-red-text"
     x="1"
