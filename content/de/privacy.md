@@ -24,12 +24,12 @@ Für weitere Fragen zum Thema Datenschutz, wendet euch gerne an unseren Datensch
 
 {{< person 
     name="Thomas"
-    subline="Projekte"
-    img="/images/people/waldo.png"
+    subline="Datenschutz"
+    img="/images/people/placeholder.jpg"
     data-email="datenschutz@correlaid.org"
     data-to="Thomas (Datenschutz)"
     link-color="ca-green-text"
     x="0"
 >}}
-Add Content here!
+Thomas ist seit 2016 bei CorrelAid und hilft bei Fragen zu Datenschutz und Datensicherheit. An CorrelAid gefallen ihm vor allem die interdisziplinäre Zusammenarbeit und die vielfältigen Anwendungsmöglichkeiten von Data Science für einen gemeinnützigen Zweck.
 {{< /person >}}
