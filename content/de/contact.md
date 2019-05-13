@@ -36,7 +36,7 @@ Jan, Masterstudent an der Copenhagen Business School. Zur Datenanalyse ist Jan w
     link-color="ca-green-text"
     x="0"
 >}}
-Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsitzender. Er studiert im Master "Evidence-based Policymaking" an der University of Oxford und Policy-Analyse an der Universität Konstanz. Er interessiert sich vor allem für Evaluierungsmethoden, die Nutzung von Evidenz und Daten in Gesellschaft und Politik, und Social Entrepreneurship.
+Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsitzender. Er studierte im Master "Evidence-based Policymaking" an der University of Oxford und Policy-Analyse an der Universität Konstanz. Er interessiert sich vor allem für Evaluierungsmethoden, die Nutzung von Evidenz und Daten in Gesellschaft und Politik, und Social Entrepreneurship.
 {{< /person >}}
 
 {{< person 
@@ -61,7 +61,7 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
     link-color="ca-green-text"
     x="0"
 >}}
-    ADD CONTENT!
+    Manuel ist in den letzten Zügen des Masterstudiums Political Science an der Universität Mannheim, wo er Ende 2017 auf CorrelAid stieß. Sein Interesse liegt vor allem darin, unübersichtliche Datenmengen und komplizierte Modelle verständlich darzustellen. Für CorrelAid kümmert er sich um die Betreuung der Projektpartnerschaften und -ideen.
 {{< /person >}}
 
 {{< person 
@@ -85,5 +85,5 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
     link-color="ca-green-text"
     x="0"
 >}}
-    ADD CONTENT!
+    Jasmin studiert nach einem Bachelor in Soziologie jetzt Social and Economic Data Science im Master in Konstanz. Sie ist seit dem Meetup 2017 bei CorrelAid und kümmert sich dort um den Bereich Bildung & Wissensmanagement. Außerdem hostet sie in unserem Podcast “CorrelTalk – der CorrelAid Podcast”.
 {{< /person >}}
