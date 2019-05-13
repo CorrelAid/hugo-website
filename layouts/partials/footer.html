@@ -107,6 +107,10 @@
                     {{ range .Site.Menus.about }}
                     <li><a class="text-muted" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
                     {{ end }}
+
+                    {{ if eq .Site.Language.Lang "de"}}
+                    <li><a class="text-muted" href="https://soundcloud.com/correlaid_podcast"><i class="fas fa-external-link-square-alt"></i> Podcast</a></li>
+                    {{ end }}
                 </ul>
             </div>
             <div class="col-12 col-md-2 text-center text-md-left">
@@ -115,7 +119,7 @@
                     {{ range .Site.Menus.contribute }}
                     <li><a class="text-muted" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
                     {{ end }}
-                    <li><a class="text-muted" href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff">{{ i18n "mailing-list" }}</a></li>
+                    <li><a class="text-muted" href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"><i class="fas fa-external-link-square-alt"></i>  {{ i18n "mailing-list" }}</a></li>
                 </ul>
             </div>
             <div class="col-12 col-md-2 text-center text-md-left">
