@@ -5,7 +5,3 @@ image: data-science-for-good.jpg
 tags: ["Veranstaltungen"]
 draft: false
 ---
-
-## Heading
-
-Here comes the content.

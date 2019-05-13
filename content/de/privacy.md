@@ -20,4 +20,16 @@ Wir sind uns der Verantwortung bewusst, die Organisationen uns mit ihren Daten a
 
 Denn auch wenn manche Daten auf den ersten und zweiten Blick unproblematisch wirken, verfolgen wir das "Better save than sorry"-Prinzip. Zu Beginn eines jeden Projektes werden die Teilnehmer in unsere Datenschutzmechanismen eingeführt und unterschreiben eine Vereinbarung. Zudem
 stellen wir unseren Projektteams eine sichere Arbeitsumgebung in der die Projekte durchgeführt werden.
-Für weitere Fragen zum Thema Datenschutz, wendet euch gerne an unseren Datenschutzbeauftragten Thomas!
+Für weitere Fragen zum Thema Datenschutz, wendet euch gerne an unseren Datenschutzbeauftragten [Thomas](mailto:datenschutz@correlaid.org)!
+
+{{< person 
+    name="Thomas"
+    subline="Projekte"
+    img="/images/people/waldo.png"
+    data-email="datenschutz@correlaid.org"
+    data-to="Thomas (Datenschutz)"
+    link-color="ca-green-text"
+    x="0"
+>}}
+Add Content here!
+{{< /person >}}

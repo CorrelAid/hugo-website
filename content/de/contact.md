@@ -24,22 +24,21 @@ meta:
     link-color="ca-green-text"
     x="0"
 >}}
-Jan, Masterstudent an der Copenhagen Business School. Zur Datenanalyse bin ich während meines Bachelors gestoßen und seitdem engagiere ich mich bei CorrelAid. Wenn ich nicht mit CorrelAid beschäftigt bin, kann man mich meistens (morgens, mittags & abends) in der Bar um die Ecke antreffen.
+Jan, Masterstudent an der Copenhagen Business School. Zur Datenanalyse ist Jan während seines Bachelors gestoßen und ist seitdem bei CorrelAid engagiert. Bei CorrelAid kümmert er sich um alle finanziellen Angelegenheiten und kann für Spenden kontaktiert werden. 
 {{< /person >}}
 
 {{< person 
     name="Johannes"
-    subline="Projekte"
+    subline="Vorsitzender"
     img="/images/people/johannes.jpg"
     data-email="johannes.m@correlaid.org"
-    data-to="Johannes (Projekte)"
+    data-to="Johannes (Vorsitzender)"
     link-color="ca-green-text"
     x="0"
 >}}
-Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsitzender. Er studiert im Master "Evidence-based Policymaking" an der University of Oxford und Policy-Analyse an der Universität Konstanz. Er interessiert sich vor allem für Evaluierungsmethoden, die Nutzung von Evidenz und Daten in Gesellschaft und Politik, und Social Entrepreneurship.
+Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsitzender. Er studierte im Master "Evidence-based Policymaking" an der University of Oxford und Policy-Analyse an der Universität Konstanz. Er interessiert sich vor allem für Evaluierungsmethoden, die Nutzung von Evidenz und Daten in Gesellschaft und Politik, und Social Entrepreneurship.
 {{< /person >}}
 
-<!--
 {{< person 
     name="Regina"
     subline="Lokalgruppenkoordinatorin"
@@ -49,6 +48,42 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
     link-color="ca-green-text"
     x="0"
 >}}
-    MISSING CONTENT!
+    Regina studiert Survey Statistik an der Universität Bamberg. Sie interessiert sich für Evaluation und kausale Inferenz und ist bei CorrelAid für die Organisation der Lokalgruppen zuständig.
 {{< /person >}}
--->
+
+
+{{< person 
+    name="Manuel"
+    subline="Projekte"
+    img="/images/people/manuel.jpg"
+    data-email="projekte@correlaid.org"
+    data-to="Manuel (Projekte)"
+    link-color="ca-green-text"
+    x="0"
+>}}
+    Manuel ist in den letzten Zügen des Masterstudiums Political Science an der Universität Mannheim, wo er Ende 2017 auf CorrelAid stieß. Sein Interesse liegt vor allem darin, unübersichtliche Datenmengen und komplizierte Modelle verständlich darzustellen. Für CorrelAid kümmert er sich um die Betreuung der Projektpartnerschaften und -ideen.
+{{< /person >}}
+
+{{< person 
+    name="Lisa"
+    subline="Projekte"
+    img="/images/people/lisa.jpg"
+    data-email="projekte@correlaid.org"
+    data-to="Lisa (Projekte)"
+    link-color="ca-green-text"
+    x="0"
+>}}
+    ADD CONTENT!
+{{< /person >}}
+
+{{< person 
+    name="Jasmin"
+    subline="Bildung"
+    img="/images/people/jasmin.jpg"
+    data-email="education@correlaid.org"
+    data-to="Jasmin (Bildung)"
+    link-color="ca-green-text"
+    x="0"
+>}}
+    Jasmin studiert nach einem Bachelor in Soziologie jetzt Social and Economic Data Science im Master in Konstanz. Sie ist seit dem Meetup 2017 bei CorrelAid und kümmert sich dort um den Bereich Bildung & Wissensmanagement. Außerdem hostet sie in unserem Podcast “CorrelTalk – der CorrelAid Podcast”.
+{{< /person >}}
