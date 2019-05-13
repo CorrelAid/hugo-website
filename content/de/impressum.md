@@ -21,8 +21,8 @@ Das Impressum gilt für: [https://correlaid.org/](https://correlaid.org/), alle 
 
 CorrelAid e.V.<br />
 c/o Johannes Müller<br />
-Bahnhofsplatz 10<br />
-78462 Konstanz<br />
+Emser Str. 15<br />
+12051 Berlin<br />
 E-Mail: [info@correlaid.org](info@correlaid.org)
 
 ### Gemeinschaftlich vertretungsbefugt:
