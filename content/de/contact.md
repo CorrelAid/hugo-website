@@ -53,6 +53,22 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
 
 
 {{< person 
+    name="Lisa"
+    subline="Projekte"
+    img="/images/people/lisa.jpg"
+    data-email="projekte@correlaid.org"
+    data-to="Lisa (Projekte)"
+    link-color="ca-green-text"
+    x="0"
+>}}
+   Nach Abschluss ihres Masterstudiums der Politik- und Verwaltungswissenschaften mit den Schwerpunkten Management 
+   und quantitative Forschungsmethoden war Lisa als wissenschaftliche Mitarbeiterin für Computational Social Science
+    und quantitative Datenanalyse tätig und arbeitet derzeit freiberuflich als Data Scientist. Bei CorrelAid ist sie 
+    für das Projektmanagement sowie die PR- und Öffentlichkeitsarbeit zuständig.
+{{< /person >}}
+
+
+{{< person 
     name="Manuel"
     subline="Projekte"
     img="/images/people/manuel.jpg"

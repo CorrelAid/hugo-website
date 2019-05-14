@@ -28,10 +28,10 @@ Jan, Master student at Copenhagen Business School. Jan joined CorrelAid for data
 
 {{< person 
     name="Johannes"
-    subline="Projects"
+    subline="Chairmen"
     img="/images/people/johannes.jpg"
     data-email="johannes.m@correlaid.org"
-    data-to="Johannes (Projekte)"
+    data-to="Johannes (Chairmen)"
     link-color="ca-green-text"
     x="0"
 >}}
@@ -41,10 +41,10 @@ He studied "Evidence-based Policymaking" at the University of Oxford and Policy-
 
 {{< person 
     name="Regina"
-    subline="Lokalgruppenkoordinatorin"
+    subline="Local Chapters"
     img="/images/people/regina.jpg"
     data-email="regina.s@correlaid.org"
-    data-to="Regina (Lokalgruppenkoordinatorin)"
+    data-to="Regina (Local Chapters)"
     link-color="ca-green-text"
     x="0"
 >}}
@@ -53,11 +53,27 @@ He studied "Evidence-based Policymaking" at the University of Oxford and Policy-
 
 
 {{< person 
+    name="Lisa"
+    subline="Projects"
+    img="/images/people/lisa.jpg"
+    data-email="projekte@correlaid.org"
+    data-to="Lisa (Projects)"
+    link-color="ca-green-text"
+    x="0"
+>}}
+    After completing her MA in politics and public administration with specializations in management 
+    and quantitative research methods, Lisa worked as a research associate for computational social 
+    science and quantitative data analysis and currently freelances as a data scientist. At CorrelAid, 
+    she is responsible for the project management as well as our PR and media activities.
+{{< /person >}}
+
+
+{{< person 
     name="Manuel"
-    subline="Projekte"
+    subline="Projects"
     img="/images/people/manuel.jpg"
     data-email="projekte@correlaid.org"
-    data-to="Manuel (Projekte)"
+    data-to="Manuel (Projects)"
     link-color="ca-green-text"
     x="0"
 >}}
@@ -66,10 +82,10 @@ He studied "Evidence-based Policymaking" at the University of Oxford and Policy-
 
 {{< person 
     name="Jasmin"
-    subline="Bildung"
+    subline="Education"
     img="/images/people/jasmin.jpg"
     data-email="education@correlaid.org"
-    data-to="Jasmin (Bildung)"
+    data-to="Jasmin (Education)"
     link-color="ca-green-text"
     x="0"
 >}}
