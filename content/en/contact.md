@@ -55,7 +55,7 @@ He studied "Evidence-based Policymaking" at the University of Oxford and Policy-
 {{< person 
     name="Lisa"
     subline="Projects"
-    img="/images/people/lisa.jpg"
+    img="/images/people/lisa_new.jpeg"
     data-email="projekte@correlaid.org"
     data-to="Lisa (Projects)"
     link-color="ca-green-text"
