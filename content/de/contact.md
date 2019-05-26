@@ -55,7 +55,7 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
 {{< person 
     name="Lisa"
     subline="Projekte"
-    img="/images/people/lisa.jpg"
+    img="/images/people/lisa_new.jpeg"
     data-email="projekte@correlaid.org"
     data-to="Lisa (Projekte)"
     link-color="ca-green-text"
