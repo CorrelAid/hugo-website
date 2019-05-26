@@ -283,6 +283,8 @@ mapping the 100 most common words.
 
 {{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-22-1.png" >}}{{< /image-subtitle >}}
 
+{{< image-subtitle image="we-2-analysis/we2_wordcloud.png" >}}{{< /image-subtitle >}}
+
 ### Co-occurring hashtags
 
 Another layer of content in Twitter debates comes with the usage of
