@@ -1,18 +1,21 @@
 ---
 title: "#We2: Re-defining European identity"
+date: 2019-05-26T00:00:00+02:00
 subtitle: "A data science perspective on online activism using Twitter data"
 image: "we2_network.png"
 summary: "Analyzing the #We2 movement using Twitter data and R"
 categories:       
     - Analysis
     - Dataviz
-date: 2019-05-26T00:00:00+02:00
 author: 
     name:           "Konstantin Gavras & Lisa Hehnke"
     image:          "konstantin_lisa.jpeg"
     description:    "Konstantin (@kongavras) is a Ph.D. candidate at the Graduate School of Economic and Social Sciences in Political Science and research associate at the Chair of Political Psychology at the University of Mannheim. Lisa (@DataPlanes) is a freelance social data scientist working to address current societal challenges in order to make a difference and drive change."
     github:         "https://github.com/lhehnke/we2-twitter-analysis"
-
+    facebook:       ""
+    email:          ""
+    website:        ""
+    twitter:        ""
 meta:
   title: "#We2: Re-defining European identity"
   description: "Analyzing the #We2 movement using Twitter data and R"
@@ -89,7 +92,7 @@ answer the question, why this movement did not work out although other
 and quite comparable movement were extremely successful and sparked
 discussions on social and political problems.
 
-{{< image-subtitle image="Final_Blogpost_We2_files/figure-markdown_strict/unnamed-chunk-8-1.png" >}}{{< /image-subtitle >}}
+{{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-8-1.png" >}}{{< /image-subtitle >}}
 
 ### Timeline
 
@@ -113,7 +116,7 @@ Thus, without a formative event happening outside the social media
 sphere and being extremely salient for a large group of people, social
 media phenomena seem to have a difficult time emerging successfully.
 
-{{< image-subtitle image="Final_Blogpost_We2_files/figure-markdown_strict/unnamed-chunk-9-1.png" >}}{{< /image-subtitle >}}
+{{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-9-1.png" >}}{{< /image-subtitle >}}
 
 ### Most active users (number of tweets, retweets, and favorites)
 
@@ -132,7 +135,7 @@ Notable exceptions to this are individual accounts such as StopNS2,
 Der\_Dude80 or straeubchen and projects like ColorfulGermany or Amnesty
 International Göttingen (amnestygoe).
 
-{{< image-subtitle image="Final_Blogpost_We2_files/figure-markdown_strict/unnamed-chunk-10-1.png" >}}{{< /image-subtitle >}}
+{{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-10-1.png" >}}{{< /image-subtitle >}}
 
 Favorites are one of the most important currencies on Twitter, enabling
 us to examine which accounts were most prominent in a social media
@@ -154,13 +157,13 @@ influencers to some degree. But without getting other prominent and thus
 influential social media users or traditional media accounts on board,
 online movements seem to lose momentum.
 
-{{< image-subtitle image="Final_Blogpost_We2_files/figure-markdown_strict/unnamed-chunk-11-1.png" >}}{{< /image-subtitle >}}
+{{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-11-1.png" >}}{{< /image-subtitle >}}
 
 Turning to the number of retweets an account received, a pretty similar
 picture emerges. We only find one personal, but unusually active,
 account here: liebmeinland.
 
-{{< image-subtitle image="Final_Blogpost_We2_files/figure-markdown_strict/unnamed-chunk-12-1.png" >}}{{< /image-subtitle >}}
+{{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-12-1.png" >}}{{< /image-subtitle >}}
 
 Summing up the most active Twitter users on \#We2, we find that these
 accounts are primarily social activists (Ali Can and Luisa Neubauer) or,
@@ -201,7 +204,7 @@ personal accounts. Since these semantics are not of particular interest
 for our analysis, we rely on the scheme partially provided by Twitter
 for now.
 
-{{< image-subtitle image="Final_Blogpost_We2_files/figure-markdown_strict/unnamed-chunk-14-1.png" >}}{{< /image-subtitle >}}
+{{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-14-1.png" >}}{{< /image-subtitle >}}
 
 The next figure shows the number of tweets and retweets by status
 category in order to gain a deeper insight into the respective Twitter
@@ -213,7 +216,7 @@ tweets. The same is also true for influencers, though they appear to
 tweet more than retweet, resembling the classical behavior assumed by
 influencers.
 
-{{< image-subtitle image="Final_Blogpost_We2_files/figure-markdown_strict/unnamed-chunk-15-1.png" >}}{{< /image-subtitle >}}
+{{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-15-1.png" >}}{{< /image-subtitle >}}
 
 Retweet network
 ---------------
@@ -244,7 +247,7 @@ who recently gained some fame for temporarily getting the
 [Wahl-O-Mat](https://www.wahl-o-mat.de/europawahl2019/) shut down -
 being quite distant to the nodes of the SPD politicans.
 
-{{< image-subtitle image="Final_Blogpost_We2_files/figure-markdown_strict/unnamed-chunk-17-1.png" >}}{{< /image-subtitle >}}
+{{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-17-1.png" >}}{{< /image-subtitle >}}
 
 Tweet content
 -------------
@@ -278,12 +281,8 @@ to discuss exactly the issues that Ali Can had in mind when creating the
 hashtag. Using a word cloud, we corroborate our first intuition by
 mapping the 100 most common words.
 
-{{< image-subtitle image="Final_Blogpost_We2_files/figure-markdown_strict/unnamed-chunk-22-1.png" >}}{{< /image-subtitle >}}
+{{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-22-1.png" >}}{{< /image-subtitle >}}
 
-<!--html_preserve-->
-
-<script type="application/json" data-for="htmlwidget-a5dfcb2befe1b89020b4">{"x":{"word":["europa","alicanglobal","europäer","europäische","identität","wählen","deutscher","europe","heimat","unsere","dank","danke","dass","europäerin","leben","menschen","deutsche","eu","deutsch","deutschland","europäischen","frieden","sonntag","afd","geboren","katarinabarley","lasst","rassismus","bedeutet","bisschen","gehen","lebe","deshalb","europäisch","familie","freiheit","fühle","geht","gemeinsam","grenzen","idee","land","mai","mehr","aufgewachsen","hashtag","hause","initiative","kommt","kreuz","people","solange","spdde","vote","zuhause","zusammen","berlin","europawahl","ganz","gemacht","große","herzen","immer","klima","mach","mal","müssen","pass","perfekt","seite","stärken","timmermanseu","u","union","zukunft","и","amnestygoe","berliner","billions","can","countdown","dafür","darf","deswegen","erfahrungen","european","financing","gas","gehe","gut","heikomaas","innen","ja","neuen","niederlanden","putin","putins","rights","sagen","schon"],"freq":[55,28,28,21,19,18,16,13,13,13,12,12,12,12,12,12,11,11,10,10,10,10,10,9,9,9,9,9,8,8,8,8,7,7,7,7,7,7,7,7,7,7,7,7,6,6,6,6,6,6,6,6,6,6,6,6,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4],"fontFamily":"Segoe UI","fontWeight":"bold","color":"#1DA1F2","minSize":0,"weightFactor":3.27272727272727,"backgroundColor":"white","gridSize":0,"minRotation":-0.785398163397448,"maxRotation":0.785398163397448,"shuffle":true,"rotateRatio":0.4,"shape":"circle","ellipticity":0.65,"figBase64":null,"hover":null},"evals":[],"jsHooks":{"render":[{"code":"function(el,x){\n                        console.log(123);\n                        if(!iii){\n                          window.location.reload();\n                          iii = False;\n\n                        }\n  }","data":null}]}}</script>
-<!--/html_preserve-->
 ### Co-occurring hashtags
 
 Another layer of content in Twitter debates comes with the usage of
@@ -295,7 +294,7 @@ against racism and antisemitism. Thus, the co-occurring hashtags align
 with and supplement our previous content-related findings by rejecting
 nationalism and favoring diversity.
 
-{{< image-subtitle image="Final_Blogpost_We2_files/figure-markdown_strict/unnamed-chunk-24-1.png" >}}{{< /image-subtitle >}}
+{{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-24-1.png" >}}{{< /image-subtitle >}}
 
 ### Tweet sentiments
 
@@ -313,7 +312,7 @@ debate is mostly positive with a ratio of 5:1 compared to negative
 words. This confirms the findings we got when analyzing both the most
 common words and the co-occurring hashtags.
 
-{{< image-subtitle image="Final_Blogpost_We2_files/figure-markdown_strict/unnamed-chunk-27-1.png" >}}{{< /image-subtitle >}}
+{{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-27-1.png" >}}{{< /image-subtitle >}}
 
 
 When examining the sentiment distribution over time, we see that we
@@ -322,7 +321,7 @@ only see a minor negative peak around May 23 to May 24, 2019. Given the
 extremely low number of words on these two days, however, this peak
 should not be overstated.
 
-{{< image-subtitle image="Final_Blogpost_We2_files/figure-markdown_strict/unnamed-chunk-28-1.png" >}}{{< /image-subtitle >}}
+{{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-28-1.png" >}}{{< /image-subtitle >}}
 
 But which words are actually classified as positive and negative words
 in the \#We2 debate? In the following overview we see that peace,
@@ -334,11 +333,11 @@ see worries and damages. This might refer to nationalist and populist
 movements, which are campaigning to damage and overthrow the European
 Union and its institutions.
 
-{{< image-subtitle image="Final_Blogpost_We2_files/figure-markdown_strict/unnamed-chunk-29-1.png" >}}{{< /image-subtitle >}}
+{{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-29-1.png" >}}{{< /image-subtitle >}}
 
 These findings can be visualized in a comparison cloud as well:
 
-{{< image-subtitle image="Final_Blogpost_We2_files/figure-markdown_strict/unnamed-chunk-30-1.png" >}}{{< /image-subtitle >}}
+{{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-30-1.png" >}}{{< /image-subtitle >}}
 
 
 
@@ -354,7 +353,7 @@ French, Dutch, and Russian. Although not being particular popular among
 foreign Twitter users, it seems that \#We2 has somewhat spread to other
 European countries as well.
 
-{{< image-subtitle image="Final_Blogpost_We2_files/figure-markdown_strict/unnamed-chunk-32-1.png" >}}{{< /image-subtitle >}}
+{{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-32-1.png" >}}{{< /image-subtitle >}}
 
 
 Conclusion
