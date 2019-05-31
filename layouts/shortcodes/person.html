@@ -20,6 +20,11 @@
             </h1>
             <h3 class="mb-3">{{ .Get `subline` }}</h3>
             <p class="lead">{{ .Inner }}</p>
+            <p class="lead">
+                [<a href="mailto:{{ .Get `data-email` }}">
+                    {{ .Get `data-email` }}
+                </a>]
+            </p>
         </div>
     </div>
 </div>
