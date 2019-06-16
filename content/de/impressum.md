@@ -34,8 +34,8 @@ E-Mail: johannes.m@correlaid.org
 
 #### 2. Vorsitzender
 
-Vera Schmitt<br />
-E-Mail: vera.s@correlaid.org
+Regina Siegers<br />
+E-Mail: [regina.s@correlaid.org](regina.s@correlaid.org)
 
 ### Vereinsregistereintrag:
 
