@@ -341,6 +341,18 @@ i.caveat {
     border-radius: 0px;
 }
 
+.btn-donate {
+    color: rgba(255,255,255,.75);
+    border-color: rgba(255,255,255,.75);
+    background-color: transparent;
+}
+
+.btn-donate:hover {
+    color: #92de3f;
+    border-color: #92de3f;
+    background-color: transparent;
+}
+
 .btn-ca-green {
     color: #FFFFFF;
     background-color: #92de3f;
