@@ -1,7 +1,7 @@
 ---
 title: "#MeTwo: National Identity and Discrimination in Germany in Times of Migration"
 subtitle: "A data science perspective on online activism using Twitter data"
-image: "pic_header_metwo.jpg"
+image: "metwo.jpg"
 summary: "Analyzing the #MeTwo movement using Twitter data and R"
 categories:       
     - Analysis
@@ -27,7 +27,7 @@ author:
 meta:
   title: "#MeTwo: Re-defining National Identity"
   description: "#MeTwo: National Identity and Discrimination in Germany in Times of Migration"
-  image: "pic_header_metwo.jpg"
+  image: "metwo.jpg"
   keywords: "CorrelAid, Data4Good, MeTwo, National Identity, Ali Can, Twitter"
 ---
 
