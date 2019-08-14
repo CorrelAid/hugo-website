@@ -23,7 +23,7 @@ The imprint is valid on: [https://correlaid.org/](https://correlaid.org/) and th
 ## Information in accordance with section 5 TMG
 
 CorrelAid e.V.<br />
-c/o Johannes Müller<br />
+c/o Arndt Leininger<br />
 Emser Str. 15<br />
 12051 Berlin<br />
 E-Mail: [info@correlaid.org](info@correlaid.org)<br />

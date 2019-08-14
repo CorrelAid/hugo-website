@@ -20,7 +20,7 @@ Das Impressum gilt für: [https://correlaid.org/](https://correlaid.org/), alle 
 ## Angaben gemäß § 5 TMG
 
 CorrelAid e.V.<br />
-c/o Johannes Müller<br />
+c/o Arndt Leininger<br />
 Emser Str. 15<br />
 12051 Berlin<br />
 E-Mail: [info@correlaid.org](info@correlaid.org)
