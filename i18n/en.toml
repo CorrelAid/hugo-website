@@ -62,3 +62,7 @@ other       = "Read more"
 other       = "By"
 [footer-newsletter]
 other       = "You want to know more about CorrelAid? Sign up for our "
+[meetup-cta]
+other       = "Our annual meetup take place in Berlin on the last November weekend!"
+[meetup-cta-button]
+other       = "Learn more!"
