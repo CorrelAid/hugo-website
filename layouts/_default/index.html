@@ -47,30 +47,33 @@
 </div>
 <!-- /END CALL FOR ACTION -->
 
-
-<!-- NEWS -->
+<!-- BLOG -->
 <div class="container">
     <div class="row">
         <div class="col-12">
-            <h1><a href="/news">{{ i18n "news"}}</a></h1>
+            <h1><a href="/blog">Blog</a></h1>
         </div>
     </div>
     <div class="row">
-        {{ range first 3 (where .Pages "Section" "news").ByPublishDate.Reverse }}
+        {{ range first 3 (where .Site.Pages "Section" "blog").ByPublishDate.Reverse }}
         <div class="col-12 col-md-4">
+            <a href="{{ .URL }}" class="ca-img-container link">
+                <img class="img-fluid dark" src="/images/blog/thumbs-x800/{{ .Params.image }}" alt="{{ .Title }}" />
+                <div class="ca-img-border"></div>
+            </a>
             <p style="margin-bottom: 0">{{ .Date.Format "2006-01-02" }}</p>
-            <h3 class="ca-dark-blue-text"><a href="{{ .URL }}">{{ .Title }}</a></h3>
+            <h3 class="ca-dark-blue-text"><a href="{{ .URL }}">{{ .Title | markdownify }}</a></h3>
+            <p>{{ .Params.summary | markdownify }}</p>
         </div>
         {{ end }}
     </div>
 </div>
-<!-- /END NEWS -->
-
+<!-- /END BLOG -->
 
 <!-- CALL FOR ACTION -->
 <div class="ca-dark-blue">
     <div class="container">
-        <div class="row my-5 py-5 justify-content-center">
+        <div class="row mt-5 py-5 justify-content-center">
             <div class="col-12 text-center pt-5 pb-3">
                 <h3 class="text-white">{{ i18n "claim-2" }}</h3>
             </div>
@@ -89,28 +92,5 @@
     </div>
 </div>
 <!-- /END CALL FOR ACTION -->
-
-<!-- BLOG -->
-<div class="container">
-    <div class="row">
-        <div class="col-12">
-            <h1><a href="/blog">Blog</a></h1>
-        </div>
-    </div>
-    <div class="row">
-        {{ range first 3 (where .Pages "Section" "blog").ByPublishDate.Reverse }}
-        <div class="col-12 col-md-4">
-            <a href="{{ .URL }}" class="ca-img-container link">
-                <img class="img-fluid dark" src="/images/blog/thumbs-x800/{{ .Params.image }}" alt="{{ .Title }}" />
-                <div class="ca-img-border"></div>
-            </a>
-            <p style="margin-bottom: 0">{{ .Date.Format "2006-01-02" }}</p>
-            <h3 class="ca-dark-blue-text"><a href="{{ .URL }}">{{ .Title | markdownify }}</a></h3>
-            <p>{{ .Params.summary | markdownify }}</p>
-        </div>
-        {{ end }}
-    </div>
-</div>
-<!-- /END BLOG -->
 
 {{ end }}
