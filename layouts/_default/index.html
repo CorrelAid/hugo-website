@@ -12,26 +12,23 @@
 </div>
 <!-- /END HERO SECTION -->
 
-{{ if eq .Site.Language.Lang "de"}}
-<!-- CALL FOR ACTION -->
+<!-- MEETUP CALL FOR ACTION -->
 <div class="ca-dark-blue">
     <div class="container">
         <div class="row mb-5 py-5 justify-content-center">
             <div class="col-12 text-center pt-5 pb-3">
                 <h3 class="text-white">
-                    <i class="fas fa-2x fa-microphone-alt"></i><br /><br /> Hör dir jetzt den neuen CorrelAid Podcast an!
-                    In unserem offiziellen Podcast "CorrelTalk - The CorrelAid Podcast"
-                    sprechen wir über die Arbeit bei CorrelAid und was uns ausmacht.
+                    <i class="fas fa-2x fa-users"></i><br /><br /> {{ i18n "meetup-cta"}}
                 </h3>
             </div>
             <div class="col-12 text-center pb-5">
-                <a href="https://soundcloud.com/correlaid_podcast" class="ca-btn block"><i class="fas fa-external-link-square-alt"></i> Zum Podcast</a>
+                <a href={{ .Site.Home.Permalink }}meetup class="ca-btn block">{{ i18n "meetup-cta-button"}}</a>
             </div>
         </div>
     </div>
 </div>
 <!-- /END CALL FOR ACTION -->
-{{ end }}
+
 
 {{.Content}}
 
