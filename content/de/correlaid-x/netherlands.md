@@ -41,6 +41,33 @@ We are curious if we can transfer the concept of "data for good" on another cult
 {{< /person >}}
 
 {{< person 
+    name="Mandy"
+    subline="CorrelAidX Nederland"
+    img="/images/people/nl-mandy.jpg"
+    data-email="mandy.c@correlaid.org"
+    data-to="Mandy (CorrelAidX Netherlands)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Mandy received her double degree in Commerce and Arts from the University of New South Wales, Australia.
+With previous work experience in Sydney (and now Amsterdam), she has an extensive background in data, analytics, project and client management.
+Passionate about making a positive difference, she is excited to work with CorrelAid and the various organizations that take an interest in social aid.
+{{< /person >}}
+
+{{< person 
+    name="Daphne"
+    subline="CorrelAidX Nederland"
+    img="/images/people/nl-daphne.jpg"
+    data-email="netherlands@correlaid.org"
+    data-to="CorrelAidX Netherlands"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Daphne is currently specializing in labor law and in mediation. She wants to help fight the injustice in the world any way she can. She’s currently doing so by providing legal assistance to CorrelAid Nederland.
+{{< /person >}}
+
+
+{{< person 
     name="Yiran"
     subline="CorrelAidX Nederland"
     img="/images/people/nl-yiran.jpg"
@@ -51,21 +78,6 @@ We are curious if we can transfer the concept of "data for good" on another cult
 >}}
 Yiran is currently a research master student in organization at Erasmus University Rotterdam. She’s passionate about 
 helping others realize the power of data scienceand applying it to create more social value.
-{{< /person >}}
-
-{{< person 
-    name="Lisa"
-    subline="CorrelAidX Nederland"
-    img="/images/people/nl-lisa.jpg"
-    data-email="netherlands@correlaid.org"
-    data-to="CorrelAidX Netherlands"
-    link-color="ca-red-text"
-    x="1"
->}}
-Lisa is finishing her masters degrees in Artificial Intelligence and Data Science at
-Radboud University Nijmegen. She likes organizing events, making todo lists and
-has a passion for data science. CorrelAid is the perfect project to combine all of
-these things in a fun yet fulfilling way.
 {{< /person >}}
 
 {{< person 
@@ -83,21 +95,6 @@ network to try to do good again once he had more experience. He has since then
 worked as a data scientist at Capgemini and United Wardrobe, specializing in NLP,
 Search, and Recommendation Systems. After seeing how much more impact we can
 have with data, he’s switched from building orphanages to building models for good.
-{{< /person >}}
-
-{{< person 
-    name="Lena"
-    subline="CorrelAidX Nederland"
-    img="/images/people/nl-lena.jpg"
-    data-email="netherlands@correlaid.org"
-    data-to="CorrelAidX Netherlands"
-    link-color="ca-red-text"
-    x="1"
->}}
-Lena is currently doing her master studies in migration, ethnic relations and
-multiculturalism at Utrecht University. During her bachelor in sociology and political
-science she specialised on quantitative research and data analysis. With CorrelAid
-she is excited to use and expand her skills in “data for good” projects.
 {{< /person >}}
 
 {{< person 
@@ -133,25 +130,4 @@ teaches statistics. He loves statistics, data visualization, and working with pa
 teammates and is excited to combine all this at CorrelAid. You can find him on twitter
 @florianwanders​ and at ​ florianwanders.github.io​ .
 {{< /person >}}
-
-{{< person 
-    name="Kai"
-    subline="CorrelAidX Nederland"
-    img="/images/people/nl-kai.jpg"
-    data-email="netherlands@correlaid.org"
-    data-to="CorrelAidX Netherlands"
-    link-color="ca-red-text"
-    x="1"
->}}
-Eager to gain a better understanding of the human mind, Kai is about to finish his
-master’s degree in Artificial Intelligence and Cognitive Neuroscience. In combining
-these fields, he seeks to get insights into fundamental cognitive mechanisms that
-can help develop new medical treatments and improve existing machine learning
-algorithms. He is fascinated by the idea of effective altruism and dedicated to use his
-acquired skill set to help others to “do good better”.
-{{< /person >}}
-
-
-
-
 
