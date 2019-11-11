@@ -71,9 +71,9 @@ Our web pages and their contents are subject to German copyright law. Unless exp
 ### Responsible in the sense of the valid data protection law:
 
 CorrelAid e.V.<br />
-c / o Johannes Müller<br />
-Station Square 10<br />
-78462 Constance<br />
+c/o Arndt Leininger<br />
+Emser Str. 15<br />
+12051 Berlin<br />
 e-mail: info@correlaid.org
 
 ### The data protection officer is:

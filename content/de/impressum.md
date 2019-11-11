@@ -67,9 +67,9 @@ Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden 
 ### Verantwortlich im Sinne des geltenden Datenschutzgesetzes ist:
 
 CorrelAid e.V.<br />
-c/o Johannes Müller<br />
-Bahnhofsplatz 10<br />
-78462 Konstanz<br />
+c/o Arndt Leininger<br />
+Emser Str. 15<br />
+12051 Berlin<br />
 E-Mail: [info@correlaid.org](info@correlaid.org)
 
 ### Der Datenschutzbeauftragte des Verantwortlichen:
