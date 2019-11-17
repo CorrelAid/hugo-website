@@ -44,7 +44,43 @@ Platz der Luftbrücke 4
 
 ## Program
 
-coming soon!
+### Friday, November 30th, 2019
+
+| from    	| to      	| Great Pumpkin (70 people)        	|
+|---------	|---------	|----------------------------------	|
+| 17:00  	| 18:00  	| Mitgliederversammlung (optional)* |
+| 18:00  	| 18:15  	| Welcome by Johannes              	|
+| 18:15  	| 18:45  	| Keynotes                       	|
+| 18:45  	| 19:30  	| World cafe - Open Data           	|
+| 19:30  	|         	| Open end in the CityLab          	|
+
+\* This is a meeting we need to do once a year as a registered association. We mostly discuss matters directly pertaining to the legal and organizational structure of CorrelAid. Feel free to join, we are happy to see new faces! But you can also just join later for the welcome or hang out in the lobby and enjoy a beverage of your choice.
+
+
+### Saturday, December 1st, 2019
+
+| from     	| to       	| Great Pumpkin (70 people)          	|          Spam and Eggs (24 people)                        |                                             	        |
+|----------	|----------	|------------------------------------	|-------------------------------------------------------	|--------------------------------------------	        |
+| 9:00  	| 9:30   	| Welcome and organizational stuff   	|                                                       	|                                            	        |
+| 9:30   	| 11:00  	| APIs in Python and R (Jan + Jakob) 	| Introduction to Python (Lisa, Thomas, Max) 	            | Test Driven Development in R and Python (Alex + Frie)	|
+| 11:00  	| 11:15  	| coffee break                       	| coffee break                                          	| coffee break                               	        |
+| 11:15  	| 11:45  	| GLEIF Data (Zori)                  	| Missing Data (Regina)                                 	| Explainable ML (Rahel)                     	        |
+| 11:45  	| 12:15  	|                                    	| Missing Data (Regina)                                 	| Explainable ML (Rahel)                     	        |
+| 12:15  	| 13:15  	| Lunch                              	| Lunch                                                 	| Lunch                                      	        |
+| 13:15 	| 14:15 	| datengui.de Hackathon with datenguidepy / datenguideR (Konrad, Barbara, Lisa) 	| Introduction to version control / Git (Frie) 	|  Data Science Processes with the Google Cloud AI-Platform (Henry)              	|
+| 14:15 	| 14:30 	| coffee break                                                                  	| coffee break                                 	| coffee break                                                                   	|
+| 14:30 	| 15:00 	| datengui.de Hackathon with datenguidepy / datenguideR (Konrad, Barbara, Lisa) 	| Introduction to version control / Git (Frie) 	| Data Science Processes with the Google Cloud AI-Platform as an example (Henry) 	|
+| 15:00 	| 15:30 	| datengui.de Hackathon with datenguidepy / datenguideR (Konrad, Barbara, Lisa) 	|                                              	|                            | 15:30 	| 15:45 	| coffee break                                       	| coffee break               	| coffee break                                                    	|
+| 15:45 	| 16:45 	| Linux 101 - A system scavenger hunt (Chris)        	| FixMyBerlin Mini-Hackathon 	| Introduction to R (Arndt, Yannik)                               	|
+| 16:45 	| 17:00 	| coffee break                                       	| coffee break               	| coffee break                                                    	|
+| 17:00 	| 17:30 	| Linux 101 - A system scavenger hunt (Chris)        	| FixMyBerlin Mini-Hackathon 	| Introduction to R (Arndt, Yannik)                               	|
+| 17:30 	| 18:00 	| Soledad talk                                       	| FixMyBerlin Mini-Hackathon 	| Visualization of political processes  with Open Data (Valentin) 	|
+| 18:00 	| 18:15 	| break                                              	| break                      	| break                                                           	|
+| 18:15 	| 18:45 	| Lightning talks - Data Science on the job 3 -5 min 	|                            	|                                                                 	|
+| 18:45 	| 19:15 	| round tables - data science on the job             	|                            	|                                                                 	|
+| 19:15 	|       	| open end with Pizza and drinks                     	|                            	|                                                                 	|                                                    	|
+### Sunday, December 2nd, 2019
+
 
 ## Other info
 
