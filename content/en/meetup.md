@@ -52,12 +52,12 @@ Platz der Luftbrücke 4
 ### Friday, November 29th, 2019
 
 {.table .table-striped}
-| time          |                                     |
-| ------------- | ----------------------------------- |
-| 17:00 - 18:00 | Mitgliederversammlung (optional)\*  |
-| 18:00 - 18:15 | Welcome by Johannes                 |
-| 18:15 - 18:45 | Keynotes                            |
-| from 18:45    | Open end with Networking and drinks |
+| time          |                                                                                                                                                                                                                                                                          |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 17:00 - 18:00 | Mitgliederversammlung (optional)\*                                                                                                                                                                                                                                       |
+| 18:00 - 18:15 | Welcome by Johannes                                                                                                                                                                                                                                                      |
+| 18:15 - 18:45 | Keynotes    <br> - Simon Jockers ([datengui.de](datengui.de)) <br> - Andrea Knabe-Schönemann ([WikiData](https://www.wikidata.org/wiki/Wikidata:Main_Page)) <br> - Michael Peters ([Open Knowledge Foundation / Code for Germany ](https://okfn.de/projekte/codeforde/)) |
+| from 18:45    | Open end with Networking and drinks                                                                                                                                                                                                                                      |
 
 \* This is a meeting we need to do once a year as a registered association. We mostly discuss matters directly pertaining to the legal and organizational structure of CorrelAid. Feel free to join, we are happy to see new faces! But you can also just join later for the welcome or hang out in the lobby and enjoy a beverage of your choice.
 
