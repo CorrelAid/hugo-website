@@ -17,17 +17,13 @@ markup: mmark
 
 # Let's meetup - 2019 edition!
 
-## Registration
-
-You can register for the meetup [here](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=562b472bf3)! Registration is open until 3rd of November, 00:00.
-
 ## What?
 
 Like every year, there'll be an exciting mix of workshops about all things data science, data for good, useful tools and other things - for beginners and advanced folks alike. New this year: We have a focus topic: Open Data. We'll talk with cool organizations from the Open Data sphere and figure out how we as data-for-gooders can help society using Open Data.
 Finally, depending on where you're from, you'll get the opportunity to connect with other like-minded people from your area and join your local CorrelAidX chapter (or start a new one)?
 
 Never been to a CorrelAid meetup? Perfect! It's the best place to get to know CorrelAid. We're looking forward to meeting you!
-You can read more about a "newbie"'s meetup experience in this [blog post](correlaid.org/blog/meetup-mannheim/) written by Florian about his experience last year (German only).
+You can read more about a "newbie"'s meetup experience in this [blog post](https://correlaid.org/blog/meetup-mannheim/) written by Florian about his experience last year (German only).
 
 ## When?
 

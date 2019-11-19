@@ -17,14 +17,10 @@ markup: mmark
 
 # Let's meetup - 2019 edition!
 
-## Anmeldung
-Zur Anmeldung gehts [hier](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=562b472bf3)!
-Achtung: Die Anmeldung ist nur noch bis zum 3. November, 00:00 Uhr, möglich!
-
 ## Was?
 Wie jedes Jahr erwartet dich eine spannende Mischung an Workshops - diesmal unter dem Überthema Open Data. Weiterhin wird es Möglichkeiten zum Austausch von Erfahrungen mit CorrelAid X - unseren lokalen Chaptern - und auch allgemeine Kurse für Anfänger:innen und Fortgeschrittene in verschiedenste Software und Coding-Techniken geben.
 
-Du warst noch nie bei einem CorrelAid Meetup? Perfekt! Denn das ist die beste Gelegenheit, um CorrelAid kennenzulernen. Wir freuen uns darauf, dich kennenzulernen! :) Florian hat seine Erfahrungen als "CorrelAid-Newbie" beim letztjährigen Meetup in diesem [Blog-Post](correlaid.org/blog/meetup-mannheim/) aufgeschrieben. Lies doch mal rein!
+Du warst noch nie bei einem CorrelAid Meetup? Perfekt! Denn das ist die beste Gelegenheit, um CorrelAid kennenzulernen. Wir freuen uns darauf, dich kennenzulernen! :) Florian hat seine Erfahrungen als "CorrelAid-Newbie" beim letztjährigen Meetup in diesem [Blog-Post](https://correlaid.org/blog/meetup-mannheim/) aufgeschrieben. Lies doch mal rein!
 
 ## Wann? 
 Freitag, 29. November (ab 16 Uhr), bis Sonntag, 1. Dezember (bis ca. 15 Uhr).
