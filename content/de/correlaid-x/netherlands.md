@@ -30,7 +30,7 @@ Als je geïnteresseerd bent in CorrelAidxNL of als je wil meedoen; schrijf je in
     name="Joel"
     subline="CorrelAidX Nederland"
     img="/images/people/joel.jpg"
-    data-email="netherlands@correlaid.org"
+    data-email="joel.h@correlaid.org"
     data-to="CorrelAidX Netherlands"
     link-color="ca-red-text"
     x="1"
@@ -84,7 +84,7 @@ helping others realize the power of data scienceand applying it to create more s
     name="Andrew"
     subline="CorrelAidX Nederland"
     img="/images/people/nl-andrew.jpg"
-    data-email="netherlands@correlaid.org"
+    data-email="andrew.s@correlaid.org"
     data-to="CorrelAidX Netherlands"
     link-color="ca-red-text"
     x="1"
@@ -101,7 +101,7 @@ have with data, he’s switched from building orphanages to building models for 
     name="Fabian"
     subline="CorrelAidX Nederland"
     img="/images/people/nl-fabian.jpg"
-    data-email="netherlands@correlaid.org"
+    data-email="fabian.d@correlaid.org"
     data-to="CorrelAidX Netherlands"
     link-color="ca-red-text"
     x="1"
@@ -131,3 +131,17 @@ teammates and is excited to combine all this at CorrelAid. You can find him on t
 @florianwanders​ and at ​ florianwanders.github.io​ .
 {{< /person >}}
 
+{{< person 
+    name="Jacob"
+    subline="CorrelAidX Nederland"
+    img="/images/people/nl-jacob.jpg"
+    data-email="netherlands@correlaid.org"
+    data-to="CorrelAidX Netherlands"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Jacob obtained an undergrad in International Business Administration and is currently studying 
+Computer Science and Engineering at the TU Delft, where he is focussing on data science and 
+engineering. Through the combination of both business and technical skills, he hopes to contribute 
+to making the Dutch chapter of CorrelAid a great success.
+{{< /person >}}
