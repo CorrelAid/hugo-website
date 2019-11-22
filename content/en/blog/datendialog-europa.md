@@ -1,6 +1,6 @@
 ---
 title: "Data Dialogue - European Data Lingo"
-date: 2019-11-21T00:00:00+02:00
+date: 2019-11-20T00:00:00+02:00
 image: "datendialog.jpg"
 summary: ""
 categories:       

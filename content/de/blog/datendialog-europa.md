@@ -1,6 +1,6 @@
 ---
 title: "Datendialog - European Data Lingo"
-date: 2019-11-21T00:00:00+02:00
+date: 2019-11-20T00:00:00+02:00
 image: "datendialog.jpg"
 summary: ""
 categories:       
@@ -69,13 +69,13 @@ Pitch - Thomas von POLIS180
 Thomas von [POLIS180](https://polis180.org/) kam mit der Frage auf uns zu, wie sie sicherstellen können, dass bei den von ihnen veranstalteten Summits zu bestimmten Themen eine repräsentative Gruppe von Menschen teilnimmt. 
 Die Gruppe um Thomas und & POLIS180 hat viel diskutiert und kam auch zu einigen Hilfestellung, wie POLIS180 das in Zukunft methodisch/strukturiert angehen kann.
  
-    ### Offene Pitches
+### Offene Pitches
 
-    Eine Teilnehmerin folgte spontan dem Aufruf, eigene Ideen zu pitchen. Sie verfolgt aktuell die Frage, wie Zielgruppen identifiziert werden können, die anfällig für Fake News sind und wie das die Demokratie gefährdet. 
+Eine Teilnehmerin folgte spontan dem Aufruf, eigene Ideen zu pitchen. Sie verfolgt aktuell die Frage, wie Zielgruppen identifiziert werden können, die anfällig für Fake News sind und wie das die Demokratie gefährdet. 
 
 
-    ### Ausklang bei Pizza und Bier
+### Ausklang bei Pizza und Bier
 
-    Die spannenden Diskussionen wurden bei Limo, Bier und Pizza weitergeführt, Ideen geboren und Kontakte ausgetauscht. Wir sind gespannt welche gemeinsamen Projekte aus diesem Datendialog entstehen und freuen uns auf den nächsten Termin!
+Die spannenden Diskussionen wurden bei Limo, Bier und Pizza weitergeführt, Ideen geboren und Kontakte ausgetauscht. Wir sind gespannt welche gemeinsamen Projekte aus diesem Datendialog entstehen und freuen uns auf den nächsten Termin!
 
-    Falls ihr Teil einer NGO seid und ebenfalls Datenthemen habt, zu denen ihr euch Input von Expert\*innen und Austausch im Rahmen eines Datendialogs wünscht, freuen wir uns auf eure Nachrichten!
+Falls ihr Teil einer NGO seid und ebenfalls Datenthemen habt, zu denen ihr euch Input von Expert*innen und Austausch im Rahmen eines Datendialogs wünscht, freuen wir uns auf eure Nachrichten!
