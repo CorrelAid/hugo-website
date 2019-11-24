@@ -10,7 +10,7 @@ categories:
 author: 
     name:           "Manuel Neumann"
     image:          "manuel.jpg"
-    description:    "Manuel studierte in Friedrichshafen an der Zeppelin-Uni und ist in den letzten Zügen seines Masters in Political Science, Mannheim. Sein Interesse liegt vor allem darin, komplizierte Modelle und Daten einfach und verständlich darzustellen. Er ist Teil des Vorstands von CorrelAid und für unsere Projektkoordination zuständig."
+    description:    "Manuel ist wissenschaftlicher Mitarbeiter am Mannheimer Zentrum für Europäische Sozialforschung. Sein Interesse liegt vor allem darin, komplizierte Modelle und Daten einfach und verständlich darzustellen. Er ist Teil des Vorstands von CorrelAid und für unsere Projektkoordination zuständig."
     github:         "https://github.com/ManuelNeumann"
     facebook:       ""
     email:          ""

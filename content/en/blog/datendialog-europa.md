@@ -1,10 +1,10 @@
 ---
-title: "Data Dialogue - European Data Lingo"
+title: "Datendialog -- European Data Lingo"
 date: 2019-11-20T00:00:00+02:00
 image: "datendialog.jpg"
 summary: ""
 categories:       
-    - Events
+    - Veranstaltungen
     - CorrelAidX
     - News
 author: 
@@ -17,23 +17,23 @@ author:
     email:          "alexandra.k@correlaid.org"
     website:        ""
 meta:
-    title:          "Data Dialogue - European Data Lingo"
-    description:    "A review of our data dialogue in Berlin under the motto 'European Data Lingo'"
+    title:          "Datendialog -- European Data Lingo"
+    description:    "Ein Rückblick auf unseren Datendialog in Berlin unter dem Motto 'European Data Lingo'"
     image:          "datendialog.jpg"
     keywords:       "CorrelAidX, Data4Good, Datendialog, Berlin"
 ---
 
-What urgent questions are there today about Europe's zeitgeist? What data is available or could be collected to help answer this question? How can civil society organisations with a focus on European topics improve their work with the help of data? We explored these questions last Thursday evening (14.11.2019) during our data dialogue at the CityLAB in Berlin. It was held under the motto "European Data Lingo".
+Welche drängenden Fragen gibt es heute zum Zeitgeist Europas? Welche Daten sind verfügbar oder könnten erhoben werden, um bei der Beantwortung dieser Frage behilflich zu sein? Wie können zivilgesellschaftliche Organisationen, die zu Europa arbeiten, ihr Arbeiten datengestützt verbessern? Diesen Fragen sind wir letzten Donnerstagabend (14.11.2019) bei unserem Datendialog im CityLAB in Berlin nachgegangen. Diesmal stand der Datendialog unter dem Motto "European Data Lingo".
  
-## What is a "data dialogue"?
+## Was ist ein "Datendialog"?
 
-**"If you can give it a name, you can find a solution"** -- With this nice sentence Thomas from POLIS180 summarized the impact of the Berlin Data Dialogue aptly: The first big hurdle, especially for those not familiar with the subject, is to find a name for the problem that can be researched and for which existing tools and approaches can be found. It is also important to understand which problems are easy to solve, which challenges are more complex, and what additional range of ideas may exist that have not yet been considered. In our data dialogue format, we regularly bring together non-profit organizations and data analysts from our network to find data-based solutions to the organizations' problems. Together with the NGOs we want to take the first difficult steps on the way to a data-based project.
+**"If you can give it a name, you can find a solution."** -- Mit diesem schönen Satz fasste Thomas von POLIS180 den Impact des Berliner Datendialogs treffend zusammen: Die erste große Hürde, gerade für Fachfremde, ist es zunächst, einen Namen für das Problem zu finden, der sich recherchieren lässt. So können für das Problem bestehende Tools und Herangehensweisen gefunden werden. Außerdem gilt es, erstmal ein Verständnis zu entwickeln, welche Probleme sich leicht lösen lassen, welche Herausforderungen komplexer sind und welche zusätzliche Bandbreite an Ideen es möglicherweise gibt, die noch nicht bedacht wurde. In unserem Format des Datendialogs bringen wir dafür regelmäßig Non-Profit-Organisationen und Datenanalyst\*innen aus unserem Netzwerk zusammen, um für die Probleme der Organisationen datenbasierte Lösungen zu finden. Gemeinsam mit den NGOs wollen wir so die ersten schwierigen Schritte auf dem Weg zu einem datenbasierten Projekt gehen.
   
-## Data Dialogue - Europe Edition
+## Datendialog -- Europe Edition
  
-On Thursday evening, 14.11.2019, our data dialogue was held at CityLAB in Berlin under the motto "European Data Lingo". With the [Citizens of Europe](https://citizens-of-europe.eu/), [Young European Federalists (JEF)](https://www.jef.de/) and [POLIS180](https://polis180.org/), three non-profit organisations, each working with different approaches to European issues, pitched their organisation, their challenges and the data available for them in three minutes. 
+Am Donnerstagabend, den 14.11.2019, stand unser Datendialog im CityLAB in Berlin unter dem Motto "European Data Lingo". Mit den [Citizens of Europe](https://citizens-of-europe.eu/), [Jungen europäischen Föderalisten (JEF)](https://www.jef.de/) und [POLIS180](https://polis180.org/) pitchten drei gemeinnnützige Organisationen, die mit unterschiedlichen Ansätzen zu europapolischen Themen arbeiten, in je drei Minuten ihre Organisation, ihre Herausforderungen und die dafür zur Verfügung stehenden Daten. 
  
- After the pitches, about 30 interested data analysts* met in four small groups for 1.5 hours to intensively discuss one of the topics. The results of the discussions were then compiled again in the large plenum.
+ Rund 30 interessierte Datenanalyst\*innen fanden sich im Anschluss an die Pitches für anderthalb Stunden in vier Kleingruppen zusammen, um intensiv eines der Themen diskutieren. Die Ergebnisse der Diskussionen wurden abschließend im großen Plenum zusammengetragen.
  
 
  
@@ -42,40 +42,40 @@ On Thursday evening, 14.11.2019, our data dialogue was held at CityLAB in Berlin
 {{< image 
     image="citizensofeurope.jpg"
 >}}
-Fedo from Citizens of Europe
+Fedo von Citizens of Europe
 {{< /image >}}
 
-Fedo from [Citizens of Europe](https://citizens-of-europe.eu/) presented the challenge that the organisation, which has been in existence for more than 20 years, faces: data from all these years are available in the form of scanned text documents. These are, for example, statements on the question "What is democracy for you?", written down by volunteers and Europe-wide workshop participants before and after Citizens of Europe events. Now the question arises how these documents can be digitised, which data protection issues need to be considered and which analyses can be carried out with these text data. How, for example, can the data be used to answer the question of how the understanding of democracy has changed over the last 20 years?
+Fedo von [Citizens of Europe](https://citizens-of-europe.eu/) stellte die Herausforderung dar, vor welcher sich der seit über 20 Jahren bestehende Verein sieht: Es liegen aus all diesen Jahren Daten in Form von Workshopergebnissen als gescannte Textdokuemente vor. Das sind beispielweise Statements zu der Frage "Was ist für dich Demokratie?", aufgeschrieben von Freiwilligen und europaweiten Workshopteilnehmenden, jeweils vor und nach Veranstaltungen von Citizens of Europe. Nun stellt sich die Frage, wie diese Dokumente digitalisiert werden können, welche datenschutzrechtlichen Fragen zu bedenken sind und welche Analysen mit diesen Textdaten durchführen lassen. Wie lässt sich mit den Daten bespielsweise die Frage beantworten, wie sich das Demokratieverständnis über die letzten 20 Jahre verändert hat?
    
-### Young European Federalists (JEF)
+### Junge europäische Föderalisten (JEF)
 
 
 {{< image 
     image="jef.jpg"
 >}}
-Discussions with JEF{{< /image >}}
+Diskussionen mit JEF{{< /image >}}
  
-The challenges that Malte brought from the [Young European Federalists (JEF)](https://www.jef.de/) to the CityLAB can be broken down into one measure: 
-the development of a "data strategy" for the European political association. The complexity of the association structure - the JEF unites 15 regional associations in Germany and around 100 local associations - has contributed to the creation of numerous data silos. The standardisation and consolidation of these data sets is one of JEF Germany's objectives, both to professionalise the association structures and to learn more about the members and their ideas, the latter being a starting point for a member diversification strategy. Finally, data merging could lead to a "data dashboard" for the JEF. Furthermore, according to Malte, the JEF is also interested in standardising data collection - e.g. with uniform questionnaires for the evaluation of the various JEF seminars. In other words: there is a lot to do.
+Die Herausforderungen, die Malte von der [JEF (Jungen europäischen Föderalisten)](https://www.jef.de/) mit ins CityLAB brachte, lassen sich auf eine Maßnahme herunterbrechen: 
+die Ausarbeitung einer "Datenstrategie" für den europapolitischen Verein. Die Vielschichtigkeit der Vereinsstruktur -- die JEF vereint in Deutschland 15 Landesverbände und an die 100 Ortsverbände -- hat zur Entstehung zahlreicher Datensilos beigetragen. Die Standardisierung und Zusammenführung dieser Datenbestände ist ein Ziel der JEF Deutschland, um einerseits die Vereinsstrukturen zu professionalisieren und um andererseits mehr über die Mitglieder und deren Vorstellungen zu lernen. Letzteres kann ein Anknüpfungspunkt für eine Mitgliederdiversifizierungstrategie sein. Schlussendlich könnte die Datenzusammenführung in einem "Daten-Dashboard" für die JEF münden. Darüber hinaus ist die JEF, sagte Malte, auch daran interessiert, bereits die Datenerhebung zu standardisieren -- zum Beispiel mit einheitlichen Fragebögen für die Evaluation der verschiedenen Seminare der JEF. Sprich: Es gibt einiges zu tun.
   
 ### POLIS180
 
 {{< image 
     image="polis180.jpg"
 >}}
-Pitch - Thomas from POLIS180
+Pitch - Thomas von POLIS180
 {{< /image >}}
 
-Thomas from [POLIS180](https://polis180.org/) approached us with the question of how they could ensure that a representative group of people participated in the summits they hosted on specific topics. 
-The group around Thomas and & POLIS180 discussed a lot and also came to some assistance on how POLIS180 can approach this methodically/structured in the future.
+Thomas von [POLIS180](https://polis180.org/) kam mit der Frage auf uns zu, wie sie sicherstellen können, dass bei den von ihnen veranstalteten Summits zu bestimmten Themen eine repräsentative Gruppe von Menschen teilnimmt. 
+Die Gruppe um Thomas und POLIS180 hat viel diskutiert und kam auch zu einigen Hilfestellungen, wie POLIS180 das in Zukunft methodisch und strukturiert angehen kann.
+ 
+### Offene Pitches
 
-### Open Pitches
-
-One participant spontaneously responded to the call to pitch her own ideas. She is currently pursuing the question of how to identify target groups that are susceptible to fake news and how this threatens democracy. 
+Eine Teilnehmerin folgte spontan dem Aufruf, eigene Ideen zu pitchen. Sie verfolgt aktuell die Frage, wie Zielgruppen identifiziert werden können, die anfällig für Fake News sind und wie das die Demokratie gefährdet. 
 
 
-### Closing with pizza and beer
+### Ausklang bei Pizza und Bier
 
-The exciting discussions were continued with lemonade, beer and pizza, ideas were born and contacts were exchanged. We are eager to see which joint projects will emerge from this data dialogue and look forward to the next event!
+Die spannenden Diskussionen wurden bei Limo, Bier und Pizza weitergeführt, Ideen geboren und Kontakte ausgetauscht. Wir sind gespannt, welche gemeinsamen Projekte aus diesem Datendialog entstehen und freuen uns auf den nächsten Termin!
 
-If you are part of an NGO and also have data topics on which you would like input from experts and exchange in the context of a data dialogue, we are looking forward to your messages!
+Falls ihr Teil einer NGO seid und ebenfalls Datenthemen habt, zu denen ihr euch Input von Expert*innen und Austausch im Rahmen eines Datendialogs wünscht, freuen wir uns auf eure Nachrichten!
