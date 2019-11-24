@@ -1,6 +1,6 @@
 ---
 title:      "Hackathon with GLEIF"
-date:       2019-11-22T00:00:00+02:00
+date:       2019-11-27T00:00:00+02:00
 image:      "gleif-hackathon.jpg"
 summary:    "Visualizing Relationships between Legal Entities"
 draft:      false
