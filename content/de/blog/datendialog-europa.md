@@ -33,7 +33,7 @@ Welche drängenden Fragen gibt es heute zum Zeitgeist Europas? Welche Daten sind
  
 Am Donnerstagabend, den 14.11.2019, stand unser Datendialog im CityLAB in Berlin unter dem Motto "European Data Lingo". Mit den [Citizens of Europe](https://citizens-of-europe.eu/), [Jungen europäischen Föderalisten (JEF)](https://www.jef.de/) und [POLIS180](https://polis180.org/) pitchten drei gemeinnnützige Organisationen, die mit unterschiedlichen Ansätzen zu europapolischen Themen arbeiten, in je drei Minuten ihre Organisation, ihre Herausforderungen und die dafür zur Verfügung stehenden Daten. 
  
- Rund 30 interessierte Datenanalyst\*innen fanden sich im Anschluss an die Pitches für anderthalb Stunden in vier Kleingruppen zusammen, um intensiv eines der Themen diskutieren. Die Ergebnisse der Diskussionen wurden abschließend im großen Plenum zusammengetragen.
+ Rund 30 interessierte Datenanalyst\*innen fanden sich im Anschluss an die Pitches für anderthalb Stunden in vier Kleingruppen zusammen, um intensiv eines der Themen zu diskutieren. Die Ergebnisse der Diskussionen wurden abschließend im großen Plenum zusammengetragen.
  
 
  
@@ -45,7 +45,7 @@ Am Donnerstagabend, den 14.11.2019, stand unser Datendialog im CityLAB in Berlin
 Fedo von Citizens of Europe
 {{< /image >}}
 
-Fedo von [Citizens of Europe](https://citizens-of-europe.eu/) stellte die Herausforderung dar, vor welcher sich der seit über 20 Jahren bestehende Verein sieht: Es liegen aus all diesen Jahren Daten in Form von Workshopergebnissen als gescannte Textdokuemente vor. Das sind beispielweise Statements zu der Frage "Was ist für dich Demokratie?", aufgeschrieben von Freiwilligen und europaweiten Workshopteilnehmenden, jeweils vor und nach Veranstaltungen von Citizens of Europe. Nun stellt sich die Frage, wie diese Dokumente digitalisiert werden können, welche datenschutzrechtlichen Fragen zu bedenken sind und welche Analysen mit diesen Textdaten durchführen lassen. Wie lässt sich mit den Daten bespielsweise die Frage beantworten, wie sich das Demokratieverständnis über die letzten 20 Jahre verändert hat?
+Fedo von [Citizens of Europe](https://citizens-of-europe.eu/) stellte die Herausforderung dar, vor welcher sich der seit über 20 Jahren bestehende Verein sieht: Es liegen aus all diesen Jahren Daten in Form von Workshopergebnissen als gescannte Textdokumente vor. Das sind beispielweise Statements zu der Frage "Was ist für dich Demokratie?", aufgeschrieben von Freiwilligen und europaweiten Workshopteilnehmenden, jeweils vor und nach Veranstaltungen von Citizens of Europe. Nun stellt sich die Frage, wie diese Dokumente digitalisiert werden können, welche datenschutzrechtlichen Fragen zu bedenken sind und welche Analysen sich mit diesen Textdaten durchführen lassen. Wie lässt sich mit den Daten bespielsweise die Frage beantworten, wie sich das Demokratieverständnis über die letzten 20 Jahre verändert hat?
    
 ### Junge europäische Föderalisten (JEF)
 
@@ -56,7 +56,7 @@ Fedo von [Citizens of Europe](https://citizens-of-europe.eu/) stellte die Heraus
 Diskussionen mit JEF{{< /image >}}
  
 Die Herausforderungen, die Malte von der [JEF (Jungen europäischen Föderalisten)](https://www.jef.de/) mit ins CityLAB brachte, lassen sich auf eine Maßnahme herunterbrechen: 
-die Ausarbeitung einer "Datenstrategie" für den europapolitischen Verein. Die Vielschichtigkeit der Vereinsstruktur -- die JEF vereint in Deutschland 15 Landesverbände und an die 100 Ortsverbände -- hat zur Entstehung zahlreicher Datensilos beigetragen. Die Standardisierung und Zusammenführung dieser Datenbestände ist ein Ziel der JEF Deutschland, um einerseits die Vereinsstrukturen zu professionalisieren und um andererseits mehr über die Mitglieder und deren Vorstellungen zu lernen. Letzteres kann ein Anknüpfungspunkt für eine Mitgliederdiversifizierungstrategie sein. Schlussendlich könnte die Datenzusammenführung in einem "Daten-Dashboard" für die JEF münden. Darüber hinaus ist die JEF, sagte Malte, auch daran interessiert, bereits die Datenerhebung zu standardisieren -- zum Beispiel mit einheitlichen Fragebögen für die Evaluation der verschiedenen Seminare der JEF. Sprich: Es gibt einiges zu tun.
+die Ausarbeitung einer "Datenstrategie" für den europapolitischen Verein. Die Vielschichtigkeit der Vereinsstruktur -- JEF vereint in Deutschland 15 Landesverbände und an die 100 Ortsverbände -- hat zur Entstehung zahlreicher Datensilos beigetragen. Die Standardisierung und Zusammenführung dieser Datenbestände ist ein Ziel von den JEF Deutschland, um einerseits die Vereinsstrukturen zu professionalisieren und um andererseits mehr über die Mitglieder und deren Vorstellungen zu lernen. Letzteres kann ein Anknüpfungspunkt für eine Mitgliederdiversifizierungstrategie sein. Schlussendlich könnte die Datenzusammenführung in einem "Daten-Dashboard" für die JEF münden. Darüber hinaus sind die JEF, sagte Malte, auch daran interessiert, bereits die Datenerhebung zu standardisieren -- zum Beispiel mit einheitlichen Fragebögen für die Evaluation der verschiedenen Seminare von den JEF. Sprich: Es gibt einiges zu tun.
   
 ### POLIS180
 
