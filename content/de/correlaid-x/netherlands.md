@@ -27,6 +27,40 @@ Als je geïnteresseerd bent in CorrelAidxNL of als je wil meedoen; schrijf je in
 # Het team
 
 {{< person 
+    name="Andrew"
+    subline="CorrelAidX Nederland"
+    img="/images/people/nl-andrew.jpg"
+    data-email="andrew.sutjahjo@correlaid.org"
+    data-to="CorrelAidX Netherlands"
+    link-color="ca-red-text"
+    x="1"
+>}}
+During his masters in Neuroscience, Andrew started up an NGO and tried to build an
+orphanage in Kenya. Two years in, he failed and vowed to build up his skillset and
+network to try to do good again once he had more experience. He has since then
+worked as a data scientist at Capgemini and United Wardrobe, specializing in NLP,
+Search, and Recommendation Systems. After seeing how much more impact we can
+have with data, he’s switched from building orphanages to building models for good.
+{{< /person >}}
+
+{{< person 
+    name="Fabian"
+    subline="CorrelAidX Nederland"
+    img="/images/people/nl-fabian.jpg"
+    data-email="fabian.dablander@correlaid.org"
+    data-to="CorrelAidX Netherlands"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Fabian received his Masters degree in Cognitive Science from the University of
+Tübingen, Germany, and is currently doing his PhD at Department of Psychological
+Methods at the University of Amsterdam. He works on topics related to Bayesian
+inference and testing, causal inference, and time-series analysis. Besides academic
+things, he is excited about initiatives that use data for the social good. You can find
+him on Twitter​ ​ @fdabl​ and at ​ https://fdabl.github.io/​ .
+{{< /person >}}
+
+{{< person 
     name="Joel"
     subline="CorrelAidX Nederland"
     img="/images/people/joel.jpg"
@@ -78,40 +112,6 @@ Daphne is currently specializing in labor law and in mediation. She wants to hel
 >}}
 Yiran is currently a research master student in organization at Erasmus University Rotterdam. She’s passionate about 
 helping others realize the power of data scienceand applying it to create more social value.
-{{< /person >}}
-
-{{< person 
-    name="Andrew"
-    subline="CorrelAidX Nederland"
-    img="/images/people/nl-andrew.jpg"
-    data-email="andrew.sutjahjo@correlaid.org"
-    data-to="CorrelAidX Netherlands"
-    link-color="ca-red-text"
-    x="1"
->}}
-During his masters in Neuroscience, Andrew started up an NGO and tried to build an
-orphanage in Kenya. Two years in, he failed and vowed to build up his skillset and
-network to try to do good again once he had more experience. He has since then
-worked as a data scientist at Capgemini and United Wardrobe, specializing in NLP,
-Search, and Recommendation Systems. After seeing how much more impact we can
-have with data, he’s switched from building orphanages to building models for good.
-{{< /person >}}
-
-{{< person 
-    name="Fabian"
-    subline="CorrelAidX Nederland"
-    img="/images/people/nl-fabian.jpg"
-    data-email="fabian.dablander@correlaid.org"
-    data-to="CorrelAidX Netherlands"
-    link-color="ca-red-text"
-    x="1"
->}}
-Fabian received his Masters degree in Cognitive Science from the University of
-Tübingen, Germany, and is currently doing his PhD at Department of Psychological
-Methods at the University of Amsterdam. He works on topics related to Bayesian
-inference and testing, causal inference, and time-series analysis. Besides academic
-things, he is excited about initiatives that use data for the social good. You can find
-him on Twitter​ ​ @fdabl​ and at ​ https://fdabl.github.io/​ .
 {{< /person >}}
 
 {{< person 
