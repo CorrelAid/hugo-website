@@ -54,48 +54,12 @@ Platz der Luftbrücke 4
 
 ### Samstag, 30. November 2019
 
-Die Verteilung der Workshops auf die drei Räume erfolgt morgens und in der Mittagspause basierend auf einem "Punkte-Voting" durch die Teilnehmenden. 
 
-{.table .table-striped}
-| time          |                                                                               |                                              |                                                                                |     |
-| ------------- | ----------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------ | --- |
-| 9:00 - 9:30   | Begrüßung, Ablauf, Kennenlernen                                               |                                              |                                                                                |
-| 9:30 - 11:00  | Data Explosion: How the LEI as data connector creates a more transparent financial world (Zori, GLEIF) <br><hr />APIs in Python and R (Jan + Jakob)                                            | Introduction to Python (Lisa, Thomas, Max)   | Test Driven Development in R and Python (Alex + Frie)                          |
-| 11:00 - 11:15 | *Kaffeepause*                                                                 | *Kaffeepause*                                | *Kaffeepause*                                                                  |
-| 11:15 - 11:45 | APIs in Python and R (Jan + Jakob)                                                             | Missing Data (Regina)                        | Explainable ML (Rahel)                                                         |
-| 11:45 - 12:15 |                                                                               | Missing Data (Regina)                        | Explainable ML (Rahel)                                                         |
-| 12:15 - 13:15 | *Mittagessen*                                                                 | *Mittagessen*                                | *Mittagessen*                                                                  |
-| 13:15 - 14:15 | datengui.de Hackathon with datenguidepy / datenguideR (Konrad, Barbara, Lisa) | Introduction to version control / Git (Frie) | Data Science Processes with the Google Cloud AI-Platform (Henry)               |
-| 14:15 - 14:30 | *Kaffeepause*                                                                 | *Kaffeepause*                                | *Kaffeepause*                                                                  |
-| 14:30 - 15:00 | datengui.de Hackathon with datenguidepy / datenguideR (Konrad, Barbara, Lisa) | Introduction to version control / Git (Frie) | Data Science Processes with the Google Cloud AI-Platform as an example (Henry) |
-| 15:00 - 15:30 | datengui.de Hackathon with datenguidepy / datenguideR (Konrad, Barbara, Lisa) |                                              |                                                                                |
-| 15:30 - 15:45 | *Kaffeepause*                                                                 | *Kaffeepause*                                | *Kaffeepause*                                                                  |
-| 15:45 - 16:45 | Linux 101 - A system scavenger hunt (Chris)                                   | FixMyBerlin Mini-Hackathon                   | Introduction to R (Arndt, Yannik)                                              |
-| 16:45 - 17:00 | *Kaffeepause*                                                                 | *Kaffeepause*                                | *Kaffeepause*                                                                  |
-| 17:00 - 17:30 | Linux 101 - A system scavenger hunt (Chris)                                   | -                  | Introduction to R (Arndt, Yannik)                                              |
-| 17:30 - 18:00 | Feature Engineering and Selection for Machine Learning (Soledad)              | -                 | Visualization of political processes with Open Data (Valentin)                 |
-| 18:00 - 18:15 | *Pause*                                                                       | *Pause*                                      | *Pause*                                                                        |
-| 18:15 - 18:45 | Lightning talks - Data Science on the job 3 -5 min                            |                                              |                                                                                |
-| 18:45 - 19:15 | World Cafe - data science on the job                                          |                                              |                                                                                |
-| ab 19:15      | Open End mit Pizza und Getränken                                              |                                              |                                                                                |     |
+Das kontinuierlich geupdatete Programm findest du hier: [http://tiny.cc/cameetup](http://tiny.cc/cameetup).
 
 ### Sonntag, 1. Dezember 2019
 
-Die Verteilung der Workshops auf die drei Räume erfolgt morgens und in der Mittagspause basierend auf einem "Punkte-Voting" durch die Teilnehmenden. 
-
-{.table .table-striped}
-|               |                                                                             |                                                                      |                                                       |
-| ------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------- |
-| 9:00 - 9:30   | Begrüßung, Ablauf                                                           |                                                                      |                                                       |
-| 9:30 - 10:00  | CorrelAid Engage - coming fall 2020                                         | Open Space - hacking with open data, discussions etc.                |                                                       |
-| 10:00 - 10:30 | CorrelAid project lead - 10 lessons learned (Chris)                         | Open Space - hacking with open data, discussions etc.                |                                                       |
-| 10:30 - 11:00 | CorrelAid infrastructure                                                    | Open Space - hacking with open data, discussions etc.                |  Revive CorrelTalk - Podcasting for Beginners                                                     |
-| 11:00 - 11:15 | *Kaffeepause*                                                               | *Kaffeepause*                                                        |                                                       |
-| 11:15 - 12:15 | Starting up a CorrelAid X: best practice in the Netherlands (Joel + Andrew) | Introduction to RMarkdown + CorrelAid Wiki Mini - Hackathon (Jasmin) | CorrelAid Website mit CI/CD |
-| 12:15 - 13:15 | *Mittagessen*                                                               | *Mittagessen*                                                        | *Mittagessen*                                         |
-| 13:15 - 14:15 | CorrelAidX formats: tidytuesdays and data dialogues (Sylvi, Hendrik)        | Open Space - hacking with open data, discussions etc. | Open Space - hacking with open data, discussions etc. |
-| 14:15 - 14:30 | *Kaffeepause*                                                               | *Kaffeepause*                                                        | *Kaffeepause*                                         |
-| 14:30 - 15:00 | Feedbackrunde und Ausklang                                                  |                                                                      |                                                       |
+Das kontinuierlich geupdatete Programm findest du hier: [http://tiny.cc/cameetup](http://tiny.cc/cameetup).
 
 ## Sonstige Infos
 

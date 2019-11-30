@@ -59,48 +59,15 @@ Platz der Luftbrücke 4
 
 ### Saturday, November 30th, 2019
 
-Distribution of workshops to rooms will be decided in morning and in the *lunch* *break* based on the interests of the participants.
+See [http://tiny.cc/cameetup](http://tiny.cc/cameetup) for the continuously updated program!
 
-{.table .table-striped}
-| time          |                                                                               |                                              |                                                                                |     |
-| ------------- | ----------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------ | --- |
-| 9:00 - 9:30   | Welcome and organizational stuff                                              |                                              |                                                                                |
-| 9:30 - 11:00  | Data Explosion: How the LEI as data connector creates a more transparent financial world (Zori, GLEIF) <br><hr />APIs in Python and R (Jan + Jakob)                                            | Introduction to Python (Lisa, Thomas, Max)   | Test Driven Development in R and Python (Alex + Frie)                          |
-| 11:00 - 11:15 | *coffee break*                                                                | *coffee break*                               | *coffee break*                                                                 |
-| 11:15 - 11:45 |   APIs in Python and R (Jan + Jakob)                                                          | Missing Data (Regina)                        | Explainable ML (Rahel)                                                         |
-| 11:45 - 12:15 |                                                                               | Missing Data (Regina)                        | Explainable ML (Rahel)                                                         |
-| 12:15 - 13:15 | *lunch*                                                                       | *lunch*                                      | *lunch*                                                                        |
-| 13:15 - 14:15 | datengui.de Hackathon with datenguidepy / datenguideR (Konrad, Barbara, Lisa) | Introduction to version control / Git (Frie) | Data Science Processes with the Google Cloud AI-Platform (Henry)               |
-| 14:15 - 14:30 | *coffee break*                                                                | *coffee break*                               | *coffee break*                                                                 |
-| 14:30 - 15:00 | datengui.de Hackathon with datenguidepy / datenguideR (Konrad, Barbara, Lisa) | Introduction to version control / Git (Frie) | Data Science Processes with the Google Cloud AI-Platform as an example (Henry) |
-| 15:00 - 15:30 | datengui.de Hackathon with datenguidepy / datenguideR (Konrad, Barbara, Lisa) |                                              |                                                                                |
-| 15:30 - 15:45 | *coffee break*                                                                | *coffee break*                               | *coffee break*                                                                 |
-| 15:45 - 16:45 | Linux 101 - A system scavenger hunt (Chris)                                   | FixMyBerlin Mini-Hackathon                   | Introduction to R (Arndt, Yannik)                                              |
-| 16:45 - 17:00 | *coffee break*                                                                | *coffee break*                               | *coffee break*                                                                 |
-| 17:00 - 17:30 | Linux 101 - A system scavenger hunt (Chris)                                   | -                   | Introduction to R (Arndt, Yannik)                                              |
-| 17:30 - 18:00 | Feature Engineering and Selection for Machine Learning (Soledad)              | -                   | Visualization of political processes with Open Data (Valentin)                 |
-| 18:00 - 18:15 | *break*                                                                       | *break*                                      | *break*                                                                        |
-| 18:15 - 18:45 | Lightning talks - Data Science on the job 3 -5 min                            |                                              |                                                                                |
-| 18:45 - 19:15 | round tables - data science on the job                                        |                                              |                                                                                |
-| from 19:15    | open end with Pizza and drinks                                                |                                              |                                                                                |     |
 
 ### Sunday, December 1st, 2019
 
-Distribution of workshops to rooms will be decided in morning and in the lunch break based on the interests of the participants.
+See [http://tiny.cc/cameetup](http://tiny.cc/cameetup) for the continuously updated program!
 
-{.table .table-striped}
-|               |                                                                             |                                                                      |                                                       |
-| ------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------- |
-| 9:00 - 9:30   | Welcome, organizational stuff                                               |                                                                      |                                                       |
-| 9:30 - 10:00  | CorrelAid Engage - coming fall 2020                                         | Open Space - hacking with open data, discussions etc.                |                                                       |
-| 10:00 - 10:30 | CorrelAid project lead - 10 lessons learned (Chris)                         | Open Space - hacking with open data, discussions etc.                |                                                       |
-| 10:30 - 11:00 | CorrelAid infrastructure                                                    | Open Space - hacking with open data, discussions etc.                |         Revive CorrelTalk - Podcasting for Beginners                                              |
-| 11:00 - 11:15 | *coffee break*                                                              | *coffee break*                                                       |                                                       |
-| 11:15 - 12:15 | Starting up a CorrelAid X: best practice in the Netherlands (Joel + Andrew) | Introduction to RMarkdown + CorrelAid Wiki Mini - Hackathon (Jasmin) | CorrelAid Website mit CI/CD |
-| 12:15 - 13:15 | *lunch*                                                                     | *lunch*                                                              | *lunch*                                               |
-| 13:15 - 14:15 | CorrelAidX formats: tidytuesdays and data dialogues (Sylvi, Hendrik)        | Open Space - hacking with open data, discussions etc.  | Open Space - hacking with open data, discussions etc. | 
-| 14:15 - 14:30 | *coffee break*                                                              | *coffee break*                                                       | *coffee break*                                        |
-| 14:30 - 15:00 | feedback and conclusion                                                     |                                                                      |                                                       |
+
+
 
 ## Other info
 
