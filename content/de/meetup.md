@@ -17,6 +17,10 @@ markup: mmark
 
 # Let's meetup - 2019 edition!
 
+Danke an alle unsere Speaker, Teilnehmer*innen und Organisatorinnen des diesjährigen CorrelAid Meetup, wir hatten eine großartige Veranstaltung!
+
+[Hier](https://correlaid.github.io/workshops/germany-meetups.html#november-2019-berlin) könnt ihr alle Folien und Informationen zu den einzelnen Talks finden.
+
 ## Was?
 Wie jedes Jahr erwartet dich eine spannende Mischung an Workshops - diesmal unter dem Überthema Open Data. Weiterhin wird es Möglichkeiten zum Austausch von Erfahrungen mit CorrelAid X - unseren lokalen Chaptern - und auch allgemeine Kurse für Anfänger:innen und Fortgeschrittene in verschiedenste Software und Coding-Techniken geben.
 
