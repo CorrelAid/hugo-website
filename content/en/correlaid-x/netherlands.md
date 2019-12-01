@@ -68,7 +68,7 @@ him on Twitter​ ​ @fdabl​ and at ​ https://fdabl.github.io/​ .
 >}}
 Joel graduated from his master program in political science at University of Gothenburg in summer 2018.
 Currently, he lives in Utrecht and started with several other passionate data scientists a local CorrelAid chapter in the Netherlands.
-We are curious if we can transfer the concept of "data for good" on another cultural context and are excited for the first local beyond Germany.
+We are curious if we can transfer the concept of "data for good" on another cultural context and are excited for the first local chapter beyond Germany.
 {{< /person >}}
 
 {{< person 
