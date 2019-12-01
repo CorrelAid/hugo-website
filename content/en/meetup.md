@@ -17,6 +17,10 @@ markup: mmark
 
 # Let's meetup - 2019 edition!
 
+Thanks to all the speakers, participants and organisers of this years CorrelAid Meetup, it was a blast!
+
+[Here](https://correlaid.github.io/workshops/germany-meetups.html#november-2019-berlin) you can find all the slides and information of the talks.
+
 ## What?
 
 Like every year, there'll be an exciting mix of workshops about all things data science, data for good, useful tools and other things - for beginners and advanced folks alike. New this year: We have a focus topic: Open Data. We'll talk with cool organizations from the Open Data sphere and figure out how we as data-for-gooders can help society using Open Data.
@@ -31,11 +35,11 @@ Friday, 29th of November (starting 4pm but no problem if you arrive later), to S
 
 ## Where?
 
-We're very happy to be hosted by the [CityLab Berlin](https://www.citylab-berlin.org/). Thanks to the CityLab crew!
+We're very happy to be hosted by the [CityLAB Berlin](https://www.citylab-berlin.org/). Thanks to the CityLab crew!
 
 address:
 
-City Lab Berlin
+CityLAB Berlin
 
 Platz der Luftbrücke 4
 
