@@ -38,7 +38,7 @@ Als je geïnteresseerd bent in CorrelAidxNL of als je wil meedoen; schrijf je in
 During his masters in Neuroscience, Andrew started up an NGO and tried to build an
 orphanage in Kenya. Two years in, he failed and vowed to build up his skillset and
 network to try to do good again once he had more experience. He has since then
-worked as a data scientist at Capgemini and United Wardrobe, specializing in NLP,
+worked as a data scientist at Capgemini, United Wardrobe, and Utelly, specializing in NLP,
 Search, and Recommendation Systems. After seeing how much more impact we can
 have with data, he’s switched from building orphanages to building models for good.
 {{< /person >}}

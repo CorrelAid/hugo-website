@@ -1,7 +1,7 @@
 # CorrelAid Hugo Website
 
 1. [Installation](#1-installation)
-2. [Development](#2-deployment)
+2. [Development](#2-development)
 3. [Deployment](#3-deployment)
 4. [Add Content](#4-add-content)
 
@@ -65,6 +65,13 @@ Hugo provides a development server that enables _hot-reload_. The folder is watc
 
 ### 4.1 Create a new page
 
+1. Make a copy of a page which is found in the content folder under a language. These are markdown files `.md`
+2. Change the yaml header to suit your new page:
+   * The menu key will add a link in the top menu of the banner; its weight governs the ordering of the links
+3. Create the content in your new page 
+4. Ensure there's a version of the page for each language in the content folder
+   
+ 
 
 ### 4.2 Using images
 
