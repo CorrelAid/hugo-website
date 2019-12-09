@@ -1,7 +1,7 @@
 ---
 title: "Opening the doors to our Data4Good Meetup 2019 on Open Data"
-date: 2019-12-02T00:00:00+02:00
-image: "509-a-data-scientist.jpg"
+date: 2019-12-09T00:00:00+02:00
+image: "meet-berlin-main-pic.jpg"
 summary: "Magic happens when you put socially thinking data scientists together in a space for a weekend."
 
 categories:       
@@ -20,7 +20,7 @@ author:
 meta:
   title: "Opening the doors to our Data4Good Meetup 2019 on Open Data"
   description: "Magic happens when you put socially thinking data scientists together in a lab for a weekend."
-  image: "509-a-data-scientist.jpg"
+  image: "meet-berlin-main-pic.jpg"
   keywords: "CorrelAid, Data4Good, Meetup, Open data, hype, opendata4good"
 ---
 
@@ -50,7 +50,7 @@ An additional focus was placed on the nitty gritty of making a machine learning 
 Of course, it would not be a CorrelAid meetup without the many mini-hackathons and spontaneous break-out sessions, all of them sharing the theme of open data: from using the GLEIF connector to using the datenguide connectors we developed in a previous project ( [R](https://github.com/CorrelAid/datenguideR), [Python](https://github.com/CorrelAid/datenguide-python) ) to visualize how much trash each of Germany's regions accumulates over time.
 
 
-{{< image 
+{{< image
     image="meet-berlin-trash_emoji.gif"
 >}}
 Meetup Trash
