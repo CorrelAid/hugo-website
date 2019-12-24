@@ -4,3 +4,6 @@
 public/*
 .Rproj.user
 .Rhistory
+
+# annoying mac indexing
+.DS_Store
