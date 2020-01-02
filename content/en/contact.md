@@ -77,7 +77,7 @@ He studied "Evidence-based Policymaking" at the University of Oxford and Policy-
     link-color="ca-green-text"
     x="0"
 >}}
-    Manuel is in the final stage of his Master studies of political science at University Mannheim. Here, he joined CorrelAid in Fall 2017. He’s particularly interested in making comprehensive data and complicated models understandable. For CorrelAid, he’s responsible for the contact for projects and partnerships.
+    Manuel is an Associate Researcher at the Mannheim Centre for European Social Research. He joined CorrelAid in 2017. He’s particularly interested in making comprehensive data and complicated models understandable. For CorrelAid, he’s responsible for the contact for projects and partnerships.
 {{< /person >}}
 
 {{< person 

@@ -77,7 +77,7 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
     link-color="ca-green-text"
     x="0"
 >}}
-    Manuel ist in den letzten Zügen des Masterstudiums Political Science an der Universität Mannheim, wo er Ende 2017 auf CorrelAid stieß. Sein Interesse liegt vor allem darin, unübersichtliche Datenmengen und komplizierte Modelle verständlich darzustellen. Für CorrelAid kümmert er sich um die Betreuung der Projektpartnerschaften und -ideen.
+    Manuel ist wissenschaftlicher Mitarbeiter am Mannheimer Zentrum für Europäische Sozialforschung. Er ist seit 2017 bei CorrelAid aktiv. Sein Interesse liegt vor allem darin, unübersichtliche Datenmengen und komplizierte Modelle verständlich darzustellen. Für CorrelAid kümmert er sich um die Betreuung der Projektpartnerschaften und -ideen.
 {{< /person >}}
 
 {{< person 
