@@ -57,7 +57,8 @@ Tübingen, Germany, and is currently doing his PhD at Department of Psychologica
 Methods at the University of Amsterdam. He works on topics related to Bayesian
 inference and testing, causal inference, and time-series analysis. Besides academic
 things, he is excited about initiatives that use data for the social good. You can find
-him on Twitter​ ​ @fdabl​ and at ​ https://fdabl.github.io/​ .
+him on <a href="https://twitter.com/fdabl">Twitter​</a>,​ <a href="https://fdabl.github.io/">GitHub</a>, 
+and on his <a href="https://fabiandablander.com/">website</a>.
 {{< /person >}}
 
 {{< person 
