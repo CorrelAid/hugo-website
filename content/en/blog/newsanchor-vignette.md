@@ -3,48 +3,48 @@ title: "Scrape New York Times Online Articles Using {newsanchor}"
 date: 2020-01-09T00:00:00+02:00
 image: "509-newsanchor.jpg"
 summary: "A Use Case for CorrelAid's newsapi.org R Package"
-categories:       
-    - R
-    - Statistics
-    - Data Science
-author: 
-    name:           "Jan"
-    image:          "jan-d.jpg"
-    description:    "Jan studied Data Science at University of Konstanz and Global Studies at University of Gothenburg. Today, he does software development at CorrelAid and at [Cause&Effect](https://www.cause-effect.io/)."
-    twitter:        "https://twitter.com/toll_patsch"
-    facebook:       ""
-    github:         "https://github.com/jandix"
-    email:          ""
-    website:        ""
+categories:
+  - R
+  - Statistics
+  - Data Science
+author:
+  name: "Jan"
+  image: "jan-d.jpg"
+  description: "Jan studied Data Science at University of Konstanz and Global Studies at University of Gothenburg. Today, he works as a software developer."
+  twitter: "https://twitter.com/toll_patsch"
+  facebook: ""
+  github: "https://github.com/jandix"
+  email: ""
+  website: ""
 meta:
-    title: "Scrape New York Times Online Articles Using {newsanchor}"
-    description: "A Use Case for CorrelAid's newsapi.org R Package"
-    image: "509-newsanchor.jpg"
-    keywords: "CorrelAid, Data4Good, R"
+  title: "Scrape New York Times Online Articles Using {newsanchor}"
+  description: "A Use Case for CorrelAid's newsapi.org R Package"
+  image: "509-newsanchor.jpg"
+  keywords: "CorrelAid, Data4Good, R"
 ---
 
 This introduction shows how you could gather meta data (such as title and URL) from the [News API](https://newsapi.org/) and use this information to download the complete article and calculate the sentiment for the text body. First, we download the meta data using the `newsanchor` package. Secondly, we write a function that allows us to automatically scrape the text of any "New York Times" (NYT) article from their website. We apply this function on the URLs fetched in the first section. Thirdly, we calculate the sentiment for each article using the **AFINN** dictionary. While a dictionary approach is probably not ideal to analyze political newspaper articles, this introduction provides an insight how the `newsanchor` package can be used for more detailed analyses.
-  
+
 #### Dependencies
-  
-  Before we start downloading the actual content we have to load the required packages. Below, you find a short summary of the purpose of each package. 
-  
-  `newsanchor` enables us to download necessary meta data. Unfortunately, the free *News API* account only allows to query data within the last 3 months. For the purpose of this tutorial, we use an internal data set. The data set is also available using the  `newsanchor::sample_response`. You find detailed information about the sample response object using `?newsanchor::sample_response`.
-  
-  `robotstxt` provides functionalities that automatically read the `robots.txt` file of a website. The `robots.txt` file allows website administrators to define which scrapers and robots are allowed to visit certain folders within the webiste. While the usage is mainly based on trust, you should definitly always check the file.
-  
-  `httr` is a wrapper for the `curl` package and provides functions to query modern web APIs. It allows to easily download websites and access useful information about the connection.
-  
-  `rvest` ships with functions that allow to easily parse HTML to characters. We can search for certain items on the downloaded website and easily access their text and attributes.
-  
-  `dplyr` is a package that provides neat functions to manipulate data frames. It will be essential in our last task: the sentiment calculation. Furthermore, it autmatically loads the `magrittr` package with its beautiful pipe operators. 
-  
-  `stringr` is a wrapper for string manipulation functions. It provides a consistent grammar. Hence, we prefer it over `stringi` and the `grep` family.
-  
-  `tidytext` is a tool that provides text manipulation along with the tidy data principles. It works well along with `dplyr` and is used to apply the sentiment calculations.
-  
-  `textdata` is used to get the sentiment analyses done, accessing a certain lexicon (AFINN). Users must agree to understand the library’s license/terms of use before the dataset is downloaded. 
-  
+
+Before we start downloading the actual content we have to load the required packages. Below, you find a short summary of the purpose of each package.
+
+`newsanchor` enables us to download necessary meta data. Unfortunately, the free _News API_ account only allows to query data within the last 3 months. For the purpose of this tutorial, we use an internal data set. The data set is also available using the `newsanchor::sample_response`. You find detailed information about the sample response object using `?newsanchor::sample_response`.
+
+`robotstxt` provides functionalities that automatically read the `robots.txt` file of a website. The `robots.txt` file allows website administrators to define which scrapers and robots are allowed to visit certain folders within the webiste. While the usage is mainly based on trust, you should definitly always check the file.
+
+`httr` is a wrapper for the `curl` package and provides functions to query modern web APIs. It allows to easily download websites and access useful information about the connection.
+
+`rvest` ships with functions that allow to easily parse HTML to characters. We can search for certain items on the downloaded website and easily access their text and attributes.
+
+`dplyr` is a package that provides neat functions to manipulate data frames. It will be essential in our last task: the sentiment calculation. Furthermore, it autmatically loads the `magrittr` package with its beautiful pipe operators.
+
+`stringr` is a wrapper for string manipulation functions. It provides a consistent grammar. Hence, we prefer it over `stringi` and the `grep` family.
+
+`tidytext` is a tool that provides text manipulation along with the tidy data principles. It works well along with `dplyr` and is used to apply the sentiment calculations.
+
+`textdata` is used to get the sentiment analyses done, accessing a certain lexicon (AFINN). Users must agree to understand the library’s license/terms of use before the dataset is downloaded.
+
 ```r
 # load all required packages
 library(newsanchor) # download newspaper articles
@@ -52,68 +52,69 @@ library(robotstxt)  # get robots.txt
 library(httr)       # http requests
 library(rvest)      # web scraping tools
 library(dplyr)      # easy data frame manipulation
-library(stringr)    # string/character manipulation 
+library(stringr)    # string/character manipulation
 library(tidytext)   # tidy text analysis
-library(textdata)   # contains the AFINN lexicon 
+library(textdata)   # contains the AFINN lexicon
 ```
 
 #### Download NYT articles and their corresponding URLs
 
-First, we have to download the meta data using the `get_everything` function of the `newsanchor` package. We query the *News API* for all articles about Donald Trump between 3rd and 9th December 2019 in the NYT. Instead of searching within the NYT, we could also narrow our search by looking for news in a certain language using the `language` argument. All available arguments can be seen using `?get_everything`. We assign the result to `response` and extract the data frame that includes newspaper articles and corresponding meta data, such as URL, author, title, etc. Unfortunately, the data frame does not include the whole article text. In the following code, we use the advanced function `get_everything_all` of `newsanchor`. The only difference to `get_everything` is that it downloads all available results at once. 
+First, we have to download the meta data using the `get_everything` function of the `newsanchor` package. We query the _News API_ for all articles about Donald Trump between 3rd and 9th December 2019 in the NYT. Instead of searching within the NYT, we could also narrow our search by looking for news in a certain language using the `language` argument. All available arguments can be seen using `?get_everything`. We assign the result to `response` and extract the data frame that includes newspaper articles and corresponding meta data, such as URL, author, title, etc. Unfortunately, the data frame does not include the whole article text. In the following code, we use the advanced function `get_everything_all` of `newsanchor`. The only difference to `get_everything` is that it downloads all available results at once.
 
-```r 
+```r
 # get headlines published by the NYT
 response <- get_everything_all(query   = "Trump",
                                sources = "the-new-york-times",
                                from    = "2018-12-03",
-                               to      = "2018-12-09") 
+                               to      = "2018-12-09")
 
 # extract response data frame
 articles <- response$results_df
 ```
 
-Since *News API* does not allow to query results that are older than 3 months, we decided to append a sample data set to the `newsanchor` package. Below we show how you load the example data set that equals the above query. 
+Since _News API_ does not allow to query results that are older than 3 months, we decided to append a sample data set to the `newsanchor` package. Below we show how you load the example data set that equals the above query.
 
 ```r
 articles <- sample_response$results_df
 ```
+
 #### Are we allowed to scrape NYT?
 
-Before we start downloading a lot of articles from the NYT, we should check if we are allowed to access their website automatically. As explained previously, usually each website provides a `robots.txt` file that includes permissions for bots. You can see the file by opening [https://www.nytimes.com/robots.txt](https://www.nytimes.com/robots.txt) in your favorite browser. By the way, appending `robots.txt` to the root URL should work for every website. The `robotstxt` package provides the function `paths_allowed()` that returns `TRUE` when you are allowed to scrape the site and, vice versa, `FALSE`. We test our URL vector. Afterwards, we use `all()`. `all()` returns `TRUE` when all items of a vector are `TRUE`. Since `all()` yields `TRUE`, we are allowed to scrape the given URLs. 
+Before we start downloading a lot of articles from the NYT, we should check if we are allowed to access their website automatically. As explained previously, usually each website provides a `robots.txt` file that includes permissions for bots. You can see the file by opening [https://www.nytimes.com/robots.txt](https://www.nytimes.com/robots.txt) in your favorite browser. By the way, appending `robots.txt` to the root URL should work for every website. The `robotstxt` package provides the function `paths_allowed()` that returns `TRUE` when you are allowed to scrape the site and, vice versa, `FALSE`. We test our URL vector. Afterwards, we use `all()`. `all()` returns `TRUE` when all items of a vector are `TRUE`. Since `all()` yields `TRUE`, we are allowed to scrape the given URLs.
 
-```r 
+```r
 allowed <- paths_allowed(articles$url)
 all(allowed)
 ```
+
 #### Define a function to scrape the article body
 
-We define a function that allows us to download the article body for any given NYT URL. Hence, the function takes only one argument: the URL. First, we download the complete website using the `GET()` function from the `httr` package. We can check whether the server returned a valid answer. Generally, we accept all responses with a 200 status code. Usually, 4xx codes describe a user error and 5xx errors describe a server error. An useful overview on the mostly used status codes can be found on [Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes). If the server returns an error, we return `NA`. If the server response is valid, we extract the content of the response. The `content()` function returns only the raw HTML code of the website. We can parse the HTML code using the `read_html` function so that R "understands" HTML. Subsequently, we define a selector to search for the article text. The selector defines which elements on a website we want to target. You find an introduction to selectors [here](https://www.w3schools.com/cssref/trysel.asp). Furthermore, there is the very useful [selector gadget tool](https://selectorgadget.com/) to find selectors on every website. Finally, we can search for the selector using `html_nodes()` and extract the content using `html_text()`. Additionally, we remove all line breaks using `str_replace_all()` and paste/glue the character vector into one big text. 
+We define a function that allows us to download the article body for any given NYT URL. Hence, the function takes only one argument: the URL. First, we download the complete website using the `GET()` function from the `httr` package. We can check whether the server returned a valid answer. Generally, we accept all responses with a 200 status code. Usually, 4xx codes describe a user error and 5xx errors describe a server error. An useful overview on the mostly used status codes can be found on [Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes). If the server returns an error, we return `NA`. If the server response is valid, we extract the content of the response. The `content()` function returns only the raw HTML code of the website. We can parse the HTML code using the `read_html` function so that R "understands" HTML. Subsequently, we define a selector to search for the article text. The selector defines which elements on a website we want to target. You find an introduction to selectors [here](https://www.w3schools.com/cssref/trysel.asp). Furthermore, there is the very useful [selector gadget tool](https://selectorgadget.com/) to find selectors on every website. Finally, we can search for the selector using `html_nodes()` and extract the content using `html_text()`. Additionally, we remove all line breaks using `str_replace_all()` and paste/glue the character vector into one big text.
 
 This function is, of course, only a simple sample. We could amend the function with further tests of the returned content and detailed error handling and messages. Additionally, we could vectorize the function and allow users to enter a vector of URLs. This could be done using functions of the `apply` family. However, for the purpose of this tutorial, we want to keep the function as simple as possible.
 
-
-```r 
+```r
 get_article_body <- function (url) {
-  
+
   # download article page
   response <- GET(url)
-  
+
   # check if request was successful
   if (response$status_code != 200) return(NA)
-  
+
   # extract html
-  html <- content(x        = response, 
-                  type     = "text", 
+  html <- content(x        = response,
+                  type     = "text",
                   encoding = "UTF-8")
-  
+
   # parse html
-  parsed_html <- read_html(html)                   
-  
+  parsed_html <- read_html(html)
+
   # define paragraph DOM selector
   selector <- "article#story div.StoryBodyCompanionColumn div p"
-  
+
   # parse content
-  parsed_html %>% 
+  parsed_html %>%
     html_nodes(selector) %>%      # extract all paragraphs within class 'article-section'
     html_text() %>%               # extract content of the <p> tags
     str_replace_all("\n", "") %>% # replace all line breaks
@@ -121,29 +122,30 @@ get_article_body <- function (url) {
 }
 
 ```
+
 #### Apply the new function
 
-After we defined a function that is able to scrape NYT articles, we want to *apply* the function to our list of URLs. We append an empty new column to the data set. Afterwards, we initialize a progress bar which will show us the progress within the loop. Within each loop we apply the function to the i-th URL and save the result to the newly created body column. Additionally, we pause the program for 1 second. You may ask why we talk about *apply* all the time, but we do not use the apply family? The answer is multifaceted. First, we want to execute the function within a loop because we want to keep track of the progress. Second, we can easily debug our function if we know which URL breaks the function. However, if you write a more advanced function, you could easily replace the loop with an *apply* function, such as `sapply()`.    
+After we defined a function that is able to scrape NYT articles, we want to _apply_ the function to our list of URLs. We append an empty new column to the data set. Afterwards, we initialize a progress bar which will show us the progress within the loop. Within each loop we apply the function to the i-th URL and save the result to the newly created body column. Additionally, we pause the program for 1 second. You may ask why we talk about _apply_ all the time, but we do not use the apply family? The answer is multifaceted. First, we want to execute the function within a loop because we want to keep track of the progress. Second, we can easily debug our function if we know which URL breaks the function. However, if you write a more advanced function, you could easily replace the loop with an _apply_ function, such as `sapply()`.
 
-```r 
+```r
 # create new text column
 articles$body <- NA
 
 # initialize progress bar
-pb <- txtProgressBar(min     = 1, 
-                     max     = nrow(articles), 
-                     initial = 1, 
+pb <- txtProgressBar(min     = 1,
+                     max     = nrow(articles),
+                     initial = 1,
                      style   = 3)
 
 # loop through articles and "apply" function
 for (i in 1:nrow(articles)) {
-  
+
   # "apply" function to i url
   articles$body[i] <- get_article_body(articles$url[i])
-  
+
   # update progress bar
   setTxtProgressBar(pb, i)
-  
+
   # sleep for 1 sec
   Sys.sleep(1)
 }
@@ -151,27 +153,27 @@ for (i in 1:nrow(articles)) {
 
 #### Calculate sentiment
 
-After we finally downloaded all articles, we can calculate the sentiment for each article. We use a simple dictionary approach. A dictionary approach assigns a positive or negative score or label to each word. We use the **AFINN** dictionary that assigns numerical scores between `-5` and `5` to English words. As stated in the introduction, dictionary approaches, especially with non-domain specific dictionaries, might not be the best choice to determine the sentiment of newspaper articles. However, due to the simplicity of this tutorial, we stick to the dictionary approach. In the end, we group the scores by the date they were published and calculate the mean score for each respective day.   
+After we finally downloaded all articles, we can calculate the sentiment for each article. We use a simple dictionary approach. A dictionary approach assigns a positive or negative score or label to each word. We use the **AFINN** dictionary that assigns numerical scores between `-5` and `5` to English words. As stated in the introduction, dictionary approaches, especially with non-domain specific dictionaries, might not be the best choice to determine the sentiment of newspaper articles. However, due to the simplicity of this tutorial, we stick to the dictionary approach. In the end, we group the scores by the date they were published and calculate the mean score for each respective day.
 
-```r 
+```r
 sentiment_by_day <- articles %>%
-  select(url, body) %>%                                  # extract required columns 
+  select(url, body) %>%                                  # extract required columns
   unnest_tokens(word, body) %>%                          # split each article into single words
   anti_join(get_stopwords(), by = "word") %>%            # remove stopwords
   inner_join(get_sentiments("afinn"), by = "word") %>%    # join sentiment scores
   group_by(url) %>%                                      # group text again by their URL
   summarise(sentiment = sum(value)) %>%                  # sum up sentiment scores
   left_join(articles, by = "url") %>%                    # add sentiment column to articles
-  select(published_at, sentiment) %>%                    # extract required columns 
+  select(published_at, sentiment) %>%                    # extract required columns
   group_by(date = as.Date(published_at)) %>%            # group by date
   summarise(sentiment = mean(sentiment), n = n())        # calculate summaries
 ```
 
 #### Results
 
-Using the code below, you get the plot that results from our analysis. Most of the articles were published Tuesday and Friday. The least number of articles can be found Saturday and Sunday. Probably there is less staff available during the weekend or Donald Trump is busy playing golf in Mar-a-Lago. Hence, less newsworthy events take place. 
+Using the code below, you get the plot that results from our analysis. Most of the articles were published Tuesday and Friday. The least number of articles can be found Saturday and Sunday. Probably there is less staff available during the weekend or Donald Trump is busy playing golf in Mar-a-Lago. Hence, less newsworthy events take place.
 
-Monday, Tuesday and Friday have negative sentiment scores. Digging into the Tuesday's headings, we see that news do not have a common theme. Friday's results look similar. However, we can find various articles about the Mueller investigation. Saturday's score is outstandingly positive. Hence, one would expect articles about a certain newsworthy positive event. Unfortunately, the result shows us that we cannot find a common theme again. 
+Monday, Tuesday and Friday have negative sentiment scores. Digging into the Tuesday's headings, we see that news do not have a common theme. Friday's results look similar. However, we can find various articles about the Mueller investigation. Saturday's score is outstandingly positive. Hence, one would expect articles about a certain newsworthy positive event. Unfortunately, the result shows us that we cannot find a common theme again.
 
 The analysis above shows that one needs to be very careful with sentiment analysis. It seems that the dictionary approach did not capture the overall atmosphere of the respective day since the articles seem to be very different. One could probably review whether we find anomalies along the authors, the length of the articles or other attributes to explain the strongly varying scores.
 
@@ -179,7 +181,7 @@ The analysis above shows that one needs to be very careful with sentiment analys
 # enable two plots in one figure
 old_par <- par(mfrow=c(1, 2))
 
-# plot number of articles vs. time 
+# plot number of articles vs. time
 barplot(height    = sentiment_by_day$n,
         names.arg = format(sentiment_by_day$date, "%a"),
         ylab      = "# of articles",
