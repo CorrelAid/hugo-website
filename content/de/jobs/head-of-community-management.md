@@ -22,18 +22,16 @@ meta:
 
 ### CorrelAid - Head of Community Management
 
-CorrelAid ist ein data-for-good Netzwerk mit über 1000 Mitgliedern, die mit ihren Data Science-Fähigkeiten die Welt verändern wollen. Seit 2015 engagiert sich CorrelAid dafür, das Potenzial von Datenanalyse und Machine Learning für die Zivilgesellschaft zugänglich und nutzbar zu machen und Datenanalyst\*innen weiterzubilden. In über 30 pro-bono Projekten haben unsere ehrenamtlichen Data Scientists für zivilgesellschaftliche Organisationen Daten erhoben, analysiert und visualisiert.
-
-Wir sind ein Netzwerk, das durch Bildung, Data Volunteering und Dialog die Digitalisierung in der Zivilgesellschaft mitgestaltet.
+CorrelAid ist ein data-for-good Netzwerk mit über 1000 Mitgliedern, die mit ihren Data-Science-Fähigkeiten die Welt verändern wollen. Seit 2015 engagiert sich CorrelAid dafür, das Potenzial von Datenanalyse und Machine Learning für die Zivilgesellschaft zugänglich und nutzbar zu machen und Datenanalyst\*innen weiterzubilden. In über 30 pro-bono Projekten haben unsere ehrenamtlichen Data Scientists für zivilgesellschaftliche Organisationen Daten erhoben, analysiert und visualisiert. Wir sind ein Netzwerk, das durch Bildung, Data Volunteering und Dialog die Digitalisierung in der Zivilgesellschaft mitgestaltet.
 
 Als Teil des neuen, dreiköpfigen, hauptamtlichen Teams arbeitest du im Rahmen unseres Lokalgruppenkonzepts CorrelAidX eng mit dem ehrenamtlichen Core Team und insbesondere mit den Engagierten in unseren Lokalgruppen zusammen. Gemeinsam setzt ihr unsere Vision von data-for-good auf lokaler Ebene um.
 
 ### Was dich erwartet
-- ein neues, hauptamtliches Team, das du zusammen mit [Frie](https://www.linkedin.com/in/frie-preu-a2bb46a7/) und einer dritten, noch zu bestimmenden Person (siehe [Head of Data Literacy Ausschreibung](/jobs/head-of-data-literacy)) mitgestaltest und aufbaust.
+- ein neues, hauptamtliches Team, das du zusammen mit [Frie](https://www.linkedin.com/in/frie-preu-a2bb46a7/) und einer dritten, noch zu bestimmenden Person (siehe [Head of Data Literacy Ausschreibung](/jobs/head-of-data-literacy)) mitgestaltest und aufbaust
 - viel Raum für Ideen, Konzepte und Austausch
-- positive Fehlerkultur: ein Umfeld, in dem neue Ideen schnell und unkompliziert ausprobiert, aber auch verworfen werden können.
+- positive Fehlerkultur: ein Umfeld, in dem neue Ideen schnell und unkompliziert ausprobiert, aber auch verworfen werden können
 - lerne von den über 1000 ehrenamtlichen Data Scientists in unserem Netzwerk
-- arbeite mit einem motivierten ehrenamtlichen Core Team bestehend aus 15-25 Leuten, die CorrelAid mit Leben füllen.
+- arbeite mit einem motivierten ehrenamtlichen Core Team bestehend aus 15-25 Leuten, die CorrelAid mit Leben füllen
 - 80% Stelle
 - 3470 Euro brutto 
 - BVG Ticket (AB) und BahnCard 
@@ -68,7 +66,7 @@ Gleichzeitig koordinierst du das Wissensmanagement rund um CorrelAidX. Du identi
 - Du arbeitest gerne in engem Austausch in einem Team
 - In kritischen Situationen behältst du den Überblick und bist bereit einzuspringen
 - Du bist offen für neue Methoden und Ansätze
-- Du hast einen Data Science Background oder hast Lust, dich mit dem Thema auseinander zu setzen
+- Du hast einen Data-Science-Hintergrund oder hast Lust, dich mit dem Thema auseinander zu setzen
 - Englischkenntnisse, Deutschkenntnisse (mind. C1)
 
 optional
@@ -76,9 +74,9 @@ optional
 - (Programmierfähigkeiten)
 
 ### Bewerbungsprozess
-- bis zum 1.3. Bewerbung per Mail an [frie.p@correlaid.org](mailto:frie.p@correlaid.org)
+- bis zum 24.2. Bewerbung per Mail an [frie.p@correlaid.org](mailto:frie.p@correlaid.org)
     - Motivationsschreiben
     - Lebenslauf
     - wahlweise: Links zu relevanten Profilen/Inhalten (z.B. GitHub/LinkedIn/Xing/Website)
 - Initiale Rückmeldung bis KW 10
-- Eventuelle Reisekosten für Bewerbungsgespräch werden teilweise erstattet
+- Eventuelle Reisekosten für Bewerbungsgespräche werden teilweise erstattet
