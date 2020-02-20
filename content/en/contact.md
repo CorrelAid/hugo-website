@@ -15,28 +15,42 @@ meta:
 # Contacts
 
 {{< person 
-    name="Jan K."
+    name="Konstantin"
     subline="Finance and Donations"
-    img="/images/people/jan-k.jpg"
-    data-email="jan.k@correlaid.org"
-    data-to="Jan K. (Finanzen & Spenden)"
+    img="/images/people/konstantin.jpg"
+    data-email="finanzen@correlaid.org"
+    data-to="Konstantin  (Finances & Donations)"
     link-color="ca-green-text"
     x="0"
 >}}
-Jan, Master student at Copenhagen Business School. Jan joined CorrelAid for data analysis during his bachelor's studies and has been with CorrelAid ever since. At CorrelAid he takes care of all financial matters and can be contacted for donations.
+Konstantin (@kongavras) is a Ph.D. candidate at the Graduate School
+    of Economic and Social Sciences in Political Science and research associate at the Chair of Political Psychology at the University of Mannheim. He has been active at CorrelAid since 2015 and currently takes care of all financial matters, donations etc.
 {{< /person >}}
 
 {{< person 
     name="Johannes"
-    subline="Chairmen"
+    subline="Chairman"
     img="/images/people/johannes.jpg"
     data-email="johannes.m@correlaid.org"
-    data-to="Johannes (Chairmen)"
+    data-to="Johannes (Chairman)"
     link-color="ca-green-text"
     x="0"
 >}}
 Johannes had the idea to found CorrelAid in 2015 and head of the association ever since. 
 He studied "Evidence-based Policymaking" at the University of Oxford and Policy-Analysis at Universität Konstanz. He's especially interested in evaluation methods, using evidence and data for society and politics and social entrepreneurship.
+{{< /person >}}
+
+
+{{< person 
+    name="Frie"
+    subline="Chief Operating Officer"
+    img="/images/people/frie.jpg"
+    data-email="frie.p@correlaid.org"
+    data-to="Frie (COO)"
+    link-color="ca-green-text"
+    x="0"
+>}}
+   Frie has been a part of CorrelAid since the beginnings in 2015. Since February 2020, she has the opportunity to work full-time for CorrelAid. Together with Manuel, she is responsible for the coordination of our data4good projects. In addition, she collaborates with Jasmin on education and knowledge management topics and likes to program internal tooling for CorrelAid. For all this, she can draw from her two-year experience working as an IT consultant during which she was able to learn a lot about working in and implementing techical projects.  
 {{< /person >}}
 
 {{< person 
@@ -49,22 +63,6 @@ He studied "Evidence-based Policymaking" at the University of Oxford and Policy-
     x="0"
 >}}
     Regina studies Survey Statistics at the University of Bamberg. She is interested in evaluation and causal inference and is responsible for the organization of the Local Chapters at CorrelAid.
-{{< /person >}}
-
-
-{{< person 
-    name="Lisa"
-    subline="Projects"
-    img="/images/people/lisa_new.jpeg"
-    data-email="projekte@correlaid.org"
-    data-to="Lisa (Projects)"
-    link-color="ca-green-text"
-    x="0"
->}}
-    After completing her MA in politics and public administration with specializations in management 
-    and quantitative research methods, Lisa worked as a research associate for computational social 
-    science and quantitative data analysis and currently freelances as a data scientist. At CorrelAid, 
-    she is responsible for the project management as well as our PR and media activities.
 {{< /person >}}
 
 

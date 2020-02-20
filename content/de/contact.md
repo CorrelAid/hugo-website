@@ -16,15 +16,19 @@ meta:
 
 
 {{< person 
-    name="Jan K."
+    name="Konstantin"
     subline="Finanzen und Spenden"
-    img="/images/people/jan-k.jpg"
-    data-email="jan.k@correlaid.org"
-    data-to="Jan K. (Finanzen & Spenden)"
+    img="/images/people/konstantin.jpg"
+    data-email="finanzen@correlaid.org"
+    data-to="Konstantin  (Finanzen & Spenden)"
     link-color="ca-green-text"
     x="0"
 >}}
-Jan, Masterstudent an der Copenhagen Business School. Zur Datenanalyse ist Jan während seines Bachelors gestoßen und ist seitdem bei CorrelAid engagiert. Bei CorrelAid kümmert er sich um alle finanziellen Angelegenheiten und kann für Spenden kontaktiert werden. 
+Konstantin (@kongavras) is a Ph.D. candidate at the Graduate School
+    of Economic and Social Sciences in Political Science and research associate at
+    the Chair of Political Psychology at the University of Mannheim.
+Konstantin ist Doktorand in Politikwissenschaft an der Graduate School
+    of Economic and Social Sciences und wissenschaftlicher Mitarbeiter am Lehrstuhl für politische Psychologie an der Universität Mannheim. Bei CorrelAid ist er seit 2015 aktiv. Er kümmert sich derzeit um alle finanziellen Angelegenheiten und kann für Spenden kontaktiert werden. 
 {{< /person >}}
 
 {{< person 
@@ -40,8 +44,20 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
 {{< /person >}}
 
 {{< person 
+    name="Frie"
+    subline="Chief Operating Officer"
+    img="/images/people/frie.jpg"
+    data-email="frie.p@correlaid.org"
+    data-to="Frie (COO)"
+    link-color="ca-green-text"
+    x="0"
+>}}
+   Frie ist seit 2015 bei CorrelAid aktiv und ist seit Februar 2020 hauptamtlich angestellt bei CorrelAid. Sie ist dort - zusammen mit Manuel - verantwortlich für die Koordination der Projekte, kümmert sich mit Jasmin um das Wissensmanagement und programmiert gerne interne Tools.  Bei alldem kann sie aus ihrer zweijährigen Berufserfahrung als IT Consultant schöpfen, während derer sie viel über Projektarbeit und deren technische Umsetzung lernen durfte. 
+{{< /person >}}
+
+{{< person 
     name="Regina"
-    subline="Lokalgruppenkoordinatorin"
+    subline="CorrelAidX - Lokalgruppenkoordinatorin"
     img="/images/people/regina.jpg"
     data-email="regina.s@correlaid.org"
     data-to="Regina (Lokalgruppenkoordinatorin)"
@@ -52,20 +68,6 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
 {{< /person >}}
 
 
-{{< person 
-    name="Lisa"
-    subline="Projekte"
-    img="/images/people/lisa_new.jpeg"
-    data-email="projekte@correlaid.org"
-    data-to="Lisa (Projekte)"
-    link-color="ca-green-text"
-    x="0"
->}}
-   Nach Abschluss ihres Masterstudiums der Politik- und Verwaltungswissenschaften mit den Schwerpunkten Management 
-   und quantitative Forschungsmethoden war Lisa als wissenschaftliche Mitarbeiterin für Computational Social Science
-    und quantitative Datenanalyse tätig und arbeitet derzeit freiberuflich als Data Scientist. Bei CorrelAid ist sie 
-    für das Projektmanagement sowie die PR- und Öffentlichkeitsarbeit zuständig.
-{{< /person >}}
 
 
 {{< person 
