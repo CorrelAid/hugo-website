@@ -139,8 +139,8 @@ Datennutzung.
 mitgenommen habe, war, dass unsere Gesellschaft langsam mehr Interesse
 für dieses Thema zeigt, es jedoch so komplex geworden ist, dass es sehr
 schwer fällt, einen Zugang dazu zu finden. Wir brauchen nicht nur mehr
-DatenanalystInnen, die die effizienten Technologien für soziale
-Organisationen einsetzen, sondern auch DatenanalystInnen, die am
+Datenanalyst\*innen, die die effizienten Technologien für soziale
+Organisationen einsetzen, sondern auch Datenanalyst\*innen, die am
 Aufklärungsprozess für die Zivilbevölkerung mithelfen.*
 
 ------------------------------------------------------------------------

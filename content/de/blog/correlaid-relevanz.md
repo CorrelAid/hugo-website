@@ -19,7 +19,7 @@ meta:
   description: "Als ich im März 2015 auf die Idee kam, CorrelAid als Initiative zu
                 starten, fing alles mit einer Mail mit dem Betreff „Data for Good“ an,
                 die ich über verschiedene Verteiler schickte mit dem Ziel,
-                MitstreiterInnen zu finden. Damals hatte ich noch keine Ahnung, ob sich
+                Mitstreiter*innen zu finden. Damals hatte ich noch keine Ahnung, ob sich
                 überhaupt jemand dafür begeistern ließe oder wie sich das Ganze
                 entwickeln würde. Jetzt ein halbes Jahr später blicke ich zurück und
                 finde unzählige Gründe, warum es sich gelohnt hat, diese Mail zu
@@ -32,7 +32,7 @@ meta:
 Als ich im März 2015 auf die Idee kam, CorrelAid als Initiative zu
 starten, fing alles mit einer Mail mit dem Betreff „Data for Good“ an,
 die ich über verschiedene Verteiler schickte mit dem Ziel,
-MitstreiterInnen zu finden. Damals hatte ich noch keine Ahnung, ob sich
+Mitstreiter\*innen zu finden. Damals hatte ich noch keine Ahnung, ob sich
 überhaupt jemand dafür begeistern ließe oder wie sich das Ganze
 entwickeln würde. Jetzt ein halbes Jahr später blicke ich zurück und
 finde unzählige Gründe, warum es sich gelohnt hat, diese Mail zu
@@ -49,12 +49,12 @@ gekommen sind; wir werden oft gefragt „und ihr habt euch wirklich erst
 Anfang diesen Jahres gegründet?“. Die Gründung eines Vereins, die
 Aufstellung einer weitreichenden Projektinfrastruktur, die erfolgreiche
 Durchführung des Pilotprojekts, der Aufbau eines Netzwerks von
-DatenanalystInnen und das Zusammenfinden einer schon 30 köpfigen
+Datenanalyst\*innen und das Zusammenfinden einer schon 30 köpfigen
 Community mit Mitgliedern aus ganz Deutschland. Die kürzlich gewonnene
 Förderung durch die Telefonica Stiftung wird es uns jetzt ermöglichen,
 CorrelAid auf einem neuen Level weiterzuentwickeln. Die nächsten
 Schritte sind auch schon geplant: Mit Lokalgruppen in ganz Deutschland
-wollen wir die Vernetzung junger DatenanalystInnen in Deutschland
+wollen wir die Vernetzung junger Datenanalyst\*innen in Deutschland
 vorantreiben. Auch bei der Projektarbeit werden wir in den kommenden
 Monaten Neuigkeiten präsentieren. Man darf also gespannt sein!
 

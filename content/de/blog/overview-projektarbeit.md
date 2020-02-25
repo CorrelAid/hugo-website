@@ -39,12 +39,12 @@ Kick-Off-Veranstaltung im Oktober in Berlin vorgestellt. Unser erster
 Auftraggeber war der Pfadfinder- und Pfadfinderinnenbund Nord aus
 Hamburg. Dieser besteht aus 15 sogenannten Stämmen und hat momentan rund
 1000 Mitglieder. Der Pfadfinder- und Pfadfinderinnenbund Nord hat 2009
-und 2014 Mitgliederbefragungen mit jeweils über 500 TeilnehmerInnen
+und 2014 Mitgliederbefragungen mit jeweils über 500 Teilnehmer\*innen
 durchgeführt. Diese Umfragen haben wir für unseren Auftraggeber
 ausgewertet. Unser fünfköpfiges Projektteam aus fünf verschiedenen
 Städten in Deutschland und der Schweiz hat dabei ausschließlich online
 zusammengearbeitet. Das Team hat die Daten deskriptiv aufbereitet, um
-den PfadfinderInnen einen besseren Überblick über ihre stark gewachsene
+den Pfadfinder\*innen einen besseren Überblick über ihre stark gewachsene
 Mitgliederschaft zu verschaffen. Außerdem hat das Team die Daten des
 Pfadfinderbunds mit Daten aus anderen Jugendstudien verglichen, um
 herauszufinden, ob die Mitgliedschaft der Pfadfinder repräsentativ für
@@ -64,21 +64,21 @@ und gesellschaftliche Ausgrenzung zu bekämpfen. Gemeinsamen mit der
 Organisation haben wir drei Workshops zu den Themen Interne
 Datenverarbeitung, Netzwerk- und Kampagnenarbeit in ihren Räumlichkeiten
 in einer Fabriketage in Berlin-Moabit durchgeführt. An den Workshops
-nahmen neun ExpertInnen aus dem Netzwerk von streetfootballworld teil.
-Gemeinsam mit streetfootballworld haben unsere ExpertInnen Ideen
+nahmen neun Expert\*innen aus dem Netzwerk von streetfootballworld teil.
+Gemeinsam mit streetfootballworld haben unsere Expert\*innen Ideen
 entwickelt, wie die Prozesse der Datenerhebung und -verabeitung
 verbessert werden können und wie strettfootballworld Daten für interne
 Abläufe und Öffentlichkeitsarbeit nutzen kann.
 
 Ashoka ist eine Organisation, die weltweit mit verschiedenen
-Förderprogrammen GründerInnen von neuen sozialen Organisationen,
+Förderprogrammen Gründer\*innen von neuen sozialen Organisationen,
 Unternehmen und Bewegungen fördert. Unser zweiköpfiges Projektteam hat
-Ashoka Deutschland einen systematischen Überblick über die BewerberInnen
+Ashoka Deutschland einen systematischen Überblick über die Bewerber\*innen
 für eines ihrer Stipendienprogramme verschafft. Nachdem es die Daten
 erst mal aufbereitet hatte, analysierte das Projektteam wie das
 Bewerberfeld demographisch strukturiert ist. Im Zentrum des Projekts
-stand die Frage, wodurch sich erfolgreiche BewerberInnen auszeichnen.
-Dabei nahm das Projektteam nicht nur die Merkmale der BewerberInnen in
+stand die Frage, wodurch sich erfolgreiche Bewerber\*innen auszeichnen.
+Dabei nahm das Projektteam nicht nur die Merkmale der Bewerber\*innen in
 den Blick, sondern untersuchte auch textanalytisch die
 Projektbeschreibungen. Außerdem machte das Projektteam Empfehlungen für
 die Weiterentwicklung des Bewerbungsformulars.

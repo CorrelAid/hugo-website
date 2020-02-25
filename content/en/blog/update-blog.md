@@ -55,11 +55,11 @@ Dank ihrer Beiträge seid ihr über aktuelle Trends und Ereignisse immer
 umfassend informiert und sichert euch bei jedem Tippspiel zur
 Bundestagswahl den Hauptgewinn.
 
-### Interviews mit ExpertInnen aus Forschung, Wirtschaft und Medien
+### Interviews mit Expert\*innen aus Forschung, Wirtschaft und Medien
 
 In den kommenden Monaten werden euch u.a. unsere
 CorrelAid-Beiratsmitglieder Simon Munzert, Anita Gohdes und Nadine
-Meidert die Frage beantworten, welchen Stellenwert DatenanalystInnen in
+Meidert die Frage beantworten, welchen Stellenwert Datenanalyst\*innen in
 ihrem Berufsfeld einnehmen und euch Tipps geben, welchen Social
 Media-Kanälen ihr unbedingt folgen solltet, um fachlich auf dem
 Laufenden zu bleiben.
@@ -80,7 +80,7 @@ agentenbasierter Modellierung und maschinellem Lernen.
 ### Lesenswertes aus der Data Science-Welt
 
 Marcus stellt für euch jeden Monat die interessantesten Blogbeiträge von
-anderen DatenanalystInnen zusammen. Inhaltlich unübertroffen bleibt
+anderen Datenanalyst\*innen zusammen. Inhaltlich unübertroffen bleibt
 natürlich unser CorrelAid-Blog, doch auch der Blick über den
 statistischen Tellerrand lohnt sich sehr! ;-)
 

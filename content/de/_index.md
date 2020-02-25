@@ -6,7 +6,7 @@ menu: "main"
 translationKey: "home"
 meta:
     title: "CorrelAid"
-    description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 650 ehrenamtlichen DatenanalystInnen."
+    description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 1400 ehrenamtlichen Datenanalyst*innen."
     image: "509-correlaid-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
@@ -30,7 +30,7 @@ meta:
 >}}
     Wir schulen engagierte Data Scientists in Datenschutz, Projektmanagement und der Kommunikation mit
     Non-Profits. Wir sind eine Weiterbildungs- und Vernetzungsplattform für die sozial-denkenden
-    DatenanalystInnen von morgen.
+    Datenanalyst\*innen von morgen.
 {{< /feature >}}
 
 {{< feature 

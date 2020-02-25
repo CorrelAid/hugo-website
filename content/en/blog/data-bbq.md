@@ -33,7 +33,7 @@ Die freie und nicht kommerzielle Plattform openPetition.de fördert die
 politische Partizipation und die digitale Demokratie: Bürgerinnen und
 Bürger können auf der Plattform ihre Petition veröffentlichen,
 Unterschriften sammeln, sich mit Unterstützern vernetzen und einen
-Dialog mit gewählten VertreterInnen anstoßen. Im Jahr 2016
+Dialog mit gewählten Vertreter\*innen anstoßen. Im Jahr 2016
 unterzeichnete mehr als 3 Millionen Menschen eine Petition: 170
 Petitionen waren in diesem Jahr erfolgreich. Insgesamt stellt
 openpetition.de Daten über 10 000 Petition und mehrere Millionen
@@ -41,9 +41,9 @@ Unterschriften zur Verfügung. OpenPetition.de stellt seine Daten
 anonymisiert und unter einer Creative Commons Lizenz zur Verfügung.
 
 In mehreren spontan gebildeten Teams entwickelten die über 60
-TeilnehmerInnen vielfältige Ideen und Analysen. Dabei kamen die
+Teilnehmer\*innen vielfältige Ideen und Analysen. Dabei kamen die
 verschiedensten Hintergründe und Skill-Sets zusammen. Ein Team
-entwickelte ein Recommender-System, das BesucherInnen der Website
+entwickelte ein Recommender-System, das Besucher\*innen der Website
 weitere potentiell relevante Petitionen zur Unterschrift vorschlagen
 kann. Ein anderes Team stellte dar, dass die Website auch eine Art
 Barometer für gesamtgesellschaftliche Themenkonjunkturen darstellen

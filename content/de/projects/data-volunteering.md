@@ -8,14 +8,14 @@ menu:
         weight: 2
 meta:
     title: "CorrelAid - Datenberatung"
-    description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 650 ehrenamtlichen Datenanalyst*innen."
+    description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 1400 ehrenamtlichen Datenanalyst*innen."
     image: "509-correlaid-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
 # Data Volunteering
 
-In unseren Volunteering-Angebot vermitteln wir ein Team von ehrenamtlichen Datenanalysten und Datenanalystinnen aus unserem Netzwerk an gemeinnützige Organisationen. Zusammen helfen wir der Organisation zum Beispiel ihre Daten zu nutzen um Prozesse effizienter zu gestalten, die Zielgruppe besser kennenzulernen oder Ressourcen besser zu verteilen. Ein Projekt dauert etwa 2 bis 4 Monate.
+In unseren Volunteering-Angebot vermitteln wir ein Team von ehrenamtlichen Datenanalysten und Datenanalyst\*innen aus unserem Netzwerk an gemeinnützige Organisationen. Zusammen helfen wir der Organisation zum Beispiel ihre Daten zu nutzen um Prozesse effizienter zu gestalten, die Zielgruppe besser kennenzulernen oder Ressourcen besser zu verteilen. Ein Projekt dauert etwa 2 bis 4 Monate.
 
 In unseren Projekten ist uns wichtig, dass wir diverse Teams zusammenstellen: Auf der einen Seite bringen wir so alle benötigten Skills zusammen und auf der anderen Seite wird es so eine wertvolle Lernerfahrung für alle Beteiligten.
 

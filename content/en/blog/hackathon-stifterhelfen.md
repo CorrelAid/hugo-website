@@ -10,7 +10,7 @@ categories:
 author: 
     name:           "CorrelAid"
     image:          "correlaid.jpg"
-    description:    "CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 650 ehrenamtlichen DatenanalystInnen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für DatenanalystInnen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten."
+    description:    "CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 1400 ehrenamtlichen Datenanalyst*innen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für Datenanalyst*innen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten."
     twitter:        "https://twitter.com/correlaid"
     facebook:       "https://facebook.com/WeAreCorrelAid"
     github:         "https://github.com/correlaid"
@@ -21,8 +21,8 @@ meta:
     description: "Das Potential von Datenanalyse demokratisieren. Wir haben uns Anfang des
                   Jahres gefragt, wie wir auf dieser Mission auch Unternehmen einbeziehen
                   können. Letzten Monat haben wir deshalb ein neues Format getestet: Wir
-                  veranstalten einen Hackathon mit engagierten AnalystInnen aus unserem
-                  Netzwerk und MitarbeiterInnen aus Data-Science-Abteilungen von
+                  veranstalten einen Hackathon mit engagierten Analyst*innen aus unserem
+                  Netzwerk und Mitarbeiter*innen aus Data-Science-Abteilungen von
                   Unternehmen."
     image: "509-hackathon-stifter.jpg"
     keywords: "CorrelAid, Data4Good, Hackathon, München, PwC, PricewaterhouseCoopers, Stifter-helfen, VueJS, Dashboard, Python"
@@ -32,8 +32,8 @@ meta:
 Das Potential von Datenanalyse demokratisieren. Wir haben uns Anfang des
 Jahres gefragt, wie wir auf dieser Mission auch Unternehmen einbeziehen
 können. Letzten Monat haben wir deshalb ein neues Format getestet: Wir
-veranstalten einen Hackathon mit engagierten AnalystInnen aus unserem
-Netzwerk und MitarbeiterInnen aus Data-Science-Abteilungen von
+veranstalten einen Hackathon mit engagierten Analyst\*innen aus unserem
+Netzwerk und Mitarbeiter\*innen aus Data-Science-Abteilungen von
 Unternehmen.
 
 Zusammen arbeiten wir mehrere Tage intensiv an Problemstellungen von

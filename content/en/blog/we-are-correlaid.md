@@ -35,7 +35,7 @@ beschäftigen. Dabei hatten die meisten von uns bisher nur eine sehr vage
 Vorstellung, was sie erwartete. Data Science for Social Good –
 Datenanalyse für einen guten Zweck – hörte sich erst mal gut an. Alle
 Anwesenden waren jedoch auf ihre Art von der Initiative überzeugt und
-auch die bereits erreichte Zahl von über 200 DatenanalystInnen im neuen
+auch die bereits erreichte Zahl von über 200 Datenanalyst\*innen im neuen
 Netzwerk zeugt von einem starken Interesse an dem Thema. Einige hatten
 sich bereits am vorigen Abend getroffen, die meisten hatten sich aber
 noch nie gesehen und selbst Teile des Organisationsteams kannten sich
@@ -44,7 +44,7 @@ Vernetzungstreffens, eine Vorstellungsrunde.
 
 Was will man zu einer Vereinsgründung viel schreiben. Trockene
 Besprechung der Satzung, Wahl des Vorstands, alles schon Routine und
-DatenanalystInnen sind ja ohnehin immer total korrekt. Also waren alle
+Datenanalyst\*innen sind ja ohnehin immer total korrekt. Also waren alle
 um Punkt 20:00 Uhr glücklich, packten ihre Sachen und freuten sich auf
 den zweiten Tag.
 
@@ -54,7 +54,7 @@ die Gruppe sich schnell einfand. Nachdem Johannes die bisherige
 Geschichte des Vereins und seine eigene Intention geschildert hatte,
 träumten wir gemeinsam von einer Welt, in der CorrelAid überflüssig
 wäre. In der Diskussion wurde der gemeinsame Wertekanon klar. Eine
-Zusammenarbeit auf Augenhöhe mit den ProjektpartnerInnen, Open Data und
+Zusammenarbeit auf Augenhöhe mit den Projektpartner\*innen, Open Data und
 eine datenmündige Gesellschaft waren Schlüsselwörter. In den Nuancen
 zeigte sich aber auch die Diversität der Mitglieder, denn alle Elemente
 in einem einzigen Satz zu vereinen, erwies sich als schwierige Aufgabe.
@@ -142,7 +142,7 @@ Berlin ist ja fast wie Las Vegas. Was dort passiert, bleibt auch dort.
 
 Montagabend fand dann die öffentliche Vorstellung von CorrelAid statt.
 Wir durften im Berliner BaseCamp zu Gast sein und hatten uns neben der
-eigenen Vorstellung zwei Keynote-SprecherInnen eingeladen. Benjamin
+eigenen Vorstellung zwei Keynote-Sprecher\*innen eingeladen. Benjamin
 Seibel von der Technologiestiftung Berlin sprach über "Data Driven
 Innovation" und über das Verhältnis von Zivilgesellschaft und
 Digitalisierung. Er mahnte die Datenanalysten im Publikum aber auch,

@@ -146,7 +146,7 @@ Für die Grünen sieht es weniger gut aus. Die Grünen sind in nur 6 von
 100 Simulationen drittstärkste Kraft und schneiden in 68 von 100
 Simulationen schlechter ab als 2013, damals erreichten die Grünen 8,4%.
 Die Grünen könnten am Wahlabend trotzdem Gewinner werden – als
-KanzlerInnen-Macher. Angenommen die SPD will als Juniorpartnerin nicht
+Kanzler\*innen-Macher. Angenommen die SPD will als Juniorpartnerin nicht
 mehr in eine große Koalition und keine Partei will mit der AfD
 koalieren, dann gibt es eine Regierungsbildung in 63 von 100
 Simulationen nur mit den Grünen – wir schätzen das als eher

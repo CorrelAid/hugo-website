@@ -64,7 +64,7 @@ so bessere Behandlungsmethoden ermöglichen. In den USA konnten die
 Behörden aufgrund von Twitter-Daten Grippewellen vorhersagen und
 rechtzeitig Medikamente auf die betroffenen Gebiete verteilen. Open
 Data, also frei zugängliche Daten von zum Beispiel lokalen Behörden,
-werden von findigen DatenanalystInnen genutzt, um das Zusammenleben in
+werden von findigen Datenanalyst\*innen genutzt, um das Zusammenleben in
 ihren Communities zu verbessern und ermöglichen so zum Beispiel mehr
 Partizipation in der lokalen Politik. Datenvisualisierung kann auch den
 Journalismus bereichern, indem sie Zusammenhänge sichtbar macht, die

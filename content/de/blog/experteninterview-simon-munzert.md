@@ -25,7 +25,7 @@ meta:
 ---
 
 
-**Bitte stell dich unseren BlogleserInnen kurz vor: Wer bist du und was
+**Bitte stell dich unseren Blogleser\*innen kurz vor: Wer bist du und was
 muss man über dich wissen?**
 
 Mein Name ist Simon Munzert, ich bin Politikwissenschaftler und arbeite
@@ -44,7 +44,7 @@ ich dem Netzwerk als Mitglied im Beirat über die letzten Jahre bei dem
 Erreichen von vielen Meilensteinen zusehen.
 
 **Das Ziel von CorrelAid ist es, junge und sozial engagierte
-DatenanalystInnen deutschlandweit zu vernetzen und
+Datenanalyst\*innen deutschlandweit zu vernetzen und
 Non-Profit-Organisationen bei der Datenanalyse zu unterstützen. Wo
 siehst du in deinem Berufsfeld mögliche Potenziale - und etwaige
 Synergieeffekte - dieser aufkommenden Data for Good-Bewegung, um einen
@@ -89,7 +89,7 @@ findet.
 
 **Das Management-Magazin Harvard Business Review bezeichnete den Beruf
 des Data Scientist bereits 2012 als "sexiest job in the 21st century".
-Welchen Stellenwert nehmen DatenanalystInnen heutzutage in deinem
+Welchen Stellenwert nehmen Datenanalyst\*innen heutzutage in deinem
 Berufsfeld ein und wie sieht deine Prognose für die Zukunft aus?**
 
 Der Begriff Data Scientist wird natürlich extrem überstrapaziert, und es

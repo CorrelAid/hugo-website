@@ -30,7 +30,7 @@ laden wir vom 17.-19. November zum meet up nach Hamburg. Hierbei widmen
 wir uns unter anderem der Frage, wie Datenanalyse im non-profit-Bereich
 genutzt werden kann. Soziale Organisationen präsentieren ihre
 Wirkungsstrategien und Herausforderungen, woraufhin die
-DatenanalystInnen in einem moderierten Brainstorming die Formate
+Datenanalyst\*innen in einem moderierten Brainstorming die Formate
 identifizieren, die am besten auf das Problem und die Organisation
 zugeschnitten sind.
 
@@ -50,7 +50,7 @@ einem Ohr den Stimmen zivilgesellschaftlicher Akteure zuzuhören. Das
 über die Einbindung von Fragestellungen aus Politik, Verwaltung,
 Zivilgesellschaft und Wirtschaft in den Alltag von Lehrenden und
 Studierenden. Wie? Indem innerhalb von Kooperationsprojekten Studierende
-sowie ForscherInnen aktiv, kreativ und methodisch fundiert für und mit
+sowie Forscher\*innen aktiv, kreativ und methodisch fundiert für und mit
 den Projektpartnern eine bedarfsgerechte Forschung planen und
 durchführen. Maßgeschneidert, organisiert und koordiniert vom
 *Projektbüro Angewandte Sozialforschung*.
@@ -70,9 +70,9 @@ Stellen in der Praxis profitieren. Zum Beispiel, wenn es um die
 Betrachtung von Zielgruppen, um Bedarfsanalysen oder Prozesse und
 Strukturen geht. Ein lebhafter Austausch zwischen gesellschaftlichen
 Akteuren und dem Projektbüro trägt die relevanten Fragen an
-wissbegierige Studierende und praxisbegeisterte ForscherInnen heran.
+wissbegierige Studierende und praxisbegeisterte Forscher\*innen heran.
 Innerhalb von Kooperationsprojekten erproben und vertiefen Studierende
-ihre empirischen Kenntnisse, ForscherInnen erweitern ihre Kompetenzen
+ihre empirischen Kenntnisse, Forscher\*innen erweitern ihre Kompetenzen
 und die Kooperationspartner gewinnen relevantes Wissen. So wird die
 Qualität der Lehre unmittelbar gesteigert und Akteure erhalten einen
 kompetenten Ansprechpartner – eine Dynamik voller Synergie.
@@ -86,7 +86,7 @@ sind und auf welchem Weg sich Antworten finden lassen. In enger
 Abstimmung mit dem Kooperationspartner entwickelt das Projektbüro
 anschließend ein Forschungsdesign und kalkuliert ein entsprechendes
 Budget. Gezielt und eigens für das jeweilige Projekt stellt das
-Projektbüro ein Forschungsteam aus erfahrenen WissenschaftlerInnen sowie
+Projektbüro ein Forschungsteam aus erfahrenen Wissenschaftler\*innen sowie
 Studierenden zusammen. Die gewonnenen Erkenntnisse werden schließlich
 gebündelt und je nach Bedarf in einer für den Kooperationspartner
 geeigneten Form (z.B. Ergebnisbericht, Tabellenband, Präsentation, etc.)
@@ -102,7 +102,7 @@ insbesondere in das der Methoden der empirischen Sozialforschung,
 eingebettet. Dabei nehmen sich Studierende des Anliegens des
 Kooperationspartners an, entwickeln passende Erhebungsinstrumente,
 führen die Erhebungen selbst durch und werten die Daten aus. Sie werden
-während der Projekte von Dozierenden und TutorInnen angeleitet und
+während der Projekte von Dozierenden und Tutor\*innen angeleitet und
 betreut. Die Studierenden erhalten neben den Praxiskompetenzen und
 -erfahrungen Credit Points für die erbrachte Leistung. Die Möglichkeit
 der Projektmitarbeit kann im Rahmen von Seminaren, Forschungspraktika

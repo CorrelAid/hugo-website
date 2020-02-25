@@ -9,7 +9,7 @@ categories:
 author: 
     name:           "CorrelAid"
     image:          "correlaid.jpg"
-    description:    "CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 650 ehrenamtlichen DatenanalystInnen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für DatenanalystInnen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten."
+    description:    "CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 1400 ehrenamtlichen Datenanalyst*innen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für Datenanalyst*innen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten."
     twitter:        "https://twitter.com/correlaid"
     facebook:       "https://facebook.com/WeAreCorrelAid"
     github:         "https://github.com/correlaid"
@@ -32,12 +32,12 @@ Zivilgesellschaft von diesem Potential Gebrauch machen sollte. Wir
 möchten mit Datenanalyse Gutes tun.
 
 Das war der Grund warum wir mit CorrelAid ein Netzwerk von
-Datenanalysten und Datenanalystinnen in Deutschland gegründet haben.
+Datenanalysten und Datenanalyst\*innen in Deutschland gegründet haben.
 Zusammen beraten wir Non-Profit-Organisationen in Deutschland bei
 Datenfragen und helfen ihnen so ihren Impact zu skalieren. Ein
 Data-for-Good-Netzwerk in Deutschland kann aber noch viel mehr. Das hat
 mal wieder unser Meet-Up-Wochenende in Bonn vergangene Woche gezeigt.
-Circa 30 engagierte DatenanalystInnen aus ganz Deutschland kamen vom 25.
+Circa 30 engagierte Datenanalyst\*innen aus ganz Deutschland kamen vom 25.
 Bis zum 27. 11 im BonnLab zusammen. Das haben wir mitgenommen:
 
 ### Es geht um die Leute

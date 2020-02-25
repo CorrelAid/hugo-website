@@ -8,7 +8,7 @@ categories:
 author: 
     name:           "CorrelAid"
     image:          "correlaid.jpg"
-    description:    "CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 650 ehrenamtlichen DatenanalystInnen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für DatenanalystInnen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten."
+    description:    "CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 1400 ehrenamtlichen Datenanalyst*innen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für Datenanalyst*innen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten."
     twitter:        "https://twitter.com/correlaid"
     facebook:       "https://facebook.com/WeAreCorrelAid"
     github:         "https://github.com/correlaid"
@@ -16,7 +16,7 @@ author:
     website:        "https://correlaid.org"
 meta:
     title: "CorrelAid - Newsletter 2016"
-    description: "Liebe Daten-EnthusiastInnen,\
+    description: "Liebe Daten-Enthusiast*innen,\
                   \
                   wir präsentieren: den neuen CorrelAid Newsletter! Wir hoffen, ihr habt
                   viel Spaß mit unserer aufgehübschten Version. Dieses Mal dreht sich
@@ -27,7 +27,7 @@ meta:
 ---
 
 
-Liebe Daten-EnthusiastInnen,\
+Liebe Daten-Enthusiast\*innen,\
 \
 wir präsentieren: den neuen CorrelAid Newsletter! Wir hoffen, ihr habt
 viel Spaß mit unserer aufgehübschten Version. Dieses Mal dreht sich
@@ -53,7 +53,7 @@ Nachdem wir das letzte Jahr zu großen Teilen unserer Projektarbeit
 gewidmet haben, und diese ins Rollen gebracht haben (siehe Projekte),
 soll im kommenden Jahr vor allem die CorrelAid Community im Mittelpunkt
 stehen – also Ihr! Auf unserer Mailing-Liste finden sich mittlerweile
-fast 300 DatenanaylstInnen aus ganz Deutschland und darüber hinaus mit
+fast 300 Datenanaylst\*innen aus ganz Deutschland und darüber hinaus mit
 teilweise sehr diversen Background. So bietet unser Netzwerk jetzt schon
 ein riesiges Potential! Und genau an dieser Stelle wollen wir ansetzen,
 um euch besser zu vernetzen, weitere Daten-Begeisterte anzuziehen und in
@@ -110,7 +110,7 @@ Beendet wurde der Workshop am Dienstagabend mit der Ermunterung die
 großartigen Möglichkeiten, die der Fachbereich Politik- und
 Verwaltungswissenschaften hinsichtlich Methoden und Statistik bietet, zu
 nutzen. Datenanalyse-Skills sind insbesondere für
-SozialwissenschaftlerInnen eine große Chance; und das nicht nur im
+Sozialwissenschaftler\*innen eine große Chance; und das nicht nur im
 Studium.
 
 ### Pläne für 2016
@@ -135,7 +135,7 @@ Konstanz, Berlin, Bremen. Was erhoffen wir uns davon? In einem CorrelAid
 Chapter können lokal Workshops und Informationsveranstaltungen angeboten
 werden. Chapter können eigenständig Hackathons mit lokalen
 Organisationen durchführen und langfristig auch eigene Projekte
-anstoßen. Dadurch können wir mehr DatenanalystInnen einbinden, das
+anstoßen. Dadurch können wir mehr Datenanalyst\*innen einbinden, das
 Commitment steigern, die Projektarbeit skalieren und CorrelAid noch
 bekannter machen. Der CorrelAid Vorstand und das CorrelAid-Deutschland
 Team fungieren dabei als zentrale Anlaufstelle für die Chapter, stellt
@@ -153,7 +153,7 @@ correlaid.org](mailto:johannes.m@correlaid.org)) freuen!
 
 Weiterhin wollen wir verstärkt einen Fokus auf die Förderung von Frauen
 in unserem Netzwerk legen. Hier wollen wir zum einen Workshops für
-Datenanalystinnen anbieten und zum anderen in unserer Projektarbeit mit
+Datenanalyst\*innen anbieten und zum anderen in unserer Projektarbeit mit
 neuen Konzepten Aufmerksamkeit für das Thema generieren.
 
 #### Professionalisierung
@@ -221,7 +221,7 @@ Zum Thema Frauenförderung diskutierte der Vorstand Möglichkeiten, um den
 Gender-Gap im technologischen Bereich zu reduzieren. Mit CorrelAid
 wollen wir das Interesse an Daten generell und vor allem für Frauen
 fördern, zur Debatte stehen Projekte im Gender-Bereich, Projekte für
-DatenanalystInnen und Workshops für DatenanalystInnen. Jedoch soll mit
+Datenanalyst\*innen und Workshops für Datenanalyst\*innen. Jedoch soll mit
 Hilfe eines Fragebogens zunächst das generelle Interesse an solchen
 Angeboten unter den weiblichen Mitgliedern unseres Netzwerkes evaluiert
 werden. Abschließend wurde das Thema Dezentralisierung aufgegriffen und
@@ -270,7 +270,7 @@ EXIST-Bewerbung hinaus unterstützen.
 Erst vor kurzem ging unsere Ausschreibung für BreakOut zu Ende. Diese
 Organisation hat ebenso wie wir die Think Big Pro Förderung gewonnen.
 Bei BreakOut (http://break-out.org/) werden 2016 zum 3. Mal
-TeilnehmerInnen in Zweierteams dazu aufgefordert, sich ab Startschuss
+Teilnehmer\*innen in Zweierteams dazu aufgefordert, sich ab Startschuss
 des Events binnen 36 Stunden so weit wie möglich vom Startort (bisher:
 München, ab 2016 auch Berlin) zu entfernen. Dabei gilt es, für das
 Reisen kein Geld auszugeben. Im Vorfeld akquirieren die einzelnen Teams
@@ -284,7 +284,7 @@ Schoenhense wird BreakOut beim Umbau ihrer Website beraten. Benedikt ist
 Doktorand im Imperial College in London und forscht zu Neuroscience und
 Machine Learning.
 
-Die Vermittlung einzelner AnalystInnen in beratender Funktion hat sich
+Die Vermittlung einzelner Analyst\*innen in beratender Funktion hat sich
 relativ spontan ergeben. Sie ist aber ein probates Mittel, um möglichst
 viele Organisationen möglichst wirkungsvoll im Rahmen unserer Ressourcen
 zu unterstützen. Jedoch erhalten wir auf Ausschreibungen für einzelne
@@ -309,7 +309,7 @@ Sonntag haben wir mehrere Gigabyte Daten bearbeitet, analysiert,
 visualisert und die Ergebnisse am Nachmittag einem Vertreter von
 openpetition.de vorgestellt. Daraus enstand unser nun laufendes Projekt.
 Ein fünfköpfiges Team wird nun für openpetition.de eine
-PetentInnenbefragung konzipieren und durchführen. Dazu trifft sich das
+Petent\*innenbefragung konzipieren und durchführen. Dazu trifft sich das
 Projektteam dieses Wochenende mit openpetition.de in Berlin. Das
 Projektteam sind Stephan, Lena, Regina, Rieke und Younes. Stefan Haußner
 ist unser Projektleiter und studiert im Master Survey Methodology an der
@@ -330,13 +330,13 @@ engagiert sich in Oxford in mehreren Student Societies.
 #### Analysen für Ashoka
 
 Ashoka ist eine Organisation die sich auf die Förderung sozialen
-UnternehmerInnentuns spezialisiert hat. Mit ihrem "Programm Engagement
+Unternehmer\*innentuns spezialisiert hat. Mit ihrem "Programm Engagement
 mit Perspektive" (PEP) hat Ashoka schon mehr als 600 engagierte Menschen
 zwischen 16 und 27 Jahren aus über 300 Projekten gefördert. Für Ashoka
-werden wir Auswertung ihrer BewerberInnendaten – natürlich anonymisiert
-– übernehmen. Momentan beschäftigt sich ein Team aus zwei AnalystInnen
+werden wir Auswertung ihrer Bewerber\*innendaten – natürlich anonymisiert
+– übernehmen. Momentan beschäftigt sich ein Team aus zwei Analyst\*innen
 mit der Aufbereitung der Daten und bereitet einen Workshop mit den
-AuftraggeberInnen vor. Unser Team sind Stephan Paetz und Franziska Quoß.
+Auftraggeber\*innen vor. Unser Team sind Stephan Paetz und Franziska Quoß.
 Stephan ist studierter Sozialwissenschaftler und arbeitet nun bei
 evalag, der Evaluationsagentur Baden-Württemberg in Mannheim. Franziska
 studiert Politics, Administration & International Relations an der
