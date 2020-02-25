@@ -11,7 +11,7 @@ categories:
 author: 
     name:           "CorrelAid"
     image:          "correlaid.jpg"
-    description:    "CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 650 ehrenamtlichen Datenanalyst\*innen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für Datenanalyst\*innen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten."
+    description:    "CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 1400 ehrenamtlichen Datenanalyst*innen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für Datenanalyst*innen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten."
     twitter:        "https://twitter.com/correlaid"
     facebook:       "https://facebook.com/WeAreCorrelAid"
     github:         "https://github.com/correlaid"
@@ -19,7 +19,7 @@ author:
     website:        "https://correlaid.org"
 meta:
     title:          "CorrelAid - Datendialog 'Migration und Flüchtlinge'"
-    description:    "Im Oktober fand unser Datendialog zum Thema 'Migration und Flüchtlinge' in Berlin statt. In Kooperation mit dem Verein 'Minor – Projektkontor' wurden sechs gemeinnützige Organisationen dazu eingeladen, zusammen mit interessierten Datenanalyst\*innen von CorrelAid gemeinsam über ihre Projektarbeit im Bereich der Migrations- und Flüchtlingsarbeit zu sprechen und Lösungen für spezifische Herausforderungen in Bezug auf Datenmanagement und Datenanalyse herauszuarbeiten."
+    description:    "Im Oktober fand unser Datendialog zum Thema 'Migration und Flüchtlinge' in Berlin statt. In Kooperation mit dem Verein 'Minor – Projektkontor' wurden sechs gemeinnützige Organisationen dazu eingeladen, zusammen mit interessierten Datenanalyst*innen von CorrelAid gemeinsam über ihre Projektarbeit im Bereich der Migrations- und Flüchtlingsarbeit zu sprechen und Lösungen für spezifische Herausforderungen in Bezug auf Datenmanagement und Datenanalyse herauszuarbeiten."
     image:          "509-datendialog-migration.jpg"
     keywords:       "CorrelAid, Data4Good, Datendialog, Berlin"
 ---

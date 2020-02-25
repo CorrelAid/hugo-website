@@ -17,7 +17,7 @@ author:
 meta:
     title: "CorrelAid - Zwei Jahre CorrelAid."
     description: "Heute vor zwei Jahren ist aus der Idee, ein Netzwerk von
-                  Datenanalyst\*innen und -analysten zu schaffen, die mit ihren Skills Gutes
+                  Datenanalyst*innen zu schaffen, die mit ihren Skills Gutes
                   tun, der Verein CorrelAid e.V. entstanden."
     image: "509-happy-birthday-2017.jpg"
     keywords: "CorrelAid, Data4Good, Happy Birthday, 2 Jahre, Zwei Jahre"
@@ -28,7 +28,7 @@ Zwei Jahre CorrelAid. Drei Highlights aus dem letzten Jahr und ein Blick nach vo
 ===================================================================================
 
 Heute vor zwei Jahren ist aus der Idee, ein Netzwerk von
-Datenanalyst\*innen und -analysten zu schaffen, die mit ihren Skills Gutes
+Datenanalyst\*innen zu schaffen, die mit ihren Skills Gutes
 tun, der Verein CorrelAid e.V. entstanden. Ich möchte an dieser Stelle
 die letzten 12 Monate Revue passieren lassen und meine persönlichen
 Highlights hervorheben. Ich möchte die Gelegenheit aber auch nutzen, um
