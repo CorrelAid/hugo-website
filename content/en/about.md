@@ -16,7 +16,7 @@ meta:
 
 # About
 
-In 2015, CorrelAid has officially been registered as a non-profit association in Konstanz, Germany. As of today, our network consists of around 650 volunteers, all of which contribute their very own skills and ideas. Apart from that, a core team of around 15 people takes care of general organisational matters. So far, we have successfully launched over 10 projects, always in close cooperation with non-profit organisations of different size and scope (e.g. Ashoka, The European Youth Parliament or streetfootballworld), and organised more than 50 Data Science related workshops.
+In 2015, CorrelAid has officially been registered as a non-profit association in Konstanz, Germany. As of today, our network consists of around 1400 volunteers, all of which contribute their very own skills and ideas. Apart from that, a core team of around 15 people takes care of general organisational matters. So far, we have successfully launched over 35 projects, always in close cooperation with non-profit organisations of different size and scope (e.g. Ashoka, The European Youth Parliament or streetfootballworld), and organised more than 50 Data Science related workshops.
 
 {{< image 
     image="correlaid-mm-group.jpg"
