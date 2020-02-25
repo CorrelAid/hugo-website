@@ -8,7 +8,7 @@ categories:
 author: 
     name:           "CorrelAid"
     image:          "correlaid.jpg"
-    description:    "CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 650 ehrenamtlichen DatenanalystInnen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für DatenanalystInnen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten."
+    description:    "CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 650 ehrenamtlichen Datenanalyst\*innen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für Datenanalyst\*innen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten."
     twitter:        "https://twitter.com/correlaid"
     facebook:       "https://facebook.com/WeAreCorrelAid"
     github:         "https://github.com/correlaid"
@@ -135,7 +135,7 @@ Konstanz, Berlin, Bremen. Was erhoffen wir uns davon? In einem CorrelAid
 Chapter können lokal Workshops und Informationsveranstaltungen angeboten
 werden. Chapter können eigenständig Hackathons mit lokalen
 Organisationen durchführen und langfristig auch eigene Projekte
-anstoßen. Dadurch können wir mehr DatenanalystInnen einbinden, das
+anstoßen. Dadurch können wir mehr Datenanalyst\*innen einbinden, das
 Commitment steigern, die Projektarbeit skalieren und CorrelAid noch
 bekannter machen. Der CorrelAid Vorstand und das CorrelAid-Deutschland
 Team fungieren dabei als zentrale Anlaufstelle für die Chapter, stellt
@@ -153,7 +153,7 @@ correlaid.org](mailto:johannes.m@correlaid.org)) freuen!
 
 Weiterhin wollen wir verstärkt einen Fokus auf die Förderung von Frauen
 in unserem Netzwerk legen. Hier wollen wir zum einen Workshops für
-Datenanalystinnen anbieten und zum anderen in unserer Projektarbeit mit
+Datenanalyst\*innen anbieten und zum anderen in unserer Projektarbeit mit
 neuen Konzepten Aufmerksamkeit für das Thema generieren.
 
 #### Professionalisierung
@@ -221,7 +221,7 @@ Zum Thema Frauenförderung diskutierte der Vorstand Möglichkeiten, um den
 Gender-Gap im technologischen Bereich zu reduzieren. Mit CorrelAid
 wollen wir das Interesse an Daten generell und vor allem für Frauen
 fördern, zur Debatte stehen Projekte im Gender-Bereich, Projekte für
-DatenanalystInnen und Workshops für DatenanalystInnen. Jedoch soll mit
+Datenanalyst\*innen und Workshops für Datenanalyst\*innen. Jedoch soll mit
 Hilfe eines Fragebogens zunächst das generelle Interesse an solchen
 Angeboten unter den weiblichen Mitgliedern unseres Netzwerkes evaluiert
 werden. Abschließend wurde das Thema Dezentralisierung aufgegriffen und

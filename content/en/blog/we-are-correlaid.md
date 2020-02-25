@@ -35,7 +35,7 @@ beschäftigen. Dabei hatten die meisten von uns bisher nur eine sehr vage
 Vorstellung, was sie erwartete. Data Science for Social Good –
 Datenanalyse für einen guten Zweck – hörte sich erst mal gut an. Alle
 Anwesenden waren jedoch auf ihre Art von der Initiative überzeugt und
-auch die bereits erreichte Zahl von über 200 DatenanalystInnen im neuen
+auch die bereits erreichte Zahl von über 200 Datenanalyst\*innen im neuen
 Netzwerk zeugt von einem starken Interesse an dem Thema. Einige hatten
 sich bereits am vorigen Abend getroffen, die meisten hatten sich aber
 noch nie gesehen und selbst Teile des Organisationsteams kannten sich
@@ -44,7 +44,7 @@ Vernetzungstreffens, eine Vorstellungsrunde.
 
 Was will man zu einer Vereinsgründung viel schreiben. Trockene
 Besprechung der Satzung, Wahl des Vorstands, alles schon Routine und
-DatenanalystInnen sind ja ohnehin immer total korrekt. Also waren alle
+Datenanalyst\*innen sind ja ohnehin immer total korrekt. Also waren alle
 um Punkt 20:00 Uhr glücklich, packten ihre Sachen und freuten sich auf
 den zweiten Tag.
 

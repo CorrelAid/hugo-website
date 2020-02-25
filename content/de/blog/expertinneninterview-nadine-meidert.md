@@ -39,7 +39,7 @@ meinen Forschungsinteressen im Bereich der politischen Einstellungs-,
 Identitäts- und Verhaltensforschung nach.
 
 **Das Ziel von CorrelAid ist es, junge und sozial engagierte
-DatenanalystInnen deutschlandweit zu vernetzen und
+Datenanalyst\*innen deutschlandweit zu vernetzen und
 Non-Profit-Organisationen bei der Datenanalyse zu unterstützen. Wo
 siehst du in deinem Berufsfeld mögliche Potenziale - und etwaige
 Synergieeffekte - dieser aufkommenden Data for Good-Bewegung, um einen
@@ -113,12 +113,12 @@ Analysen oder die Lehre gebrauchen kann.
 
 **Das Management-Magazin Harvard Business Review bezeichnete den Beruf
 des Data Scientist bereits 2012 als "sexiest job in the 21st century".
-Welchen Stellenwert nehmen DatenanalystInnen heutzutage in deinem
+Welchen Stellenwert nehmen Datenanalyst\*innen heutzutage in deinem
 Berufsfeld ein und wie sieht deine Prognose für die Zukunft aus?**
 
-Die Frage ist, wie weit man den Begriff DatenanalystInnen fasst? Make
+Die Frage ist, wie weit man den Begriff Datenanalyst\*innen fasst? Make
 sense of data ist meiner Meinung nach die zentrale Aufgabe von
-DatenanalystInnen und dazu gehört nicht nur die reine Datenauswertung,
+Datenanalyst\*innen und dazu gehört nicht nur die reine Datenauswertung,
 sondern auch die kritische Auseinandersetzung mit dem
 Datengenerierungsprozess und die Kommunikation der Ergebnisse an eine
 Zielgruppe, die in den meisten Fällen nicht datenversiert ist. Wenn man
@@ -133,11 +133,11 @@ seinen eigenen Beruf suchen und schauen, wieviel Prozent der Tätigkeit
 heute schon maschinell ausgeführt werden kann. Bei einem Statistiker
 sind das immerhin 14%. Das ist wenig, aber das wird in Zukunft mit
 Sicherheit mehr werden, weil immer mehr Analysen automatisiert werden
-können. Aber DatenanalystInnen werden deshalb nicht weniger wichtig,
+können. Aber Datenanalyst\*innen werden deshalb nicht weniger wichtig,
 sondern im Gegenteil: Zum einen muss schließlich jemand diese Prozesse
 automatisieren, ständig überprüfen und anpassen und zum anderen müssen
 diese automatisierten Prozesse verstanden werden, um sie kommunizieren
-zu können. Ich denke, dass DatenanalystInnen in einer komplexen und
+zu können. Ich denke, dass Datenanalyst\*innen in einer komplexen und
 informationsüberfluteten Welt immer mehr an Bedeutung gewinnen, weil Sie
 Kommunikationsaufgaben übernehmen und Mittelsperson zwischen den vielen
 Informationen auf der einen und EntscheidungsträgerInnen auf der anderen

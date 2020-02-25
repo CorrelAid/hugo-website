@@ -30,7 +30,7 @@ laden wir vom 17.-19. November zum meet up nach Hamburg. Hierbei widmen
 wir uns unter anderem der Frage, wie Datenanalyse im non-profit-Bereich
 genutzt werden kann. Soziale Organisationen präsentieren ihre
 Wirkungsstrategien und Herausforderungen, woraufhin die
-DatenanalystInnen in einem moderierten Brainstorming die Formate
+Datenanalyst\*innen in einem moderierten Brainstorming die Formate
 identifizieren, die am besten auf das Problem und die Organisation
 zugeschnitten sind.
 

@@ -49,12 +49,12 @@ gekommen sind; wir werden oft gefragt „und ihr habt euch wirklich erst
 Anfang diesen Jahres gegründet?“. Die Gründung eines Vereins, die
 Aufstellung einer weitreichenden Projektinfrastruktur, die erfolgreiche
 Durchführung des Pilotprojekts, der Aufbau eines Netzwerks von
-DatenanalystInnen und das Zusammenfinden einer schon 30 köpfigen
+Datenanalyst\*innen und das Zusammenfinden einer schon 30 köpfigen
 Community mit Mitgliedern aus ganz Deutschland. Die kürzlich gewonnene
 Förderung durch die Telefonica Stiftung wird es uns jetzt ermöglichen,
 CorrelAid auf einem neuen Level weiterzuentwickeln. Die nächsten
 Schritte sind auch schon geplant: Mit Lokalgruppen in ganz Deutschland
-wollen wir die Vernetzung junger DatenanalystInnen in Deutschland
+wollen wir die Vernetzung junger Datenanalyst\*innen in Deutschland
 vorantreiben. Auch bei der Projektarbeit werden wir in den kommenden
 Monaten Neuigkeiten präsentieren. Man darf also gespannt sein!
 

@@ -10,7 +10,7 @@ categories:
 author: 
     name:           "CorrelAid"
     image:          "correlaid.jpg"
-    description:    "CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 650 ehrenamtlichen DatenanalystInnen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für DatenanalystInnen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten."
+    description:    "CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 650 ehrenamtlichen Datenanalyst\*innen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für Datenanalyst\*innen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten."
     twitter:        "https://twitter.com/correlaid"
     facebook:       "https://facebook.com/WeAreCorrelAid"
     github:         "https://github.com/correlaid"
@@ -22,7 +22,7 @@ meta:
                 Berlin an. Dazu laden wir auf der einen Seite NGOs und Initiativen, die
                 in den Bereichen Migration und Integration in Deutschland tätig sind,
                 ein. Auf der anderen Seite laden wir alle interessierten
-                Datenanalystinnen und -analysten ein."
+                Datenanalyst\*innen und -analysten ein."
   image: "509-datendialog-berlin.jpg"
   keywords: "CorrelAid, Data4Good, Migration, Datendialog, Minor, Wefugee, La Red, ReDi School for Digital Integration"
 ---
@@ -44,7 +44,7 @@ Am 5. Oktober steht unser Datendialog „Migration und Integration" in
 Berlin an. Dazu laden wir auf der einen Seite NGOs und Initiativen, die
 in den Bereichen Migration und Integration in Deutschland tätig sind,
 ein. Auf der anderen Seite laden wir alle interessierten
-Datenanalystinnen und -analysten ein. Beide Seiten lernen sich und ihre
+Datenanalyst\*innen und -analysten ein. Beide Seiten lernen sich und ihre
 Arbeit dabei besser kennen und loten aus, welche Daten den jeweiligen
 Organisationen zur Verfügung stehen und welche Datenanalysen die Arbeit
 der Organisation unterstützen können.
@@ -95,7 +95,7 @@ in moderierten Kleingruppen Projektideen entwickeln.
 -   Vorstellung der NGOs und ihrer Arbeit, ihrer Probleme, der
     verfügbaren Daten und der Fragestellungen, die sich in Bezug auf die
     Daten stellen
--   Bildung von moderierten Kleingruppen aus NGOs und DatenanalystInnen
+-   Bildung von moderierten Kleingruppen aus NGOs und Datenanalyst\*innen
 -   **Pause mit Snacks**
 -   Gruppendiskussionen zur Klärung der Fragestellung für die
     Datenanalyse und Planung weiterer Schritte zur Umsetzung der

@@ -11,7 +11,7 @@ categories:
 author: 
     name:           "CorrelAid"
     image:          "correlaid.jpg"
-    description:    "CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 650 ehrenamtlichen DatenanalystInnen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für DatenanalystInnen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten."
+    description:    "CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von 650 ehrenamtlichen Datenanalyst\*innen. Wir haben bereits über 10 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für Datenanalyst\*innen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten."
     twitter:        "https://twitter.com/correlaid"
     facebook:       "https://facebook.com/WeAreCorrelAid"
     github:         "https://github.com/correlaid"
@@ -35,7 +35,7 @@ Konstanz kommt.
 
 Das Modell unseres dezentralen Netzwerks und Online-Projektvermittlung
 hat sich bewährt. Wir glauben aber, dass die persönliche Vernetzung von
-DatenanalystInnen und der direkte Kontakt zu Non-Profits ein noch viel
+Datenanalyst\*innen und der direkte Kontakt zu Non-Profits ein noch viel
 größeres Potential bieten. Deshalb ist es Zeit, etwas Neues
 auszuprobieren – und wir wollen euch alle herzlich einladen, Teil davon
 zu werden:
@@ -53,10 +53,10 @@ CorrelAid X
 
 
 Wir wollen zusammen mit euch überall in Deutschland Lokalgruppen
-gründen. Es sollen Anlaufstellen für DatenanalystInnen und lokale NPOs
+gründen. Es sollen Anlaufstellen für Datenanalyst\*innen und lokale NPOs
 entstehen. Damit verfolgen wir drei Ziele:
 
--   Vernetzung von engagierten DatenanalystInnen vor Ort
+-   Vernetzung von engagierten Datenanalyst\*innen vor Ort
 -   Selbstorganisierte Workshops und Events
 -   Datenanalyse-Projekte mit lokalen NPOs
 
