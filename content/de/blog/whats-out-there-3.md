@@ -48,7 +48,7 @@ einige weiterführende Links.
 Wer verändert schon die Welt? Ich zumindest denke häufig: „Okay, ich
 mach hübsche Diagramme und baue nette Modell, aber ändere ich damit
 wirklich das Leben von jemand zum Besseren?“ Und dann muss ich immer an
-die Macht (oder Ohnmacht) von MedizinerInnen denken. Da ich aber nun ein
+die Macht (oder Ohnmacht) von Mediziner\*innen denken. Da ich aber nun ein
 lausiger Auswendiglerner bin, wird das nichts mehr mit meiner weißen
 Kittelkarriere. Dafür freue ich mich umso mehr, dass wir als
 Daten-Analysten trotzdem einen Beitrag leisten können. Diese

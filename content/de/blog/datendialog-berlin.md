@@ -29,7 +29,7 @@ meta:
 
 Im Oktober fand unser Datendialog zum Thema "Migration und Flüchtlinge" in Berlin statt. In Kooperation mit dem Verein "Minor – Projektkontor" wurden sechs gemeinnützige Organisationen dazu eingeladen, zusammen mit interessierten Datenanalyst\*innen von CorrelAid gemeinsam über ihre Projektarbeit im Bereich der Migrations- und Flüchtlingsarbeit zu sprechen und Lösungen für spezifische Herausforderungen in Bezug auf Datenmanagement und Datenanalyse herauszuarbeiten.
 
-Neben den Organisationen und den Datenanalyst\*innen von CorrelAid waren auch viele weitere VertreterInnen von gemeinnützigen Organisationen aus Berlin zu Besuch, deren Interesse wir wecken konnten. Das ist ein deutliches Zeichen dafür, dass Themen rund um Datengewinnung und Datenanalyse in den unterschiedlichsten Lebensbereichen auf große Begeisterung stoßen – und dass es noch viel Potential für weitere Dialogveranstaltungen in der Zukunft gibt.
+Neben den Organisationen und den Datenanalyst\*innen von CorrelAid waren auch viele weitere Vertreter\*innen von gemeinnützigen Organisationen aus Berlin zu Besuch, deren Interesse wir wecken konnten. Das ist ein deutliches Zeichen dafür, dass Themen rund um Datengewinnung und Datenanalyse in den unterschiedlichsten Lebensbereichen auf große Begeisterung stoßen – und dass es noch viel Potential für weitere Dialogveranstaltungen in der Zukunft gibt.
 
 Während des gemeinsamen Abends haben sich zunächst Minor und danach CorrelAid (mit einem kurzen Input durch Johannes) vorgestellt. Im Anschluss hatten die Organisationen Zeit zur Verfügung, sich selbst sowie ihre aktuellen Projekte und Projektideen vorzustellen.
 

@@ -21,8 +21,8 @@ meta:
     description: "Das Potential von Datenanalyse demokratisieren. Wir haben uns Anfang des
                   Jahres gefragt, wie wir auf dieser Mission auch Unternehmen einbeziehen
                   können. Letzten Monat haben wir deshalb ein neues Format getestet: Wir
-                  veranstalten einen Hackathon mit engagierten AnalystInnen aus unserem
-                  Netzwerk und MitarbeiterInnen aus Data-Science-Abteilungen von
+                  veranstalten einen Hackathon mit engagierten Analyst\*innen aus unserem
+                  Netzwerk und Mitarbeiter\*innen aus Data-Science-Abteilungen von
                   Unternehmen."
     image: "509-hackathon-stifter.jpg"
     keywords: "CorrelAid, Data4Good, Hackathon, München, PwC, PricewaterhouseCoopers, Stifter-helfen, VueJS, Dashboard, Python"
@@ -32,8 +32,8 @@ meta:
 Das Potential von Datenanalyse demokratisieren. Wir haben uns Anfang des
 Jahres gefragt, wie wir auf dieser Mission auch Unternehmen einbeziehen
 können. Letzten Monat haben wir deshalb ein neues Format getestet: Wir
-veranstalten einen Hackathon mit engagierten AnalystInnen aus unserem
-Netzwerk und MitarbeiterInnen aus Data-Science-Abteilungen von
+veranstalten einen Hackathon mit engagierten Analyst\*innen aus unserem
+Netzwerk und Mitarbeiter\*innen aus Data-Science-Abteilungen von
 Unternehmen.
 
 Zusammen arbeiten wir mehrere Tage intensiv an Problemstellungen von

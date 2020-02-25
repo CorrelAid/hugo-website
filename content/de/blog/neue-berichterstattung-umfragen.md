@@ -34,7 +34,7 @@ Debus](http://lspol3.sowi.uni-mannheim.de/Team/prof_dr_marc_debus/),
 Professor für Vergleichende Regierungslehre an der Universität Mannheim,
 zu Koalitionsszenarien nach der Wahl ist bereits online. In der
 Wissenschaft spielen Daten naturgemäß eine wichtige Rolle, wie auch die
-Beiträge unserer GastautorInnen deutlich machen werden. Aber auch in den
+Beiträge unserer Gastautor\*innen deutlich machen werden. Aber auch in den
 Medien und der Zivilgesellschaft spielen Daten eine größer werdende
 Rolle. In diesem und weiteren Beiträgen möchte ich einige dieser
 datengetriebenen Projekte zur Bundestagswahl vorstellen. Der Fokus liegt
@@ -58,7 +58,7 @@ systematischen Verzerrungen, die weitaus schwieriger zu quantifizieren
 und erst recht zu korrigieren sind. So können in Zeiten des Smartphones
 viele Haushalte nicht mehr über das zufällige Anwählen von
 Festnetznummern erreicht werden. Weiterhin hat die Bereitschaft von
-BürgerInnen an Befragungen teilzunehmen rapide abgenommen. Das heißt,
+Bürger\*innen an Befragungen teilzunehmen rapide abgenommen. Das heißt,
 die Teilnehmenden an einer Umfrage sind nicht repräsentativ für die
 Gesamtbevölkerung: beispielsweise sind ältere und gebildetere Menschen
 in Umfragen überrepräsentiert. Die, die teilnehmen, geben nicht
@@ -120,7 +120,7 @@ darzustellen gibt die Zeitung nicht den Mittelwert, sondern die
 Schwankungsbreite des Mittelwerts an und visualisiert dies entsprechend.
 Bei zwei Umfragen für eine Partei, die nur 1-2 Prozentpunkte auseinander
 liegen kann man nie mit Sicherheit sagen, ob die in den Umfragen vorne
-liegende Partei tatsächlich auch in der Gunst aller WählerInnen vorne
+liegende Partei tatsächlich auch in der Gunst aller Wähler\*innen vorne
 liegt. Durch die Visualisierung der Schwankungsbreiten bei der SZ wird
 dies deutlicher. Wie die Zeitung die Umfragen zusammenfasst kann jedeR
 LeserIn nachvollziehen, denn der Code wurde auf
@@ -151,7 +151,7 @@ Website geschaltet hat. Anders als bei den zuvor genannten Angeboten
 wird die Methodik nicht genauer erläutert. Zusätzlich zu den
 Umfragewerten berechnet die Financial Times auch die möglichen
 Sitzanteile verschiedener Koalitionen und erläutert für eine
-internationale LeserInnenschaft das deutsche Wahlsystem.
+internationale Leser\*innenschaft das deutsche Wahlsystem.
 
 #### Morgenpost
 
@@ -198,11 +198,11 @@ bereits seit der Bundestagswahl 2013, für die US-Präsidentschaftswahlen
 schon seit 2004, ein simples, aber jedoch nicht minder effektives
 Verfahren: er berechnet das arithmetische Mittel aller verfügbaren
 "Prognosen". Das sind Wahlumfragen, Prognosemärkte, wissenschaftliche
-Prognosemodelle und ExpertInnenurteile. Für letztere bittet Graefe einen
-Vielzahl an ExpertInnen um ihren Tipp, wie die Bundestagswahl ausgehen
+Prognosemodelle und Expert\*innenurteile. Für letztere bittet Graefe einen
+Vielzahl an Expert\*innen um ihren Tipp, wie die Bundestagswahl ausgehen
 wird. Neben der Pollyvote-Prognose werden auf der Website jeweils auch
 die einzelnen Komponenten (Wahlumfragen, Prognosemärkte,
-wissenschaftliche Prognosemodelle, ExpertInnenurteile) vorgestellt.
+wissenschaftliche Prognosemodelle, Expert\*innenurteile) vorgestellt.
 
 *Die Beschreibung des INWT Modells habe ich am 16.08.2017 ergänzt.
 Vielen Dank an [Julia Schneider](https://twitter.com/Docjsnyder) für den
@@ -263,8 +263,8 @@ Bundestagswahlergebnisse seit
 Gemeindeebene. Etwas bizarr ist nur, dass ausgerechnet die
 Hauptstadtzeitung für Berlin nur das Landesergebnis, nicht aber die
 Ergebnisse in den Bezirken, ausweist. Weiterhin gibt es eine
-[KandidatInnendatenbank](http://wahl.tagesspiegel.de/2017/kandidatenbank/),
-mittels derer man herausfinden kann, wer die KandidatInnen im eigenen
+[Kandidat\*innendatenbank](http://wahl.tagesspiegel.de/2017/kandidatenbank/),
+mittels derer man herausfinden kann, wer die Kandidat\*innen im eigenen
 Wahlkreis sind. Dazu muss man lediglich seine PLZ eingeben.
 
 *Die Beschreibung der Tagesspiegel Themenseite habe ich am 25.08.2017

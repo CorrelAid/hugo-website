@@ -19,7 +19,7 @@ meta:
   description: "Als ich im März 2015 auf die Idee kam, CorrelAid als Initiative zu
                 starten, fing alles mit einer Mail mit dem Betreff „Data for Good“ an,
                 die ich über verschiedene Verteiler schickte mit dem Ziel,
-                MitstreiterInnen zu finden. Damals hatte ich noch keine Ahnung, ob sich
+                Mitstreiter\*innen zu finden. Damals hatte ich noch keine Ahnung, ob sich
                 überhaupt jemand dafür begeistern ließe oder wie sich das Ganze
                 entwickeln würde. Jetzt ein halbes Jahr später blicke ich zurück und
                 finde unzählige Gründe, warum es sich gelohnt hat, diese Mail zu
@@ -32,7 +32,7 @@ meta:
 Als ich im März 2015 auf die Idee kam, CorrelAid als Initiative zu
 starten, fing alles mit einer Mail mit dem Betreff „Data for Good“ an,
 die ich über verschiedene Verteiler schickte mit dem Ziel,
-MitstreiterInnen zu finden. Damals hatte ich noch keine Ahnung, ob sich
+Mitstreiter\*innen zu finden. Damals hatte ich noch keine Ahnung, ob sich
 überhaupt jemand dafür begeistern ließe oder wie sich das Ganze
 entwickeln würde. Jetzt ein halbes Jahr später blicke ich zurück und
 finde unzählige Gründe, warum es sich gelohnt hat, diese Mail zu

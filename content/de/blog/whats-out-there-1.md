@@ -90,7 +90,7 @@ China Morning Post.
 
 Es ist kein Geheimnis, dass kaum ein Datenanalyst ständig neue Libraries
 zur Analyse seiner Daten nutzt, geschweige denn alle Möglichkeiten
-verschiedener Packages auslotet. Die meisten AnalystInnen beschränken
+verschiedener Packages auslotet. Die meisten Analyst\*innen beschränken
 sich für die Brot-und-Butter-Aufgaben auf ein wohl bekanntes Set an
 Libraries, welche häufig Updates unterzogen werden und welchen eine
 große Community bei Hilfefragen zur Seite steht. Diese hier müsst ihr

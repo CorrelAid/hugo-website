@@ -60,7 +60,7 @@ Erdbeerfeld ist. Ausprobieren!
 
 #### 1. Understanding Support Vector Machine {#1-understanding-support-vector-machine}
 
-Ganz ohne Mitglied der NSA zu sein, bilde ich mir ein, manche LeserInnen
+Ganz ohne Mitglied der NSA zu sein, bilde ich mir ein, manche Leser\*innen
 letzte Woche beim Lesen meines Artikels aufstöhnen gehört zu haben:
 „Ahh, schon wieder diese Decision-Trees. Kann der Typ eigentlich nix
 anderes?“ Kann er! Diese Woche geht’s um Support Vector Machines (SVM),
@@ -88,7 +88,7 @@ das viel beschworene A/B Testing bereitstellt. Fight!
 
 #### 3. The Bias-Variance Dilemma {#3-the-bias-variance-dilemma}
 
-Die Meisten meiner LeserInnen wissen vermutlich schon, was mit
+Die Meisten meiner Leser\*innen wissen vermutlich schon, was mit
 *Bias-Variance Tradeoff* oder eben *Dilemma* gemeint ist. Oder doch nur
 so ungefähr? Im Fall des Falles: Bitte lest [das
 hier](https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/)! Es handelt
@@ -100,7 +100,7 @@ Natives unter uns. Ich konnte einfach nicht widerstehen.
 
 Eine Masterarbeit, die ist lustig, eine Masterarbeit, die ist schön –
 naja. In meinem Fall immerhin eine gute Gelegenheit, a) viel R Code zu
-schreiben, b) viel zu prokrastinieren und c) mit meinen KommilitonInnen
+schreiben, b) viel zu prokrastinieren und c) mit meinen Kommiliton\*innen
 über die neusten Features des Tidyverse abzunerden. Wenn es da bei euch
 jetzt nicht klingelt, empfehle ich [„R for Data
 Science“](http://r4ds.had.co.nz/), die [„tidy data“

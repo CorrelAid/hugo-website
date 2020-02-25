@@ -31,7 +31,7 @@ Unser Meetup-Wochenende in Hamburg (17. bis 19. November 2017) startete
 mit Neuland für CorrelAid, das zugleich aber auch eines der Highlights
 des Meetups werden sollte: am Freitagabend veranstalteten wir einen
 „Datendialog“. Die Idee dahinter ist es, sich in Kleingruppen mit
-VertreterInnen gemeinnütziger Organisationen zusammenzusetzen, um erste
+Vertreter\*innen gemeinnütziger Organisationen zusammenzusetzen, um erste
 Pläne für eine mögliche Zusammenarbeit herauszuarbeiten. Das hat
 wundervoll funktioniert! In vier Gruppen haben wir mit Youth For
 Understanding, Integreater, Waldmenschen, und Fairtrade diskutiert und
@@ -162,7 +162,7 @@ Meetup 2
 {{< /image >}}
 
 Insgesamt war der Meetup in Hamburg ein großer Erfolg. Vielen Dank an
-alle TeilnehmerInnen, die an diesem Wochenende dabei waren und
+alle Teilnehmer\*innen, die an diesem Wochenende dabei waren und
 mitgearbeitet haben, und an **fritz cola** und **Selo Soda** für die
 Unterstützung!
 

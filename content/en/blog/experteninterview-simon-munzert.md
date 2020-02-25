@@ -25,7 +25,7 @@ meta:
 ---
 
 
-**Bitte stell dich unseren BlogleserInnen kurz vor: Wer bist du und was
+**Bitte stell dich unseren Blogleser\*innen kurz vor: Wer bist du und was
 muss man über dich wissen?**
 
 Mein Name ist Simon Munzert, ich bin Politikwissenschaftler und arbeite

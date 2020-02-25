@@ -49,7 +49,7 @@ Möglichkeit, mit großartigen Organisationen ins Gespräch zu kommen. Aus
 diesen Gesprächen ist auch schon die ein oder andere Projektidee
 hervorgegangen, die wir im Nachgang weiter verfolgen wollen.
 
-Am Nachmittag konnten sich die TeilnehmerInnen des NPO-Tages noch bei
+Am Nachmittag konnten sich die Teilnehmer\*innen des NPO-Tages noch bei
 verschiedenen Workshops weiterbilden, u.a. zu den Themen
 Datensicherheit, Social Media Marketing und Big Data Analytics.
 Abgeschlossen wurde die Veranstaltung mit einem spannenden Vortrag von

@@ -98,7 +98,7 @@ euch vor Ort loslegen wollt. Dann helfen wir euch dabei, die Leute vor
 Ort zu vernetzen und loszulegen. Damit ihr nicht ganz alleine starten
 müsst, veranstalten wir ein Kick-Off-Wochenende vom 26. Oktober bis 28.
 Oktober in Berlin (**all expenses paid**) bei dem wir alle
-interessierten CommunitymanagerInnen zusammenbringen und zusammen das
+interessierten Communitymanager\*innen zusammenbringen und zusammen das
 kommende Semester oder Jahr planen. Bei Fragen stehen wir euch natürlich
 jederzeit zur Verfügung (regina.s@correlaid.org).
 

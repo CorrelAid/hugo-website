@@ -74,9 +74,9 @@ unglaublich cool, inklusiv und hilfsbereit sie sein kann.
 Herbst letzten Jahres hat das gezeigt. Mit und für 30 Datenanalyst\*innen
 haben wir eine Reihe von kleinen Workshops im Open Space Format
 durchgeführt: So liefen zum Beispiel an einem Zeitpunkt gleichzeitig
-eine Einführung in R (für AnfängerInnen), eine Einführung in das
+eine Einführung in R (für Anfänger\*innen), eine Einführung in das
 Webscraping mit APIs (für Fortgeschrittene) und eine Einführung in
-Datenvisualisierung mit d3.js (für ExpertInnen).
+Datenvisualisierung mit d3.js (für Expert\*innen).
 
 ### Highlight 3: Unser Besuch im Kanzleramt verdeutlicht die Relevanz unserer Mission
 

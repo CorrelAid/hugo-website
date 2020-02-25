@@ -25,7 +25,7 @@ meta:
 ---
 
 
-**Bitte stell dich unseren BlogleserInnen kurz vor: Wer bist du und was
+**Bitte stell dich unseren Blogleser\*innen kurz vor: Wer bist du und was
 muss man über dich wissen?**
 
 Ich bin Geschäftsführerin der Konvena UG (haftungsbeschränkt) und
@@ -140,7 +140,7 @@ diese automatisierten Prozesse verstanden werden, um sie kommunizieren
 zu können. Ich denke, dass Datenanalyst\*innen in einer komplexen und
 informationsüberfluteten Welt immer mehr an Bedeutung gewinnen, weil Sie
 Kommunikationsaufgaben übernehmen und Mittelsperson zwischen den vielen
-Informationen auf der einen und EntscheidungsträgerInnen auf der anderen
+Informationen auf der einen und Entscheidungsträger\*innen auf der anderen
 Seite sein müssen.
 
 **Einer deiner methodischen Forschungsschwerpunkte ist die Soziale

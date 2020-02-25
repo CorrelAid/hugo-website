@@ -55,7 +55,7 @@ Dank ihrer Beiträge seid ihr über aktuelle Trends und Ereignisse immer
 umfassend informiert und sichert euch bei jedem Tippspiel zur
 Bundestagswahl den Hauptgewinn.
 
-### Interviews mit ExpertInnen aus Forschung, Wirtschaft und Medien
+### Interviews mit Expert\*innen aus Forschung, Wirtschaft und Medien
 
 In den kommenden Monaten werden euch u.a. unsere
 CorrelAid-Beiratsmitglieder Simon Munzert, Anita Gohdes und Nadine
