@@ -1,5 +1,5 @@
 ---
-title: "What data scientists should and shouldn’t do in times of COVID19"
+title: "COVID19 - What data scientists should and shouldn’t do right now"
 date: 2020-03-09T00:00:00+02:00
 image: "509-coronavirus-statistics-on-screen.jpg"
 summary: "We think data scientists should be very intentional with what they do and don't do right now. Here's why."
@@ -14,7 +14,7 @@ author:
     email:          "info@correlaid.org"
     website:        ""
 meta:
-  title: "What data scientists should and shouldn’t do in times of COVID19"
+  title: "COVID19 - What data scientists should and shouldn’t do right now"
   description: "We think data scientists should be very intentional with what they do and don't do right now. Here's why."
   image: "509-coronavirus-statistics-on-screen.jpg"
   keywords: "CorrelAid, Covid19, DataScience, hype"
