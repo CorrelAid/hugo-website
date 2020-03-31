@@ -1,24 +1,24 @@
 ---
 title: "Plötzlich digital - die Sprechstunde: Slack"
-date: 2020-04-02T00:00:00+02:00
+date: 2020-03-30T00:00:00+02:00
 image: "509-ploetzlich-digital-slack.jpg"
-summary: "Meine Notizen zu Slack - präsentiert in der ersten Sitzung von 'Plötzlich digital: Die Sprechstunde.'"
+summary: "Meine ungefilterten Notizen zu Slack - präsentiert in der ersten Sitzung von 'Plötzlich digital: Die Sprechstunde.'"
 draft: false
 
 author: 
     name:           "Frie"
     image:          "frie.jpg"
     description:    "Frie ist seit 2015 bei CorrelAid aktiv und ist seit Februar 2020 hauptamtlich angestellt bei CorrelAid. Sie ist dort - zusammen mit Manuel - verantwortlich für die Koordination der Projekte, kümmert sich mit Jasmin um das Wissensmanagement und programmiert gerne interne Tools.  Bei alldem kann sie aus ihrer zweijährigen Berufserfahrung als IT Consultant schöpfen, während derer sie viel über Projektarbeit und deren technische Umsetzung lernen durfte. "
-    twitter:        "ameisen_strasse"
+    twitter:        "https://twitter.com/ameisen_strasse"
     facebook:       ""
-    github:         ""
+    github:         "https://github.com/friep"
     email:          "frie.p@correlaid.org"
-    website:        ""
+    website:        "https://frie.codes"
 meta:
   title: "Plötzlich digital - die Sprechstunde: Slack"
-  description: "Meine ungefilterten Notizen zur Slack-Sitzung von Plötzlich digital - die Sprechstunde."
+  description: "Meine ungefilterten Notizen zu Slack - präsentiert in der ersten Sitzung von 'Plötzlich digital: Die Sprechstunde.'"
   image: "509-ploetzlich-digital-slack.jpg"
-  keywords: "CorrelAid, Covid19, DataScience, hype"
+  keywords: "CorrelAid, Covid19, Digitalization, ploetzlichdigital"
 ---
 
 *Am Freitag, den 27. März, fand die erste Session der Online Veranstaltungsreihe "Plötzlich Digital: Die Sprechstunde" statt. In diesem Format geben wir - [D3 - so geht digital](https://so-geht-digital.de/), [OpenTransfer](https://opentransfer.de/), [GoVolunteer](govolunteer.com/) und CorrelAid - sozialen Organisationen in den kommenden Wochen regelmäßig einen virtuellen Raum, um gemeinsam mit anderen etwas Neues kennenzulernen. Digital-Expert:innen teilen ihr Wissen über Tools und Methoden, die Online-Zusammenarbeit vereinfachen.*
