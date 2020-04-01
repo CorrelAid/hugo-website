@@ -26,6 +26,15 @@
 <!-- /END TITLE IMAGE -->
 
 <div class="container mt-5">
+    <!-- TABLE OF CONTENTS -->
+    {{ if (.Params.toc) }}
+    <div class="row justify-content-center">
+        <div class="col-12 col-md-10 col-lg-8">
+            <h2>Table of Contents</h2>
+            {{.TableOfContents}}
+        </div>
+    </div>
+    {{ end }}
     <!-- CONTENT -->
     <div class="row justify-content-center">
         <div class="col-12 col-md-10 col-lg-8">
