@@ -1,6 +1,6 @@
 ---
 title: "COVID19 - What data scientists should and shouldn’t do right now"
-date: 2020-03-09T00:00:00+02:00
+date: 2020-03-26T00:00:00+02:00
 image: "509-coronavirus-statistics-on-screen.jpg"
 summary: "We think data scientists should be very intentional with what they do and don't do right now. Here's why."
 
