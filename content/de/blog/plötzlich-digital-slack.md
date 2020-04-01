@@ -1,6 +1,6 @@
 ---
 title: "Plötzlich digital - die Sprechstunde: Slack"
-date: 2020-03-30T00:00:00+02:00
+date: 2020-04-01T00:00:00+02:00
 image: "509-ploetzlich-digital-slack.jpg"
 summary: "Meine ungefilterten Notizen zu Slack - präsentiert in der ersten Sitzung von 'Plötzlich digital: Die Sprechstunde.'"
 draft: false
@@ -23,7 +23,7 @@ meta:
 
 *Am Freitag, den 27. März, fand die erste Session der Online Veranstaltungsreihe "Plötzlich Digital: Die Sprechstunde" statt. In diesem Format geben wir - [D3 - so geht digital](https://so-geht-digital.de/), [OpenTransfer](https://opentransfer.de/), [GoVolunteer](govolunteer.com/) und CorrelAid - sozialen Organisationen in den kommenden Wochen regelmäßig einen virtuellen Raum, um gemeinsam mit anderen etwas Neues kennenzulernen. Digital-Expert:innen teilen ihr Wissen über Tools und Methoden, die Online-Zusammenarbeit vereinfachen.*
 
-*Hier teilen wir die Notizen von Frie, die in der ersten Sitzung [Slack](https://slack.com/intl/en-de/help/articles/204368833-Slack-for-Nonprofits) vorgestellt hat. Am besten schaust du paralell die Aufzeichnung des Talks, diese findest du [hier]().*
+*Hier teilen wir die Notizen von Frie, die in der ersten Sitzung [Slack](https://slack.com/intl/en-de/help/articles/204368833-Slack-for-Nonprofits) vorgestellt hat. Am besten schaust du parallel die Aufzeichnung des Talks, diese findest du [hier](https://youtu.be/9wyL6svdBww).*
 
 *Willst du auch dein Wissen als Digital-Expert:in teilen? [Hier](https://forms.gle/4GbxAR9S15R9UhyG6) gehts lang!*
 
