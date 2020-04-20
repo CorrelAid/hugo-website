@@ -23,3 +23,11 @@ PygmentsStyle           = "friendly"
     [Languages.de.params]
             [Languages.de.params.navigation]
                 about   = "Über uns"
+[Languages.fr]
+    contentDir      = "content/fr"
+    title           = "CorrelAid"
+    weight          = 0
+    languageName    = "French"
+    [Languages.fr.params]
+            [Languages.fr.params.navigation]
+                about   = "A propos"
