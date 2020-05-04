@@ -21,7 +21,7 @@ meta:
   keywords: "CorrelAid, CorrelAidX, Data Science, DrivenData"
 ---
 
-Several members of [CorrelAidX Berlin](/correlaid-x/en/berlin) recently took part in the [Open Cities AI Challenge](https://www.drivendata.org/competitions/60/building-segmentation-disaster-resilience/page/151/), hosted by DrivenData and co-organized by [Global Facility for Disaster Reduction and Recovery (GFDRR)](https://www.gfdrr.org/en) of the World Bank. In this post, we will share some learnings of our group effort with the CorrelAid community.
+Several members of [CorrelAidX Berlin](/correlaid-x/berlin) recently took part in the [Open Cities AI Challenge](https://www.drivendata.org/competitions/60/building-segmentation-disaster-resilience/page/151/), hosted by DrivenData and co-organized by [Global Facility for Disaster Reduction and Recovery (GFDRR)](https://www.gfdrr.org/en) of the World Bank. In this post, we will share some learnings of our group effort with the CorrelAid community.
 
 ### What are data science competitions?
 
