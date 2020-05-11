@@ -1,6 +1,7 @@
 baseURL                 = "https://correlaid.org/"
 
 DefaultContentLanguage  = "de"
+DefaultContentLanguageInSubdir = true
 
 PygmentsCodeFences      = true
 PygmentsStyle           = "friendly"
@@ -30,10 +31,6 @@ PygmentsStyle           = "friendly"
 
 
 [module]
-
-  [[module.mounts]]
-    source = "content"
-    target = "content"
 
   [[module.mounts]]
     source = "static"

@@ -2,6 +2,7 @@
 title: "Für Data Scientists"
 date: 2018-08-23T12:38:17+02:00
 draft: false
+translationKey: "volunteer"
 menu: "main"
 meta:
     title: "CorrelAid - Wie kann ich beitragen?"
