@@ -1,5 +1,5 @@
 [build]
   publish = "public"
-  command = "hugo -b http://restructuring-website.netlify.app"
+  command = "hugo -b https://restructuring-website.netlify.app"
 [context.production.environment]
   HUGO_VERSION = "0.70.0"
