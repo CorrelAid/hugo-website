@@ -1,23 +1,18 @@
 ---
-title: "Data Volunteering"
-date: 2018-08-23T12:37:19+02:00
+title: "Für Non-Profits"
+date: 2018-08-23T12:38:17+02:00
 draft: false
-translationKey: "data-volunteering"
-menu: 
-    projects:
-        weight: 2
+menu: "main"
 meta:
-    title: "CorrelAid - Datenberatung"
+    title: "CorrelAid - Für Non-Profits"
     description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 1400 ehrenamtlichen Datenanalyst*innen."
     image: "509-correlaid-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
-# Data Volunteering
+# Datendialog
 
-In unseren Volunteering-Angebot vermitteln wir ein Team von ehrenamtlichen Datenanalysten und Datenanalyst\*innen aus unserem Netzwerk an gemeinnützige Organisationen. Zusammen helfen wir der Organisation zum Beispiel ihre Daten zu nutzen um Prozesse effizienter zu gestalten, die Zielgruppe besser kennenzulernen oder Ressourcen besser zu verteilen. Ein Projekt dauert etwa 2 bis 4 Monate.
-
-In unseren Projekten ist uns wichtig, dass wir diverse Teams zusammenstellen: Auf der einen Seite bringen wir so alle benötigten Skills zusammen und auf der anderen Seite wird es so eine wertvolle Lernerfahrung für alle Beteiligten.
+Wir wollen einen Dialog zwischen der Zivilgesellschaft und der Data Science Community anstoßen und gemeinsam Ideen für Data-for-Good-Projekte entwickeln. Dafür haben wir das Konzept des "Datendialogs" entwickelt. Bei einem Datendialog kommen drei bis fünf NGOs mit ca. 20 Datenanalyst\*innen zusammen. Beide Seiten lernen sich und ihre Arbeit dabei besser kennen und loten aus, welche Daten den jeweiligen Organisationen zur Verfügung stehen und welche Datenanalysen die Arbeit der Organisation unterstützen können. Was wir bei unseren bisherigen Datendialogen gemacht haben könnt ihr hier lesen: [Datendialog Hamburg](/blog/meetup-hh) und [Datendialog in Berlin](/blog/datendialog-berlin).
 
 {{< testimonial 
     contact="Anna Saraste"

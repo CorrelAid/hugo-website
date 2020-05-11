@@ -1,16 +1,19 @@
 ---
-title: "Wie kann ich beitragen?"
+title: "Für Data Scientists"
 date: 2018-08-23T12:38:17+02:00
 draft: false
-menu: 
-    contribute:
-        weight: 1
+menu: "main"
 meta:
     title: "CorrelAid - Wie kann ich beitragen?"
     description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 1400 ehrenamtlichen Datenanalyst*innen."
     image: "509-correlaid-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
+# Data Volunteering
+
+In unseren Volunteering-Angebot vermitteln wir ein Team von ehrenamtlichen Datenanalysten und Datenanalyst\*innen aus unserem Netzwerk an gemeinnützige Organisationen. Zusammen helfen wir der Organisation zum Beispiel ihre Daten zu nutzen um Prozesse effizienter zu gestalten, die Zielgruppe besser kennenzulernen oder Ressourcen besser zu verteilen. Ein Projekt dauert etwa 2 bis 4 Monate.
+
+In unseren Projekten ist uns wichtig, dass wir diverse Teams zusammenstellen: Auf der einen Seite bringen wir so alle benötigten Skills zusammen und auf der anderen Seite wird es so eine wertvolle Lernerfahrung für alle Beteiligten.
 
 
 # Wie kann ich beitragen?
@@ -40,3 +43,45 @@ Du hast Hinweise zu coolen Events, Ausschreibungen oder Data Science Ressourcen?
 ## CorrelAid organisieren
 
 CorrelAid wird organisiert von unserem ehrenamtlichen Core Team, einem Kreis von rund 10-15 Mitgliedern. Die tagtägliche Organisation und Koordination findet dabei über Slack statt und wir freuen uns über jedes neue Gesicht! Wenn Du aktiv werden möchtest, schreib eine Mail an [Regina](mailto:regina.s@correlaid.org). Sie kann Dich dann freischalten.
+
+# CorrelAidX
+## Good Causes. Better Effects. Local Implementation.
+
+
+Du möchtest Data-for-Good-Analyst\*innen aus deiner Region kennenlernen und zusammen Daten für den guten Zweck nutzen? Mit CorrelAidX bringen wir Data for Good in deine Stadt!
+
+Ihr bekommt von uns eine Toolbox, Unterstützung und die digitale Infrastruktur, mit der ihr ganz einfach bei euch vor Ort Workshops, Datendialoge und lokale Projekte initiieren könnt! Egal ob ihr langfristig CorrelAid bei euch vor Ort aufbauen wollt und nur ein einzelnes Event organisieren wollt. Egal ob ihr erfahrene Analyst\*innen seid oder gerade erst am Anfang steht.
+
+Hier ein paar mögliche Formate, die ihr bei CorrelAidX umsetzen könnt:
+
+1. OpenSpace-Data-Workshop
+2. Datendialog
+3. Lokale Projekte
+4. Öffentliche Veranstaltung
+
+
+
+
+## Bildung und Workshops
+
+In unseren Workshops bilden wir unser Data Science Netzwerk weiter. In unserem Netzwerk kommen Analysten und Analystinnen aus den unterschiedlichsten akademischen Disziplinen und Branchen zusammen. Dadurch können wir unglaublich viel voneinander lernen. Deshalb setzen wir auf Peer Learning. Mit unseren Workshop Konzepten schaffen wir dafür den Rahmen. Finde dein lokales Netzwerk bei unseren [CorrelAidX Gruppen](/correlaid-x).
+
+{{< testimonial 
+    contact="André Lange"
+    organisation="Business Manager"
+    image="andre-lange.jpg"
+>}}
+    Am meisten Spaß gemacht hat mir, gemeinsam mit dem Team eine neue Version des Dashboards zu publizieren. 
+    Meist Sonntagabend, nachdem wir am Wochenende nochmal richtig in die Tasten gehauen und viele Ideen umgesetzt haben. 
+    Ich habe während des Projekts extrem viel von den anderen im Team und von GoVolunteer gelernt. Nicht nur besseres 
+    Coden in R, sondern auch effektive Projektarbeit im virtuellen Team, das dabei erfreulicherweise sehr lebendig war.
+{{< /testimonial >}}
+
+{{< testimonial 
+    contact="Winnie Poel"
+    organisation="Doktorandin"
+    image="winnie.jpg"
+>}}
+    Ich habe am Datenjournalismus Workshop, während des Meetups in Mannheim, teilgenommen. Mir hat der Workshop die Scheu 
+    genommen eigene Projekte zu starten, öffentliche Daten herunterzuladen und damit zu experimentieren.
+{{< /testimonial >}}
