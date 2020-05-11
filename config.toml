@@ -4,7 +4,11 @@ DefaultContentLanguage  = "de"
 
 PygmentsCodeFences      = true
 PygmentsStyle           = "friendly"
-
+[params]
+    twitter         = "https://twitter.com/CorrelAid"
+    facebook        = "https://facebook.com/WeAreCorrelAid"
+    linkedin        = "https://www.linkedin.com/company/correlaid/"
+    
 [Languages]
 [Languages.en]
     contentDir      = "content/en"
@@ -18,7 +22,7 @@ PygmentsStyle           = "friendly"
 [Languages.de]
     contentDir      = "content/de"
     title           = "CorrelAid"
-    weight          = 0
+    weight          = 1
     languageName    = "Deutsch"
     [Languages.de.params]
             [Languages.de.params.navigation]
