@@ -1,6 +1,6 @@
 baseURL                 = "https://correlaid.org/"
 
-DefaultContentLanguage  = "de"
+DefaultContentLanguage  = "en"
 DefaultContentLanguageInSubdir = true
 
 PygmentsCodeFences      = true

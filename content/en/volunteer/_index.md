@@ -1,15 +1,10 @@
 ---
-title: "For volunteers"
-date: 2018-08-23T12:38:17+02:00
+title: "Volunteer"
+date: 2020-05-10T22:01:56+02:00
 draft: false
-menu: 
-    "main"
-translationKey: "volunteer"
-meta:
-    title: "CorrelAid - for volunteers"
-    description: "CorrelAid is a registered association with a network of 650 data analysts"
-    image: "509-correlaid-thumb.jpg"
-    keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
+menu:
+  main:
+    weight: 200
 ---
 
 
