@@ -25,15 +25,12 @@ CorrelAid Gruppenbild Mannheim
 {{< /image >}}
 
 # Ansprechpartner
-{{< contacts
-    show="'johannes_mueller','frie_preu','konstantin_gavras'"
 
->}}
 
 {{< person 
     name="Konstantin"
     subline="Finanzen und Spenden"
-    key="konstantin_gavras"
+    img="/images/people/konstantin.jpg"
     data-email="finanzen@correlaid.org"
     data-to="Konstantin  (Finanzen & Spenden)"
     link-color="ca-green-text"
