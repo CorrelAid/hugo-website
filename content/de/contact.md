@@ -24,9 +24,6 @@ meta:
     link-color="ca-green-text"
     x="0"
 >}}
-Konstantin (@kongavras) is a Ph.D. candidate at the Graduate School
-    of Economic and Social Sciences in Political Science and research associate at
-    the Chair of Political Psychology at the University of Mannheim.
 Konstantin ist Doktorand in Politikwissenschaft an der Graduate School
     of Economic and Social Sciences und wissenschaftlicher Mitarbeiter am Lehrstuhl für politische Psychologie an der Universität Mannheim. Bei CorrelAid ist er seit 2015 aktiv. Er kümmert sich derzeit um alle finanziellen Angelegenheiten und kann für Spenden kontaktiert werden. 
 {{< /person >}}
