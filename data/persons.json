@@ -1,0 +1,59 @@
+[
+  {
+    "first": "Konstantin",
+    "last": "Gavras",
+    "description": {
+      "de": "",
+      "en": ""
+    },
+    "img": "/images/people/xxx.jpg",
+    "twitter": "",
+    "email": "",
+    "email_to": "",
+    "linkedin": ""
+  },
+  {
+    "key": "konstantin_gavras",
+    "description": {
+      "de": "Konstantin ist Doktorand in Politikwissenschaft an der Graduate School of Economic and Social Sciences und wissenschaftlicher Mitarbeiter am Lehrstuhl für politische Psychologie an der Universität Mannheim. Bei CorrelAid ist er seit 2015 aktiv. Er kümmert sich derzeit um alle finanziellen Angelegenheiten und kann für Spenden kontaktiert werden. ",
+      "en": "Konstantin (@kongavras) is a Ph.D. candidate at the Graduate School of Economic and Social Sciences in Political Science and research associate at the Chair of Political Psychology at the University of Mannheim."
+    },
+    "img": "/images/people/konstantin.jpg",
+    "twitter": "kongavras",
+    "email": "finanzen@correlaid.org",
+    "email_to": "Konstantin (Finances)"
+  },
+  {
+    "key": "frie_preu",
+    "description": {
+      "de": "Frie ist seit 2015 bei CorrelAid aktiv und ist seit Februar 2020 hauptamtlich angestellt bei CorrelAid. Sie ist dort - zusammen mit Manuel - verantwortlich für die Koordination der Projekte, kümmert sich mit Jasmin um das Wissensmanagement und programmiert gerne interne Tools.  Bei alldem kann sie aus ihrer zweijährigen Berufserfahrung als IT Consultant schöpfen, während derer sie viel über Projektarbeit und deren technische Umsetzung lernen durfte.",
+      "en": ""
+    },
+    "img": "/images/people/frie.jpg",
+    "twitter": "ameisen_strasse",
+    "email": "frie.p@correlaid.org",
+    "email_to": "Frie (COO)"
+  },
+  {
+    "key": "johannes_mueller",
+    "description": {
+      "de": "Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsitzender. Er studierte im Master 'Evidence-based Policymaking' an der University of Oxford und Policy-Analyse an der Universität Konstanz. Er interessiert sich vor allem für Evaluierungsmethoden, die Nutzung von Evidenz und Daten in Gesellschaft und Politik, und Social Entrepreneurship.",
+      "en": ""
+    },
+    "img": "/images/people/johannes.jpg",
+    "twitter": "jjmllr",
+    "email": "johannes.m@correlaid.org",
+    "email_to": "Johannes (Chair)",
+    "linkedin": ""
+  },
+  {
+    "key": "regina_siegers",
+    "description": {
+      "de": "Regina studiert Survey Statistik an der Universität Bamberg. Sie interessiert sich für Evaluation und kausale Inferenz und ist bei CorrelAid für die Organisation der Lokalgruppen zuständig.",
+      "en": ""
+    },
+    "email": "regina.s@correlaid.org",
+    "email_to": "Regina",
+    "linkedin": ""
+  }
+]

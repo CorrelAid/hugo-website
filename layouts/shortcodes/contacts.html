@@ -1,0 +1,14 @@
+<div>
+
+    {{ $array := split (.Get "show") "," }}
+    {{ range $array }}
+    <h2>{{ . }} </h2>
+    {{end}}
+
+    {{ range .Site.Data.persons }}
+    <h2>{{ .key }} </h2>
+    {{end}}
+    {{ range where .Site.Data.persons ".key" "intersect" $array }}
+    <h2>{{ .key }}</h2>
+    {{end}}
+</div>
