@@ -12,47 +12,27 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
-Die Lokalgruppe Bremen ist Ende 2018 entstanden. Anstoß war das Lokalgruppen Kickoff Wochenende in Berlin. 
-Daraufhin haben sich zunächst über persönliche Kontakte an der Uni Bremen Interessierte aus den Sozialwissenschaften 
-und der Informatik zusammengefunden, die ein erstes Treffen zur Gründung der Lokalgruppe abgehalten haben.
+In Konstanz hat CorrelAid fast schon Tradition!
 
-Mittlerweile hat sich ein Kernteam herausgebildet, das sich regelmäßig im AStA-Konferenzraum der Universität trifft. 
-Für die nächste Zeit haben wir uns erstens vorgenommen, Kontakte zu knüpfen zu gemeinwohlorientierten Initiativen in 
-Bremen und „umzu“. Zweitens wollen wir ein Netzwerk von hier ansässigen Datenanalyst*innen aufbauen. Dazu streben 
-wir eine Kooperation mit verschiedenen Fachbereichen an der Uni Bremen an.
+Als "Geburtsort" von CorrelAid gab es in der kleinen Uni-Stadt am See schon immer einen großen Kreis an Data-Science begeisterten Studierenden. 
+Um diese Tradition mit Leben zu füllen, hat sich 2019 das Local Chapter Konstanz gegründet und seitdem bereits mehrere R-Workshops, Datenstammtische sowie Data-HackDays in Kooperation mit dem Team Datenjournalismus des SWR veranstaltet. Auch ein Projekt mit der NPO "Studieren ohne Grenzen" konnte realisiert werden. 
 
-Unser Team freut sich über weitere Unterstützung. Dies betrifft insbesondere Studis oder Staff der Hochschule Bremen, 
-der Jacobs University oder der Bremen International Graduate School of Social Sciences (BIGSSS). Wenn ihr 
-Interesse daran habt, selber Projekte mitzumachen, meldet euch im Newsletter an (wobei eine Angabe eures Wohnorts 
-dafür hilfreich wäre). Habt ihr Lust, im Orgateam aktiv zu werden, könnt ihr euch per E-Mail an Hendrik wenden.
+Für 2020 ist eine enge Kooperation mit dem Open-Data Portal der Stadt Konstanz geplant. 
+Ihr seht, Konstanz hat nicht nur CorrelAid-Tradition, ein eigenes Local Chapter und einen See zu bieten, sondern auch richtig viel Data4Good-Zukunft.
+
+Meldet euch also gerne wenn Ihr Lust habt bei uns mitzumischen oder einfach nur mal reinzuschnuppern.
 
 
 
 {{< person 
-    name="Hendrik"
-    subline="CorrelAidX Bremen"
-    img="/images/people/hendrik-f.jpg"
-    data-email="bremen@correlaid.org"
-    data-to="Hendrik (CorrelAidX Bremen)"
+    name="Philipp"
+    subline="CorrelAidX Konstanz"
+    img="/images/people/philipp_bosch.jpg"
+    data-email="konstanz@correlaid.org"
+    data-to="Konstanz (CorrelAidX Konstanz)"
     link-color="ca-red-text"
     x="1"
 >}}
-Hendrik ist Soziologiestudent an der Uni Bremen und euer Ansprechpartner für den hohen Norden.
-Ihn begeistert die Idee mit Datenanalyse die Welt zu verbessern und ein Peer-Learning Netzwerk von 
-Motivierten im Norden aufzubauen.
-{{< /person >}}
-
-{{< person 
-    name="Hendrik"
-    subline="CorrelAidX Bremen"
-    img="/images/people/hendrik-f.jpg"
-    data-email="bremen@correlaid.org"
-    data-to="Hendrik (CorrelAidX Bremen)"
-    link-color="ca-red-text"
-    x="1"
->}}
-Hendrik ist Soziologiestudent an der Uni Bremen und euer Ansprechpartner für den hohen Norden.
-Ihn begeistert die Idee mit Datenanalyse die Welt zu verbessern und ein Peer-Learning Netzwerk von 
-Motivierten im Norden aufzubauen.
+Phil studiert derzeit Social & Economic Data Science im Master und hatte als ehemaliger Student der Konstanzer Politik-und Verwaltungswissenschaften eigentlich keine Chance um CorrelAid herum zu kommen.
 {{< /person >}}
 
