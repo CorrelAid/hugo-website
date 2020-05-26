@@ -13,6 +13,23 @@
         <ul class="navbar-nav mr-auto"></ul>
         <ul class="navbar-nav">
 
+             <!-- ABOUT US -->
+             <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="about-us-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    {{ i18n "about-us" }}
+                </a>
+                <div class="dropdown-menu" aria-labelledby="about-us-dropdown">
+                    {{ range .Site.Menus.about }}
+                    <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                    {{ end }}
+
+                    {{ if eq .Site.Language.Lang "de"}}
+                    <a class="dropdown-item" href="https://soundcloud.com/correlaid_podcast"><i class="fas fa-external-link-square-alt"></i> Podcast</a>
+                    {{ end }}
+                </div>
+            </li>
+            <!-- /END ABOUT US -->
+            
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                   {{ $currentPage := . }}
