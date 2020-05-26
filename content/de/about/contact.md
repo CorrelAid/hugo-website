@@ -1,47 +1,22 @@
 ---
-title: "Über CorrelAid"
+title: "Kontakt"
 date: 2018-08-23T10:48:46+02:00
 draft: false
 translationKey: "about"
 menu:
-  main:
+  about:
     weight: -100
 meta:
-    title: "CorrelAid - Über uns"
+    title: "CorrelAid - Kontakt"
     description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 1400 ehrenamtlichen Datenanalyst*innen."
     image: "509-correlaid-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
 
-# Über CorrelAid
-
-CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von über 1400 ehrenamtlichen Datenanalyst\*innen. Wir haben bereits über 35 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für Datenanalyst\*innen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten.
-
-{{< image 
-    image="correlaid-mm-group.jpg"
->}}
-CorrelAid Gruppenbild Mannheim
-{{< /image >}}
-
 # Ansprechpartner
 
 
-{{< person 
-    name="Konstantin"
-    subline="Finanzen und Spenden"
-    img="/images/people/konstantin.jpg"
-    data-email="finanzen@correlaid.org"
-    data-to="Konstantin  (Finanzen & Spenden)"
-    link-color="ca-green-text"
-    x="0"
->}}
-Konstantin (@kongavras) is a Ph.D. candidate at the Graduate School
-    of Economic and Social Sciences in Political Science and research associate at
-    the Chair of Political Psychology at the University of Mannheim.
-Konstantin ist Doktorand in Politikwissenschaft an der Graduate School
-    of Economic and Social Sciences und wissenschaftlicher Mitarbeiter am Lehrstuhl für politische Psychologie an der Universität Mannheim. Bei CorrelAid ist er seit 2015 aktiv. Er kümmert sich derzeit um alle finanziellen Angelegenheiten und kann für Spenden kontaktiert werden. 
-{{< /person >}}
 
 {{< person 
     name="Johannes"
@@ -102,4 +77,21 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
     x="0"
 >}}
     Jasmin studiert nach einem Bachelor in Soziologie jetzt Social and Economic Data Science im Master in Konstanz. Sie ist seit dem Meetup 2017 bei CorrelAid und kümmert sich dort um den Bereich Bildung & Wissensmanagement. Außerdem hostet sie in unserem Podcast “CorrelTalk – der CorrelAid Podcast”.
+{{< /person >}}
+
+
+{{< person 
+    name="Konstantin"
+    subline="Finanzen und Spenden"
+    img="/images/people/konstantin.jpg"
+    data-email="finanzen@correlaid.org"
+    data-to="Konstantin  (Finanzen & Spenden)"
+    link-color="ca-green-text"
+    x="0"
+>}}
+Konstantin (@kongavras) is a Ph.D. candidate at the Graduate School
+    of Economic and Social Sciences in Political Science and research associate at
+    the Chair of Political Psychology at the University of Mannheim.
+Konstantin ist Doktorand in Politikwissenschaft an der Graduate School
+    of Economic and Social Sciences und wissenschaftlicher Mitarbeiter am Lehrstuhl für politische Psychologie an der Universität Mannheim. Bei CorrelAid ist er seit 2015 aktiv. Er kümmert sich derzeit um alle finanziellen Angelegenheiten und kann für Spenden kontaktiert werden. 
 {{< /person >}}
