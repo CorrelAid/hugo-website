@@ -5,7 +5,7 @@ draft: false
 translationKey: "about"
 menu:
   about:
-    weight: -100
+    weight: -200
 meta:
     title: "CorrelAid - Kontakt"
     description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 1400 ehrenamtlichen Datenanalyst*innen."
