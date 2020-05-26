@@ -5,6 +5,7 @@ DefaultContentLanguageInSubdir = true
 
 PygmentsCodeFences      = true
 PygmentsStyle           = "friendly"
+enableEmoji             = true 
 [params]
     twitter         = "https://twitter.com/CorrelAid"
     facebook        = "https://facebook.com/WeAreCorrelAid"
