@@ -407,6 +407,11 @@ i.caveat {
     margin: 15px auto;
 }
 
+.ca-btn.dark-blue {
+    background-color: #233140;
+    border-color: #444444;
+}
+
 .ca-btn.fixed {
     display: inline-block;
     width: 300px;
