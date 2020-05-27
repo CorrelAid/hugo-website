@@ -7,42 +7,51 @@ menu:
     weight: 200
 ---
 
-## Doing data4good projects
 
-Our data4good projects are probably the main reason why you are thinking about joining CorrelAid. You want to use your skills for the social good? Excellent, you've come to the right place, we've done over 40 projects so far and are constantly talking to new organizations to organize more projects.
+# Werde aktiv bei CorrelAid!
 
-It is important to understand that at CorrelAid, there's **no fixed pool of data analysts** who have prioritized access to the projects: There's no secret club of CorrelAid data scientists who exclusively get to work on our data4good projects. Instead, **applications are collected on a per-project basis**. Project call for applications are sent out to our **newsletter email list** and you can **then apply for a specific project** that you consider interesting. 
+Unser Netzwerk bietet verschiedene Möglichkeiten, sich zu vernetzen und für data4good aktiv zu werden. Werde ein Teil davon!
 
-{% hint style="warning" %}
-There's no need to apply to our info mail with a CV or anything. Just sign up for our [newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) and you'll get all opportunities straight to your inbox. 
-{% endhint %}
+## Helfe gemeinnützigen Organisationen
 
-So the only thing you need to do to join a CorrelAid data4good project is [sign up for the newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) and wait until a cool project comes around! Depending on the month, we start 1-4 projects per month. 
+Die Kernaufgabe unserer Arbeit besteht darin, die Non-Profit-Organisationen (NPO) mit unserem Netzwerk von Datenanalyst:innen zu verbinden. In Teams mit üblicherweise 2-7 Personen helfen wir den NPos, Einblick in ihre eigenen Daten zu gewinnen und diese nutzbar zu machen.
 
-Sign up for our newsletter [here](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff).
+Es ist wichtig zu verstehen, dass es bei CorrelAid keinen festen Pool von Datenanalyst:innen gibt, die privilegierten Zugang zu den Projekten haben: Es gibt keinen geheimen Club von CorrelAid-Datenanalyst:innen, die ausschließlich an unseren data4good-Projekten arbeiten. Stattdessen wird jedes Projekt über unseren  [E-Mail-Newsletter] (https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) ausgeschrieben, und du kannst dich dann für die Projekte bewerben, die du interessant findest. Üblicherweise starten wir jeden Monat starten ca 1-4 Projekte.
 
-## Connect with other data analysts
+{{< ctabutton 
+    text="Melde dich für unseren Newsletter an"
+    href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"
+>}}
 
-### CorrelAidX
+Wenn du eine NPO kennst, die über Daten verfügt, aber nicht recht weiß, wie sie diese nutzen kann, lass es unser Projektkoordinationsteam rund um [Frie](mailto:projekte@correlaid.org) wissen! 
+Wenn du bereits Erfahrung in Data Science Beratung hast und uns helfen willst, unsere Projektarbeit zu verbessern, schreibe gerne eine E-Mail an [Johannes](mailto:johannes.m@correlaid.org).
 
-If you want to network with other data scientists, consider joining one of our CorrelAidX chapters. While CorrelAid is a remote organisation, we also have local chapters that meet in-person regularly. You can find all local chapters along with contact addresses on our [website](https://correlaid.org/en/correlaid-x/). If you want to start your own chapter, feel free to reach out to [Regina](mailto:regina.s@correlaid.org).
+## Austausch und Netzwerk
 
-### Slack
+### Jährliche Data4Good Konferenz
+Wir treffen uns ein- oder zweimal im Jahr zu unserer data4good-Minikonferenz (auch bekannt als "das Meetup"). Jede:r - unabhängig von Erfahrung oder Hintergrund - ist herzlich willkommen. Ob in Berlin, Duisburg, Bonn, Hamburg oder Mannheim: Bei Workshops, Diskussionen und Bar-Hopping kannst du viele gleichgesinnte Data Scientists treffen. Erfahrungsberichte zu den Meetups der letzten Jahre findest du [hier](de/blog/meetup-berlin/), [hier](de/blog/meetup-hh/), [hier](de/blog/meetup-bonn/) und [hier](/de/blog/meetup-mannheim/). 
 
-Regardless of whether a local chapter is close to you or not, you can always request to join our [Slack](wiki/communication/slack.md#i-want-to-get-access-to-slack-how-do-i-get-it) to find community there. 
+### CorrelAidX: data4good auf lokaler Ebene
+Im Rahmen von CorrelAidX haben wir Local Chapter in einigen deutschen Städten sowie in den Niederlanden und in Paris gegründet. In einem Local Chapter können Data Scientists eigene Workshops und Hackathons organisieren sowie Projekte mit lokalen NPOs durchführen. Alle existierenden CorrelAidX-Chapter und Anlaufstellen findest du [hier](/de/correlaid-x).
+Wenn du ein eigenes Chapter gründen möchtest, oder wenn du wissen möchtest, ob es in deiner Umgebung andere Data4Good Data Scientists gibt, schreib eine E-Mail an unsere Community Managerin [Isabel](mailto:isabel.w@correlaid.org). 
 
-## Get involved in the core team
+### Slack Community 
+Egal ob ein Local Chapter in deiner Nähe ist oder nicht: Du kannst immer unserem Slack beitreten, dich dort mit gleichgesinnten Data Scientists vernetzen, im #help-Channel nach Unterstützung für deine Probleme fragen und einen tieferen Einblick in die Arbeit von CorrelAid erhalten. Schreibe eine Email an [info@correlaid.org](mailto:info@correlaid.org) und Isabel oder Frie fügen dich gerne hinzu.
 
-The core team is the organizational team of CorrelAid which keeps us running. From organizing projects and creating educational content to writing grant applications - there is loads to do. The core team is divided into different subteams:
+## Bewusstsein für Data-for-Good schaffen
 
-* **project coordination team**: the project coordination team coordinates the data4good projects, i.e. they talk to the organization, find out how we can help them and sends out the project call for applications. They usually _do not actively code_ for the projects. Relevant Slack channels: \#projects, and a private channel you will be added to if you're interested in becoming a project coordinator.
-* **education team**: this team creates educational content and organizes projects that benefit our network members. They also aim to create content for NPOs about data organization and simple data analysis skills. Finally, our Podcast [CorrelTalk](https://www.spreaker.com/show/correltalk-the-correlaid-podcast) is  produced by members of the education team. Relevant Slack channels: \#education, \#podcast. 
-* **PR team**: from filling our blog to posting on social media to designing stickers and other [CorrelAid merch](wiki/correlaid-merch.md). The PR team is responsible for everything that represents CorrelAid to the outside. Relevant channels: \#pr, \#pr-team. 
-* **fundraising team**: the fundraising team looks out for funding opportunities for CorrelAid, collaborates with other organizations on grant proposals etc. Relevant Slack channels: \#fundraising.
-* **infrastructure team**: the infrastructure team takes care of our hugo website, our cloud resources, the CorrelAid Slackbot, the self-hosted [CodiMD](wiki/infrastructure/codimd.md) and the administration of our NextCloud instance [CorrelCloud](wiki/infrastructure/correlcloud.md). They also actively develop said tools - especially CodiMD and the website - so if you're a \(JS / Python / Frontend\) developer, this is the right place to get involved! 👩💻 👨💻 
+Du arbeitest an einem interessanten Datenprojekt und möchtest deine Ergebnisse einem breiteren Publikum zugänglich machen? Du nimmst an interessanten Veranstaltungen teil und möchtest deine Erfahrungen teilen? Wir freuen uns immer, Beiträge aus der CorrelAid-Community in unserem Blog zu veröffentlichen. Schreibe einfach eine E-Mail an [Yannik] (mailto:blog@correlaid.org), und er wird dich dabei unterstützen.
 
-If you want to be involved in the core team, it's best to do the following:
+Du hast Informationen zu Hackathons, Diskussionsrunden, Veranstaltungen, Artikel, oder Trends bezüglich Daten und Datenanalyse? [Rahel](mailto:newsletter@correlaid.org) freut sich immer über Anregungen für den CorrelAid-Newsletter!
 
-1. Write an email to [Frie](mailto:frie.p@correlaid.org) explaining where you'd like to participate. You'll then get an invite to our [Slack](wiki/communication/slack.md). 
-2. You'll probably also need an [CodiMD](wiki/infrastructure/codimd.md) account later on. 
+## CorrelAid organisieren 
 
+Das Core Team ist ein Team von ca. 30 Ehrenamtlichen, die CorrelAid am Laufen halten. Von der Koordination unserer data4good-Projekte und der Erstellung von Bildungsinhalten bis zum Schreiben von Anträgen - es gibt viel zu tun. Das Core Team ist in verschiedene Subteams aufgeteilt: 
+
+* **Projektkoordination**: Das Projektkoordinationsteam koordiniert die data4good-Projekte, d.h. es spricht mit potenziellen Partnerorganisationen, findet heraus, wie und in welchem Umfang wir ihnen helfen können und erstellt die Projektausschreibung. Im Verlauf des Projekts behält das Koordinationsteam ein Auge darauf, dass alle glatt läuft.
+* **Bildungsteam**: Das Bildungsteam erstellt Bildungsinhalte und organisiert Events und Projekte, die unseren Netzwerkmitgliedern zugute kommen. Zusätzlich dazu kümmern sie sich um die Erstellung von Inhalten für NPOs, um diese zu enabeln. Schließlich wird unser Podcast [CorrelTalk] (https://www.spreaker.com/show/correltalk-the-correlaid-podcast) von Mitgliedern des Bildungsteams produziert. Relevante Slack-Kanäle: \#Ausbildung, \#Podcast. 
+* **PR-Team**: ob Content für den Blog, die Betreuung unserer Social-Media Kanäle oder die Gestaltung von Stickern und anderem CorrelAid Merch: Das PR-Team ist für alles verantwortlich, was CorrelAid nach außen repräsentiert. 
+* **Fundraising-Team**: Das Fundraising-Team hält Ausschau nach Finanzierungsmöglichkeiten für CorrelAid und arbeitet mit anderen Organisationen Anträge aus usw. 
+* **Infrastruktur-Team**: Das Team Infrastruktur kümmert sich um unsere Hugo-Website, unsere Cloud-Ressourcen, den CorrelAid Slackbot, das selbst gehostete CodiMD und die Verwaltung unserer NextCloud-Instanz CorrelCloud. Sie entwickeln auch aktiv besagte Tools - insbesondere CodiMD und die Website. Wenn du also Hugo / JS / Python / Frontend-Entwickler bist und auf der Suche nach einer Herausforderung, ist dies der richtige Ort, um sich zu engagieren! 
+
+Wenn du uns in unserer internen Arbeit unterstützen möchtest, schreibe eine E-Mail an [info@correlaid.org](mailto:info@correlaid.org) - entweder Frie oder Isabel wird dir bald darauf antworten. Wenn du helfen möchtest, aber noch nicht weißt, wie genau, kannst du gerne [Isabel](isabel.w@correlaid.org) kontaktieren. 
