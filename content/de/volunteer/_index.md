@@ -10,13 +10,17 @@ menu:
 
 # Werde aktiv bei CorrelAid!
 
-Unser Netzwerk bietet verschiedene Möglichkeiten, sich zu vernetzen und für data4good aktiv zu werden. Werde ein Teil davon!
+Unser Netzwerk bietet verschiedene Möglichkeiten, miteinander in Kontakt zu treten und für data4good aktiv zu werden. Werde ein Teil unserer Community!
 
 ## Helfe gemeinnützigen Organisationen
 
-Die Kernaufgabe unserer Arbeit besteht darin, die Non-Profit-Organisationen (NPO) mit unserem Netzwerk von Datenanalyst:innen zu verbinden. In Teams mit üblicherweise 2-7 Personen helfen wir den NPos, Einblick in ihre eigenen Daten zu gewinnen und diese nutzbar zu machen.
+Die Kernaufgabe unserer Arbeit besteht darin, Non-Profit-Organisationen (NPO) mit unserem Netzwerk von Datenanalyst:innen zu verbinden. In Teams mit üblicherweise 2-7 Personen helfen wir den NPos, Einblick in ihre eigenen Daten zu gewinnen und diese nutzbar zu machen.
 
-Es ist wichtig zu verstehen, dass es bei CorrelAid keinen festen Pool von Datenanalyst:innen gibt, die privilegierten Zugang zu den Projekten haben: Es gibt keinen geheimen Club von CorrelAid-Datenanalyst:innen, die ausschließlich an unseren data4good-Projekten arbeiten. Stattdessen wird jedes Projekt über unseren  [E-Mail-Newsletter] (https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) ausgeschrieben, und du kannst dich dann für die Projekte bewerben, die du interessant findest. Üblicherweise starten wir jeden Monat starten ca 1-4 Projekte.
+Alternativvorschlag für den folgenden Absatz:
+
+Jedes unserer Projekte wird über unseren [E-Mail-Newsletter] (https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) ausgeschrieben. Die Bewerbung ist für alle Datenanalyst:innen unseres Netzwerks offen. Es gibt bei CorrelAid keinen festen Pool von Datenanalyst:innen gibt, die privilegierten Zugang zu den Projekten haben Du kannst dich für all die Projekte bewerben, die du interessant findest. Üblicherweise starten wir jeden Monat ca. 1-4 Projekte.
+
+Es ist wichtig zu verstehen, dass es bei CorrelAid keinen festen Pool von Datenanalyst:innen gibt, die privilegierten Zugang zu den Projekten haben: Es gibt keinen geheimen Club von CorrelAid-Datenanalyst:innen, die ausschließlich an unseren data4good-Projekten arbeiten. Stattdessen wird jedes Projekt über unseren  [E-Mail-Newsletter] (https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) ausgeschrieben, und du kannst dich dann für die Projekte bewerben, die du interessant findest. Üblicherweise starten wir jeden Monat ca 1-4 Projekte.
 
 {{< ctabutton 
     text="Melde dich für unseren Newsletter an"
@@ -24,7 +28,7 @@ Es ist wichtig zu verstehen, dass es bei CorrelAid keinen festen Pool von Datena
 >}}
 
 Wenn du eine NPO kennst, die über Daten verfügt, aber nicht recht weiß, wie sie diese nutzen kann, lass es unser Projektkoordinationsteam rund um [Frie](mailto:projekte@correlaid.org) wissen! 
-Wenn du bereits Erfahrung in Data Science Beratung hast und uns helfen willst, unsere Projektarbeit zu verbessern, schreibe gerne eine E-Mail an [Johannes](mailto:johannes.m@correlaid.org).
+Wenn du bereits Erfahrung in Data Science Beratung hast und uns helfen willst/möchtest, unsere Projektarbeit zu verbessern, schreibe gerne eine E-Mail an [Johannes](mailto:johannes.m@correlaid.org).
 
 ## Austausch und Netzwerk
 
@@ -48,10 +52,10 @@ Du hast Informationen zu Hackathons, Diskussionsrunden, Veranstaltungen, Artikel
 
 Das Core Team ist ein Team von ca. 30 Ehrenamtlichen, die CorrelAid am Laufen halten. Von der Koordination unserer data4good-Projekte und der Erstellung von Bildungsinhalten bis zum Schreiben von Anträgen - es gibt viel zu tun. Das Core Team ist in verschiedene Subteams aufgeteilt: 
 
-* **Projektkoordination**: Das Projektkoordinationsteam koordiniert die data4good-Projekte, d.h. es spricht mit potenziellen Partnerorganisationen, findet heraus, wie und in welchem Umfang wir ihnen helfen können und erstellt die Projektausschreibung. Im Verlauf des Projekts behält das Koordinationsteam ein Auge darauf, dass alle glatt läuft.
-* **Bildungsteam**: Das Bildungsteam erstellt Bildungsinhalte und organisiert Events und Projekte, die unseren Netzwerkmitgliedern zugute kommen. Zusätzlich dazu kümmern sie sich um die Erstellung von Inhalten für NPOs, um diese zu enabeln. Schließlich wird unser Podcast [CorrelTalk] (https://www.spreaker.com/show/correltalk-the-correlaid-podcast) von Mitgliedern des Bildungsteams produziert. Relevante Slack-Kanäle: \#Ausbildung, \#Podcast. 
+* **Projektkoordination**: Das Projektkoordinationsteam koordiniert die data4good-Projekte, d.h. es spricht mit potenziellen Partnerorganisationen, findet heraus, wie und in welchem Umfang wir ihnen helfen können und erstellt die Projektausschreibungen. Im Verlauf des Projekts behält das Koordinationsteam ein Auge darauf, dass alle glatt läuft.
+* **Bildungsteam**: Das Bildungsteam erstellt Bildungsinhalte und organisiert Events und Projekte, die unseren Netzwerkmitgliedern zugute kommen. Zusätzlich dazu kümmert es sich um die Erstellung von Inhalten für NPOs, um diese zu enabeln/weiterzubilden/zu befähigen als Multiplikator:innen zu agieren. Schließlich wird unser Podcast [CorrelTalk] (https://www.spreaker.com/show/correltalk-the-correlaid-podcast) von Mitgliedern des Bildungsteams produziert. Relevante Slack-Kanäle: \#Ausbildung, \#Podcast. 
 * **PR-Team**: ob Content für den Blog, die Betreuung unserer Social-Media Kanäle oder die Gestaltung von Stickern und anderem CorrelAid Merch: Das PR-Team ist für alles verantwortlich, was CorrelAid nach außen repräsentiert. 
 * **Fundraising-Team**: Das Fundraising-Team hält Ausschau nach Finanzierungsmöglichkeiten für CorrelAid und arbeitet mit anderen Organisationen Anträge aus usw. 
-* **Infrastruktur-Team**: Das Team Infrastruktur kümmert sich um unsere Hugo-Website, unsere Cloud-Ressourcen, den CorrelAid Slackbot, das selbst gehostete CodiMD und die Verwaltung unserer NextCloud-Instanz CorrelCloud. Sie entwickeln auch aktiv besagte Tools - insbesondere CodiMD und die Website. Wenn du also Hugo / JS / Python / Frontend-Entwickler bist und auf der Suche nach einer Herausforderung, ist dies der richtige Ort, um sich zu engagieren! 
+* **Infrastruktur-Team**: Das Team Infrastruktur kümmert sich um unsere Hugo-Website, unsere Cloud-Ressourcen, den CorrelAid Slackbot, das selbst gehostete CodiMD und die Verwaltung unserer NextCloud-Instanz CorrelCloud. Es entwickelt auch aktiv besagte Tools - insbesondere CodiMD und die Website. Wenn du also Hugo / JS / Python / Frontend-Entwickler:in bist und auf der Suche nach einer Herausforderung, ist dies der richtige Ort, um sich/dich zu engagieren! 
 
-Wenn du uns in unserer internen Arbeit unterstützen möchtest, schreibe eine E-Mail an [info@correlaid.org](mailto:info@correlaid.org) - entweder Frie oder Isabel wird dir bald darauf antworten. Wenn du helfen möchtest, aber noch nicht weißt, wie genau, kannst du gerne [Isabel](isabel.w@correlaid.org) kontaktieren. 
+Wenn du uns in unserer internen Arbeit unterstützen möchtest, schreibe eine E-Mail an [info@correlaid.org](mailto:info@correlaid.org) - entweder Frie oder Isabel werden dir bald darauf antworten. Wenn du helfen möchtest, aber noch nicht weißt, wie genau, kannst du gerne [Isabel](isabel.w@correlaid.org) kontaktieren. 
