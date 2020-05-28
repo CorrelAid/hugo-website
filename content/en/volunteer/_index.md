@@ -7,25 +7,18 @@ menu:
     weight: 200
 ---
 
-
-
 # Volunteering at CorrelAid
 
-Our network provides different possibilities to network and get active for data4good. Become a part of it!
+Our network provides different possibilities to network and get active for data4good. Become a part of our community!
 
 ## Help non-profit organizations
 
-The core task of our work is connecting NGOs with our network of data analysts. In teams of usually 2-7 people, we help NPos to gain insight into their own data and leverage the results. 
+The core task of our work is connecting NPOs with our network of data analysts. In teams of usually 2-7 people, we help NPOs to gain insight into their own data and leverage the results. Depending on the month, we start 1-4 projects per month. 
 
-It is important to understand that at CorrelAid, there's no fixed pool of data analysts who have prioritized access to the projects: There's no secret club of CorrelAid data scientists who exclusively get to work on our data4good projects. Instead, applications are collected on a per-project basis. Project call for applications are sent out to our [email newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) and you can then apply for those projects that you consider interesting. Depending on the month, we start 1-4 projects per month. 
-
-{{< ctabutton 
-    text="Sign up for our newsletter"
-    href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"
->}}
+For each project, we publish a call for applications via our [e-mail newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff). The application is then open to all data analysts of our network and you can apply for all the projects you find interesting. 
 
 If you are in contact with a NPO that holds some fascinating data, without quite knowing how to make use of it, send an e-mail to [Frie](mailto:projekte@correlaid.org). 
-If you already have experience in analytics consulting and you want to help us to improve our project work, write an e-mail to [Johannes](mailto:johannes.m@correlaid.org).
+If you already have experience in doing data science projects and you want to help us to improve our project work, write an e-mail to [Johannes](mailto:johannes.m@correlaid.org).
 
 ## Exchange and Network
 
