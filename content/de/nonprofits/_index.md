@@ -12,7 +12,7 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
-# Für gemeinnützige Organisationen
+# Für Non-Profit-Organisationen
 
 ## CorrelAid Data4Good Projekte
 In unseren Skilled-Volunteering Projekten bringen wir ehrenamtliche Data Scientists aus unserem Netzwerk von über 1300 freiwilligen Data Scientists mit gemeinnützigen Organisationen zusammen. In den Projekten erhalten unsere Data Scientists die Gelegenheit, ihre Kenntnisse in der Praxis anzuwenden und neue Skills hinzuzugewinnen. Gleichzeitig unterstützen sie gemeinnützige Organisationen dabei, ihre datenbezogenen Herausforderungen zu lösen. 
@@ -79,9 +79,14 @@ Das Team übergibt euch in einem Abschlussworkshop die Ergebnisse und führt euc
 Sowohl das Projektteam als auch ihr werden nach ihrer Erfahrung mit dem Projekt befragt. Zusätzlich unterstützt ihr das Projektteam bei der Erarbeitung einer Projektbeschreibung, die nach dem Projekt auf der CorrelAid-Website das Projekt darstellen wird.
 {{< /process >}}
 
-# Datendialog
+[Ihr habt eine Projektidee? Reicht sie hier ein!](https://www.surveymonkey.de/r/correlaid_projekt_einreichen)
 
-Wir wollen einen Dialog zwischen der Zivilgesellschaft und der Data Science Community anstoßen und gemeinsam Ideen für Data-for-Good-Projekte entwickeln. Dafür haben wir das Konzept des "Datendialogs" entwickelt. Bei einem Datendialog kommen drei bis fünf NGOs mit ca. 20 Datenanalyst\*innen zusammen. Beide Seiten lernen sich und ihre Arbeit dabei besser kennen und loten aus, welche Daten den jeweiligen Organisationen zur Verfügung stehen und welche Datenanalysen die Arbeit der Organisation unterstützen können. Was wir bei unseren bisherigen Datendialogen gemacht haben könnt ihr hier lesen: [Datendialog Hamburg](/blog/meetup-hh) und [Datendialog in Berlin](/blog/datendialog-berlin).
+## Abgeschlossene Projekte
+IN ARBEIT
+
+Wir arbeiten derzeit an Inhalten zu unseren abgeschlossenen Projekten. 
+In der Zwischenzeit könnt ihr euch [diese Episode]((https://soundcloud.com/correlaid_podcast/about-correlaid-automatisierte-reportgenerierung-fur-die-weltladen)) unseres Podcasts _CorrelTalk_ anhören, in der Projektteammitglied Gideon und Annegret vom Weltladen Dachverband über das Projekt zur Reporting-Automatisierung erzählen. 
+
 
 # Testimonials
 {{< testimonial 
@@ -93,8 +98,6 @@ Wir wollen einen Dialog zwischen der Zivilgesellschaft und der Data Science Comm
     Einblicke verschafft. Mit unserem begrenzten Budget hätten wir diese Leistungen nie bezahlen können. Es sollte mehr
     Organisationen, wie CorrelAid geben.
 {{< /testimonial >}}
-
-
 
 {{< testimonial 
     contact="Claire Samtleben"
@@ -112,12 +115,6 @@ Wir wollen einen Dialog zwischen der Zivilgesellschaft und der Data Science Comm
 >}}
     Die Zusammenarbeit mit CorrelAid hat uns hochspannende Einblicke in die Möglichkeiten der Datenanalyse gegeben.
 {{< /testimonial >}}
-
-## Previous projects
-IN ARBEIT
-
-Wir arbeiten derzeit an Inhalten zu unseren abgeschlossenen Projekten. 
-In der Zwischenzeit könnt ihr euch [diese Episode]((https://soundcloud.com/correlaid_podcast/about-correlaid-automatisierte-reportgenerierung-fur-die-weltladen)) unseres Podcasts _CorrelTalk_ anhören, in der Projektteammitglied Gideon und Annegret vom Weltladen Dachverband über das Projekt zur Reporting-Automatisierung erzählen. 
 
 ## FAQ
 ### Was sind die Kosten für unsere gemeinnützige Organisation?

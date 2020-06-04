@@ -21,8 +21,6 @@ Over 2-6 months and in teams from 2-7 data scientists, our volunteers have tackl
 [You think your organization does not work with data? Well, think again...](/en/nonprofits/what-is-data)
 
 
-
-
 ## The project process
 How does a CorrelAid project work? What are the phases and what work do you as a nonprofit need to do?
 
@@ -35,7 +33,7 @@ How does a CorrelAid project work? What are the phases and what work do you as a
     work="**Your input**: iterative exchange with project coordination team (in total ~1-3 hours)"
     icon="fa-comments"
 >}}
-Together with our project coordinators, you work on defining the challenge that you face. We then decide whether our volunteers can help us. If this is the case, we define the approximate scope and duration of the project and collect the content for the call for applications.
+Together with our project coordinators, you work on defining the challenge that you face. We then decide whether our volunteers can help you. If this is the case, we define the approximate scope and duration of the project and collect the content for the call for applications.
 {{< /process >}}
 
 
@@ -55,7 +53,7 @@ We send out the call for applications to our network and select a project team o
     icon="fa-rocket"
 >}}
 We onboard the team to all the tooling that we use for communication and collaboration. At the same time, our project coordiantors, the project lead and you plan the kickoff workshop where you and the team can meet, get to know each other and more clearly define goals, modes of collaboration and content of the project. 
-If possible, this workshop takes place at your office or in the city you're mainly operating over the course of a weekend. If this is not possible, the kickoff is a remote online event (~2-3 hours). 
+If possible, this workshop takes place at your office or in the city you're mainly operating in over the course of a weekend. If this is not possible, the kickoff takes place as a remote online event (~2-3 hours). 
 {{< /process >}}
 
 {{< process 
@@ -88,27 +86,7 @@ Both the project team and you will be surveyed about your experience with the pr
 In addition, you support the project team with creating content for a project description which will be displayed on the CorrelAid website after the project has ended.
 {{< /process >}}
 
-
-{{< process 
-    title="problem definition & definition of project scope"
-    duration="1-3 weeks"
->}}
-problem definition & definition of project scope: together, our project coordination team and you work out what exactly the challenge is that you are facing and whether it can be solved using data science techniques. If this is the case, we scope the project, i.e. we roughly define what will be done as part of the project. This phase usually takes 1-4 weeks, depending on the problem.
-{{< /process >}}
-
-
-{{< process 
-    title="Project work"
-    duration="1-6 months"
->}}
-The CorrelAid team works on your data challenge. Regular calls between you and the team ensure that feedback cycles are short. 
-{{< /process >}}
-
-{{< process 
-    
->}}
-first contact: either CorrelAid contacts you or you contact us and we establish some form of communication, usually via email.
-{{< /process >}}
+[Submit a project!](https://www.surveymonkey.de/r/correlaid_projekt_einreichen)
 
 
 ## Previous projects
@@ -116,6 +94,37 @@ UNDER CONSTRUCTION
 
 We are currently working on content showcasing our previous projects. So stay tuned. 
 If you are German-speaking, you can listen to [this episode](https://soundcloud.com/correlaid_podcast/about-correlaid-automatisierte-reportgenerierung-fur-die-weltladen) of our podcast CorrelTalk where project team member Gideon and Annegret of the Weltladen Dachverband talk about the project we did on automation of reporting processes. 
+
+
+## Testimonials
+
+{{< testimonial 
+    contact="Anna Saraste"
+    organisation="European Youth Parliament"
+    image="eyp.jpg"
+>}}
+    It was a very, very positive experience for us. It was amazing insight that CorrelAid brought and was super practical. On our limited budget, we would never have 
+    been able to afford this. I think what the group does is outstanding. There should be more like this.
+{{< /testimonial >}}
+
+{{< testimonial 
+    contact="Claire Samtleben"
+    organisation="Diskutier-Mit-Mir"
+    image="diskutier-mit-mir.jpg"
+>}}
+    By working with Correlaid we got new perspectives on our project. 
+    For the further development of Diskutier-Mit-Mir that was very helpful!
+{{< /testimonial >}}
+
+{{< testimonial 
+    contact="Ivo (Product Manager)"
+    organisation="ProjectTogether"
+    image="ivo-project-together.jpg"
+>}}
+    The cooperation with CorrelAid gave us fascinating insights into what is possible with data analysis.
+{{< /testimonial >}}
+
+
 
 ## FAQ
 ### How much does it cost?
