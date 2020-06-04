@@ -7,39 +7,20 @@ menu:
     weight: 100
 meta:
     title: "CorrelAid - Für Non-Profits"
-    description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 1400 ehrenamtlichen Datenanalyst*innen."
+    description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 1300 ehrenamtlichen Datenanalyst*innen."
     image: "509-correlaid-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
+# Für gemeinnützige Organisationen
 
+## CorrelAid Data4Good Projekte
+In unseren Skilled-Volunteering Projekten bringen wir ehrenamtliche Data Scientists aus unserem Netzwerk von über 1300 freiwilligen Data Scientists mit gemeinnützigen Organisationen zusammen. In den Projekten erhalten unsere Data Scientists die Gelegenheit, ihre Kenntnisse in der Praxis anzuwenden und neue Skills hinzuzugewinnen. Gleichzeitig unterstützen sie gemeinnützige Organisationen dabei, ihre datenbezogenen Herausforderungen zu lösen. 
+Über einen Zeitraum von 2-6 Monaten und in Teams von 2-7 Scientists haben unsere Freiwilligen in der Vergangenheit ganz verschiedene Datenherausforderungen von NPOs bewältigt: von der Datenerfassung, Datenvisualisierung und explorativen Datenanalyse bis hin zu Automatisierung, Reporting und fortgeschrittenen statistischen Analysen mithilfe von Machine Learning und Deep Learning Techniken.
 
-## Sie glauben, dass Ihre Organisation nicht mit Daten arbeitet? Nun, denken Sie noch mal nach...
+[Ihr glaubt, ihr habt keine Daten? Sicher...?](/en/nonprofits/what-is-data)
 
-Die Organisationen, mit denen wir bisher zusammengearbeitet haben, kommen aus verschiedenen Bereichen: Soziale Arbeit mit Kindern oder älteren Menschen, Aktivismus für politische Rechte und Anwälte von Migrantengemeinschaften oder Behinderten, aber auch Sportvereine und Verbände für Freizeitaktivitäten. Auf den ersten Blick könnte man meinen, dass diese Organisationen in ihrem Alltagsgeschäft nicht mit Daten arbeiten und deshalb von einer Zusammenarbeit mit CorrelAid nicht wirklich profitieren können. Diese Perspektive bezieht sich auf das Problem, dass sich viele Menschen nicht wirklich vorstellen können, was Daten im Grunde genommen sind und wie Datenwissenschaftler mit ihnen arbeiten.
-
-Wenn man über Daten nachdenkt, denkt man vielleicht an lange Excel-Tabellen und langweilige Nachmittage im Büro. Per Definition beziehen sich Daten jedoch auf Informationen. Wenn eine ausreichend große Menge an Informationen gesammelt wird, können Datenwissenschaftler Muster und Trends beobachten, analysieren und vorhersagen.
-BEISPIEL BITTE
-
-Wenn Ihre Organisation mit digitalen Formaten der Informationen arbeitet, die für die Aufrechterhaltung des täglichen Betriebs erforderlich sind, ist es sehr wahrscheinlich, dass sie mit Daten arbeitet.
-
-    Daten von Spenden
-    Daten aus sozialen Medien (Twitter, Facebook,...)
-    Protokolle/Minuten
-    Mitgliederdatenbank
-    Bewerbungsunterlagen
-    Erfahrungsberichte
-    Umfragedaten
-    Newsletter-Daten
-    Website-Daten
-
-## CorrelAid data4good Projekte
-CorrelAid arbeitet mit gemeinnützigen Organisationen zusammen, um sie bei ihren datenbezogenen Herausforderungen zu unterstützen. Dies erreichen wir, indem wir gemeinnützige Organisationen mit Data Scientists aus unserem Netzwerk von über 1300 freiwilligen Scientists zusammenbringen. Gleichzeitig dienen unsere Projekte als Gelegenheit für unsere Freiwilligen, ihre vorhandenen Fähigkeiten anzuwenden und neues Wissen zu erwerben. 
-Über einen Zeitraum von 2-6 Monaten und in Teams von 2-7 Scientists haben unsere Freiwilligen in der Vergangenheit ganz verschiedene Datenherausforderungen bewältigt: von der Datenerfassung, Datenvisualisierung und explorativen Datenanalyse bis hin zu Automatisierung, Reporting und fortgeschrittenen statistischen Analysen mithilfe von Machine Learning und Deep Learning Techniken.
-
-Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
-
-## Prozess
+## Der Projektprozess
 
 {{< process 
     title="Projektdefinition"
@@ -47,7 +28,7 @@ CorrelAid arbeitet mit gemeinnützigen Organisationen zusammen, um sie bei ihren
     work="**Arbeitsaufwand für euch**: iterativer Austausch mit Projektkoordinator:innen (ca. 1-3 Stunden)"
     icon="fa-comments"
 >}}
-Unsere Projektkoordinator:innen definieren zusammen mit euch das zu lösende Problem und klären ungefähre Dauer und Inhalt des Projekts ab. 
+Unsere Projektkoordinator:innen definieren zusammen mit euch das zu lösende Problem. Anschließend entscheiden wir, ob unsere ehrenamtlichen Data Scientists euch helfen können. Falls ja, klären unsere Projektkoordinator:innen zusammen mit euch ungefähre Dauer und Inhalt des Projekts ab und tragen die Inhalte für die Projektausschreibung zusammen.
 {{< /process >}}
 
 
@@ -57,7 +38,7 @@ Unsere Projektkoordinator:innen definieren zusammen mit euch das zu lösende Pro
     work="**Arbeitsaufwand für euch**: keiner"
     icon="fa-search"
 >}}
-Wir schreiben das Projekt an unser Netzwerk aus und stellen aus den Bewerber:innen ein Team zusammen.
+Wir schreiben das Projekt an unser Netzwerk aus und stellen aus den Bewerber:innen ein Projektteam aus 2-8 ehrenamtlichen Datenanalyst:innen zusammen.
 {{< /process >}}
 
 {{< process 
@@ -66,7 +47,7 @@ Wir schreiben das Projekt an unser Netzwerk aus und stellen aus den Bewerber:inn
     work="**Arbeitsaufwand für euch**: Terminfindung für Kickoff, zusammen mit Projektkoordinator:innen Inhalte & Programm für Kickoff erarbeiten"
     icon="fa-rocket"
 >}}
-Das Team wird intern zu allen Tools eingeladen und eingeführt, die wir zur Kommunikation und Zusammenarbeit verwenden. Parallel planen wir zusammen mit euch den Kickoff-Workshop, wo ihr und das Team euch kennenlernen könnt und zusammen näher Ziele, Arbeitsweise und Inhalt des Projekts definiert. Wenn möglich, findet dieser Workshop an einem Wochenende bei euch statt. Ansonsten führen wir den Kickoff-Workshop als remote Event (ca 2-3 Stunden) durch. 
+Das Projektteam wird intern zu allen Tools eingeladen und eingeführt, die wir zur Kommunikation und Zusammenarbeit verwenden. Parallel planen wir zusammen mit euch den Kickoff-Workshop, wo ihr und das Team euch kennenlernen könnt und zusammen näher Ziele, Arbeitsweise und Inhalt des Projekts definiert. Wenn möglich, findet dieser Workshop an einem Wochenende bei euch statt. Ansonsten führen wir den Kickoff-Workshop als remote Event (ca 2-3 Stunden) durch. 
 {{< /process >}}
 
 {{< process 
@@ -131,3 +112,16 @@ Wir wollen einen Dialog zwischen der Zivilgesellschaft und der Data Science Comm
 >}}
     Die Zusammenarbeit mit CorrelAid hat uns hochspannende Einblicke in die Möglichkeiten der Datenanalyse gegeben.
 {{< /testimonial >}}
+
+## Previous projects
+IN ARBEIT
+
+Wir arbeiten derzeit an Inhalten zu unseren abgeschlossenen Projekten. 
+In der Zwischenzeit könnt ihr euch [diese Episode]((https://soundcloud.com/correlaid_podcast/about-correlaid-automatisierte-reportgenerierung-fur-die-weltladen)) unseres Podcasts _CorrelTalk_ anhören, in der Projektteammitglied Gideon und Annegret vom Weltladen Dachverband über das Projekt zur Reporting-Automatisierung erzählen. 
+
+## FAQ
+### Was sind die Kosten für unsere gemeinnützige Organisation?
+CorrelAid ist ein gemeinnütziger Verein, der Data4Good Projekte anstößt, indem er gemeinnützige Organisationen mit Datenanalyst:innen vernetzt. CorrelAid macht keinen Profit mit diesen Projekten. Unsere Datenanalyst:innen sind _skilled volunteers_, die ihre Zeit und Kenntnisse für den guten Zweck einsetzen, weil sie überzeugt davon sind, dass das Potenzial von Data Science auch für die Zivilgesellschaft genutzt werden sollte. Dank dieses Engagements unserer Freiwilligen müsst ihr als gemeinnützige Organisation sie nicht für ihre Arbeit bezahlen. 
+Allerdings müsst ihr für den Kickoff-Workshop in den meisten Fällen Unterkunfts- und Reisekosten für die Projektteammitglieder tragen. Außerdem müsst ihr für diesen Workshop den Veranstaltungsort stellen. Insgesamt belaufen sich diese Kosten meistens auf ca. 500-1000 Euro. 
+
+

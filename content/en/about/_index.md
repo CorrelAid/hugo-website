@@ -23,33 +23,6 @@ In our volunteering projects, we connect non-profit organisations with a team of
 
 When setting up the teams, diversity plays an important role. This allows us to gather all relevant skills required for a project, while at the same time providing a unique and valuable learning opportunity for all people involved in the project.
 
-{{< testimonial 
-    contact="Anna Saraste"
-    organisation="European Youth Parliament"
-    image="eyp.jpg"
->}}
-    It was a very, very positive experience for us. It was amazing insight that CorrelAid brought and was super practical. On our limited budget, we would never have 
-    been able to afford this. I think what the group does is outstanding. There should be more like this.
-{{< /testimonial >}}
-
-{{< testimonial 
-    contact="Claire Samtleben"
-    organisation="Diskutier-Mit-Mir"
-    image="diskutier-mit-mir.jpg"
->}}
-    By working with Correlaid we got new perspectives on our project. 
-    For the further development of Diskutier-Mit-Mir that was very helpful!
-{{< /testimonial >}}
-
-{{< testimonial 
-    contact="Ivo (Product Manager)"
-    organisation="ProjectTogether"
-    image="ivo-project-together.jpg"
->}}
-    The cooperation with CorrelAid gave us fascinating insights into what is possible with data analysis.
-{{< /testimonial >}}
-
-
 ## Education and Workshops
 
 Workshops are the key to maintaining and improving the skill set of our data science network. CorrelAid unites analysts and data experts from a variety of different academic and professional backgrounds. This diversity allows us to constantly learn from one another and forms the basis of the "peer learning" approach that is implemented in our workshops. 

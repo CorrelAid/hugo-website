@@ -19,7 +19,7 @@ meta:
     order="order-md-0"
 >}}
     We provide an innovative skilled-volunteering solution. Through our decentral
-	network of over 650 skilled voluntary data scientists we democratize the potential of 
+	network of over 1300 skilled voluntary data scientists we democratize the potential of 
 	advanced data analysis and start projects with mission-driven organisations.
 {{< /feature >}}
 
