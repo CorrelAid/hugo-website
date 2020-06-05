@@ -86,7 +86,7 @@ Both the project team and you will be surveyed about your experience with the pr
 In addition, you support the project team with creating content for a project description which will be displayed on the CorrelAid website after the project has ended.
 {{< /process >}}
 
-[Submit a project!](https://www.surveymonkey.de/r/correlaid_projekt_einreichen)
+[Submit a project!](https://www.surveymonkey.de/r/correlaid_submit_projekt)
 
 
 ## Previous projects
