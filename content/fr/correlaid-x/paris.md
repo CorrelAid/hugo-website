@@ -12,10 +12,9 @@ meta:
   image: "509-correlaid-x-thumb.jpg"
   keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
-  
-The CorrelAid and Data for Good network is growing and we are now starting to establish a local chapter in Paris. 
-With its vibrant Tech scene,  international crowd,  tons of research institutes and of course being the center of the French NGO landscape, Paris offers a lot of possibilities to become active. 
 
+Le réseau CorrelAid et Data for Good se développe et nous commençons maintenant à établir un chapitre local à Paris. 
+Avec sa scène technologique dynamique, sa foule internationale, ses tonnes d'instituts de recherche et, bien sûr, le fait qu'elle soit au centre du paysage des ONG françaises, Paris offre de nombreuses possibilités de s'engager. 
 
 {{< person 
   name="Liubov & Rahel"
@@ -26,5 +25,5 @@ With its vibrant Tech scene,  international crowd,  tons of research institutes 
   link-color="ca-red-text"
   x="1"
   >}}
-If you're interested in becoming part of the chapter, contact Liubov or Rahel!
+Si vous souhaitez faire partie de ce chapitre, contactez Liubov ou Rahel !
 {{< /person >}}

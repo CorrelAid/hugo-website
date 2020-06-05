@@ -16,19 +16,19 @@ meta:
 # Cookies
 
 
-### What are cookies?
+### Que sont les cookies ?
 
-Cookies are small text files we will save on your computer. They are designed in such a way, that they will collect small amounts of client- and website-specific data. Usually, they only consist of a word or a number, which can be accessed by either the web server or the client's computer. This allows our servers to create a personalised website for visitors. Alternatively, the website itself contains a script that retrieves the information stored in the cookie and adjusts the website to your needs whenever you access it. In our case, we only use cookies to store whether you have toggled a notification bar.
+Les cookies sont de petits fichiers texte que nous enregistrons sur votre ordinateur. Ils sont conçus de telle manière qu'ils collectent de petites quantités de données spécifiques aux clients et aux sites web. En général, ils se composent uniquement d'un mot ou d'un chiffre, auquel le serveur web ou l'ordinateur du client peut accéder. Cela permet à nos serveurs de créer un site web personnalisé pour les visiteurs. Sinon, le site web lui-même contient un script qui récupère les informations stockées dans le cookie et adapte le site web à vos besoins chaque fois que vous y accédez. Dans notre cas, nous utilisons les cookies uniquement pour savoir si vous avez activé une barre de notification.
 
-### Why do we use cookies?
+### Pourquoi utilisons-nous des cookies ?
 
-We primarily use cookies to enhance user experience on our website. **All our cookies will be deleted automatically, once you close your browser**. Neither do we use cookies to track your behaviour, nor do we allow third party providers to place cookies on our website. To ensure utmost transparency on which cookies we use and what we use them for, we created the following list:
+Nous utilisons principalement des cookies pour améliorer l'expérience des utilisateurs sur notre site web. **Tous nos cookies seront automatiquement supprimés, dès que vous fermerez votre navigateur**. Nous n'utilisons pas non plus de cookies pour suivre votre comportement, et nous n'autorisons pas les fournisseurs tiers à placer des cookies sur notre site web. Afin de garantir une transparence maximale sur les cookies que nous utilisons et sur les raisons pour lesquelles nous les utilisons, nous avons créé la liste suivante :
 
-### Which cookies are we using?
+### Quels sont les cookies que nous utilisons ?
 
-Name                      | Expires after | Description                     | Value |
-------------------------- | ------------ | -------------------------------- | ---- |
-correlaidx-bar-hidden     | 0 Days       | Hide CorrelAidX location bar      | 1    |
-cookie-bar-hidden         | 0 Days       | Hide cookie information bar     | 1    |
+Nom                       | Expire après | Description                      | Valeur |
+------------------------- | ------------ | -------------------------------- | ----  |
+correlaidx-bar-hidden     | 0 Jours      | Hide CorrelAidX location bar     | 1     |
+cookie-bar-hidden         | 0 Jours      | Hide cookie information bar      | 1     |
 
 
