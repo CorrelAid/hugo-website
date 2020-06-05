@@ -16,7 +16,7 @@ Unser Netzwerk bietet verschiedene Möglichkeiten, miteinander in Kontakt zu tre
 
 Die Kernaufgabe unserer Arbeit besteht darin, Datenanalyst:innen aus unserem Netzwerk in Skilled-Volunteering Projekten mit Non-Profit-Organisationen (NPO) zusammenzubringen. In unseren Projekten haben unsere Ehrenamtlichen die Möglichkeit, ihre Kenntnisse anzuwenden und gleichzeitig reale Probleme von realen Organisationen zu lösen. In Teams mit üblicherweise 2-7 Personen helfen Data Scientists von CorrelAid NPOs, Einblick in ihre eigenen Daten zu gewinnen und diese nutzbar zu machen. Üblicherweise starten jeden Monat ca. 1-4 Projekte.
 
-Jedes Projekt wird über unseren [E-Mail-Newsletter] (https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) ausgeschrieben. Die Bewerbung ist für alle Datenanalyst:innen unseres Netzwerks offen und du kannst dich für all die Projekte bewerben, die du interessant findest. 
+Jedes Projekt wird über unseren [E-Mail-Newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) ausgeschrieben. Die Bewerbung ist für alle Datenanalyst:innen unseres Netzwerks offen und du kannst dich für all die Projekte bewerben, die du interessant findest. 
 
 Wenn du eine NPO kennst, die über Daten verfügt, aber nicht recht weiß, wie sie diese nutzen kann, lass es unser Projektkoordinationsteam rund um [Frie](mailto:projekte@correlaid.org) wissen! 
 Wenn du bereits Erfahrung in Data Science Projekten hast und uns helfen möchtest, unsere Projektarbeit zu verbessern, schreibe gerne eine E-Mail an [Johannes](mailto:johannes.m@correlaid.org).
@@ -35,7 +35,7 @@ Egal ob ein Local Chapter in deiner Nähe ist oder nicht: Du kannst immer unsere
 
 ## Bewusstsein für Data4Good schaffen
 
-Du arbeitest an einem interessanten Datenprojekt und möchtest deine Ergebnisse einem breiteren Publikum zugänglich machen? Du nimmst an interessanten Veranstaltungen teil und möchtest deine Erfahrungen teilen? Wir freuen uns immer, Beiträge aus der CorrelAid-Community in unserem Blog zu veröffentlichen. Schreibe einfach eine E-Mail an [Yannik] (mailto:blog@correlaid.org), und er wird dich dabei unterstützen.
+Du arbeitest an einem interessanten Datenprojekt und möchtest deine Ergebnisse einem breiteren Publikum zugänglich machen? Du nimmst an interessanten Veranstaltungen teil und möchtest deine Erfahrungen teilen? Wir freuen uns immer, Beiträge aus der CorrelAid-Community in unserem Blog zu veröffentlichen. Schreibe einfach eine E-Mail an [Yannik](mailto:blog@correlaid.org), und er wird dich dabei unterstützen.
 
 Du hast Informationen zu Hackathons, Diskussionsrunden, Veranstaltungen, Artikel, oder Trends bezüglich Daten und Datenanalyse? [Rahel](mailto:newsletter@correlaid.org) freut sich immer über Anregungen für den CorrelAid-Newsletter!
 
@@ -43,7 +43,7 @@ Du hast Informationen zu Hackathons, Diskussionsrunden, Veranstaltungen, Artikel
 
 Das Core Team ist ein Team von ca. 30 Ehrenamtlichen, die CorrelAid am Laufen halten. Von der Koordination unserer Data4Good-Projekte und der Erstellung von Bildungsinhalten bis zum Schreiben von Anträgen - es gibt viel zu tun. Das Core Team ist in verschiedene Subteams aufgeteilt: 
 
-* **Bildungsteam**: Das Bildungsteam erstellt Bildungsinhalte und organisiert Events und Projekte, die unseren Netzwerkmitgliedern zugute kommen. Zusätzlich dazu kümmert es sich um die Erstellung von Inhalten für NPOs, um diese zu befähigen selbstständig ihre Daten zu nutzen und als Multiplikator:innen zu agieren. Schließlich wird unser Podcast [CorrelTalk] (https://www.spreaker.com/show/correltalk-the-correlaid-podcast) von Mitgliedern des Bildungsteams produziert. Relevante Slack-Kanäle: \#Ausbildung, \#Podcast. 
+* **Bildungsteam**: Das Bildungsteam erstellt Bildungsinhalte und organisiert Events und Projekte, die unseren Netzwerkmitgliedern zugute kommen. Zusätzlich dazu kümmert es sich um die Erstellung von Inhalten für NPOs, um diese zu befähigen selbstständig ihre Daten zu nutzen und als Multiplikator:innen zu agieren. Schließlich wird unser Podcast [CorrelTalk](https://www.spreaker.com/show/correltalk-the-correlaid-podcast) von Mitgliedern des Bildungsteams produziert. Relevante Slack-Kanäle: \#Ausbildung, \#Podcast. 
 * **Projektkoordination**: Das Projektkoordinationsteam koordiniert die Data4Good-Projekte, d.h. es spricht mit potenziellen Partnerorganisationen, findet heraus, wie und in welchem Umfang unsere Data Scientists ihnen helfen können und erstellt die Projektausschreibungen. Im Verlauf des Projekts behält das Koordinationsteam ein Auge darauf, dass unsere Data Scientists eine gute Lernerfahrung haben und dass sie der Partnerorganisation helfen können.
 * **PR-Team**: ob Content für den Blog, die Betreuung unserer Social-Media Kanäle oder die Gestaltung von Stickern und anderem CorrelAid Merch: Das PR-Team ist für alles verantwortlich, was CorrelAid nach außen repräsentiert. 
 * **Fundraising-Team**: Das Fundraising-Team hält Ausschau nach Finanzierungsmöglichkeiten für CorrelAid und arbeitet mit anderen Organisationen Anträge aus usw. 
