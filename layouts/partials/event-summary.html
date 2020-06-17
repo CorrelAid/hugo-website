@@ -1,0 +1,24 @@
+<div class="container event-header">
+  <div class="row align-items-center">
+    <div class="col-1 date">
+      <div class="rest uppercase">{{ dateFormat "Jan" .Params.eventDate }}</div>
+      <div class="day">{{ dateFormat "02" .Params.eventDate }}</div>
+      <div class="rest">{{ dateFormat "2006" .Params.eventDate }}</div>
+    </div>
+    <div class="col-6 align-self-end">
+      <h3>
+        <a href="{{ .RelPermalink }}">{{.Title}}</a>
+      </h3>
+      <p>
+        {{range .Params.languages }}
+          #{{ . }}
+        {{ end }}
+        {{ range .Params.tags }} 
+          #{{ . }}
+        {{ end }}
+
+      </p>
+
+    </div>
+  </div>
+</div>

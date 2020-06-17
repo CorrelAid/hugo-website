@@ -207,6 +207,10 @@ h1.correlaid-sub {
     color: #FFFFFF;
 }
 
+.uppercase {
+    text-transform: uppercase;
+}
+
 h1.correlaid-x {
     display: inline;
     padding: 3px 5px;
@@ -759,4 +763,52 @@ td {
 /* ========== MESSAGE INFO ========== */
 #message-info {
     display: none;
+}
+
+/* ========== EVENTS ========== */
+
+.event-header .date {
+    color: #444444;
+    text-align: center;
+    display: block;
+}
+.event-header .date .day {
+    font-weight: 700;
+    line-height: 0.45em;
+    font-size: 3em;
+    display: block;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.event-header .date .rest {
+    display: block;
+    font-size: 0.75em;
+}
+.event-header h1.title {
+    margin: -10px 0 0 0;
+}
+
+.event-header {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+
+.events-correlaid-box span {
+    display: inline;
+    padding: 9px 9px;
+    background-color: #233140;
+    color: #FFFFFF;
+    letter-spacing: 8px;
+    font-weight: 500;
+}
+
+.events-correlaid-x-box span {
+    display: inline;
+    padding: 9px 9px;
+    background-color: #f04451;
+    color: #FFFFFF;
+    letter-spacing: 8px;
+    font-weight: 500;
 }

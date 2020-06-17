@@ -29,3 +29,9 @@ enableEmoji             = true
     [Languages.de.params]
             [Languages.de.params.navigation]
                 about   = "Über uns"
+
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  language = "languages"
