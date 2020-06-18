@@ -19,8 +19,26 @@ In May 2020 we have established the CorrelAid local chapter Munich. So far, we a
 
 {{< person 
     name="Pia"
-    subline="munich@correlaid.org"
+    subline="CorrelAidX Munich"
     img="/images/people/pia.jpg"
+    data-email="munich@correlaid.org"
+    data-to="Pia (CorrelAidX Munich)"
+    link-color="ca-red-text"
+    x="1"
 >}}
-Pia
+Pia is currently studying Mathematics at the TUM, where she is focussing on data science topics. At the beginning of 2020, she discovered CorrelAid and immediately wanted to bring a local chapter to Munich.
 {{< /person >}}
+
+{{< person 
+    name="Daniel"
+   subline="CorrelAidX Munich"
+    img="/images/people/daniel_muenchen.jpg"
+    data-email="munich@correlaid.org"
+    data-to="Daniel (CorrelAidX Munich)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Daniel is studying mathematics at the Technical University of Munich and is one of the contact persons for the Munich region. The idea of getting together and sharing ideas to learn and help others with data science excites him about CorrelAid. 
+{{< /person >}}
+
+The Local Chapter Munich is happy to welcome committed people who are interested in bringing Data Science for Good to Munich. Just get in touch with us!
