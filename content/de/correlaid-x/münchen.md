@@ -20,8 +20,26 @@ Seit Mai 2020 gibt es nun auch ein Local Chapter in München. Zurzeit sind wir e
 
 {{< person 
     name="Pia"
-    subline="munich@correlaid.org"
+    subline="CorrelAidX München"
     img="/images/people/pia.jpg"
+    data-email="munich@correlaid.org"
+    data-to="Pia (CorrelAidX München)"
+    link-color="ca-red-text"
+    x="1"
 >}}
-Pia XXX
+Pia studiert im Moment Mathematik an der TUM und spezialisiert sich dabei auf Themen, die mit Data Science zu tun haben. Anfang 2020 hat sie CorrelAid entdeckt und wollte ein Local Chapter nach München bringen.
 {{< /person >}}
+
+{{< person 
+    name="Daniel"
+   subline="CorrelAidX München"
+    img="/images/people/daniel_muenchen.jpg"
+    data-email="munich@correlaid.org"
+    data-to="Daniel (CorrelAidX München)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Daniel ist Mathematikstudent an der Technischen Universität München und einer der Ansprechpartner für den Raum München. An CorrelAid begeistert ihn die Möglichkeit, durch Austausch und Vernetzung anderen mit Data Science zu helfen und sich gemeinsam fortzubilden. 
+{{< /person >}}
+
+Das Local Chapter München freut sich über engagierte Menschen, die Lust haben Data Science for Good nach München zu bringen. Meldet euch einfach bei uns!
