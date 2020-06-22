@@ -22,9 +22,26 @@ In den darauffolgenden Wochen haben wir zwei R-Einstiegs- und einen Python-Einst
 
 {{< person 
     name="Konstantin"
-    subline="mannheim@correlaid.org"
+    subline="CorrelAidX Mannheim"
     img="/images/people/konstantin.jpg"
+    data-email="mannheim@correlaid.org"
+    data-to="Konstantin (CorrelAidX Mannheim)"
+    link-color="ca-red-text"
+    x="1"
 >}}
 Konstantin zählt bereits zum CorrelAid Urgestein und ist als Doktorand an der UMA euer Ansprechpartner im Raum Mannheim.
 Ihn reizt an Datenanalyse vor allem, aus vermeintlich unstrukturierten Daten Informationen zur Problemlösung zu gewinnen. In der Projektarbeit freut er sich dabei vor allem über die Reaktionen der Partnerorganisationen auf die Projektergebnisse.
+{{< /person >}}
+
+{{< person 
+    name="Joshua"
+    subline="CorrelAidX Mannheim"
+    img="/images/people/joshua.jpg"
+    data-email="mannheim@correlaid.org"
+    data-to="Joshua (CorrelAidX Mannheim)"
+    link-color="ca-red-text"
+    x="1"
+    
+>}}
+Joshua studiert momentan Angewandte Informatik in Heidelberg und hat schon früh seine Begeisterung für Data Science und Statistik entdeckt. Aber er gräbt sich nicht nur leidenschaftlich in die Berge an Daten sonder klettert auch immer wieder in der Natur an ihnen hoch. Seit April 2020 ist er Ansprechpartner für das LC-Mannheim.
 {{< /person >}}

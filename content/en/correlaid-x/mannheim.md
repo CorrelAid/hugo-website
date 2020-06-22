@@ -21,8 +21,27 @@ In the long run, we hope to make CorrelAid Mannheim a relevant and important voi
 
 {{< person 
     name="Konstantin"
-    subline="mannheim@correlaid.org"
+    subline="CorrelAidX Mannheim"
     img="/images/people/konstantin.jpg"
+    data-email="mannheim@correlaid.org"
+    data-to="Konstantin (CorrelAidX Mannheim)"
+    link-color="ca-red-text"
+    x="1"
+    
 >}}
 Konstantin is part of CorrelAid since...forever and works on his PhD at the University of Mannheim. He's fascinated by seemingly unstructured data that still often holds a lot of information to solve problems. The motivation to work for CorrelAid stems  from the positive reactions of the project team and the partner organisations.
 {{< /person >}}
+
+{{< person 
+    name="Joshua"
+    subline="CorrelAidX Mannheim"
+    img="/images/people/joshua.jpg"
+    data-email="mannheim@correlaid.org"
+    data-to="Joshua (CorrelAidX Mannheim)"
+    link-color="ca-red-text"
+    x="1"
+    
+>}}
+Joshua is currently studying Applied Computer Science in Heidelberg and discovered his enthusiasm for data science and statistics early on. But he is not only passionate about digging into the mountains of data, he also climbs them in nature. Since April 2020 he is the contact person for LC-Mannheim.
+{{< /person >}}
+
