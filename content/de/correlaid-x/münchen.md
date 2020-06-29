@@ -6,6 +6,7 @@ newsletter: "Du willst mehr über CorrelAidX München erfahren? Dann abonniere u
 menu: 
     correlaidx:
         weight: 4
+translationKey: "munich"
 meta:
     title: "CorrelAidX - München"
     description: "Du möchtest Data-for-Good-Analyst*innen aus deiner Region kennenlernen und zusammen Daten für den guten Zweck nutzen? Mit CorrelAidX bringen wir Data for Good in deine Stadt!"
