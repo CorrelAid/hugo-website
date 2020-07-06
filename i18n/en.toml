@@ -48,10 +48,8 @@ other       = "Currently, we don't have any open positions."
 other       = "You want to support CorrelAid? You want to change the world together with us? Do you believe that Data Science should be available for everyone?"
 [claim-1-btn]
 other       = "Let's start!"
-[claim-2]
-other       = "Do you work for a NGO? Do you think we could start a project together? Want to find out how we can help you? Do you know exactly what you want to analyze?"
-[claim-2-btn]
-other       = "Contact us!"
+[claim-npo]
+other       = "Do you work for a NPO? For any questions revolving around our work and data, you can book a 1:1 with one of our coordinators here. Tell us what the meeting is about (for example: projects, educational sessions, events, data collection, data analysis, ...) and we will see you there!"
 [error-claim-1]
 other       = "That looks like Error 404. Unfortunately, we could not find that page."
 [error-claim-2]
