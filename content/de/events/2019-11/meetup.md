@@ -3,9 +3,8 @@ title: "Meetup!"
 date: 2018-08-23T10:48:46+02:00
 draft: false
 translationKey: "meetup"
-menu: 
-    meetup:
-        weight: 1
+eventDate: "2019-11-29"
+eventTime: "16:00"
 meta:
     title: "Meetup 29. November - 1. Dezember in Berlin!"
     description: "Alles über das Meetup"

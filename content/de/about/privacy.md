@@ -5,6 +5,7 @@ draft: false
 menu: 
     about:
         weight: 4
+translationKey: "privacy"
 meta:
     title: "CorrelAid - Datenschutz bei CorrelAid"
     description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 1400 ehrenamtlichen Datenanalyst*innen."

@@ -2,7 +2,7 @@
 title: "Preise & Presse"
 date: 2018-08-23T10:48:46+02:00
 draft: false
-translationKey: "about"
+translationKey: "recognition"
 menu:
   about:
     weight: -300

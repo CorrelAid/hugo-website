@@ -5,6 +5,7 @@ draft: false
 menu: 
     about:
         weight: 3
+translationKey: "ethics"
 meta:
     title: "CorrelAid - Ethikrichtlinien"
     description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 1400 ehrenamtlichen Datenanalyst*innen."
