@@ -56,3 +56,8 @@ enableEmoji             = true
   [[module.mounts]]
     source = "archetypes"
     target = "archetypes"
+    
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  language = "languages"

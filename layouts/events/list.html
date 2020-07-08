@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="container">
+  <div class="row">
+    <div class="col-12 mt-5 mb-2">
+      {{ .Content }}
+      <h1>{{ i18n "events-upcoming" }}</h1>
+      {{ range .Pages.ByDate }} {{ if (time .Params.eventDate).After now }} 
+      {{ partial "event-summary.html" . }} {{ end }} {{ end }}
+      <h1>{{ i18n "events-past" }}</h1>
+      {{ range .Pages.ByDate }} {{ if (time .Params.eventDate).Before now }} 
+      {{ partial "event-summary.html" . }} {{ end }} {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}

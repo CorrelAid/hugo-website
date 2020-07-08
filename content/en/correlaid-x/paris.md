@@ -18,13 +18,13 @@ With its vibrant Tech scene,  international crowd,  tons of research institutes 
 
 
 {{< person 
-  name="Liubov & Rahel"
+  name="Liubov & Mariana"
   subline="CorrelAidX Paris"
   img="/images/people/correlaid-x-paris.jpg"
   data-email="paris@correlaid.org"
-  data-to="Liubov & Rahel (CorrelAidX Paris)"
+  data-to="Liubov & Mariana (CorrelAidX Paris)"
   link-color="ca-red-text"
   x="1"
   >}}
-If you're interested in becoming part of the chapter, contact Liubov or Rahel!
+If you're interested in becoming part of the chapter, contact Liubov or Mariana!
 {{< /person >}}

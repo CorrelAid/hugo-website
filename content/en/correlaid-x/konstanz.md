@@ -35,3 +35,16 @@ So feel free to contact us if you want to join us or just have a look.
 >}}
 Phil is currently studying Social & Economic Data Science for his Master's degree and, as a former student of Political and Administrative Sciences at the University of Konstanz, there was no chance of getting around CorrelAid.
 {{< /person >}}
+
+
+{{< person 
+    name="Nicolas"
+    subline="CorrelAidX Konstanz"
+    img="/images/people/nicolas_froehlich.jpg"
+    data-email="konstanz@correlaid.org"
+    data-to="Nicolas (CorrelAidX Konstanz)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Nico is currently studying his Bachelor's degree in political and administrative sciences. The combination of this degree and a keen interest in Data Science for Good inevitably led to his involvement with CorrelAid.
+{{< /person >}}

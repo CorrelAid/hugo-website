@@ -36,3 +36,17 @@ Meldet euch also gerne wenn Ihr Lust habt bei uns mitzumischen oder einfach nur 
 Phil studiert derzeit Social & Economic Data Science im Master und hatte als ehemaliger Student der Konstanzer Politik-und Verwaltungswissenschaften eigentlich keine Chance um CorrelAid herum zu kommen.
 {{< /person >}}
 
+
+{{< person 
+    name="Nicolas"
+    subline="CorrelAidX Konstanz"
+    img="/images/people/nicolas_froehlich.jpg"
+    data-email="konstanz@correlaid.org"
+    data-to="Konstanz (CorrelAidX Konstanz)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Zurzeit studiert Nico den Bachelor Politik- und Verwaltungswissenschaften. Die Kombination aus diesem Studiengang und großem Interesse an Data Science for Good führte unweigerlich zur Mitarbeit bei CorrelAid.
+{{< /person >}}
+
+
