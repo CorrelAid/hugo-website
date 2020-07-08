@@ -13,16 +13,14 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
-Wij, een groep enthousiaste data scientists uit Nederland, zijn bezig met het opzetten van CorrelAidxNL.
-We hebben als doel data scientists en organisaties die zich inzetten voor de maatschappij te verbinden.
-Of je nou een student bent in een kwantitatieve richting en je wilt je skills inzetten in de praktijk of een professional en je wil een betekenisvolle bijdrage wil leveren naast je werk; bij zijn data scientists van alle niveaus en achtergronden welkom.
+Wij zijn een groep enthousiaste data scientists uit Nederland, en wij hebben Stichting CorrelAid Nederland opgezet.
+We hebben als doel data scientists en maatschappelijke en sociaal denkende organisaties te verbinden.
+Of je nou een student bent in een kwantitatieve richting en je wilt je skills inzetten in de praktijk of een professional en je wilt een betekenisvolle bijdrage leveren naast je werk; bij ons zijn data scientists van alle niveaus en achtergronden welkom.
 Het werk is op vrijwillige basis.
 
+Stichting CorrelAid Nederland is geïnspireerd door, en werkt samen met CorrelAid, opgericht in Duitsland.
 
-
-CorrelAidxNL is geïnspireerd op en in contact met CorrelAid, opgericht in Duitsland.
-
-Als je geïnteresseerd bent in CorrelAidxNL of als je wil meedoen; schrijf je in op de mailing list en je krijg meer informatie!
+Als je geïnteresseerd bent in CorrelAid Nederland of als je mee wilt doen: ga naar onze [website](https://correlaid.nl), [mail](mailto:andrew.sutjahjo@correlaid.org) [een](mailto:fabian.dablander@correlaid.org) [van](mailto:yiran.g@correlaid.org) [ons](mailto:netherlands@correlaid.org), of schrijf je in op de mailing list!
 
 # Het team
 
@@ -106,13 +104,13 @@ Daphne is currently specializing in labor law and in mediation. She wants to hel
     name="Yiran"
     subline="CorrelAidX Nederland"
     img="/images/people/nl-yiran.jpg"
-    data-email="netherlands@correlaid.org"
+    data-email="yiran.g@correlaid.org"
     data-to="CorrelAidX Netherlands"
     link-color="ca-red-text"
     x="1"
 >}}
 Yiran is currently a research master student in organization at Erasmus University Rotterdam. She’s passionate about 
-helping others realize the power of data scienceand applying it to create more social value.
+helping others realize the power of data science and applying it to create more social value.
 {{< /person >}}
 
 {{< person 

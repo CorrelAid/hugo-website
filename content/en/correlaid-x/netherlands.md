@@ -13,12 +13,12 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
-We are a group of data science enthusiasts from all over the Netherlands, who are in the process of developing CorrelAidxNL, an organisation that has the goal of connecting data scientists with organisations and foundations that advance the Social Good. 
+We are a group of data science enthusiasts from all over the Netherlands, who have started Stichting CorrelAid Nederland, an organisation that has the goal of connecting data scientists with organisations and foundations that advance the Social Good. 
 These data scientists could either be students in a quantitative field that want to apply their skills on real world problems, or professionals who want to do something meaningful outside of their day job. All this happens on a volunteer basis.
  
-CorrelAid X Netherlands is inspired by, and in contact with, CorrelAid which was originally founded in Germany.
+Stichting CorrelAid Nederland is inspired by, and in contact with, CorrelAid which was originally founded in Germany.
 
-If you are interested in CorrelAid X Netherlands or you want to get involved in our network; subscribe to our mailing list.
+If you are interested in CorrelAid Nederland or you want to get involved in our network: go to our [website](https://correlaid.nl), [mail](mailto:andrew.sutjahjo@correlaid.org) [one](mailto:fabian.dablander@correlaid.org) [of](mailto:yiran.g@correlaid.org) [us](mailto:netherlands@correlaid.org), or subscribe to our mailing list.
 
 # The Team
 
@@ -103,7 +103,7 @@ Daphne is currently specializing in labor law and in mediation. She wants to hel
     name="Yiran"
     subline="CorrelAidX Nederland"
     img="/images/people/nl-yiran.jpg"
-    data-email="netherlands@correlaid.org"
+    data-email="yiran.g@correlaid.org"
     data-to="CorrelAidX Netherlands"
     link-color="ca-red-text"
     x="1"
