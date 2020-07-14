@@ -1,9 +1,6 @@
 ---
 title: "e-Rum 2020 - (Knowledge) sharing is caring!"
 date: 2020-05-11T22:01:56+02:00
-menu:
-  main:
-    weight: 200
 subtitle: "Open Online Data Meetup - Vol. 1"
 correlaidx: false
 eventDate: "2020-06-24"

@@ -1,9 +1,6 @@
 ---
 title: "Data strategy: What it is and why every company should have one"
 date: 2020-05-11T22:01:56+02:00
-menu:
-  main:
-    weight: 200
 subtitle: "Open Online Data Meetup - Vol. 2"
 correlaidx: false
 eventDate: "2020-07-22"
