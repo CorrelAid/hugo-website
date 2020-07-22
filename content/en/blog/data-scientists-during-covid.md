@@ -54,8 +54,5 @@ This doesn’t mean that we can't do anything right now. Here are a few suggesti
 
 And finally, but most importantly: wash your hands, stay at home and practice *social distancing* (or rather: physical distancing). 
 
-In Tweet form: 
-{{< tweet 1238867537560928256 >}}
-
 Stay well everyone! ❤️
 
