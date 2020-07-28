@@ -42,6 +42,8 @@
                     <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
                     {{ end }}
                     <a class="dropdown-item" href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"><i class="fas fa-external-link-square-alt"></i>  {{ i18n "mailing-list" }}</a>
+                    <a class="dropdown-item" href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=175fade988"><i class="fas fa-external-link-square-alt"></i>  {{ i18n "mailing-list-npo" }}</a>
+
                 </div>
             </li>
             <!-- /END SUPPORT -->
@@ -110,16 +112,3 @@
     </div>
 </nav>
 <!-- /END CORRELAID X NAV -->
-
-<!-- COOKIE DISCLAIMER -->
-<nav class="navbar navbar-expand-md fixed-bottom navbar-dark ca-dark-blue" id="correlaid-cookie-bar">
-    <div class="collapse navbar-collapse">
-        <div class="navbar-nav mr-auto">
-            {{ i18n "cookies"}} <a href="{{ .Site.Home.Permalink }}cookies" class="text-white">{{ i18n "cookies-more" }}</a>
-        </div>
-        <div class="navbar-nav">
-            <a href="#" class="nav-item nav-link active" id="close-correlaid-cookie-bar"><i class="far fa-times-circle"></i></a>
-        </div>
-    </div>
-</nav>
-<!-- /END COOKIE DISCLAIMER -->
