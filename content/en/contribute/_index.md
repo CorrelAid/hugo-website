@@ -30,7 +30,7 @@ If you already have experience in Analytics Consulting and you want to help us w
 We meet once or twice a year in a different city in Germany and everybody is very welcome to these meetings. Berlin, Duisburg, Bonn: during workshops, discussions and bar-hopping, you will meet many others interested in the same topics as you.
 
 We also try to establish local chapters in cities where the interest in Data-for-Good projects is present. The advantage is that you can start conducting your own workshops, hackathons, projects with local NGOs and to meet on a regular basis.
-If you are interested in starting a local chapter yourself, or if you want to know if there are people around you also interested in staring this, write an e-mail to [Regina](mailto:regina.s@correlaid.org). You can find all current local chapters and points of contact [here](/en/correlaid-x).
+If you are interested in starting a local chapter yourself, or if you want to know if there are people around you also interested in staring this, write an e-mail to [Isabel](mailto:isabel.w@correlaid.org). You can find all current local chapters and points of contact [here](/en/correlaid-x).
 
 Our network is the perfect place for knowledge exchange. In workshops during our meetups, people share their knowledge and experience and in our #netzwerk-help channel, you have the possibility to ask your questions. We also plan to have a series of webinars in the future and a knowledge database. 
 Whether you want to share your knowledge or you are looking for answers - both is possible in the CorrelAid Network!
@@ -43,4 +43,4 @@ You have information on hackathons, discussion-roundtables, events, articles, mo
 
 ## Organize CorrelAid 
 
-CorrelAid works with the help and commitment of 10-15 volunteers. Everyday business and coordination is done via slack and we are always happy to welcome new people! If you want to get active, write an e-mail to [Regina](mailto:regina.s@correlaid.org)!
+CorrelAid works with the help and commitment of 10-15 volunteers. Everyday business and coordination is done via slack and we are always happy to welcome new people! If you want to get active, write an e-mail to [Isabel](mailto:isabel.w@correlaid.org)!

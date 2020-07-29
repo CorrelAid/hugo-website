@@ -93,14 +93,14 @@ könnt:
 
 Wie ihr vielleicht schon mitbekommen habt, haben wir in manchen Städten
 schon angefangen (z.B. Mannheim, Dortmund, Konstanz). Jetzt seid ihr
-dran. Meldet euch bei Regina (regina.s@correlaid.org) wenn ihr auch bei
+dran. Meldet euch bei Isabel (isabel.w@correlaid.org) wenn ihr auch bei
 euch vor Ort loslegen wollt. Dann helfen wir euch dabei, die Leute vor
 Ort zu vernetzen und loszulegen. Damit ihr nicht ganz alleine starten
 müsst, veranstalten wir ein Kick-Off-Wochenende vom 26. Oktober bis 28.
 Oktober in Berlin (**all expenses paid**) bei dem wir alle
 interessierten Communitymanager\*innen zusammenbringen und zusammen das
 kommende Semester oder Jahr planen. Bei Fragen stehen wir euch natürlich
-jederzeit zur Verfügung (regina.s@correlaid.org).
+jederzeit zur Verfügung (isabel.w@correlaid.org).
 
 
 
