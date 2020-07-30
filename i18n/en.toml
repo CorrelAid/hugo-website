@@ -76,7 +76,5 @@ other = "When"
 other = "Language"
 [events-registration]
 other = "Registration"
-[events-about]
-other = "The event"
 [here]
 other = "Here"
