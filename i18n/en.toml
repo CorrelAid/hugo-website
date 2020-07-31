@@ -19,7 +19,9 @@ other       = "Our Work"
 [support]
 other       = "Support"
 [mailing-list]
-other       = "Mailing List"
+other       = "Mailing List for Volunteers"
+[mailing-list-npo]
+other       = "Newsletter for NPOs (German)"
 [press]
 other       = "The press about us:"
 [correlaidx]
@@ -74,7 +76,5 @@ other = "When"
 other = "Language"
 [events-registration]
 other = "Registration"
-[events-about]
-other = "The event"
 [here]
 other = "Here"

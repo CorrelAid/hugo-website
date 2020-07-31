@@ -19,7 +19,9 @@ other       = "Unsere Arbeit"
 [support]
 other       = "Unterstützen"
 [mailing-list]
-other       = "Email Verteiler"
+other       = "Email Verteiler für Datenanalyst:innen"
+[mailing-list-npo]
+other       = "Newsletter für Non-Profits"
 [press]
 other       = "Die Presse über uns:"
 [correlaidx]
@@ -74,7 +76,5 @@ other = "Wann"
 other = "Sprache"
 [events-registration]
 other = "Registrierung"
-[events-about]
-other = "Das Event"
 [here]
 other = "Hier"

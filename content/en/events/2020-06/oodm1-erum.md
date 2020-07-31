@@ -10,6 +10,7 @@ languages:
     - english
 ---
 
+## The event
 
 We're really excited to invite you to the first ever Open Online Data Meetup, our new online-based meetup series. We meet on Wednesday, 24th of June at 7pm (UTC+2) to talk about all things regarding eRum 2020 and have a collective "what I learned at e-Rum" session. Everyone is welcome at the meetup, regardless of your level of #rstats experience and of whether you could attend the conference!
 

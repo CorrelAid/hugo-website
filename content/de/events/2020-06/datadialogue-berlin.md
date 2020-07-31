@@ -11,6 +11,7 @@ languages:
     - english
 ---
 
+## The event
 
 [CorrelAidX Berlin](correlaid-x/berlin) are planning to remotely host their first data dialogue of the year on Thursday, June 11th at 7pm. These events help non-profits use data science to support their organisational goals by facilitating an open discussion between NPO representatives and the CorrelAid community.
 

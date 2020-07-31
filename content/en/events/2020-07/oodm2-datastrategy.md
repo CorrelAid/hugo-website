@@ -10,6 +10,8 @@ languages:
     - english
 ---
 
+## The event
+
 For our second Open Online Data Meetup (OODM)*, we have an interesting talk for you. Sven Thies will share his experience setting up a data team, what he learned from it and why he thinks every company should first develop a good data strategy. The talk will be followed by a Q&A and a short discussion moderated by our host Frie from the CorrelAid core team.
 
 We are looking forward to see you at the talk!
