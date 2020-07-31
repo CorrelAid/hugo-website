@@ -52,6 +52,8 @@ other       = "You want to support CorrelAid? You want to change the world toget
 other       = "Let's start!"
 [claim-npo]
 other       = "Do you work for a NPO? For any questions revolving around our work and data, you can book a 1:1 with one of our coordinators here. Tell us what the meeting is about (for example: projects, educational sessions, events, data collection, data analysis, ...) and we will see you there!"
+[claim-npo-book] 
+other = "Book here!"
 [error-claim-1]
 other       = "That looks like Error 404. Unfortunately, we could not find that page."
 [error-claim-2]

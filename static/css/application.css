@@ -703,22 +703,6 @@ i.caveat {
     opacity: 1 !important;
 }
 
-/* ========== COOKIE BAR ========== */
-
-.cookie-bar {
-    display: block;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100vw;
-    z-index: 1100;
-    padding: 16px 16px;
-}
-
-.cookie-bar .row p {
-    margin: 0;
-    font-size: 1rem;
-}
 
 /* ========== CODE HIGHLIGHTING ========== */
 
