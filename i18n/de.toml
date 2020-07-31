@@ -52,6 +52,8 @@ other       = "Du möchtest bei CorrelAid aktiv werden? Du möchtest mit uns gem
 other       = "Los geht's!"
 [claim-npo]
 other       = "Du bist bei einer NPO aktiv? Für alle Fragen rund um unsere Arbeit und Daten kannst du eine 1:1 Session mit unseren Koordinator:innen buchen. In den Notizen kannst du vermerken, worüber du sprechen möchtest (z.B. Projekte, Bildungsangebote, Veranstaltungen, Datenerhebung, Datenanalyse, ...), und dann sehen wir uns dort!"
+[claim-npo-book] 
+other = "Hier gehts zur Buchung"
 [error-claim-1]
 other       = "Das sieht aus wie Fehler 404. Leider konnten wir diese Seite nicht finden."
 [error-claim-2]
