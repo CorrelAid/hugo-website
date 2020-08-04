@@ -57,4 +57,3 @@ Prize of Konstanz University for outstanding commitment{{< /price >}}
 Think-Big Prize for social engagement of the Telefonica Foundation
 {{< /price >}}
 
-## In the press 
