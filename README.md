@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2c8e5dc8-1df6-4b21-bfdb-77af3b1d525a/deploy-status)](https://app.netlify.com/sites/jolly-boyd-ddf9b1/deploys)
+
 # CorrelAid Hugo Website
 
 1. [Installation](#1-installation)
@@ -57,9 +59,8 @@ Hugo provides a development server that enables _hot-reload_. The folder is watc
 
 ## 3. Deployment
 
-1. Run `hugo`.
-2. Copy the complete content of the `public` directory to the web server.
-
+1. Commit your changes to GitHub. If you're not an admin, you cannot push to the `main` branch, so please create a branch for your changes and then open a pull request. 
+2. After someone has reviewed your changes and approved them, they'll be merged to `main` and automatically deployed by Netlify.
 
 ## 4. Add content
 

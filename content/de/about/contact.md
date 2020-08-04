@@ -17,7 +17,6 @@ meta:
 
 # Ansprechpartner
 
-
 {{< person 
     name="Johannes"
     subline="Vorsitzender"

@@ -43,4 +43,4 @@ Pia studiert im Moment Mathematik an der TUM und spezialisiert sich dabei auf Th
 Daniel ist Mathematikstudent an der Technischen Universität München und einer der Ansprechpartner für den Raum München. An CorrelAid begeistert ihn die Möglichkeit, durch Austausch und Vernetzung anderen mit Data Science zu helfen und sich gemeinsam fortzubilden. 
 {{< /person >}}
 
-Das Local Chapter München freut sich über engagierte Menschen, die Lust haben Data Science for Good nach München zu bringen. Meldet euch einfach bei uns!
+Das Local Chapter München freut sich über engagierte Menschen, die Lust haben, Data Science for Good nach München zu bringen. Meldet euch einfach bei uns!
