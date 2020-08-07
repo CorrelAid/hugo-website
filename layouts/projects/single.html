@@ -3,16 +3,14 @@
     <div class="row">
         {{ $projects := getJSON "https://correlaid.github.io/projects/projects.json" }}
         {{ $id := .Params.project_id_path }}
-        {{ $lang := .Params.lang }}
         <div class="col-12 my-5">
-            <h1>{{ .Params.Title }}</h1>
+            {{ .Content }}
             <!-- For the FAQ, we include the content. 
                 For the projects all content is loaded dynamically-->
-            {{ .Content }}
-            {{ range $projects }}
+                {{ range $projects }}
                 {{ $pid := .project_id_path }}
                 {{ if eq $pid  $id }}
-                {{ if eq $lang "de"}}
+                {{ if eq .Site.Language.Lang "de"}}
                         {{ .description.de.problem | markdownify }}
                         {{ .description.de.data | markdownify }}
                         {{ .description.de.approach | markdownify }}

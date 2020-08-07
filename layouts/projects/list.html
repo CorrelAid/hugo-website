@@ -1,9 +1,27 @@
 {{ define "main" }}
 <div class="container">
+
     <div class="row">
         <div class="col-12 my-5">
+            
             <h1>{{ .Title }}</h1>
             {{ .Content }}
+
+            <h2>Project process</h2>
+
+            <div class="row my-5">
+                {{ $process_steps := $.Site.Data.process_steps }}
+                {{ if eq .Site.Language.Lang "de"}}
+                    {{ range $process_steps.de }} 
+                        {{ partial "process_step.html" . }}
+                     {{ end }}
+                {{ else }}
+                    {{ range $process_steps.en }} 
+                        {{ partial "process_step.html" . }}
+                    {{ end }}
+                {{ end }}
+            </div>
+            
             <h2>Projects</h2>
             <div class="row">
                 {{ $projects := getJSON "https://correlaid.github.io/projects/projects.json" }}

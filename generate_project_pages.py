@@ -10,7 +10,6 @@ MD_TEMPLATE = """---
 title: "{0}"
 date: {1}
 project_id_path: "{2}"
-lang: "{3}"
 ---
 # {0}
 """
@@ -26,8 +25,7 @@ for proj in projects:
     for lang in ["de", "en"]:
         md = MD_TEMPLATE.format(proj['title'], 
                 datetime.now().isoformat("T", "seconds") + "+02:00", 
-                proj['project_id_path'],
-                lang
+                proj['project_id_path']
         )
         file_path = "content/" + lang + "/projects/" + basename.lower()
 

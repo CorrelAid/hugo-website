@@ -369,6 +369,11 @@ i.caveat {
     border-color: #233140;
 }
 
+.btn-ca-dark-blue {
+    color: #FFFFFF;
+    background-color: #3863a2;
+    border-color: #3863a2;
+}
 
 /* =============== BUTTON =============== */
 .ca-btn {
