@@ -1,31 +1,22 @@
 ---
-title: "For nonprofits"
-date: 2018-08-23T12:38:17+02:00
-draft: false
+title: "Data4Good Projects"
+date: 2018-08-23T12:36:49+02:00
 menu:
-  main:
-    weight: 40
-meta:
-    title: "CorrelAid - for non-profits"
-    description: "CorrelAid is a registered association with a network of 1300 data analysts"
-    image: "509-correlaid-thumb.jpg"
-    keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
+  nonprofits:
+    weight: 200
 ---
 
-# For Non-Profits 
 
-## CorrelAid Data4Good projects
 In our skilled volunteering projects, we connect data scientist volunteers from our network network of over 1300 volunteers with nonprofit organisations. Through those projects, our volunteers have the opportunity to apply their existing skills and gain new knowledge. At the same time, they support nonprofit organisations with solving their data-related challenges. 
 Over 2-6 months and in teams from 2-7 data scientists, our volunteers have tackled diverse data challenges of nonprofits: from data collection, data visualization and exploratory data analysis to automation, reporting and advanced statistical analyses using machine learning and deep learning techniques. 
 
 [You think your organization does not work with data? Well, think again...](/en/nonprofits/what-is-data)
 
+[old projects]({{< ref "#projects" >}})
+
 
 ## The project process
 How does a CorrelAid project work? What are the phases and what work do you as a nonprofit need to do?
-
-
-
 
 {{< process 
     title="Project definition"
@@ -88,14 +79,6 @@ In addition, you support the project team with creating content for a project de
 
 [Submit a project!](https://www.surveymonkey.de/r/correlaid_submit_projekt)
 
-
-## Previous projects
-UNDER CONSTRUCTION
-
-We are currently working on content showcasing our previous projects. So stay tuned. 
-If you are German-speaking, you can listen to [this episode](https://soundcloud.com/correlaid_podcast/about-correlaid-automatisierte-reportgenerierung-fur-die-weltladen) of our podcast CorrelTalk where project team member Gideon and Annegret of the Weltladen Dachverband talk about the project we did on automation of reporting processes. 
-
-
 ## Testimonials
 
 {{< testimonial 
@@ -125,10 +108,10 @@ If you are German-speaking, you can listen to [this episode](https://soundcloud.
 {{< /testimonial >}}
 
 
+## Previous projects
+UNDER CONSTRUCTION
 
-## FAQ
-### How much does it cost?
-CorrelAid is a non-profit organisation that enables Data4Good projects by connecting social organisations with data scientists - we do not make any profit with our projects. Our data scientists are skilled volunteers who volunteer their time and skills for free because they are convinced that the potential of data science should be accessible to society. Thanks to this commitment of our data scientists, you do not pay them for their work. However, in most cases, you need to cover travel and accomodation costs for the project team members for the kickoff workshop. You also need to provide the location for this workshop. Those expenses usually amount to 500-1000 Euro. 
-
+We are currently working on content showcasing our previous projects. So stay tuned. 
+If you are German-speaking, you can listen to [this episode](https://soundcloud.com/correlaid_podcast/about-correlaid-automatisierte-reportgenerierung-fur-die-weltladen) of our podcast CorrelTalk where project team member Gideon and Annegret of the Weltladen Dachverband talk about the project we did on automation of reporting processes. 
 
 

@@ -1,0 +1,32 @@
+{{ define "main" }}
+<div class="container">
+    <div class="row">
+        {{ $projects := getJSON "https://correlaid.github.io/projects/projects.json" }}
+        {{ $id := .Params.project_id_path }}
+        {{ $lang := .Params.lang }}
+        <div class="col-12 my-5">
+            <h1>{{ .Params.Title }}</h1>
+            <!-- For the FAQ, we include the content. 
+                For the projects all content is loaded dynamically-->
+            {{ .Content }}
+            {{ range $projects }}
+                {{ $pid := .project_id_path }}
+                {{ if eq $pid  $id }}
+                {{ if eq $lang "de"}}
+                        {{ .description.de.problem | markdownify }}
+                        {{ .description.de.data | markdownify }}
+                        {{ .description.de.approach | markdownify }}
+                        {{ .description.de.impact | markdownify }}
+                    {{ else }}
+                        {{ .description.en.problem | markdownify }}
+                        {{ .description.en.data | markdownify }}
+                        {{ .description.en.approach | markdownify }}
+                        {{ .description.en.impact | markdownify }}
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        </div>
+
+    </div>
+</div>
+{{ end }}

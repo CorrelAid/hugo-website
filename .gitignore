@@ -7,3 +7,5 @@ public/*
 
 # annoying mac indexing
 .DS_Store
+
+venv

@@ -81,3 +81,8 @@ enableEmoji             = true
 [services]
   [services.twitter]
     disableInlineCSS = false
+
+[caches]
+  [caches.getjson]
+    dir = ":cacheDir/:project"
+    maxAge = "10s"

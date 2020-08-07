@@ -1,29 +1,21 @@
 <div class="container">
-  <div class="row my-5">
-    {{ $align := default "left" (.Get `align`) }}
-    {{ $icon := (.Get `icon`) }}
-    {{ $iconClass := $icon | printf "fas fa-10x %s" }}
-    {{ if eq $align "left" }}
-        
-        <div class="col-md-3 align-self-center">
-            <div class="ca-img-container">
-                <i class="{{ $iconClass }}"></i>
-            </div>
-        </div>
-        <div class="col-md-9 align-self-center">
-        <h2 class="ca-green-text mb-0 mt-0">
-            {{ .Get `title`}}
-        </h2>
-        <p>
-            <i class="fas fa-s fa-clock"></i>
-            {{ .Get `duration`}}
-        </p>
+  <div class="row">
+    <div class="col-md-12">
+      {{ range $.Site.Data.en.project_process }} 
+      {{ $iconClass := .icon | printf "fas fa-2x %s" }}
+      <i class="{{ $iconClass }}"></i>
+      <h2 class="ca-green-text mb-0 mt-0">
+        {{ .title }}
+      </h2>
 
-        <p class="lead">{{ .Inner | markdownify }}</p>
-        <p>
-            {{ .Get `work` | markdownify}}
-        </p>
-        </div>
-    {{ end }}
+      <i class="fas fa-s fa-clock"></i>
+      {{ .duration }}
+
+      <p class="lead">{{ .content | markdownify }}</p>
+      <p>
+        {{ .work | markdownify}}
+      </p>
+      {{ end }}
+    </div>
   </div>
 </div>
