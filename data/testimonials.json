@@ -1,0 +1,44 @@
+{
+  "projects": {
+    "de": [
+      {
+        "contact": "Anna Saraste",
+        "organisation": "European Youth Parliament",
+        "image": "eyp.jpg",
+        "text": "Wir haben sehr, sehr gute Erfahrungen gemacht. CorrelAid hat uns großartige und sehr nützliche Einblicke verschafft. Mit unserem begrenzten Budget hätten wir diese Leistungen nie bezahlen können. Es sollte mehr Organisationen wie CorrelAid geben."
+      },
+      {
+        "contact": "Claire Samtleben",
+        "organisation": "Diskutier-Mit-Mir",
+        "image": "diskutier-mit-mir.jpg",
+        "text": "Durch die Zusammenarbeit mit Correlaid haben wir eine neue Perspektive auf unser Projekt bekommen. Für die Weiterentwicklung von Diskutier Mit Mir war das super hilfreich!"
+      },
+      {
+        "contact": "Ivo (Product Manager)",
+        "organisation": "ProjectTogether",
+        "image": "ivo-project-together.jpg",
+        "text": "Die Zusammenarbeit mit CorrelAid hat uns hochspannende Einblicke in die Möglichkeiten der Datenanalyse gegeben."
+      }
+    ],
+    "en": [
+      {
+        "contact": "Anna Saraste",
+        "organisation": "European Youth Parliament",
+        "image": "eyp.jpg",
+        "text": "It was a very, very positive experience for us. It was amazing insight that CorrelAid brought and was super practical. On our limited budget, we would never have been able to afford this. I think what the group does is outstanding. There should be more like this."
+      },
+      {
+        "contact": "Claire Samtleben",
+        "organisation": "Diskutier-Mit-Mir",
+        "image": "diskutier-mit-mir.jpg",
+        "text": "For the further development of Diskutier-Mit-Mir that was very helpful! By working with Correlaid we got new perspectives on our project."
+      },
+      {
+        "contact": "Ivo (Product Manager)",
+        "organisation": "ProjectTogether",
+        "image": "ivo-project-together.jpg",
+        "text": "The cooperation with CorrelAid gave us fascinating insights into what is possible with data analysis."
+      }
+    ]
+  }
+}

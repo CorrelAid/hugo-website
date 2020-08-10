@@ -16,6 +16,12 @@ other       = "Datenschutz"
 other       = "Kontakt"
 [for-nonprofits]
 other       = "For nonprofits"
+[projects-past]
+other       = "Past projects"
+[projects-process]
+other       = "How it works:"
+[projects-your-input]
+other       = "Your input:"
 [projects]
 other       = "Our Work"
 [support]

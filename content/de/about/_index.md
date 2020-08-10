@@ -16,7 +16,7 @@ meta:
 
 # Unsere Arbeit
 
-CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von über 1300 ehrenamtlichen Datenanalyst\*innen. Wir haben bereits über 35 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für Datenanalyst\*innen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten. Unsere Arbeit gliedert sich in drei Bereiche: Skilled data volunteering, Weiterbildung und Dialog. 
+CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von über {{< param num_members >}} ehrenamtlichen Datenanalyst\*innen. Wir haben bereits über 35 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für Datenanalyst\*innen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten. Unsere Arbeit gliedert sich in drei Bereiche: Skilled data volunteering, Weiterbildung und Dialog. 
 
 ## Data Volunteering
 

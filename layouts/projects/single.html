@@ -4,23 +4,16 @@
         {{ $projects := getJSON "https://correlaid.github.io/projects/projects.json" }}
         {{ $id := .Params.project_id_path }}
         <div class="col-12 my-5">
-            {{ .Content }}
             <!-- For the FAQ, we include the content. 
                 For the projects all content is loaded dynamically-->
-                {{ range $projects }}
-                {{ $pid := .project_id_path }}
-                {{ if eq $pid  $id }}
-                {{ if eq .Site.Language.Lang "de"}}
-                        {{ .description.de.problem | markdownify }}
-                        {{ .description.de.data | markdownify }}
-                        {{ .description.de.approach | markdownify }}
-                        {{ .description.de.impact | markdownify }}
-                    {{ else }}
-                        {{ .description.en.problem | markdownify }}
-                        {{ .description.en.data | markdownify }}
-                        {{ .description.en.approach | markdownify }}
-                        {{ .description.en.impact | markdownify }}
-                    {{ end }}
+                {{ range where $projects "project_id_path" "==" $id }}
+                {{ if eq .published true }}
+                    {{ .Content }}
+                    {{ $content := (index .description $.Site.Language.Lang )}}
+                        {{ $content.problem | markdownify }}
+                        {{ $content.data | markdownify }}
+                        {{ $content.approach | markdownify }}
+                        {{ $content.impact | markdownify }}     
                 {{ end }}
             {{ end }}
         </div>

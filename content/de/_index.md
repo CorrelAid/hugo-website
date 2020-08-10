@@ -17,7 +17,7 @@ meta:
     href="/projects/data-volunteering/"
     order="order-md-0"
 >}}
-    Wir bieten innovatives Skilled-Volunteering: Wir bringen gesellschaftlich denkende Data Scientists mit sozialen Organisationen zusammen und stoßen gemeinsame Projekte an. Mit einem dezentralen Netzwerk von über 1300 Data Scientists demokratisieren wir so das Potential fortgeschrittener Datenanalyse.
+    Wir bieten innovatives Skilled-Volunteering: Wir bringen gesellschaftlich denkende Data Scientists mit sozialen Organisationen zusammen und stoßen gemeinsame Projekte an. Mit einem dezentralen Netzwerk von über {{< param num_members >}} Data Scientists demokratisieren wir so das Potential fortgeschrittener Datenanalyse.
 {{< /feature >}}
 
 {{< feature 

@@ -10,7 +10,8 @@ enableEmoji             = true
     twitter         = "https://twitter.com/CorrelAid"
     facebook        = "https://facebook.com/WeAreCorrelAid"
     linkedin        = "https://www.linkedin.com/company/correlaid/"
-    
+    num_members     = "1300"
+
 [Languages]
 [Languages.en]
     contentDir      = "content/en"

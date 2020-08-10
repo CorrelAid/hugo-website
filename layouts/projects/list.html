@@ -7,33 +7,80 @@
             <h1>{{ .Title }}</h1>
             {{ .Content }}
 
-            <h2>Project process</h2>
+                        
+            <h1>{{ i18n "projects-past" }}</h1>
 
-            <div class="row my-5">
-                {{ $process_steps := $.Site.Data.process_steps }}
-                {{ if eq .Site.Language.Lang "de"}}
-                    {{ range $process_steps.de }} 
-                        {{ partial "process_step.html" . }}
-                     {{ end }}
-                {{ else }}
-                    {{ range $process_steps.en }} 
-                        {{ partial "process_step.html" . }}
-                    {{ end }}
-                {{ end }}
-            </div>
-            
-            <h2>Projects</h2>
             <div class="row">
                 {{ $projects := getJSON "https://correlaid.github.io/projects/projects.json" }}
                 {{ range $projects }}
-                <div class="col-12 col-md-6">
-                    <div class="correlaid-box-outer py-2">
-                    <a class="correlaid-box-inner" href="{{ .URL | absLangURL }}/projects/{{ lower .project_id_path }}">
-                        <h3>{{ .title }}</h3>
-                    </a>
-                    </div>
-                </div>
+                    {{ if eq .published true }}
+                        <div class="col-12 col-md-6">
+                            <div class="correlaid-box-outer py-2">
+                            <a class="correlaid-box-inner" href="{{ .URL | absLangURL }}/projects/{{ lower .project_id_path }}">
+                                <h3>{{ .title }}</h3>
+                            </a>
+                            </div>
+                        </div>
+                    {{ end }}
                 {{ end }}
+            </div>
+
+            <h1>{{ i18n "projects-process" }}</h1>
+
+            <div class="row my-5">
+                {{ $process_steps := $.Site.Data.process_steps }}
+                {{ range $step_index, $step := (index $process_steps .Site.Language.Lang ) }} 
+                        <div class="col-sm-6">
+
+                            {{ $iconClass := .icon | printf "fas fa-2x %s" }}
+                            <h2 class="ca-green-text mb-0 mt-0">
+                                {{ add $step_index 1 }}. {{ .title }}
+                            </h2> 
+                           
+                            <p class="lead">
+                                <i class="fas fa-s fa-clock"></i>
+                                {{ .duration }}
+                            </p>
+                            <p class="lead">{{ .content | markdownify }}</p>
+                            <p>
+                                <b>{{ i18n "projects-your-input" }}</b>
+                                {{ .work | markdownify}}
+                            </p>
+                        </div>
+                {{ end }}
+            </div>
+
+            <h1>Testimonials</h1>
+
+            {{ $testimonials := $.Site.Data.testimonials }}
+            <div id="projectTestimonials" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                    {{ range $testi_index, $testi := (index $testimonials.projects .Site.Language.Lang ) }} 
+                        {{ $carouselClass := (cond (eq $testi_index 0 ) "active" "") }}
+
+                        <li data-target="#projectTestimonials" data-slide-to=" {{ $testi_index }}" class="{{ $carouselClass }}"></li>
+                    {{ end }}
+                  </ol>
+
+                <div class="carousel-inner" >
+                    {{ range $testi_index, $testi := (index $testimonials.projects .Site.Language.Lang ) }} 
+                        {{ $carouselClass := (cond (eq $testi_index 0 ) "carousel-item active" "carousel-item") }}
+
+                        <div class="{{ $carouselClass }}">
+                            <div class="testimonial ca-original-gradient pt-3 pb-5 px-4 mt-3">
+                                <div class="row">
+                                    <div class="col-12 col-sm-5 col-md-4 col-lg-3 align-self-center">
+                                        <img class="img-fluid rounded-circle" src="/images/people/{{ $testi.image }}" />
+                                        <p class="text-white text-center m-0">{{ $testi.contact }}, <i>{{ $testi.organisation }}</i></p>
+                                    </div>
+                                    <div class="col-12 col-sm-7 col-md-8 col-lg-9 align-self-center my-2">
+                                        <blockquote><i class="fas fa-quote-left fa-2x fa-pull-left"></i>{{ $testi.text }}</blockquote>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    {{ end }}   
+                </div>
             </div>
         </div>
     </div>

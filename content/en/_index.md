@@ -5,7 +5,6 @@ draft: false
 translationKey: "home"
 meta:
     title: "CorrelAid"
-    description: "CorrelAid Homepage. We are a network of young data analysts that wants to change the world with a more inclusive, integrated and innovative approach to data analysis."
     image: "509-correlaid-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
@@ -19,7 +18,7 @@ meta:
     order="order-md-0"
 >}}
     We provide an innovative skilled-volunteering solution. Through our decentral
-	network of over 1300 skilled voluntary data scientists we democratize the potential of 
+	network of over {{< param num_members >}} skilled voluntary data scientists we democratize the potential of 
 	advanced data analysis and start projects with mission-driven organisations.
 {{< /feature >}}
 
