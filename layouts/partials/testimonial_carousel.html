@@ -1,8 +1,9 @@
 <div id="{{ .id }}" class="carousel slide" data-ride="carousel">
+    {{ $id := .id }}
     <ol class="carousel-indicators">
         {{ range $testi_index, $testi := (index .testimonials .lang ) }} 
             {{ $carouselClass := (cond (eq $testi_index 0 ) "active" "") }}
-            <li data-target="#{{ .id }}" data-slide-to=" {{ $testi_index }}" class="{{ $carouselClass }}"></li>
+            <li data-target="#{{ $id}} " data-slide-to=" {{ $testi_index }}" class="{{ $carouselClass }}"></li>
         {{ end }}
       </ol>
 
