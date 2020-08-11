@@ -8,12 +8,10 @@ other       = "About"
 other       = "About CorrelAid"
 [people]
 other       = "People"
-[ethics]
-other       = "Ethikkodex"
-[data-privacy]
-other       = "Datenschutz"
 [contact]
-other       = "Kontakt"
+other       = "Contact"
+[contact-us]
+other       = "Contact us!"
 [for-nonprofits]
 other       = "For nonprofits"
 [projects-past]

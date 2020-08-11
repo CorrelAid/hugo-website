@@ -339,6 +339,67 @@ i.caveat {
     border-right: 10px solid #92de3f;
 }
 
+/* =============== DIV GRADIENT BORDER =============== */
+.ca-gradient-container {
+    display: block;
+    position: relative;
+    width: 90%;
+    margin: 3rem 5% 3rem 5%;
+}
+
+.ca-gradient-container.smaller {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.ca-gradient-container > .ca-gradient-border::after {
+    bottom: 0;
+}
+.ca-gradient-container > .ca-gradient-border::after,
+.ca-gradient-container > .ca-gradient-border::before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 10px;
+    left: 0;
+    background-image: linear-gradient(90deg,#92de3f 0,#3863a2);
+}
+
+.ca-gradient-container > .ca-gradient-border::before {
+    top: 0;
+    z-index: -1000;
+}
+
+.ca-gradient-container > .ca-gradient-border {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: auto;
+    height: auto;
+    transform: translateX(-20px) translateY(-20px);
+    z-index: -1000;
+}
+
+.ca-gradient-container > .ca-gradient-border {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: .7;
+    border-left: 10px solid #92de3f;
+    border-right: 10px solid #3863a2;
+}
+
+
+
+
 /* =============== BOOTSTRAP BUTTON =============== */
 
 .btn {
@@ -363,17 +424,26 @@ i.caveat {
     border-color: #92de3f;
 }
 
+.btn-ca-blue {
+    color: #FFFFFF;
+    background-color: #3863a2;
+    border-color: #3863a2;
+}
+
+.btn-ca-blue:hover {
+    color: #FFFFFF;
+}
+
 .btn-ca-dark-blue {
     color: #FFFFFF;
     background-color: #233140;
     border-color: #233140;
 }
 
-.btn-ca-dark-blue {
+.btn-ca-dark-blue:hover {
     color: #FFFFFF;
-    background-color: #3863a2;
-    border-color: #3863a2;
 }
+
 
 /* =============== BUTTON =============== */
 .ca-btn {

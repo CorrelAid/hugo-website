@@ -31,7 +31,7 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
 
 {{< person 
     name="Frie"
-    subline="Chief Operating Officer"
+    subline="Data4Good Projekte & COO"
     img="/images/people/frie.jpg"
     data-email="frie.p@correlaid.org"
     data-to="Frie (COO)"

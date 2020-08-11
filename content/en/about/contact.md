@@ -30,7 +30,7 @@ He studied "Evidence-based Policymaking" at the University of Oxford and Policy-
 
 {{< person 
     name="Frie"
-    subline="Chief Operating Officer (COO)"
+    subline="Data4Good projects & COO"
     img="/images/people/frie.jpg"
     data-email="frie.p@correlaid.org"
     data-to="Frie (COO)"
@@ -45,7 +45,7 @@ He studied "Evidence-based Policymaking" at the University of Oxford and Policy-
     name="Manuel"
     subline="Data4Good projects"
     img="/images/people/manuel.jpg"
-    data-email="projekte@correlaid.org"
+    data-email="projects@correlaid.org"
     data-to="Manuel (Projects)"
     link-color="ca-green-text"
     x="0"
