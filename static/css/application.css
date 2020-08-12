@@ -145,6 +145,21 @@ a {
     color: #54a1b1;
 }
 
+
+a.start i.fas {
+    color: #FFFFFF;
+}
+
+a i.fas {
+    color: #6c757d;
+}
+
+
+a i.fas:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
 a i.fab {
     color: #6c757d;
 }
@@ -875,4 +890,12 @@ td {
     color: #FFFFFF;
     letter-spacing: 8px;
     font-weight: 500;
+}
+
+/* ========== SINGLE PROJECT VIEW ========== */
+a.team-member-links i.fab:hover,
+a.team-member-links i.far:hover,
+a.team-member-links i.fas:hover {
+    color: #6c757d;
+    text-decoration: none;
 }

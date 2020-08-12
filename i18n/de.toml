@@ -20,8 +20,17 @@ other       = "Vergangene Projekte"
 other       = "So funktionierts:"
 [projects-your-input]
 other       = "Euer Beitrag:"
+[project-challenge]
+other       = "Die Challenge"
+[project-data]
+other       = "Die Datengrundlage"
+[project-approach]
+other       = "Der Ansatz"
+[project-impact]
+other       = "Die Wirkung"
 [projects]
 other       = "Unsere Arbeit"
+
 [support]
 other       = "Unterstützen"
 [mailing-list]

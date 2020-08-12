@@ -22,6 +22,14 @@ other       = "How it works:"
 other       = "Your input:"
 [projects]
 other       = "Our Work"
+[project-challenge]
+other       = "The Challenge"
+[project-data]
+other       = "The Data"
+[project-approach]
+other       = "The Solution"
+[project-impact]
+other       = "The Impact"
 [support]
 other       = "Support"
 [mailing-list]

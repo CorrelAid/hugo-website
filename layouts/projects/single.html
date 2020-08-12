@@ -34,14 +34,14 @@
                                     {{ if isset . "linkedin" }}
                                         {{ if gt (len .linkedin ) 0 }}
                                         <div class="col-1">
-                                            <p><a href="{{ .linkedin}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in"></i></a></p>
+                                            <p><a class="team-member-links" href="{{ .linkedin}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in"></i></a></p>
                                        </div>
                                         {{ end }}
                                     {{ end }}
                                     {{ if and (isset . "xing" )}}
                                         {{ if gt (len .xing ) 0 }}
                                         <div class="col-1">
-                                            <p><a href="{{ .xing}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-xing"></i></a></p>
+                                            <p><a class="team-member-links" href="{{ .xing}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-xing"></i></a></p>
                                         </div>
                                         {{ end }}
                                     {{ end }}
@@ -49,21 +49,21 @@
                                     {{ if isset . "github" }}
                                         {{ if gt (len .github ) 0 }}
                                         <div class="col-1">
-                                            <p><a href="https://github.com/{{ .github}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a></p>
+                                            <p><a class="team-member-links" href="https://github.com/{{ .github}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a></p>
                                         </div>
-                                        {{ end }}
+                                        {{ end }} 
                                     {{ end }}
                                     {{ if isset . "website" }}
                                         {{ if gt (len .website ) 0 }}
                                         <div class="col-1">
-                                            <p><a href="{{ .website}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a></p>
+                                            <p><a class="team-member-links" href="{{ .website}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a></p>
                                         </div>
                                         {{ end }}
                                     {{ end }}
                                     {{ if isset . "twitter" }}
                                         {{ if gt (len .twitter ) 0 }}
                                         <div class="col-1">
-                                            <p><a href="https://twitter.com/{{ .twitter}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a></p>
+                                            <p><a class="team-member-links" href="https://twitter.com/{{ .twitter}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a></p>
                                         </div>
                                         {{ end }}
                                     {{ end }}
@@ -77,9 +77,13 @@
             <!-- For the FAQ, we include the content. 
                 For the projects all content is loaded dynamically-->
                     {{ $content := (index .description $.Site.Language.Lang )}}
+                        <h1 class="ca-blue-text">{{ i18n "project-challenge" }}</h1>
                         {{ $content.problem | markdownify }}
+                        <h1 class="ca-blue-text">{{ i18n "project-data" }}</h1>
                         {{ $content.data | markdownify }}
+                        <h1 class="ca-blue-text">{{ i18n "project-approach" }}</h1>
                         {{ $content.approach | markdownify }}
+                        <h1 class="ca-blue-text">{{ i18n "project-impact" }}</h1>
                         {{ $content.impact | markdownify }}     
                 {{ end }}
             {{ end }}
