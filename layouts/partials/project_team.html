@@ -1,0 +1,58 @@
+<div class="row py-5">
+
+    <div class="col-12 px-0">
+        <div class="col-md-10 my-3 pb-4 pr-5 ca-gradient-container">
+            
+            <h2>CorrelAid Team</h2>
+            <div class="row">
+                {{ range .team }}
+                <div class="col-sm-12 col-lg-6 col-md-6">
+                    <div class="row justify-content-start">
+                        <div class="col pr-0 mr-0">
+                            <p>{{ .first_name }} {{ .last_name }}</p>
+                        </div>
+                        {{ if isset . "linkedin" }}
+                            {{ if gt (len .linkedin ) 0 }}
+                            <div class="col-1">
+                                <p><a class="team-member-links" href="{{ .linkedin}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in"></i></a></p>
+                            </div>
+                            {{ end }}
+                        {{ end }}
+                        {{ if and (isset . "xing" )}}
+                            {{ if gt (len .xing ) 0 }}
+                            <div class="col-1">
+                                <p><a class="team-member-links" href="{{ .xing}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-xing"></i></a></p>
+                            </div>
+                            {{ end }}
+                        {{ end }}
+    
+                        {{ if isset . "github" }}
+                            {{ if gt (len .github ) 0 }}
+                            <div class="col-1">
+                                <p><a class="team-member-links" href="https://github.com/{{ .github}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a></p>
+                            </div>
+                            {{ end }} 
+                        {{ end }}
+                        {{ if isset . "website" }}
+                            {{ if gt (len .website ) 0 }}
+                            <div class="col-1">
+                                <p><a class="team-member-links" href="{{ .website}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a></p>
+                            </div>
+                            {{ end }}
+                        {{ end }}
+                        {{ if isset . "twitter" }}
+                            {{ if gt (len .twitter ) 0 }}
+                            <div class="col-1">
+                                <p><a class="team-member-links" href="https://twitter.com/{{ .twitter}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a></p>
+                            </div>
+                            {{ end }}
+                        {{ end }}
+                        </div>
+                    </div>
+                </div>
+            {{ end }}  
+            <div class="ca-gradient-border"></div>
+        </div>
+    </div>      
+    
+</div>

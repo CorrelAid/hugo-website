@@ -7,86 +7,36 @@
             {{ range where $projects "project_id_path" "==" $id }}
             {{ if eq .published true }}
             <h1>{{ .title }}</h1>
-            <p>{{ .start }} - {{ .end }}</p>
-                <div class="row">
-
-                    <div class="col-md-6">
-                        <div class="col-md-12 my-3 pb-4 pr-5 ca-gradient-container">
-                            <h2>{{ .organization.name }}</h2>
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-                            <p>{{ (index .organization.about $.Site.Language.Lang | markdownify )}}</p>
-                            <div class="row">
-                                <p class="lead">
-                                    <i class="fas fa-globe"></i>
-                                    <a href="{{ .organization.website }}">{{ .organization.website }}</a>
-                                </p>
-                            </div>
-                            <div class="ca-gradient-border"></div>
-                        </div>
-                    </div>      
-                    <div class="col-md-6">
-                        <div class="col-md-10 my-3 pb-4 pr-5 ca-gradient-container">
-                            <h2>CorrelAid Team</h2>
-                            {{ range .team }}
-    
-                            <div class="row">
-                                <p>{{ .first_name }} {{ .last_name }}</p>
-                                    {{ if isset . "linkedin" }}
-                                        {{ if gt (len .linkedin ) 0 }}
-                                        <div class="col-1">
-                                            <p><a class="team-member-links" href="{{ .linkedin}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in"></i></a></p>
-                                       </div>
-                                        {{ end }}
-                                    {{ end }}
-                                    {{ if and (isset . "xing" )}}
-                                        {{ if gt (len .xing ) 0 }}
-                                        <div class="col-1">
-                                            <p><a class="team-member-links" href="{{ .xing}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-xing"></i></a></p>
-                                        </div>
-                                        {{ end }}
-                                    {{ end }}
-
-                                    {{ if isset . "github" }}
-                                        {{ if gt (len .github ) 0 }}
-                                        <div class="col-1">
-                                            <p><a class="team-member-links" href="https://github.com/{{ .github}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a></p>
-                                        </div>
-                                        {{ end }} 
-                                    {{ end }}
-                                    {{ if isset . "website" }}
-                                        {{ if gt (len .website ) 0 }}
-                                        <div class="col-1">
-                                            <p><a class="team-member-links" href="{{ .website}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a></p>
-                                        </div>
-                                        {{ end }}
-                                    {{ end }}
-                                    {{ if isset . "twitter" }}
-                                        {{ if gt (len .twitter ) 0 }}
-                                        <div class="col-1">
-                                            <p><a class="team-member-links" href="https://twitter.com/{{ .twitter}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a></p>
-                                        </div>
-                                        {{ end }}
-                                    {{ end }}
-                                </div>
-                            {{ end }}  
-                            <div class="ca-gradient-border"></div>
-                        </div>
-                    </div>      
-                    
+            <div class="col-md-6 float-right">
+                <div class="col-md-12 my-2 pb-4 pr-5 ca-gradient-container">
+                    <h2>{{ .organization.name }}</h2>
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+                    <p>{{ (index .organization.about $.Site.Language.Lang | markdownify )}}</p>
+                    <div class="row">
+                        <p class="lead">
+                            <i class="fas fa-globe"></i>
+                            <a href="{{ .organization.website }}">{{ .organization.website }}</a>
+                        </p>
+                    </div>
+                    <div class="ca-gradient-border"></div>
                 </div>
+            </div>      
+            
             <!-- For the FAQ, we include the content. 
                 For the projects all content is loaded dynamically-->
-                    {{ $content := (index .description $.Site.Language.Lang )}}
-                        <h1 class="ca-blue-text">{{ i18n "project-challenge" }}</h1>
-                        {{ $content.problem | markdownify }}
-                        <h1 class="ca-blue-text">{{ i18n "project-data" }}</h1>
-                        {{ $content.data | markdownify }}
-                        <h1 class="ca-blue-text">{{ i18n "project-approach" }}</h1>
-                        {{ $content.approach | markdownify }}
-                        <h1 class="ca-blue-text">{{ i18n "project-impact" }}</h1>
-                        {{ $content.impact | markdownify }}     
+                {{ $content := (index .description $.Site.Language.Lang )}}
+                <h1 class="ca-blue-text">{{ i18n "project-challenge" }}</h1>
+                <p>{{ $content.problem | markdownify }}</p>
+                <h1 class="ca-blue-text">{{ i18n "project-data" }}</h1>
+                <p>{{ $content.data | markdownify }}</p>
+                <h1 class="ca-blue-text">{{ i18n "project-approach" }}</h1>
+                <p>{{ $content.approach | markdownify }}</p>
+                <h1 class="ca-blue-text">{{ i18n "project-impact" }}</h1>
+                <p>{{ $content.impact | markdownify }}</p>
                 {{ end }}
+                {{ partial "project_team.html" . }}
             {{ end }}
+            
         </div>
 
     </div>
