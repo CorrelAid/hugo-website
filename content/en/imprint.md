@@ -3,22 +3,19 @@ title: "Imprint"
 date: 2018-08-23T12:35:49+02:00
 draft: false
 translationKey: "imprint"
-menu: 
-    essentials:
-        weight: 1
+menu:
+  essentials:
+    weight: 1
 meta:
-    title: "CorrelAid - Imprint"
-    description: "CorrelAid Homepage. We are a network of young data analysts that wants to change the world with a more inclusive, integrated and innovative approach to data analysis."
-    image: "509-correlaid-thumb.jpg"
-    keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
+  title: "CorrelAid - Imprint"
+  description: "CorrelAid Homepage. We are a network of young data analysts that wants to change the world with a more inclusive, integrated and innovative approach to data analysis."
+  image: "509-correlaid-thumb.jpg"
+  keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
 # Imprint
 
-
-
 The imprint is valid on: [https://correlaid.org/](https://correlaid.org/) and the respective sub-domains and our social media channels [https://twitter.com/CorrelAid](Twitter), [https://facebook.com/WeAreCorrelAid](Facebook) and [Youtube](https://www.youtube.com/channel/UC59n41SakYfllEU6tqg5yLA).
-
 
 ## Information in accordance with section 5 TMG
 
@@ -35,7 +32,6 @@ Represented by:
 Johannes Müller<br />
 E-Mail: [johannes.m@correlaid.org](johannes.m@correlaid.org)
 
-
 ### 2. Vorsitzender
 
 Regina Siegers<br />
@@ -48,9 +44,8 @@ Registernummer: VR 701448
 
 ### Person responsible for content in accordance with 55 Abs. 2 RStV:
 
-Lisa Hehnke<br />
-E-Mail: [lisa.h@correlaid.org](lisa.h@correlaid.org)
-
+Johannes Müller<br />
+E-Mail: [johannes.m@correlaid.org](johannes.m@correlaid.org)
 
 ## Disclaimer
 
@@ -64,7 +59,6 @@ Responsibility for the content of external links (to web pages of third parties)
 Copyright
 
 Our web pages and their contents are subject to German copyright law. Unless expressly permitted by law (§ 44a et seq. of the copyright law), every form of utilizing, reproducing or processing works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights. Individual reproductions of a work are allowed only for private use, so must not serve either directly or indirectly for earnings. Unauthorized utilization of copyrighted works is punishable (§ 106 of the copyright law).
-
 
 ## Data privacy statement
 
