@@ -3,19 +3,19 @@ title: "Impressum"
 date: 2018-08-23T12:35:49+02:00
 draft: false
 translationKey: "imprint"
-menu: 
-    essentials:
-        weight: 1
+menu:
+  essentials:
+    weight: 1
 meta:
-    title: "CorrelAid - Impressum"
-    description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 1400 ehrenamtlichen Datenanalyst*innen."
-    image: "509-correlaid-thumb.jpg"
-    keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
+  title: "CorrelAid - Impressum"
+  description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 1400 ehrenamtlichen Datenanalyst*innen."
+  image: "509-correlaid-thumb.jpg"
+  keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
 # Impressum
 
-Das Impressum gilt für: [https://correlaid.org/](https://correlaid.org/), alle Subdomains die auf *correlaid.org* enden, und unsere Social Media Präsenz auf [Twitter](https://twitter.com/CorrelAid), [Facebook](https://facebook.com/WeAreCorrelAid) und [Youtube](https://www.youtube.com/channel/UC59n41SakYfllEU6tqg5yLA).
+Das Impressum gilt für: [https://correlaid.org/](https://correlaid.org/), alle Subdomains die auf _correlaid.org_ enden, und unsere Social Media Präsenz auf [Twitter](https://twitter.com/CorrelAid), [Facebook](https://facebook.com/WeAreCorrelAid) und [Youtube](https://www.youtube.com/channel/UC59n41SakYfllEU6tqg5yLA).
 
 ## Angaben gemäß § 5 TMG
 
@@ -30,7 +30,7 @@ E-Mail: [info@correlaid.org](info@correlaid.org)
 #### 1. Vorsitzender
 
 Johannes Müller<br />
-E-Mail: johannes.m@correlaid.org
+E-Mail: [johannes.m@correlaid.org](johannes.m@correlaid.org)
 
 #### 2. Vorsitzender
 
@@ -44,8 +44,8 @@ Registernummer: VR 701448
 
 ### Verantwortlicher i.S.d. § 55 Abs. 2 RStV:
 
-Lisa Hehnke<br />
-E-Mail: [lisa.h@correlaid.org](lisa.h@correlaid.org)
+Johannes Müller<br />
+E-Mail: [johannes.m@correlaid.org](johannes.m@correlaid.org)
 
 ## Haftungsausschluss
 
@@ -60,7 +60,6 @@ Urheberrecht
 
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
 Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
-
 
 ## Datenschutzerklärung
 
