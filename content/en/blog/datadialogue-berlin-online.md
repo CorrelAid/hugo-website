@@ -3,7 +3,7 @@ title:      "The CorrelAidX Berlin Online Data Dialogue"
 date:       2020-08-12T00:00:00+02:00
 image:      "509-datadialogue-berlin-online.png"
 summary:    "The Local Chapter Berlin hosted its first ever Online Data Dialogue event on June 11th, 2020, connecting two amazing NPOs - GoVolunteer and Amadeu Antonio Stiftung - with data scientist volunteers. In this post, we delve into what the teams discussed and what ideas they came up with to solve the challenges of the NPOs."
-draft: true
+draft: false
 categories:       
     - Veranstaltungen
     - CorrelAidX
