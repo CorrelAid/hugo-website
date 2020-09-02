@@ -110,3 +110,21 @@ $back.click(function (e) {
     $('#donate-' + progress).show();
 });
 
+
+
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000",
+      "text": "#0f0"
+    },
+    "button": {
+      "background": "#0f0"
+    }
+  },
+  "showLink": false,
+  "type": "opt-in"
+});
+</script>
