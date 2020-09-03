@@ -110,21 +110,18 @@ $back.click(function (e) {
     $('#donate-' + progress).show();
 });
 
+/* =============== HIDE COOKIE RELATED CONTENT =============== */
+var $calendlyWidget = $('#calendly-widget');
+var $calendlyButton = $('#calendly-button');
 
+// currently not used because we removed the calendly widget 
+function removeCalendlyWidget() {
+    $calendlyButton.show()
+    $calendlyWidget.hide()
+}
 
-<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
-<script>
-window.cookieconsent.initialise({
-  "palette": {
-    "popup": {
-      "background": "#000",
-      "text": "#0f0"
-    },
-    "button": {
-      "background": "#0f0"
-    }
-  },
-  "showLink": false,
-  "type": "opt-in"
-});
-</script>
+// currently not used because we removed the calendly widget 
+function showCalendlyWidget() {
+    $calendlyButton.hide()
+    $calendlyWidget.show()
+}
