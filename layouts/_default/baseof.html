@@ -5,9 +5,6 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         
-        <!-- Cookiebot scripts -->
-        <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="64e18dd9-5603-406a-b481-0de61f4d7434" data-blockingmode="auto" type="text/javascript"></script>
-
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="{{ "vendor/bootstrap/bootstrap-4.1.3.min.css" | absURL }}" />
 
@@ -126,6 +123,39 @@
 
         <!-- Application JavaScript -->
         <script src="{{ "js/application.js" | absURL }}"></script>
+
+        <script type="text/javascript">
+            var cpm = {
+            onInitialise: function(status) {
+                if (this.hasConsented('uncategorized')) {
+                } else {
+                }
+            },
+            onStatusChange: function(status, previousStatus)
+            {
+                if (this.hasConsented("uncategorized")) {
+                    // in case we add third party services we might need to implement this                
+                }
+            },
+            onAllow: function(category) {
+                if (category == 'uncategorized') {
+                    // in case we add third party services we might need to implement this
+                }
+            },
+            onRevoke: function(category) {
+                if (category == 'uncategorized') {
+                    // in case we add third party services we might need to implement this
+                }
+            },
+            };
+            (function(h,u,b){
+            var d=h.getElementsByTagName("script")[0],e=h.createElement("script");
+            e.async=true;e.src='https://cookiehub.net/c2/af3d5936.js';
+            e.onload=function(){u.cookiehub.load(b);}
+            d.parentNode.insertBefore(e,d);
+            })(document,window,cpm);
+            </script>
+
 
     </body>
 </html>

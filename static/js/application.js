@@ -110,3 +110,18 @@ $back.click(function (e) {
     $('#donate-' + progress).show();
 });
 
+/* =============== HIDE COOKIE RELATED CONTENT =============== */
+var $calendlyWidget = $('#calendly-widget');
+var $calendlyButton = $('#calendly-button');
+
+// currently not used because we removed the calendly widget 
+function removeCalendlyWidget() {
+    $calendlyButton.show()
+    $calendlyWidget.hide()
+}
+
+// currently not used because we removed the calendly widget 
+function showCalendlyWidget() {
+    $calendlyButton.hide()
+    $calendlyWidget.show()
+}
