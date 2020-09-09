@@ -37,6 +37,6 @@ In einer zweiten Runde werden wir erneut **drei CorrelAid Netzwerkmitglieder** a
 
 Alle Kurse finden in Frankfurt/Main (in Laufweite zum Hbf) statt. Reise- und Übernachtungskosten können leider nicht übernommen werden. Eine Online-Teilnahme ist prinzipell auch möglich (z.B. bei Zugehörigkeit zu einer Risikogruppe, ...).
 
-Die Bewerbung für das Stipendium ist möglich bis zum 20. September 2020. 
+Die Bewerbung für das Stipendium ist möglich bis zum **20. September 2020**. 
 
 [Hier](https://iomids.com/go/9ec811) gehts zur Bewerbung!
