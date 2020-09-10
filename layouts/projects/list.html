@@ -20,7 +20,8 @@
                         <div class="col-12 col-md-6">
                             <div class="correlaid-box-outer py-2">
                             <a class="correlaid-box-inner" href="{{ .URL | absLangURL }}/projects/{{ lower .project_id_path }}">
-                                <h3>{{ (index .title $lang ) }} - {{ .organization.name }}</h3>
+                                <h3>{{ .organization.name }}</h3>
+                                <p class="text-white">{{ (index .title $lang ) }} </p>
                             </a>
                             </div>
                         </div>

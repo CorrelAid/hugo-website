@@ -13,12 +13,12 @@
 
            <div class="col-md-6 float-right">
                 <div class="col-md-12 mb-2 mt-0 ml-5 pb-3 pr-5 ca-gradient-container">
-                    <h3>Our Partner: {{ .organization.name }}: </h3>
+                    <h2 class="ca-blue-text">{{ .organization.name }}: </h2>
                     {{ $about := (index .organization.about $lang ) }}
                     <p>
                         {{ $about.text | markdownify }} 
                         {{ if gt (len $about.source ) 0 }}
-                            ({{ .source | markdownify }})
+                            ({{ $about.source | markdownify }})
                         {{ end }}
                     </p>
                     <div class="row">
