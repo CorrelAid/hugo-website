@@ -58,6 +58,13 @@
 
             {{ $testimonials := $.Site.Data.testimonials }}
             {{ partial "testimonial_carousel.html" (dict "context" . "testimonials" $testimonials.projects "id" "projectTestimonials" "lang" $lang ) }}
+        
+            <h1>FAQ</h1>
+            {{ $faqs := (index $.Site.Data.projects_faq $lang) }}
+            {{ range $faqs }}
+                <h2>{{ .q }}</h2>
+                <p>{{ .a | markdownify }}</p>
+            {{ end }}
         </div>
     </div>
 </div>

@@ -1,0 +1,14 @@
+{
+  "en": [
+    {
+      "q": "How much do the projects cost?",
+      "a": "CorrelAid is a non-profit organisation that enables Data4Good projects by connecting social organisations with data scientists - we do not make any profit with our projects. Our data scientists are skilled volunteers who volunteer their time and skills for free because they are convinced that the potential of data science should be accessible to society. Thanks to this commitment of our data scientists, you do not pay them for their work. However, in most cases, you need to cover travel and accomodation costs for the project team members for the kickoff workshop. You also need to provide the location for this workshop. Those expenses usually amount to 500-1000 Euro."
+    }
+  ],
+  "de": [
+    {
+      "q": "Was kosten die Data4Good Projekte?",
+      "a": "CorrelAid ist ein gemeinnütziger Verein, der Data4Good Projekte anstößt, indem er gemeinnützige Organisationen mit Datenanalyst:innen vernetzt. CorrelAid macht keinen Profit mit diesen Projekten. Unsere Datenanalyst:innen sind _skilled volunteers_, die ihre Zeit und Kenntnisse für den guten Zweck einsetzen, weil sie überzeugt davon sind, dass das Potenzial von Data Science auch für die Zivilgesellschaft genutzt werden sollte. Dank dieses Engagements unserer Freiwilligen müsst ihr als gemeinnützige Organisation sie nicht für ihre Arbeit bezahlen. Allerdings müsst ihr für den Kickoff-Workshop in den meisten Fällen Unterkunfts- und Reisekosten für die Projektteammitglieder tragen. Außerdem müsst ihr für diesen Workshop den Veranstaltungsort stellen. Insgesamt belaufen sich diese Kosten meistens auf ca. 500-1000 Euro."
+    }
+  ]
+}
