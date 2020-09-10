@@ -2,6 +2,7 @@
 title: "Our Partners"
 date: 2018-08-23T10:48:46+02:00
 draft: false
+translationKey: "partners"
 menu: 
     about:
         weight: -100

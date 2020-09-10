@@ -51,3 +51,46 @@ In unseren Workshops bilden wir unser Data Science Netzwerk weiter. In unserem N
 ## Datendialog
 
 Wir wollen einen Dialog zwischen der Zivilgesellschaft und der Data Science Community anstoßen und gemeinsam Ideen für Data-for-Good-Projekte entwickeln. Dafür haben wir das Konzept des "Datendialogs" entwickelt. Bei einem Datendialog kommen drei bis fünf NGOs mit ca. 20 Datenanalyst\*innen zusammen. Beide Seiten lernen sich und ihre Arbeit dabei besser kennen und loten aus, welche Daten den jeweiligen Organisationen zur Verfügung stehen und welche Datenanalysen die Arbeit der Organisation unterstützen können. Was wir bei unseren bisherigen Datendialogen gemacht haben könnt ihr hier lesen: [Datendialog Hamburg](/blog/meetup-hh) und [Datendialog in Berlin](/blog/datendialog-berlin).
+
+# Preise und Förderungen
+
+
+{{< price 
+    year="2018" 
+    img="/images/ideen.jpg"
+    order="order-md-1"
+>}}
+100 ausgezeichnete Orte im Land der Ideen 2018
+{{< /price >}}
+
+{{< price 
+    year="2017" 
+    img="/images/fes.jpg"
+    order="order-md-0"
+>}}
+Engagementpreis der Friedrich-Ebert-Stiftung Alumni
+{{< /price >}}
+
+{{< price 
+    year="2017" 
+    img="/images/start-social.jpg"
+    order="order-md-1"
+>}}
+Bundesauswahl des startsocial-Programms unter Schirmherrschaft von Bundeskanzlerin Angela Merkel
+{{< /price >}}
+
+{{< price 
+    year="2016" 
+    img="/images/uni-kn.jpg"
+    order="order-md-0"
+>}}
+Preis des Universitätsrates der Universität Konstanz für besonderes Engagement
+{{< /price >}}
+
+{{< price 
+    year="2015" 
+    img="/images/o2.jpg"
+    order="order-md-1"
+>}}
+Think-Big Preis für soziales Engagement der Telefonica-Stiftung
+{{< /price >}}
