@@ -4,9 +4,16 @@
     <div class="row justify-content-center h-100">
         <div class="col-12 align-self-center text-center">
             <img class="img-fluid mb-5 correlaid-logo" src="/images/correlaid/correlaid-brand.png" alt="CorrelAid Logo" />
-            <a class="start" href="#data-science">
-                <i class="fas fa-3x fa-arrow-alt-circle-down"></i>
-            </a>
+            <p>
+            </p>
+            <div class="row">
+                <div class="col-md-6 px-0 py-5 text-md-right">
+                    <a type="button" class="btn btn-ca-white btn-hero" href="{{ "projects" | absLangURL }}">{{ i18n "for-nonprofits" }}</a> 
+                </div>
+                <div class="col-md-6 px-0 py-5 text-md-left">
+                    <a type="button" class="btn btn-ca-white btn-hero" href="{{ "volunteer" | absLangURL }}">{{ i18n "for-volunteers" }}</a>
+                </div>
+            </div>
         </div>
     </div>
 </div>
@@ -14,20 +21,29 @@
 
 
 {{.Content}}
+
+
 <!-- CALL FOR ACTION -->
 <div class="ca-dark-blue">
     <div class="container">
-        <div class="row my-5 py-5 justify-content-center">
+        <div class="row mt-5 py-5 justify-content-center">
             <div class="col-12 text-center pt-5 pb-3">
-                <h3 class="text-white">{{ i18n "claim-1" }}</h3>
+                <h3 class="text-white">{{ i18n "claim-npo" }}</h3>
             </div>
-            <div class="col-12 text-center pb-5">
-                <a href="{{ "contribute" | absLangURL }}" class="ca-btn block">{{ i18n "claim-1-btn" }}</a>
+            <div class="col-12 text-center pb-5" id="calendly-widget">
+                <!-- Button if cookie is missing -->
+                <a href="https://calendly.com/correlaid/30min" class="ca-btn block cookieconsent-optout-marketing">{{ i18n "claim-npo-book" }}</a>
+                <!-- Calendly Inline-Widget Beginn -->
+                <div class="calendly-inline-widget cookieconsent-optin-marketing" data-url="https://calendly.com/correlaid/30min" style="min-width:320px;height:630px;"></div>
+                <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+                <!-- Calendly Inline-Widget Ende -->
             </div>
         </div>
     </div>
 </div>
 <!-- /END CALL FOR ACTION -->
+
+
 <!-- BLOG -->
 <div class="container">
     <div class="row">
@@ -51,25 +67,21 @@
 </div>
 <!-- /END BLOG -->
 
-
 <!-- CALL FOR ACTION -->
 <div class="ca-dark-blue">
-    <div class="container">
-        <div class="row mt-5 py-5 justify-content-center">
-            <div class="col-12 text-center pt-5 pb-3">
-                <h3 class="text-white">{{ i18n "claim-npo" }}</h3>
+    <div class="container">        
+        <div class="row my-5 py-5">
+            <div class="col-md-6">
+                <a href="{{ "projects" | absLangURL }}" class="ca-btn block">{{ i18n "for-nonprofits" }}</a>                
             </div>
-            <div class="col-12 text-center pb-5" id="calendly-widget">
-                <!-- Button if cookie is missing -->
-                <a href="https://calendly.com/correlaid/30min" class="ca-btn block cookieconsent-optout-marketing">{{ i18n "claim-npo-book" }}</a>
-                <!-- Calendly Inline-Widget Beginn -->
-                <div class="calendly-inline-widget cookieconsent-optin-marketing" data-url="https://calendly.com/correlaid/30min" style="min-width:320px;height:630px;"></div>
-                <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-                <!-- Calendly Inline-Widget Ende -->
+            <div class="col-md-6">
+                <a href="{{ "volunteer" | absLangURL }}" class="ca-btn block">{{ i18n "for-volunteers" }}</a>
             </div>
         </div>
     </div>
 </div>
+
 <!-- /END CALL FOR ACTION -->
+
 
 {{ end }}

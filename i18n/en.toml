@@ -12,8 +12,6 @@ other       = "People"
 other       = "Contact"
 [contact-us]
 other       = "Contact us!"
-[for-nonprofits]
-other       = "For nonprofits"
 [projects-past]
 other       = "Past projects"
 [projects-process]
@@ -96,3 +94,7 @@ other = "Registration"
 other = "Here"
 [source]
 other = "Source"
+[for-nonprofits]
+other = "For Nonprofits"
+[for-volunteers]
+other = "For Volunteers"

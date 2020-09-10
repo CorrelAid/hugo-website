@@ -12,8 +12,6 @@ other       = "Ansprechpersonen"
 other       = "Kontakt"
 [contact-us]
 other       = "Schreib uns!"
-[for-nonprofits]
-other       = "Für Non-Profits"
 [projects-past]
 other       = "Vergangene Projekte"
 [projects-process]
@@ -30,7 +28,6 @@ other       = "Der Ansatz"
 other       = "Die Wirkung"
 [projects]
 other       = "Unsere Arbeit"
-
 [support]
 other       = "Unterstützen"
 [mailing-list]
@@ -97,3 +94,7 @@ other = "Registrierung"
 other = "Hier"
 [source]
 other = "Quelle"
+[for-nonprofits]
+other = "Für Nonprofits"
+[for-volunteers]
+other = "Für Volunteers"
