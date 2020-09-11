@@ -29,28 +29,6 @@ Workshops are the key to maintaining and improving the skill set of our data sci
 
 If you're interested in joining your local network, you might want to visit our [local CorrelAidX chapters](/en/correlaid-x).
 
-{{< testimonial 
-    contact="André Lange"
-    organisation="Business Manager"
-    image="andre-lange.jpg"
->}}
-    What I enjoyed most, was publishing a new version of our dashboard. Usually, this happened on Sunday evenings, 
-    after a weekend of programming and implementing new ideas. I've learned a lot from my teammates and our partners 
-    at GoVolunteer during the project: Not only did I improve my coding skills in R, but I also learned how to do 
-    effective project work in a vivid virtual team.
-{{< /testimonial >}}
-
-{{< testimonial 
-    contact="Winnie Poel"
-    organisation="PhD Student"
-    image="winnie.jpg"
->}}
-    I attended the data journalism workshop at the Meetup in Mannheim. After the workshop I overcame the awe to start my
-    own project and download and experiment with public data sources.
-{{< /testimonial >}}
-
-
-
 ## Dialogue
 
 We have the vision of establishing an open dialogue between the civic society and the data science community: Such a dialogue could be used to develop new ideas on how to use data science for social good. This is why we came up with the concept of the "Data Dialogue". During such an event, three to five non-profit organisations will have the opportunity to meet, discuss and connect with around 20 data scientists. By doing so, both sides can obtain a more in-depth impression of each other and gauge which relevant data is already present at the NPO and how it can be used to support the organisation's goals.
