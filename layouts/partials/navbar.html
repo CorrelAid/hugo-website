@@ -23,9 +23,7 @@
                     <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
                     {{ end }}
 
-                    {{ if eq .Site.Language.Lang "de"}}
                     <a class="dropdown-item" href="https://soundcloud.com/correlaid_podcast"><i class="fas fa-external-link-square-alt"></i> Podcast</a>
-                    {{ end }}
                 </div>
             </li>
             <!-- /END ABOUT US -->
@@ -39,10 +37,6 @@
                 <div class="dropdown-menu" aria-labelledby="about-us-dropdown">
                     {{ range .Site.Menus.nonprofits }}
                     <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
-                    {{ end }}
-
-                    {{ if eq .Site.Language.Lang "de"}}
-                    <a class="dropdown-item" href="https://soundcloud.com/correlaid_podcast"><i class="fas fa-external-link-square-alt"></i> Podcast</a>
                     {{ end }}
                 </div>
             </li>
