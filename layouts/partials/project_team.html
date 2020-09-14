@@ -1,14 +1,12 @@
 <div class="row py-5" id="correlaid-team">
-
-    <div class="col-12 px-0">
-        <div class="col-md-10 my-3 pb-4 pr-5 ca-gradient-container">
+    <div class="col-12">
+        <div class="col-md-10 pb-4 mx-4 ca-gradient-container">
             
             <h2 class="ca-blue-text">CorrelAid Team</h2>
             {{ range .team }}
             <div class="row justify-content-start">
                 <div class="col pr-0 mr-0">
                     <p>{{ .first_name }} {{ .last_name }}
-
                         {{ if isset . "linkedin" }}
                             {{ if gt (len .linkedin ) 0 }}
                             <a class="team-member-links" href="{{ .linkedin}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in"></i></a>
@@ -39,7 +37,6 @@
             </div>
             
             {{ end }}  
-        <div class="ca-gradient-border"></div>
-    </div>      
-    
+        <div class="ca-gradient-border"></div>    
+    </div>
 </div>
