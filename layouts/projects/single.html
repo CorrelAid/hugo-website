@@ -12,8 +12,8 @@
            <h1 class="ca-blue-text">{{ i18n "project-challenge" }}</h1>
 
            <div class="col-md-6 float-right">
-                <div class="col-md-12 mb-2 mt-0 ml-5 pb-3 pr-5 ca-gradient-container">
-                    <h2 class="ca-blue-text">{{ .organization.name }}: </h2>
+                <div class="col-md-12 mb-2 mt-0 ml-sm-0 ml-md-5 pb-3 pr-5 ca-gradient-container">
+                    <h2 class="ca-blue-text">{{ .organization.name }}</h2>
                     {{ $about := (index .organization.about $lang ) }}
                     <p>
                         {{ $about.text | markdownify }} 
@@ -24,7 +24,7 @@
                     <div class="row">
                         <p class="lead">
                             <i class="fas fa-globe"></i>
-                            <a href="{{ .organization.website }}">{{ .organization.website }}</a>
+                            <a href="{{ .organization.website }}">{{ i18n "website" }}</a>
                         </p>
                     </div>
                     <div class="ca-gradient-border"></div>
