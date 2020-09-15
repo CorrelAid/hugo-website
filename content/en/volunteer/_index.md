@@ -20,6 +20,14 @@ For each project, a call for applications is published via our [e-mail newslette
 If you are in contact with a NPO that holds some fascinating data, without quite knowing how to make use of it, let our project coordination team know by contacting [Frie](mailto:projekte@correlaid.org). 
 If you already have experience in doing data science projects and you want to help us to improve our project work, write an e-mail to [Johannes](mailto:johannes.m@correlaid.org).
 
+{{< button 
+    btn-class="btn-dark"
+    href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"
+    justify="center"
+>}}
+Sign up for the newsletter!
+{{< /button >}}
+
 ## Exchange and Network
 
 ### Annual Data4Good conference
@@ -29,8 +37,24 @@ We meet once or twice a year in a different city in Germany for our Data4Good mi
 With our program CorrelAidX, we have also established local chapters in several German cities, the Netherlands and Paris. The advantage is that you can start conducting your own workshops, hackathons, projects with local NGOs and to meet on a regular basis. You can find all existing CorrelAidX chapters and points of contact [here](/en/correlaid-x).
 If you are interested in starting a local chapter yourself, or if you want to know if there are people around you also interested in starting this, write an e-mail to our Head of Community Management [Isabel](mailto:isabel.w@correlaid.org). 
 
+{{< button 
+    btn-class="btn-dark"
+    href="/en/correlaid-x"
+    justify="center"
+>}}
+Learn more about CorrelAidX!
+{{< /button >}}
+
 ### Slack community
 Regardless of whether a local chapter is close to you or not, you can always request to join our active Slack community to connect to other like-minded data scientists, find support for your problems in the #help channel and get a more closer insight into the workings of CorrelAid.
+
+{{< button 
+    btn-class="btn-dark"
+    href="mailto:info@correlaid.org"
+    justify="center"
+>}}
+Join our Slack!
+{{< /button >}}
 
 ## Create awareness for Data4Good
 
@@ -51,4 +75,14 @@ The core team is a team of ~30 volunteers who keep CorrelAid running. From organ
 If you want to get active in the core team, write an e-mail to [info@correlaid.org](mailto:info@correlaid.org) - either Frie or Isabel will reply you soon afterwards. If you want to help but are not sure how, please don't hesistate to send an email out to our community manager [Isabel](isabel.w@correlaid.org).
 
 
+# Confused?
+Do you want to learn more about how you can get involved at CorrelAid? Or you don't know yet what's right for you? You can always arrange an informal meeting with our Community Manager Isabel. She is looking forward to meeting you, sharing more information with you and finding out where your place in CorrelAid can be.
+
+{{< button 
+    btn-class="btn-dark"
+    href="mailto:isabel.w@correlaid.org"
+    justify="center"
+>}}
+Mach einen Termin!
+{{< /button >}}
 

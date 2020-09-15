@@ -1,1 +1,3 @@
-<a type="button" class="btn {{ .Get `btn-class` }}" href="{{ .Get `href` }}">{{ .Inner }}</a>
+<div class="row py-3 justify-content-{{ .Get `justify` }}">
+    <a type="button" class="btn {{ .Get `btn-class` }}" href="{{ .Get `href` }}">{{ .Inner }}</a>
+</div>

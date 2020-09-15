@@ -11,7 +11,9 @@ enableEmoji             = true
     facebook        = "https://facebook.com/WeAreCorrelAid"
     linkedin        = "https://www.linkedin.com/company/correlaid/"
     num_members     = "1300"
-
+    mailinglist_volunteers = "https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"
+    mailinglist_npos = "https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=175fade988"
+    
 [Languages]
 [Languages.en]
     contentDir      = "content/en"
