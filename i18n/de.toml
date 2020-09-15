@@ -35,7 +35,7 @@ other       = "Email Verteiler für Datenanalyst:innen"
 [mailing-list-npo]
 other       = "Newsletter für Non-Profits"
 [press]
-other       = "Die Presse über uns:"
+other       = "CorrelAid in der Presse:"
 [correlaidx]
 other       = "CorrelAid vor Ort:"
 [cookies]
@@ -102,3 +102,5 @@ other = "Für Nonprofits"
 other = "Für Volunteers"
 [website]
 other = "Webseite"
+[participate-volunteer]
+other = "Als Volunteer teilnehmen"

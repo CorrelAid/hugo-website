@@ -4,11 +4,15 @@
     <div class="row">
         <div class="col-12 my-5">
             
-            <h1>{{ .Title }}</h1>
             {{ .Content }}
 
-            <div class="col-md-12 my-5 text-center">
-                <a class="btn btn-ca-blue btn-lg" href="mailto:projects@correlaid.org">{{ i18n "contact-us" }}</a> 
+            <div class="row">
+                <div class="col-md-6 py-2 text-center text-md-right">
+                    <a class="btn btn-ca-blue btn-lg" href="mailto:projects@correlaid.org">{{ i18n "contact-us" }}</a> 
+                </div>
+                <div class="col-md-6 py-2 text-center text-md-left">
+                    <a class="btn btn-ca-blue btn-lg" href="/{{ $lang }}/volunteer">{{ i18n "participate-volunteer" }}</a> 
+                </div>
             </div>
 
             <h1>{{ i18n "projects-past" }}</h1>

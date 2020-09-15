@@ -5,6 +5,7 @@ menu:
   nonprofits:
     weight: 200
 ---
+# Our Data4Good Projects for NPOs
 
 In our skilled volunteering projects, we connect data scientist volunteers from our network network of over {{< param num_members >}} volunteers with nonprofit organisations. Through those projects, our volunteers have the opportunity to apply their existing skills and gain new knowledge. At the same time, they support nonprofit organisations with solving their data-related challenges. 
 

@@ -14,7 +14,7 @@ meta:
     title="Data Science for Good." 
     color="ca-blue-text"
     img="/images/data-science-for-good.jpg"
-    href="/en/projects/data-volunteering/"
+    href="/en/projects/"
     order="order-md-0"
 >}}
     We provide an innovative skilled-volunteering solution. Through our decentral
@@ -26,7 +26,7 @@ meta:
     title="Data Science for Tomorrow."
     color="ca-green-text"
     img="/images/data-science-for-tomorrow.jpg"
-    href="/en/projects/education/"
+    href="/en/volunteer/"
     order="order-md-1"
 >}}
     We are training committed data scientists in data privacy, project management and the communication
@@ -38,9 +38,9 @@ meta:
     title="Data Science for Society." 
     color="ca-dark-blue-text"
     img="/images/data-science-for-society.jpg"
-    href="/en/projects/dialog/"
+    href="/en/education/"
     order="order-md-0"
 >}}
     We advocate a broad dialogue about the potential and the limits of data science in civil society.
-	We demonstrate in talks, workshops and conferences how to do good with data.
+	We demonstrate in talks, workshops and conferences how to do good with data. We offer education for NPOs on data strategy, data privacy, data collection and data analysis.
 {{< /feature >}}
