@@ -6,6 +6,8 @@ translationKey: "about"
 menu:
   about:
     weight: -200
+  essentials:
+    weight: 2
 translationKey: "contact"
 meta:
     title: "CorrelAid - Kontakt"
