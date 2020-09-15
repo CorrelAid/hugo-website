@@ -3,7 +3,7 @@ title: "Free & Easy Video Calling"
 date: 2020-03-31T00:00:00+02:00
 image: "509-video-calling-guide.jpg"
 summary: "Right now, it is more important than ever to stay in contact with friends and family. In this short guide, we compare different free app and web browser video call solutions that are accessible to not as digitalized folks."
-
+slug: free-and-easy-video-calling
 author: 
     name:           "Jasmin und Frie"
     image:          "jasminfrie.jpg"
@@ -66,7 +66,7 @@ All of the solutions in this section require a web cam as well as newer versions
 
 - Skype (Browser/Web version or App)
     - Browser version:
-        - Start meeting [here](www.skype.com) without creating account
+        - Start meeting [here](https://skype.com) without creating account
         - Others can join as guests
         - Microsoft Edge or Google Chrome required, does not suppport Firefox nor Safari
         - Does not work in browser on tablets or smartphones -> need to download app and create an account
