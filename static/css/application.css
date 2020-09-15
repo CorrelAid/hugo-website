@@ -777,12 +777,31 @@ i.caveat {
 }
 
 /* ========== TESTIMONIAL ========== */
+/* the heights are fixed based on the longest testimonial (so far Andre's) - 
+they might need to be adjusted if a longer testimonial is added */
+.testimonial {
+    height: 800px;
+}
+
+@media (min-width: 768px) { 
+    .testimonial {
+        height: 400px;
+    }
+ }
+
+@media (min-width: 992px) { 
+    .testimonial {
+        height: 300px;
+    }
+ }
+
 
 .testimonial img {
     margin: 0 auto 12px auto;
     border: 6px solid #ffffff;
     display: block;
     width: 75%;
+    height: 80%;
     max-width: 200px;
 }
 
@@ -928,3 +947,4 @@ a.team-member-links i.fas:hover {
     color: #6c757d;
     text-decoration: none;
 }
+
