@@ -11,7 +11,7 @@ menu:
 
 Our network provides different possibilities to network and get active for Data4Good. Become a part of our community!
 
-## Help non-profit organizations
+# 1. Help non-profit organizations
 
 At the core of our work are our skilled volunteering projects in which we connect data analysts from our network with non-profit organisations (NPO). In our projects, volunteers have the opportunity to apply their skills to the real problems our partner organisations face. In teams of usually 2-7 people, CorrelAid data scientists help NPOs to gain insight into their own data and leverage the results. Depending on the month, 1-4 projects start per month. 
 
@@ -28,7 +28,7 @@ If you already have experience in doing data science projects and you want to he
 Sign up for the newsletter!
 {{< /button >}}
 
-## Exchange and Network
+# 2. Exchange with others!
 
 ### Annual Data4Good conference
 We meet once or twice a year in a different city in Germany for our Data4Good mini-conference (also known as "the meetup"). Everybody - regardless of experience or background - is very welcome at these meetings. Berlin, Duisburg, Bonn, Hamburg, Mannheim: during workshops, discussions and bar-hopping, you will meet many others interested in the same topics as you. You can read about experiences at past meetups [here](/en/blog/meetup-berlin/), [here](/en/blog/meetup-hh/), [here](/en/blog/meetup-bonn/) and [here](/en/blog/meetup-mannheim/). 
@@ -56,24 +56,23 @@ Regardless of whether a local chapter is close to you or not, you can always req
 Join our Slack!
 {{< /button >}}
 
-## Create awareness for Data4Good
+# 3. Educate yourself!
+## Meetups and Webinars
+We regularly organize events for our network - e.g. workshops and talks on technologies like RShiny or an exchange on the latest eRum. One example of these events is the Open Online Date Meetup (#oodm) which takes place once a month. You are guaranteed to receive all updates and news if you subscribe to our [newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff).
+
+## Mentoring
+Our community is full of creative, intelligent minds at various stages of their career. That's why we are now bringing beginners and advanced data analysts and data scientists together. You can learn more [here](mentoring.correlaid.org)!
+
+## Blog & Podcast
+Besides all these offers there is also our [blog](https://correlaid.org/de/blog/). There, we regularly publish our two cents on the State of the Art of Data Science. Another way to learn more about our activities is by listening to our Podcast [CorrelTalk](https://soundcloud.com/correlaid_podcast) you can find new information about our projects and exciting insights into what it means to work as a data scientist.
 
 You are working on an interesting data project and want to share your results with a wider audience? You are part of interesting events and want to share your experience? We're always happy to feature contributions from the CorrelAid community on our blog. Just write an email to [Yannik](mailto:blog@correlaid.org) and he'll support you in the process.
 
-You have information on hackathons, discussion-roundtables, events, articles, movements trends regarding data and data analysis? [Rahel](mailto:newsletter@correlaid.org) is always happy to get input for the CorrelAid Newsletter!
+# 4. Organize CorrelAid 
 
-## Organize CorrelAid 
+The core team is a team of ~30 volunteers who keep CorrelAid running. From organizing projects and creating educational content to writing grant applications - there is loads to do. The core team is divided into different subteams: education, project coordination, PR, fundraising and infrastructure. You can read more about the teams in our [docs](https://docs.correlaid.org/get-started#get-involved-in-the-core-team).
 
-The core team is a team of ~30 volunteers who keep CorrelAid running. From organizing projects and creating educational content to writing grant applications - there is loads to do. The core team is divided into different subteams: 
-
-* **education team**: this team creates educational content and organizes educational projects that benefit our network members. They also aim to create content for NPOs about data organization and simple data analysis skills. Finally, our Podcast [CorrelTalk](https://soundcloud.com/correlaid_podcast) is  produced by members of the education team. Relevant Slack channels: \#education, \#podcast. 
-* **project coordination team**: the project coordination team coordinates the Data4Good projects, i.e. they talk to the organization, find out how our data scientist volunteers could help them and send out the project call for applications. Over the course of the project, coordinators keep an eye on the project to ensure that everything goes smoothly.
-* **PR team**: from filling our blog to posting on social media to designing stickers and other CorrelAid merch. The PR team is responsible for everything that represents CorrelAid to the outside. Relevant channels: \#pr, \#pr-team. 
-* **fundraising team**: the fundraising team looks out for funding opportunities for CorrelAid, collaborates with other organizations on grant proposals etc. Relevant Slack channels: \#fundraising. 
-* **infrastructure team**: the infrastructure team takes care of our hugo website, our cloud resources, the CorrelAid Slackbot, the self-hosted CodiMD and the administration of our NextCloud instance CorrelCloud. They also actively develop said tools - especially CodiMD and the website - so if you're a Hugo / JS / Python / Frontend developer, this is the right place to get involved! 
-
-If you want to get active in the core team, write an e-mail to [info@correlaid.org](mailto:info@correlaid.org) - either Frie or Isabel will reply you soon afterwards. If you want to help but are not sure how, please don't hesistate to send an email out to our community manager [Isabel](isabel.w@correlaid.org).
-
+We are always happy to see new faces in the core team! If you want to get active in the core team, write an e-mail to [info@correlaid.org](mailto:info@correlaid.org) - either Frie or Isabel will reply you soon afterwards. 
 
 # Confused?
 Do you want to learn more about how you can get involved at CorrelAid? Or you don't know yet what's right for you? You can always arrange an informal meeting with our Community Manager Isabel. She is looking forward to meeting you, sharing more information with you and finding out where your place in CorrelAid can be.

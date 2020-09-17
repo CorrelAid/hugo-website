@@ -10,16 +10,15 @@ menu:
 
 # Werde aktiv bei CorrelAid!
 
-Unser Netzwerk bietet verschiedene Möglichkeiten, miteinander in Kontakt zu treten und für Data4Good aktiv zu werden. Werde ein Teil unserer Community!
+Unser Netzwerk bietet verschiedene Möglichkeiten, miteinander in Kontakt zu treten und für Data4Good aktiv zu werden. Werde ein Teil unseres Netzwerks!
 
-# Helfe gemeinnützigen Organisationen
+# 1. Helfe gemeinnützigen Organisationen!
 
 Die Kernaufgabe unserer Arbeit besteht darin, Datenanalyst:innen aus unserem Netzwerk in Skilled-Volunteering Projekten mit Non-Profit-Organisationen (NPO) zusammenzubringen. In unseren Projekten haben unsere Ehrenamtlichen die Möglichkeit, ihre Kenntnisse anzuwenden und gleichzeitig reale Probleme von realen Organisationen zu lösen. In Teams mit üblicherweise 2-7 Personen helfen Data Scientists von CorrelAid NPOs, Einblick in ihre eigenen Daten zu gewinnen und diese nutzbar zu machen. Üblicherweise starten jeden Monat ca. 1-4 Projekte.
 
 Jedes Projekt wird über unseren [E-Mail-Newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) ausgeschrieben. Die Bewerbung ist für alle Datenanalyst:innen unseres Netzwerks offen und du kannst dich für all die Projekte bewerben, die du interessant findest. 
 
 Wenn du eine NPO kennst, die über Daten verfügt, aber nicht recht weiß, wie sie diese nutzen kann, lass es unser Projektkoordinationsteam rund um [Frie](mailto:projekte@correlaid.org) wissen! 
-Wenn du bereits Erfahrung in Data Science Projekten hast und uns helfen möchtest, unsere Projektarbeit zu verbessern, schreibe gerne eine E-Mail an [Johannes](mailto:johannes.m@correlaid.org).
 
 {{< button 
     btn-class="btn-dark"
@@ -29,7 +28,7 @@ Wenn du bereits Erfahrung in Data Science Projekten hast und uns helfen möchtes
 Abonniere den Newsletter!
 {{< /button >}}
 
-# Austausch und Netzwerk
+# 2. Tausch dich aus!
 
 ## Jährliche Data4Good Konferenz
 Wir treffen uns ein- oder zweimal im Jahr zu unserer Data4Good-Minikonferenz (auch bekannt als "das Meetup"). Jede:r - unabhängig von Erfahrung oder Hintergrund - ist herzlich willkommen. Ob in Berlin, Duisburg, Bonn, Hamburg oder Mannheim: Bei Workshops, Diskussionen und Bar-Hopping kannst du viele gleichgesinnte Data Scientists treffen und neue Dinge lernen. Erfahrungsberichte zu den Meetups der letzten Jahre findest du [hier](/de/blog/meetup-berlin/), [hier](/de/blog/meetup-hh/), [hier](/de/blog/meetup-bonn/) und [hier](/de/blog/meetup-mannheim/). 
@@ -57,23 +56,27 @@ Egal ob ein Local Chapter in deiner Nähe ist oder nicht: Du kannst immer unsere
 Tritt dem Slack bei!
 {{< /button >}}
 
-# Bewusstsein für Data4Good schaffen
+
+# 3. Bilde dich weiter!
+## Data Science & Programmieren lernen
+Neben den Hackathons, die wir veranstalten und an denen wir teilnehmen, gibt es bei CorrelAid e.V. Code Challenges, die Du dazu nutzen kannst, deine Programmierkenntnisse zu verbessern. Stecken deine Fähigkeiten noch in den Kinderschuhen, kannst du auch von unserer Kooperation mit [DataQuest](/de/partners) profitieren - dort erhalten wir gratis Lizenzen für unsere Ehrenamtlichen, die so Python, R, SQL und Git in einer interaktiven Lernumgebung üben können.
+
+## Meet-ups und Webinare
+Regelmäßig organisieren wir Events für unser Netzwerk - z.B. Vorträge zu Technologien wie RShiny und einen Austausch zum letzten eRum. Ein Beispiel für diese Events ist das Open Online Date Meetup (#oodm), zu dem wir einmal im Monat einladen. Alle relevanten Termine kriegst du garantiert, wenn du unseren [Newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) abonnierst.
+
+## Mentoring
+Unsere Gemeinschaft steckt voller kreativer, kluger Köpfe in verschiedenen Entwicklungsstufen. Deshalb bringen wir jetzt Anfänger:innen und Fortgeschrittene Datenanalyst:innen und Datenwissenschaftler:innen zusammen. [Hier](mentoring.correlaid.org) kannst du mehr erfahren!
+
+## Blog & Podcast
+Neben all diesen Angeboten gibt es auch noch unseren [Blog](https://correlaid.org/de/blog/). Dort veröffentlichen wir regelmäßig unsere zwei Cents zum State of the Art of Data Science. Oder wir quasseln Euch direkt voll: In unserem Podcast [CorrelTalk](https://soundcloud.com/correlaid_podcast) gibt es neue Informationen über unsere Projekte und CorrelAid Volunteers gewähren spannende Einblicke in ihr Arbeitsleben als Data Scientists.
 
 Du arbeitest an einem interessanten Datenprojekt und möchtest deine Ergebnisse einem breiteren Publikum zugänglich machen? Du nimmst an interessanten Veranstaltungen teil und möchtest deine Erfahrungen teilen? Wir freuen uns immer, Beiträge aus der CorrelAid-Community in unserem Blog zu veröffentlichen. Schreibe einfach eine E-Mail an [Yannik](mailto:blog@correlaid.org), und er wird dich dabei unterstützen.
 
-Du hast Informationen zu Hackathons, Diskussionsrunden, Veranstaltungen, Artikel, oder Trends bezüglich Daten und Datenanalyse? [Rahel](mailto:newsletter@correlaid.org) freut sich immer über Anregungen für den CorrelAid-Newsletter!
+# 4. Organisiere CorrelAid mit - das Core Team
 
-# CorrelAid organisieren - das Core Team
+Das Core Team ist ein Team von ca. 30 Ehrenamtlichen, die CorrelAid am Laufen halten. Von der Koordination unserer Data4Good-Projekte und der Erstellung von Bildungsinhalten bis zum Schreiben von Anträgen - es gibt viel zu tun. Das Core Team ist in verschiedene Subteams aufgeteilt: Bildung (für Nonprofits & Volunteers), Projektkoordination, PR, Fundraising und Infrastruktur. Mehr zu den einzelnen Teams kannst du in unseren [docs](https://docs.correlaid.org/get-started#get-involved-in-the-core-team) nachlesen.
 
-Das Core Team ist ein Team von ca. 30 Ehrenamtlichen, die CorrelAid am Laufen halten. Von der Koordination unserer Data4Good-Projekte und der Erstellung von Bildungsinhalten bis zum Schreiben von Anträgen - es gibt viel zu tun. Das Core Team ist in verschiedene Subteams aufgeteilt: 
-
-* **Bildungsteam**: Das Bildungsteam erstellt Bildungsinhalte und organisiert Events und Projekte, die unseren Netzwerkmitgliedern zugute kommen. Zusätzlich dazu kümmert es sich um die Erstellung von Inhalten für NPOs, um diese zu befähigen selbstständig ihre Daten zu nutzen und als Multiplikator:innen zu agieren. Schließlich wird unser Podcast [CorrelTalk](https://soundcloud.com/correlaid_podcast) von Mitgliedern des Bildungsteams produziert.
-* **Projektkoordination**: Das Projektkoordinationsteam koordiniert die Data4Good-Projekte, d.h. es spricht mit potenziellen Partnerorganisationen, findet heraus, wie und in welchem Umfang unsere Data Scientists ihnen helfen können und erstellt die Projektausschreibungen. Im Verlauf des Projekts behält das Koordinationsteam ein Auge darauf, dass unsere Data Scientists eine gute Lernerfahrung haben und dass sie der Partnerorganisation helfen können.
-* **PR-Team**: ob Content für den Blog, die Betreuung unserer Social-Media Kanäle oder die Gestaltung von Stickern und anderem CorrelAid Merch: Das PR-Team ist für alles verantwortlich, was CorrelAid nach außen repräsentiert. 
-* **Fundraising-Team**: Das Fundraising-Team hält Ausschau nach Finanzierungsmöglichkeiten für CorrelAid und arbeitet mit anderen Organisationen Anträge aus usw. 
-* **Infrastruktur-Team**: Das Team Infrastruktur kümmert sich um unsere Hugo-Website, unsere Cloud-Ressourcen, den CorrelAid Slackbot, das selbst gehostete CodiMD und die Verwaltung unserer NextCloud-Instanz CorrelCloud. Es entwickelt auch aktiv besagte Tools - insbesondere CodiMD und die Website. Wenn du also Hugo / JS / Python / Frontend-Entwickler:in bist und auf der Suche nach einer Herausforderung, ist dies der richtige Ort, um dich zu engagieren! 
-
-Wenn du uns in unserer internen Arbeit unterstützen möchtest, schreibe eine E-Mail an [info@correlaid.org](mailto:info@correlaid.org) - entweder Frie oder Isabel werden dir bald darauf antworten.
+Wir freuen uns immer über neue Gesichter im Core Team! Wenn du uns in unserer internen Arbeit unterstützen möchtest, schreibe eine E-Mail an [info@correlaid.org](mailto:info@correlaid.org) - entweder Frie oder Isabel werden dir bald darauf antworten.
 
 # Verwirrt?
 Willst du mehr darüber erfahren, wie du dich bei CorrelAid einbringen kannst, oder weißt du noch nicht, was das richtige für dich ist? Dann mach einen Termin mit unserer Community Managerin Isabel aus. Sie freut sich darauf dich kennenzulernen, weitere Informationen mit dir zu teilen und in Form eines unverbindlichen Austauschs herauszufinden, was passend für dein Engagement wäre.
