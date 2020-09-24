@@ -9,3 +9,5 @@ public/*
 .DS_Store
 
 venv
+# vscode
+hugowebsite.code-workspace
