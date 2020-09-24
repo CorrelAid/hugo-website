@@ -16,8 +16,27 @@ meta:
 
 Wir bei CorrelAid e.V. setzen uns nicht nur die Nutzung von Daten für den guten Zweck ein, sondern glauben auch fest daran, dass wir unser Wissen teilen sollten. Nicht umsonst haben wir als Vereinszweck *Bildung* gewählt. In unserer Bildungssparte bieten wir zahlreiche Angebot für Non-Profits und Ehrenamtliche an. Daneben teilen wir unser Wissen, unseren Code und unsere Materialien öffentlich, falls dies unter Einhaltung der Richtlinien des Datenschutzes möglich ist.
 
+## Newsletter für NPOs
+In unserem Newsletter für gemeinnützige Organisationen gewähren wir Einblicke in unsere Arbeit und teilen kurze Einführungen in Themen wie Impact Measurement, Datenerhebung und Datenanalyse. 
+
+{{< button 
+    btn-class="btn-dark"
+    href="http://eepurl.com/g6BDyz"
+    justify="center"
+>}}
+Abonniere den Newsletter!
+{{< /button >}}
+
 ## Datensprechstunde
-Jeden Donnerstagnachmittag bieten wir die Seelsorge für Datenherausforderungen jeglicher Art an. Ihr habt Fragen und möchtet mit einem Datenanalyst/einer Datenanalystin sprechen? Vereinbare euren 30-minütigen Termin  [hier](https://calendly.com/correlaid/30min).
+Jeden Donnerstagnachmittag bieten wir die Seelsorge für Datenherausforderungen jeglicher Art an. Ihr habt Fragen und möchtet mit einem Datenanalyst/einer Datenanalystin sprechen? Vereinbart euren 30-minütigen Termin [hier](https://calendly.com/correlaid/30min).
+
+{{< button 
+    btn-class="btn-dark"
+    href="https://calendly.com/correlaid/30min"
+    justify="center"
+>}}
+Vereinbart eine Datensprechstunde!
+{{< /button >}}
 
 ## Plötzlich digital: Die Sprechstunde
 Zusammen mit [*D3 - so geht digital*](https://so-geht-digital.de), [*OpenTransfer*](https://opentransfer.de/) und [*GoVolunteer*](https://govolunteer.com) haben wir zu Beginn der Corona-Krise das Angebot *Plötzlich digital: Die Sprechstunde* geschaffen. Dort geben wir alle zwei Wochen Nonprofits die Möglichkeit, mehr über neue Tools zur digitalen Zusammenarbeit kennenzulernen. Ob Slack, Trello, HumHub, Office365, Nextcloud oder Passwortmanager: wir laden Expert:innen ein, die in 45 Minuten einen ersten praxisorientierten Einblick in Tools geben. [Hier](https://so-geht-digital.de/ploetzlich-digital-die-sprechstunde/) gibt es mehr Infos - und die Streams der vergangenen Sitzungen! 

@@ -15,10 +15,30 @@ meta:
 
 At CorrelAid e.V., we are not only committed to the idea of data for good, but also firmly believe that we should share our knowledge. This is why we have chosen "education" as the legal purpose of our association. In our education work, we offer a wide range of services for nonprofits and volunteers. In addition, we share our knowledge, code and other material publicly whenever data protection guidelines allow to do so.
 
+## Newsletter
+In our Newsletter for NPOs, we share insights into our work and short introductions into 
+topics like impact measurement, data collection and data analysis. 
+
+{{< button 
+    btn-class="btn-dark"
+    href="http://eepurl.com/g6BDyz"
+    justify="center"
+>}}
+Subscribe to our newsletter!
+{{< /button >}}
 
 ## Data hour
 
 Every Thursday afternoon we offer an opportunity for nonprofits to talk about their data challenges of any kind. You have questions and would like to talk to a data analyst? Arrange your 30-minute meeting [here](https://calendly.com/correlaid/30min).
+
+{{< button 
+    btn-class="btn-dark"
+    href="https://calendly.com/correlaid/30min"
+    justify="center"
+>}}
+Arrange a data hour!
+{{< /button >}}
+
 
 ## Plötzlich digital: Die Sprechstunde
 Together with [*D3 - so geht digital*](https://so-geht-digital.de), [OpenTransfer](https://opentransfer.de/) and [GoVolunteer](https://govolunteer.com) we created "Plötzlich digital: Die Sprechstunde* at the beginning of the Corona crisis. Every two weeks, we offer nonprofits the opportunity to learn more about new tools for digital collaboration. Whether Slack, Trello, HumHub, Office365, Nextcloud or Password Manager: we invite experts who give a 45-minute practical introduction into a tool that they know by heart. You can find more information - and the recordings of all past sessions - [here](https://so-geht-digital.de/ploetzlich-digital-die-sprechstunde/).
