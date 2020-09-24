@@ -13,10 +13,10 @@ meta:
 ---
 # Workshops & Education
 
-At CorrelAid e.V., we are not only committed to the idea of data for good, but also firmly believe that we should share our knowledge. This is why we have chosen "education" as the legal purpose of our association. In our education work, we offer a wide range of services for nonprofits and volunteers. In addition, we share our knowledge, code and other material publicly whenever data protection guidelines allow to do so.
+At CorrelAid e.V., we are not only committed to the idea of data for good, but also firmly believe in sharing knowledge. This is why "education" has become our legal purpose. We offer a wide range of educational formats for nonprofits and volunteers. In addition, we share our knowledge, code and other material publicly whenever data protection guidelines allow us to do so.
 
 ## Newsletter
-In our Newsletter for NPOs, we share insights into our work and short introductions into 
+In our newsletter for NPOs, we share insights into our work and short introductions into 
 topics like impact measurement, data collection and data analysis. 
 
 {{< button 
@@ -41,11 +41,11 @@ Arrange a data hour!
 
 
 ## Plötzlich digital: Die Sprechstunde
-Together with [*D3 - so geht digital*](https://so-geht-digital.de), [OpenTransfer](https://opentransfer.de/) and [GoVolunteer](https://govolunteer.com) we created "Plötzlich digital: Die Sprechstunde* at the beginning of the Corona crisis. Every two weeks, we offer nonprofits the opportunity to learn more about new tools for digital collaboration. Whether Slack, Trello, HumHub, Office365, Nextcloud or Password Manager: we invite experts who give a 45-minute practical introduction into a tool that they know by heart. You can find more information - and the recordings of all past sessions - [here](https://so-geht-digital.de/ploetzlich-digital-die-sprechstunde/).
+Together with [*D3 - so geht digital*](https://so-geht-digital.de), [OpenTransfer](https://opentransfer.de/) and [GoVolunteer](https://govolunteer.com) we created "Plötzlich digital: Die Sprechstunde* at the beginning of the Corona crisis. Every other week, we offer nonprofits the opportunity to learn more about new tools for digital collaboration. Whether Slack, Trello, HumHub, Office365, Nextcloud or Password Manager: we invite experts to give a 45-minute practical introduction into a tool that they know by heart. You can find more information - and the recordings of all past sessions - [here](https://so-geht-digital.de/ploetzlich-digital-die-sprechstunde/).
 
 ## Workshops
 ### Impact measurement
-Together with us, participants learn how social organizations develop impact chains and impact indicators. During the workshop we will work with illustrative examples, directly transferable instruments, jointly design impact chains and talk about the current state of impact measurement in Germany.
+In this course, participants learn how social organizations develop impact chains and impact indicators. During the workshop we will work with illustrative examples, directly transferable instruments, jointly design impact chains and talk about the current state of impact measurement in Germany.
 
 **Learning objectives:**
 - The participants explore their goals and intentions for impact measurement
