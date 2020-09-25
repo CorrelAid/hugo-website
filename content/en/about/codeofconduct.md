@@ -6,7 +6,7 @@ menu:
   about:
     weight: 500
   essentials:
-    weight: 1
+    weight: 95
 translationKey: "contact"
 meta:
     title: "CorrelAid - Contact"
