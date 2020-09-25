@@ -32,6 +32,37 @@
                             <a class="team-member-links" href="https://twitter.com/{{ .twitter}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
                             {{ end }}
                         {{ end }}
+                        {{ if isset . "email" }}
+                        {{ if gt (len .email ) 0 }}
+                        <a class="team-member-links" href="mailto:{{ .email }}"><i class="fas fa-envelope"></i></a>
+                        {{ end }}
+                        {{ end }}
+                        {{ if isset . "pgp" }}
+                        {{ if gt (len .pgp ) 0 }}
+                        <a class="team-member-links" data-backdrop="true" data-toggle="modal" data-target="#pgpModal"><i class="fas fa-key"></i></a>
+                        <!-- Modal to display PGP key -->
+                        <div class="modal" id="pgpModal" tabindex="-1" role="dialog" aria-labelledby="pgpModalTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                    <h5 class="modal-title" id="pgpModalTitle">Public key for {{ .email }}</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        {{ range split .pgp "\n" }} 
+                                            {{ . }}
+                                            <br>
+                                        {{ end }}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {{ end }}
+
+
+                    {{ end }}
                     </p>
                 </div>
             </div>

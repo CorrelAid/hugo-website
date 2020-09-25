@@ -1,20 +1,3 @@
-/* =============== CONTACT FORM =============== */
-
-var $contactModal = $('#contact-modal');
-
-$contactModal.on('show.bs.modal', function (event) {
-    var trigger = $(event.relatedTarget);
-    var email = trigger.data('email');
-    var recipient = trigger.data('to');
-    var modal = $(this);
-    modal.find('#message-email').val(email);
-    modal.find('#message-recipient-name').val(recipient);
-});
-
-$contactModal.on('shown.bs.modal', function (event) {
-    var trigger = $(event.relatedTarget);
-    if (parseInt(trigger.data('correlaidx')) === 1) $('.modal-backdrop').addClass('x');
-});
 
 /* =============== SEND EMAIL =============== */
 
