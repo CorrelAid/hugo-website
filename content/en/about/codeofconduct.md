@@ -7,9 +7,9 @@ menu:
     weight: 500
   essentials:
     weight: 95
-translationKey: "contact"
+translationKey: "coc"
 meta:
-    title: "CorrelAid - Contact"
+    title: "CorrelAid - Code of Conduct"
     description: "CorrelAid Homepage. We are a network of young data analysts that wants to change the world with a more inclusive, integrated and innovative approach to data analysis."
     image: "509-correlaid-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
