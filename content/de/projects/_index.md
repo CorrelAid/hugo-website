@@ -4,7 +4,7 @@ date: 2018-08-23T12:36:49+02:00
 draft: false
 menu:
   nonprofits:
-    weight: 200
+    weight: 40
 ---
 
 # Unsere Data4Good Projekte für NPOs

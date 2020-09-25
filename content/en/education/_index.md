@@ -4,7 +4,7 @@ date: 2018-08-23T12:38:17+02:00
 draft: false
 menu:
   nonprofits:
-    weight: 40
+    weight: 200
 meta:
     title: "CorrelAid - for non-profits"
     description: "CorrelAid is a registered association with a network of 1300 data analysts"
