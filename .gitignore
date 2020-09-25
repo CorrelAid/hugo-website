@@ -8,6 +8,8 @@ public/*
 # annoying mac indexing
 .DS_Store
 
-venv
 # vscode
-hugowebsite.code-workspace
+*code-workspace
+
+# python venv
+venv
