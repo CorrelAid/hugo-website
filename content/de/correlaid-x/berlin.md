@@ -32,7 +32,7 @@ Wenn ihr mitmachen wollt oder mit uns in Kontakt kommen, schreibt uns einfach ei
     link-color="ca-red-text"
     x="1"
 >}}
-SeiT Frühjahr 2019 bei CorrelAid. Sie ist promovierte Volkswirtin und versucht in ihrer Arbeit Ursache-Wirkungszusammenhänge bei Bildungs- und Arbeitsmarktentscheidungen zu quantifizieren.
+Seit Frühjahr 2019 bei CorrelAid. Sie ist promovierte Volkswirtin und versucht in ihrer Arbeit Ursache-Wirkungszusammenhänge bei Bildungs- und Arbeitsmarktentscheidungen zu quantifizieren.
 {{< /person >}}
 
 {{< person 
