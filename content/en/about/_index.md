@@ -1,5 +1,5 @@
 ---
-title: "Our work"
+title: "About CorrelAid"
 date: 2018-08-23T12:35:49+02:00
 draft: false
 menu: 
@@ -12,29 +12,31 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
-# Our work
+# About CorrelAid 
+## Our Mission
 
-In 2015, CorrelAid has officially been registered as a non-profit association in Konstanz, Germany. As of today, our network consists of around {{< param num_members >}} volunteers, all of which contribute their very own skills and ideas. Apart from that, a core team of around 15 people takes care of general organisational matters. So far, we have successfully launched over 35 projects, always in close cooperation with non-profit organisations of different size and scope (e.g. Ashoka, The European Youth Parliament or streetfootballworld), and organised more than 50 Data Science related workshops.
-We work in three areas: data volunteering, education, and dialogue.
+CorrelAid is a non-partisan non-profit network of data science enthusiasts who want to change the world through data science. We dedicate our work to the social sector and those organizations that strive for making the world a better place. In order to improve data literacy in society, we share our knowledge within our network and beyond and are always looking for ways to broaden our horizons. 
 
-## Data Volunteering
+We value open knowledge management and transparency in our work wherever possible while complying with GDPR regulations and following strong principles of data ethics.
 
-In our volunteering projects, we connect non-profit organisations with a team of volunteer data analysts from our network. Together, we will support NPOs in optimising their processes, discovering new insights and working towards a more efficient allocation of resources. In general, projects run from 2 to 4 months. 
 
-When setting up the teams, diversity plays an important role. This allows us to gather all relevant skills required for a project, while at the same time providing a unique and valuable learning opportunity for all people involved in the project.
+## Our Work
 
-## Education and Workshops
+Our work is based on three pillars:
 
-Workshops are the key to maintaining and improving the skill set of our data science network. CorrelAid unites analysts and data experts from a variety of different academic and professional backgrounds. This diversity allows us to constantly learn from one another and forms the basis of the "peer learning" approach that is implemented in our workshops. 
 
-If you're interested in joining your local network, you might want to visit our [local CorrelAidX chapters](/en/correlaid-x).
+- We enable data analysts and scientists to apply their knowledge for the common good and social organizations to increase their impact on society by conducting pro-bono data for good **(Data4Good) projects** focusing on data analysis
 
-## Dialogue
 
-We have the vision of establishing an open dialogue between the civic society and the data science community: Such a dialogue could be used to develop new ideas on how to use data science for social good. This is why we came up with the concept of the "Data Dialogue". During such an event, three to five non-profit organisations will have the opportunity to meet, discuss and connect with around 20 data scientists. By doing so, both sides can obtain a more in-depth impression of each other and gauge which relevant data is already present at the NPO and how it can be used to support the organisation's goals.
+- We **educate** social organizations on data-related topics and foster the individual development journey of our community members by offering them opportunities to connect, share and learn 
 
-If you're interested in what we did during past data dialogues, click here: [Dialogue in Hamburg](/en/blog/meetup-hh) and [Dialogue in Berlin](/en/blog/datendialog-berlin).
 
+- We broaden our outreach by engaging in a **dialogue** about the value and usefulness of data and data analysis for the common good
+
+
+## Our values 
+
+We are an inclusive network in which diversity is valued and promoted. We firmly reject any form of discrimination, violence or harassment. We value appreciative communication and value each other’s voluntarily dedicated time and work. The learning experience of our volunteers is the core of our mission. In addition, their involvement in our skilled-volunteering projects benefits the social sector and broader society. In our work, we adhere to the [code of conduct](/en/about/codeofconduct) we set for our work.
 
 
 # Prizes and awards

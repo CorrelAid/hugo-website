@@ -12,25 +12,29 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
+# Über CorrelAid 
+## Unsere Mission
+
+CorrelAid ist ein überparteiliches, gemeinnütziges Netzwerk von Data-Science-begeisterten Menschen, die die Welt mithilfe von Data Science verändern wollen. Unsere Arbeit richtet sich an den sozialen Sektor und Organisationen, die sich dafür einsetzen, die Welt zu einem besseren Ort zu machen. Um die Datenkompetenz in der Gesellschaft zu stärken, teilen wir unser Wissen innerhalb unseres Netzwerks und darüber hinaus und suchen stets nach Möglichkeiten, unseren Horizont zu erweitern. 
+
+In unserer Arbeit legen wir Wert auf offenes Wissensmanagement und Transparenz, wo immer dies im Rahmen der Datenschutz-Grundverordnung (DSVGO) und unseren strengen datenethischen Grundsätzen möglich ist. 
+
+## Unsere Arbeit
+
+Unsere Arbeit stützt sich auf drei Säulen:
 
 
-# Unsere Arbeit
+- Wir ermöglichen es Data Scientists, ihre Fähigkeiten und ihre Skills für das Gemeinwohl im Allgemeinen einzusetzen. Wir helfen sozialen Organisationen, ihren Impact auf die Gesellschaft zu erhöhen, indem wir pro-bono **(Data4Good)-Projekte** durchführen.
 
-CorrelAid ist seit Juli 2015 als gemeinnütziger Verein in Konstanz eingetragen. Wir haben derzeit ein ehrenamtliches Organisationsteam aus 15 Leuten und ein Netzwerk von über {{< param num_members >}} ehrenamtlichen Datenanalyst\*innen. Wir haben bereits über 35 Volunteering-Projekte mit kleinen und großen NPOs (u.a. Ashoka, europäisches Jugendparlament, streetfootballworld) initiert, über 50 Workshops für Datenanalyst\*innen durchgeführt, und zahlreiche Vorträge (u.a. bei Die Zeit, NPO-Tag von Microsoft, Bayreuther Dialoge) gehalten. Unsere Arbeit gliedert sich in drei Bereiche: Skilled data volunteering, Weiterbildung und Dialog. 
 
-## Data Volunteering
+- Wir **bilden** soziale Organisationen zu datenbezogenen Themen weiter und fördern die individuelle Entwicklung unserer Netzwerkmitglieder, indem wir ihnen Möglichkeiten bieten, sich auszutauschen und voneinander zu lernen. 
 
-In unseren Volunteering-Angebot vermitteln wir ein Team von ehrenamtlichen Datenanalysten und Datenanalyst\*innen aus unserem Netzwerk an gemeinnützige Organisationen. Zusammen helfen wir der Organisation zum Beispiel ihre Daten zu nutzen um Prozesse effizienter zu gestalten, die Zielgruppe besser kennenzulernen oder Ressourcen besser zu verteilen. Ein Projekt dauert etwa 2 bis 4 Monate.
+- Wir stoßen einen **Dialog** über den Wert und den Nutzen von Daten und Datenanalyse für das Gemeinwohl an.
 
-In unseren Projekten ist uns wichtig, dass wir diverse Teams zusammenstellen: Auf der einen Seite bringen wir so alle benötigten Skills zusammen und auf der anderen Seite wird es so eine wertvolle Lernerfahrung für alle Beteiligten.
 
-## Bildung und Workshops
+## Unsere Werte 
 
-In unseren Workshops bilden wir unser Data Science Netzwerk weiter. In unserem Netzwerk kommen Analysten und Analystinnen aus den unterschiedlichsten akademischen Disziplinen und Branchen zusammen. Dadurch können wir unglaublich viel voneinander lernen. Deshalb setzen wir auf Peer Learning. Mit unseren Workshop Konzepten schaffen wir dafür den Rahmen. Finde dein lokales Netzwerk bei unseren [CorrelAidX Gruppen](/correlaid-x).
-
-## Datendialog
-
-Wir wollen einen Dialog zwischen der Zivilgesellschaft und der Data Science Community anstoßen und gemeinsam Ideen für Data-for-Good-Projekte entwickeln. Dafür haben wir das Konzept des "Datendialogs" entwickelt. Bei einem Datendialog kommen drei bis fünf NGOs mit ca. 20 Datenanalyst\*innen zusammen. Beide Seiten lernen sich und ihre Arbeit dabei besser kennen und loten aus, welche Daten den jeweiligen Organisationen zur Verfügung stehen und welche Datenanalysen die Arbeit der Organisation unterstützen können. Was wir bei unseren bisherigen Datendialogen gemacht haben könnt ihr hier lesen: [Datendialog Hamburg](/blog/meetup-hh) und [Datendialog in Berlin](/blog/datendialog-berlin).
+Wir sind ein inklusives Netzwerk, in dem Vielfalt geschätzt und gefördert wird. Wir lehnen jede Form von Diskriminierung, Gewalt oder Belästigung entschieden ab. Wir legen Wert auf wertschätzende Kommunikation und wertschätzen die Zeit und Arbeit unserer Volunteers. Unseren Volunteers gute Lernerfahrungen zu ermöglichen ist der Kern unserer Mission. Darüber hinaus kommt ihr Engagement in unseren Skilled-Volunteering-Projekten dem sozialen Sektor und der Gesellschaft zugute. Bei unserer Arbeit halten wir uns an unseren [Code of Conduct](/de/about/codeofconduct), den wir für uns definiert haben.
 
 # Preise und Förderungen
 
