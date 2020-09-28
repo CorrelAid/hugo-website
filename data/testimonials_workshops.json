@@ -1,0 +1,20 @@
+{
+  "projects": {
+    "de": [
+      {
+        "contact": "Tsadenna G. Assefa",
+        "organisation": "180 Degrees Consulting, Beraterin der Consulting-Kohorte Sommer 2020",
+        "image": "180dc.jpg",
+        "text": "The workshop, which took place July 08, 2020, included real life examples that consultants can relate to, great visuals to keep participants engaged, personal experiences and advices that participants related to and loved."
+      }
+    ],
+    "en": [
+      {
+        "contact": "Tsadenna G. Assefa",
+        "organisation": "180 Degrees Consulting, Consultant of Consultant Cohort Summer 2020",
+        "image": "180dc.jpg",
+        "text": "The workshop, which took place July 08, 2020, included real life examples that consultants can relate to, great visuals to keep participants engaged, personal experiences and advices that participants related to and loved."
+      }
+    ]
+  }
+}

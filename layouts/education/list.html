@@ -1,9 +1,13 @@
 {{ define "main" }}
 <div class="container">
+    {{ $lang := .Site.Language.Lang }}
     <div class="row">
         <div class="col-12 my-5">
             {{ .Content }}
+            {{ $testimonials := $.Site.Data.testimonials_workshops }}
+            {{ partial "testimonial_carousel.html" (dict "context" . "testimonials" $testimonials.projects "id" "projectTestimonials" "lang" $lang ) }}
         </div>
+
     </div>
 </div>
 {{ end }}
