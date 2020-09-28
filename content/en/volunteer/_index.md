@@ -82,6 +82,6 @@ Do you want to learn more about how you can get involved at CorrelAid? Or you do
     href="mailto:isabel.w@correlaid.org"
     justify="center"
 >}}
-Mach einen Termin!
+Arrange a call!
 {{< /button >}}
 

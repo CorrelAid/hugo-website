@@ -1,4 +1,4 @@
-baseURL                 = "https://correlaid.org/"
+baseURL                 = "https://www.correlaid.org/"
 
 DefaultContentLanguage  = "en"
 DefaultContentLanguageInSubdir = true
