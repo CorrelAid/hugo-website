@@ -54,6 +54,6 @@ Data analyst in mobility. I've been with CorrelAid since 2018 when I moved to Be
     link-color="ca-red-text"
     x="1"
 >}}
-An ecologists evolving into a data scientist. I've been a member of CorrelAid since late 2019 and using agent based modelling to study large African carnivores in the rest of my time.
+An ecologist evolving into a data scientist. I've been a member of CorrelAid since late 2019 and using agent based modelling to study large African carnivores in the rest of my time.
 {{< /person >}}
 
