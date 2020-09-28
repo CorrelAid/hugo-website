@@ -1,0 +1,16 @@
+{{ range $testi_index, $testi := (index .testimonials .lang ) }} 
+<div class="testimonial ca-original-gradient py-3 px-4 mt-3">
+    <div class="row">
+        <div class="col-12 col-sm-5 col-md-4 col-lg-3 align-self-center">
+            {{ with $testi.image }}
+                <img class="img-fluid rounded-circle" src="/images/people/{{ . }}" />
+
+            {{ end }}
+            <p class="text-white text-center m-0">{{ $testi.contact }}, <i>{{ $testi.organisation }}</i></p>
+        </div>
+        <div class="col-12 col-sm-7 col-md-8 col-lg-9 align-self-center my-2">
+            <blockquote><i class="fas fa-quote-left fa-2x fa-pull-left"></i>{{ $testi.text }}</blockquote>
+        </div>
+    </div>
+</div>
+{{ end }}

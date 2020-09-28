@@ -1,15 +1,18 @@
-baseURL                 = "https://correlaid.org/"
+baseURL                 = "https://www.correlaid.org/"
 
-DefaultContentLanguage  = "de"
+DefaultContentLanguage  = "en"
+DefaultContentLanguageInSubdir = true
 
 PygmentsCodeFences      = true
 PygmentsStyle           = "friendly"
 enableEmoji             = true 
-
 [params]
     twitter         = "https://twitter.com/CorrelAid"
     facebook        = "https://facebook.com/WeAreCorrelAid"
     linkedin        = "https://www.linkedin.com/company/correlaid/"
+    num_members     = "1300"
+    mailinglist_volunteers = "https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"
+    mailinglist_npos = "https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=175fade988"
     
 [Languages]
 [Languages.en]
@@ -24,13 +27,39 @@ enableEmoji             = true
 [Languages.de]
     contentDir      = "content/de"
     title           = "CorrelAid"
-    weight          = 0
+    weight          = 1
     languageName    = "Deutsch"
     [Languages.de.params]
             [Languages.de.params.navigation]
                 about   = "Über uns"
 
 
+[module]
+
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+
+  [[module.mounts]]
+    source = "layouts"
+    target = "layouts"
+
+  [[module.mounts]]
+    source = "data"
+    target = "data"
+
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+
+  [[module.mounts]]
+    source = "i18n"
+    target = "i18n"
+
+  [[module.mounts]]
+    source = "archetypes"
+    target = "archetypes"
+    
 [taxonomies]
   category = "categories"
   tag = "tags"
@@ -55,3 +84,8 @@ enableEmoji             = true
 [services]
   [services.twitter]
     disableInlineCSS = false
+
+[caches]
+  [caches.getjson]
+    dir = ":cacheDir/:project"
+    maxAge = "10s"

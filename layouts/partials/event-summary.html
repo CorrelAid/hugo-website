@@ -1,11 +1,11 @@
 <div class="container event-header">
   <div class="row align-items-center">
-    <div class="col-1 date">
+    <div class="col-2 date mr-4">
       <div class="rest uppercase">{{ dateFormat "Jan" .Params.eventDate }}</div>
       <div class="day">{{ dateFormat "02" .Params.eventDate }}</div>
       <div class="rest">{{ dateFormat "2006" .Params.eventDate }}</div>
     </div>
-    <div class="col-6 align-self-end">
+    <div class="col-8 align-self-center">
       <h3>
         <a href="{{ .RelPermalink }}">{{.Title}}</a>
       </h3>

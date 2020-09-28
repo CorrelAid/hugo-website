@@ -1,9 +1,67 @@
 {{ define "main" }}
 <div class="container">
     <div class="row">
+        {{ $lang := $.Site.Language.Lang }}
+        {{ $projects := getJSON "https://correlaid.github.io/projects/projects.json" }}
+        {{ $id := .Params.project_id_path }}
         <div class="col-12 my-5">
-            {{ .Content }}
+            {{ range where $projects "project_id_path" "==" $id }}
+            {{ if eq .published true }}
+            <h1>{{ (index .title $lang ) }}</h1>
+
+           <h1 class="ca-blue-text">{{ i18n "project-challenge" }}</h1>
+
+           <div class="col-md-6 float-right">
+                <div class="col-md-12 mb-2 mt-0 ml-sm-0 ml-md-5 pb-3 pr-5 ca-gradient-container">
+                    <h2 class="ca-blue-text">{{ .organization.name }}</h2>
+                    {{ $about := (index .organization.about $lang ) }}
+                    <p>
+                        {{ $about.text | markdownify }} 
+                        {{ if gt (len $about.source ) 0 }}
+                            ({{ $about.source | markdownify }})
+                        {{ end }}
+                    </p>
+                    <div class="row">
+                        <p class="lead">
+                            <i class="fas fa-globe"></i>
+                            <a href="{{ .organization.website }}">{{ i18n "website" }}</a>
+                        </p>
+                    </div>
+                    <div class="ca-gradient-border"></div>
+                </div>
+            </div>
+                {{ $content := (index .description $lang )}}
+                <p>{{ $content.problem | markdownify }}</p>
+                <h1 class="ca-blue-text">{{ i18n "project-data" }}</h1>
+                <p>{{ $content.data | markdownify }}</p>
+                <h1 class="ca-blue-text">{{ i18n "project-approach" }}</h1>
+                <p>{{ $content.approach | markdownify }}</p>
+                <h1 class="ca-blue-text">{{ i18n "project-impact" }}</h1>
+                <p>{{ $content.impact | markdownify }}</p>
+                {{ end }}
+                
+                <h1 class="ca-blue-text">Links</h1>
+
+                {{ if eq .repo.public true }}
+                <p class="lead">
+                    <i class="fab fa-github"></i>
+                    <a href="{{ .repo.url }}">Git Repository</a>
+                </p>
+                {{ end }}
+
+                {{ range (index .links $lang )  }}
+                    <p class="lead">
+                        <i class="fas fa-external-link-alt"></i>
+                        {{ . | markdownify }}
+                    </p>
+                {{ end }}
+
+                {{ partial "project_team.html" . }}
+            {{ end }}
+            
+
         </div>
+
     </div>
 </div>
 {{ end }}

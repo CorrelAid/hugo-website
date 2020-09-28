@@ -8,14 +8,26 @@ other       = "About"
 other       = "About CorrelAid"
 [people]
 other       = "People"
-[ethics]
-other       = "Ethikkodex"
-[data-privacy]
-other       = "Datenschutz"
 [contact]
-other       = "Kontakt"
+other       = "Contact"
+[contact-us]
+other       = "Contact us!"
+[projects-past]
+other       = "Past projects"
+[projects-process]
+other       = "How it works:"
+[projects-your-input]
+other       = "Your input:"
 [projects]
 other       = "Our Work"
+[project-challenge]
+other       = "The Challenge"
+[project-data]
+other       = "The Data"
+[project-approach]
+other       = "The Solution"
+[project-impact]
+other       = "The Impact"
 [support]
 other       = "Support"
 [mailing-list]
@@ -26,10 +38,6 @@ other       = "Newsletter for NPOs (German)"
 other       = "The press about us:"
 [correlaidx]
 other       = "CorrelAid on site:"
-[cookies]
-other       = "We are using cookies to remember if you closed bars such as this."
-[cookies-more]
-other       = "More Information."
 [email]
 other       = "Email"
 [recipient]
@@ -50,10 +58,12 @@ other       = "Currently, we don't have any open positions."
 other       = "You want to support CorrelAid? You want to change the world together with us? Do you believe that Data Science should be available for everyone?"
 [claim-1-btn]
 other       = "Let's start!"
-[claim-npo]
-other       = "Do you work for a NPO? For any questions revolving around our work and data, you can book a 1:1 with one of our coordinators here. Tell us what the meeting is about (for example: projects, educational sessions, events, data collection, data analysis, ...) and we will see you there!"
-[claim-npo-book] 
-other = "Book here!"
+[data-hour]
+other   = "Data hour"
+[data-hour-description] 
+other       = "Do you work for a NPO? You can discuss all your questions revolving around our work and data with one of our coordinators in our 1:1 *data hour*. Whether projects, educational sessions, events, data collection, or data analysis: we will see you there!"
+[data-hour-book] 
+other = "Arrange data hour"
 [error-claim-1]
 other       = "That looks like Error 404. Unfortunately, we could not find that page."
 [error-claim-2]
@@ -80,3 +90,13 @@ other = "Language"
 other = "Registration"
 [here]
 other = "Here"
+[source]
+other = "Source"
+[for-nonprofits]
+other = "For Nonprofits"
+[for-volunteers]
+other = "For Volunteers"
+[website]
+other = "Website"
+[participate-volunteer]
+other = "Participate as a volunteer!"

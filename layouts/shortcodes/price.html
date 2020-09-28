@@ -2,7 +2,10 @@
     <div class="row my-1">
         <div class="col-12 col-md-6 col-lg-7 align-self-center {{.Get `order`}}">
             <h3>{{.Get "year"}}</h3>
-            <h1 class="ca-green-text my-0">
+            <h3 class="d-lg-none ca-green-text my-0">
+                {{ .Inner }}
+            </h3>
+            <h1 class="d-none d-lg-block ca-green-text d-xs my-0">
                 {{ .Inner }}
             </h1>
         </div>

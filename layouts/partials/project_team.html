@@ -1,0 +1,73 @@
+<div class="row py-5" id="correlaid-team">
+    <div class="col-12">
+        <div class="col-md-10 pb-4 mx-4 ca-gradient-container">
+            
+            <h2 class="ca-blue-text">CorrelAid Team</h2>
+            {{ range .team }}
+            <div class="row justify-content-start">
+                <div class="col pr-0 mr-0">
+                    <p>{{ .first_name }} {{ .last_name }}
+                        {{ if isset . "linkedin" }}
+                            {{ if gt (len .linkedin ) 0 }}
+                            <a class="team-member-links" href="{{ .linkedin}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in"></i></a>
+                            {{ end }}
+                        {{ end }}
+                        {{ if and (isset . "xing" )}}
+                            {{ if gt (len .xing ) 0 }}
+                            <a class="team-member-links" href="{{ .xing}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-xing"></i></a>
+                            {{ end }}
+                        {{ end }}
+                        {{ if isset . "github" }}
+                            {{ if gt (len .github ) 0 }}
+                            <a class="team-member-links" href="https://github.com/{{ .github}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
+                            {{ end }} 
+                        {{ end }}
+                        {{ if isset . "website" }}
+                            {{ if gt (len .website ) 0 }}
+                            <a class="team-member-links" href="{{ .website}}" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i></a>
+                            {{ end }}
+                        {{ end }}
+                        {{ if isset . "twitter" }}
+                            {{ if gt (len .twitter ) 0 }}
+                            <a class="team-member-links" href="https://twitter.com/{{ .twitter}}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+                            {{ end }}
+                        {{ end }}
+                        {{ if isset . "email" }}
+                        {{ if gt (len .email ) 0 }}
+                        <a class="team-member-links" href="mailto:{{ .email }}"><i class="fas fa-envelope"></i></a>
+                        {{ end }}
+                        {{ end }}
+                        {{ if isset . "pgp" }}
+                        {{ if gt (len .pgp ) 0 }}
+                        <a class="team-member-links" data-backdrop="true" data-toggle="modal" data-target="#pgpModal"><i class="fas fa-key"></i></a>
+                        <!-- Modal to display PGP key -->
+                        <div class="modal" id="pgpModal" tabindex="-1" role="dialog" aria-labelledby="pgpModalTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                    <h5 class="modal-title" id="pgpModalTitle">Public key for {{ .email }}</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        {{ range split .pgp "\n" }} 
+                                            {{ . }}
+                                            <br>
+                                        {{ end }}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {{ end }}
+
+
+                    {{ end }}
+                    </p>
+                </div>
+            </div>
+            
+            {{ end }}  
+        <div class="ca-gradient-border"></div>    
+    </div>
+</div>

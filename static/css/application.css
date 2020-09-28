@@ -145,6 +145,21 @@ a {
     color: #54a1b1;
 }
 
+
+a.start i.fas {
+    color: #FFFFFF;
+}
+
+a i.fas {
+    color: #6c757d;
+}
+
+
+a i.fas:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
 a i.fab {
     color: #6c757d;
 }
@@ -154,6 +169,12 @@ a i.fab:hover {
     color: #FFFFFF;
     text-decoration: none;
 }
+
+a.btn-hero:hover  {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
 
 a:hover {
     color: #3863a2;
@@ -339,6 +360,67 @@ i.caveat {
     border-right: 10px solid #92de3f;
 }
 
+/* =============== DIV GRADIENT BORDER =============== */
+.ca-gradient-container {
+    display: block;
+    position: relative;
+    width: 90%;
+    margin: 3rem 5% 3rem 5%;
+}
+
+.ca-gradient-container.smaller {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.ca-gradient-container > .ca-gradient-border::after {
+    bottom: 0;
+}
+.ca-gradient-container > .ca-gradient-border::after,
+.ca-gradient-container > .ca-gradient-border::before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 10px;
+    left: 0;
+    background-image: linear-gradient(90deg,#92de3f 0,#3863a2);
+}
+
+.ca-gradient-container > .ca-gradient-border::before {
+    top: 0;
+    z-index: -1000;
+}
+
+.ca-gradient-container > .ca-gradient-border {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: auto;
+    height: auto;
+    transform: translateX(-20px) translateY(-20px);
+    z-index: -1000;
+}
+
+.ca-gradient-container > .ca-gradient-border {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: .7;
+    border-left: 10px solid #92de3f;
+    border-right: 10px solid #3863a2;
+}
+
+
+
+
 /* =============== BOOTSTRAP BUTTON =============== */
 
 .btn {
@@ -357,10 +439,38 @@ i.caveat {
     background-color: transparent;
 }
 
+
+.btn-ca-white {
+    position: relative;
+    display: inline;
+    padding: 20px 30px;
+    margin: 20px 30px;
+    color: #FFFFFF;
+    border: 6px solid white;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    min-width: 150px;
+    max-width: 300px;
+    text-align: center;
+    cursor: pointer;
+    color: #ffffff;
+    font-weight: bold;
+}
+
 .btn-ca-green {
     color: #FFFFFF;
     background-color: #92de3f;
     border-color: #92de3f;
+}
+
+.btn-ca-blue {
+    color: #FFFFFF;
+    background-color: #3863a2;
+    border-color: #3863a2;
+}
+
+.btn-ca-blue:hover {
+    color: #FFFFFF;
 }
 
 .btn-ca-dark-blue {
@@ -369,8 +479,13 @@ i.caveat {
     border-color: #233140;
 }
 
+.btn-ca-dark-blue:hover {
+    color: #FFFFFF;
+}
+
 
 /* =============== BUTTON =============== */
+
 .ca-btn {
     position: relative;
     display: inline;
@@ -411,6 +526,11 @@ i.caveat {
     margin: 15px auto;
 }
 
+.ca-btn.dark-blue {
+    background-color: #233140;
+    border-color: #444444;
+}
+
 .ca-btn.fixed {
     display: inline-block;
     width: 300px;
@@ -421,8 +541,12 @@ i.caveat {
         min-width: 75px;
         max-width: 200px;
         margin: 5px 0;
+        border: 6px solid white;
+        font-size: 1.2rem;
+        font-family: 'Montserrat', sans-serif;
+        color: #ffffff;
+        font-weight: bold;
     }
-
 }
 
 /* ========== NAVIGATION ========== */
@@ -653,7 +777,6 @@ i.caveat {
 }
 
 /* ========== TESTIMONIAL ========== */
-
 .testimonial img {
     margin: 0 auto 12px auto;
     border: 6px solid #ffffff;
@@ -714,7 +837,7 @@ i.caveat {
 /* ========== PRESS ABOUT US ========== */
 
 .newspaper-image {
-    height: 40px;
+    height: 30px;
 }
 
 @media screen and (max-width: 600px) {
@@ -795,4 +918,17 @@ td {
     color: #FFFFFF;
     letter-spacing: 8px;
     font-weight: 500;
+}
+
+/* ========== SINGLE PROJECT VIEW ========== */
+a.team-member-links i.fab:hover,
+a.team-member-links i.far:hover,
+a.team-member-links i.fas:hover {
+    color: #6c757d;
+    text-decoration: none;
+}
+
+/* ========== MODAL PGP ========== */
+.modal-body {
+    overflow-wrap: break-word;
 }

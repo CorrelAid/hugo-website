@@ -1,0 +1,90 @@
+{
+  "de": [
+    {
+      "title": "Projektdefinition",
+      "duration": "1-3 Wochen",
+      "work": "iterativer Austausch mit Projektkoordinator:innen (ca. 1-3 Stunden)",
+      "icon": "fa-comments",
+      "content": "Unsere Projektkoordinator:innen definieren zusammen mit euch das zu lösende Problem. Anschließend entscheiden wir, ob unsere ehrenamtlichen Data Scientists euch helfen können. Falls ja, klären unsere Projektkoordinator:innen zusammen mit euch ungefähre Dauer und Inhalt des Projekts ab und tragen die Inhalte für die Projektausschreibung zusammen."
+    },
+    {
+      "title": "Ausschreibung und Teamauswahl",
+      "duration": "1-3 Wochen",
+      "work": "keiner",
+      "icon": "fa-search",
+      "content": "Wir schreiben das Projekt an unser Netzwerk aus und stellen aus den Bewerber:innen ein Projektteam aus 2-8 ehrenamtlichen Datenanalyst:innen zusammen."
+    },
+    {
+      "title": "Onboarding und Kickoff",
+      "duration": "1-3 Wochen",
+      "work": "Terminfindung für Kickoff, zusammen mit Projektkoordinator:innen Inhalte & Programm für Kickoff erarbeiten",
+      "icon": "fa-rocket",
+      "content": "Das Projektteam wird intern zu allen Tools eingeladen und eingeführt, die wir zur Kommunikation und Zusammenarbeit verwenden. Parallel planen wir zusammen mit euch den Kickoff-Workshop, wo ihr und das Team euch kennenlernen könnt und zusammen näher Ziele, Arbeitsweise und Inhalt des Projekts definiert. Wenn möglich, findet dieser Workshop an einem Wochenende bei euch statt. Ansonsten führen wir den Kickoff-Workshop als remote Event (ca 2-3 Stunden) durch."
+    },
+    {
+      "title": "Projektarbeit",
+      "duration": "1-6 Monate",
+      "work": "regelmäßiger telefonischer Austausch mit Projektteam (mind. alle 2 Wochen), Feedback geben, Fragen des Projektteams schnellstmöglich beantworten",
+      "icon": "fa-laptop-code",
+      "content": "Das Projektteam wird intern zu allen Tools eingeladen und eingeführt, die wir zur Kommunikation und Zusammenarbeit verwenden. Parallel planen wir zusammen mit euch den Kickoff-Workshop, wo ihr und das Team euch kennenlernen könnt und zusammen näher Ziele, Arbeitsweise und Inhalt des Projekts definiert. Wenn möglich, findet dieser Workshop an einem Wochenende bei euch statt. Ansonsten führen wir den Kickoff-Workshop als remote Event (ca 2-3 Stunden) durch."
+    },
+    {
+      "title": "Handover",
+      "duration": "1 Tag - 2 Wochen",
+      "work": "Teilnahme an einem mehrstündigen Handover-Workshop, ggf. intern IT-Voraussetzungen zur Übernahme von zu hostenden Endprodukten schaffen, intensive Auseinandersetzung mit dem Endergebnis, seiner Wartung und Nutzung",
+      "icon": "fa-sync-alt",
+      "content": "Das Team übergibt euch in einem Abschlussworkshop die Ergebnisse und führt euch in die Nutzung und eventuelle Wartung des Endprodukts ein. Bei zu hostenden Dashboards arbeiten wir mit euren IT-Expert:innen zusammen, um das Endprodukt erfolgreich bei euch in Produktion zu bringen."
+    },
+    {
+      "title": "Follow-Up",
+      "duration": "1-3 Tage",
+      "work": "Ausfüllen eines Fragebogens (ca. 15 Minuten), Inhalte für Projektbeschreibung bereitstellen und absprechen (ca. 1-2 Stunden)",
+      "icon": "fa-question",
+      "content": "Sowohl das Projektteam als auch ihr werden nach ihrer Erfahrung mit dem Projekt befragt. Zusätzlich unterstützt ihr das Projektteam bei der Erarbeitung einer Projektbeschreibung, die nach dem Projekt auf der CorrelAid-Website das Projekt darstellen wird."
+    }
+  ],
+  "en": [
+    {
+      "title": "Project definition",
+      "duration": "1-3 weeks",
+      "work": "iterative exchange with project coordination team (in total ~1-3 hours)",
+      "icon": "fa-comments",
+      "content": "Together with our project coordinators, you work on defining the challenge that you face. We then decide whether our volunteers can help you. If this is the case, we define the approximate scope and duration of the project and collect the content for the call for applications."
+    },
+    {
+      "title": "Call for Applications and Team Selection",
+      "duration": "1-3 weeks",
+      "work": "none",
+      "icon": "fa-search",
+      "content": "We send out the call for applications to our network and select a project team of 2-8 voluntary data analysts."
+    },
+    {
+      "title": "Onboarding and Kickoff",
+      "duration": "1-3 weeks",
+      "work": " find a meeting slot for the kickoff, create content and programme for the kickoff together with project coordinators",
+      "icon": "fa-rocket",
+      "content": "We onboard the team to all the tooling that we use for communication and collaboration. At the same time, our project coordiantors, the project lead and you plan the kickoff workshop where you and the team can meet, get to know each other and more clearly define goals, modes of collaboration and content of the project. If possible, this workshop takes place at your office or in the city you're mainly operating in over the course of a weekend. If this is not possible, the kickoff takes place as a remote online event (~2-3 hours)."
+    },
+    {
+      "title": "Project work",
+      "duration": "1-6 months",
+      "work": "meet regularly with the project team (at least every 2 weeks), give feedback, answer questions of the project team in a responsive way",
+      "icon": "fa-laptop-code",
+      "content": "The project team works on a solution for your data challenge while maintaining close and iterative exchange cycles with you. In this way, feedback cycles are kept short which in turn is important for the success of the project."
+    },
+    {
+      "title": "Handover",
+      "duration": "1 day - 2 weeks",
+      "work": "Participation in a handover workshop (~several hours), make sure to meet technical requirements for taking over outputs that need to be hosted (if needed), work on understanding the results and outputs, their maintenance and usage.",
+      "icon": "fa-sync-alt",
+      "content": "In a workshop, the team hands over the results and outputs and explains to you how you can use and maintain them if applicable. If you need to host the output yourself (e.g. a dashboard), our volunteers work together with your IT experts to ensure that it can be successfully used in your organisation. "
+    },
+    {
+      "title": "Follow-Up",
+      "duration": "1-3 days",
+      "work": "Fill out a feedback survey (~15 minutes), give input for the representation of your project on the CorrelAid website (~1-2 hours)",
+      "icon": "fa-question",
+      "content": "Both the project team and you will be surveyed about your experience with the project. In addition, you support the project team with creating content for a project description which will be displayed on the CorrelAid website after the project has ended."
+    }
+  ]
+}

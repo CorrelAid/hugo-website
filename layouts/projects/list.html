@@ -1,8 +1,75 @@
 {{ define "main" }}
 <div class="container">
+    {{ $lang := .Site.Language.Lang }}
     <div class="row">
         <div class="col-12 my-5">
+            
             {{ .Content }}
+
+            <div class="row">
+                <div class="col-md-6 py-2 text-center text-md-right">
+                    <a class="btn btn-ca-blue btn-lg" href="mailto:projects@correlaid.org">{{ i18n "contact-us" }}</a> 
+                </div>
+                <div class="col-md-6 py-2 text-center text-md-left">
+                    <a class="btn btn-ca-blue btn-lg" href="/{{ $lang }}/volunteer">{{ i18n "participate-volunteer" }}</a> 
+                </div>
+            </div>
+
+            <h1>{{ i18n "projects-past" }}</h1>
+
+            <div class="row">
+                {{ $projects := getJSON "https://correlaid.github.io/projects/projects.json" }}
+                {{ range $projects }}
+                    {{ if eq .published true }}
+                        <div class="col-12 col-md-6">
+                            <div class="correlaid-box-outer py-2">
+                            <a class="correlaid-box-inner" href="{{ .URL | absLangURL }}/projects/{{ lower .project_id_path }}">
+                                <h3>{{ .organization.name }}</h3>
+                                <p class="text-white">{{ (index .title $lang ) }} </p>
+                            </a>
+                            </div>
+                        </div>
+                    {{ end }}
+                {{ end }}
+            </div>
+
+            <h1>{{ i18n "projects-process" }}</h1>
+
+            <div class="row my-5">
+                {{ $process_steps := $.Site.Data.process_steps }}
+                {{ range $step_index, $step := (index $process_steps $lang ) }} 
+                        <div class="col-sm-6">
+
+                            {{ $iconClass := .icon | printf "fas fa-2x %s" }}
+                            <h2 class="ca-green-text mb-0 mt-0">
+                                {{ add $step_index 1 }}. {{ .title }}
+                            </h2> 
+                           
+                            <p class="lead">
+                                <i class="fas fa-s fa-clock"></i>
+                                {{ .duration }}
+                            </p>
+                            <p class="lead">{{ .content | markdownify }}</p>
+                            <p>
+                                <b>{{ i18n "projects-your-input" }}</b>
+                                {{ .work | markdownify}}
+                            </p>
+                        </div>
+                {{ end }}
+            </div>
+            
+            <h1>FAQ</h1>
+            {{ $faqs := (index $.Site.Data.projects_faq $lang) }}
+            {{ range $faqs }}
+                <h2>{{ .q }}</h2>
+                <p>{{ .a | markdownify }}</p>
+            {{ end }}
+            
+            <h1>Testimonials</h1>
+
+            {{ $testimonials := $.Site.Data.testimonials }}
+            {{ partial "testimonial_carousel.html" (dict "context" . "testimonials" $testimonials.projects "id" "projectTestimonials" "lang" $lang ) }}
+        
         </div>
     </div>
 </div>

@@ -8,12 +8,24 @@ other       = "Über uns"
 other       = "Über CorrelAid"
 [people]
 other       = "Ansprechpersonen"
-[ethics]
-other       = "Ethikkodex"
-[data-privacy]
-other       = "Datenschutz"
 [contact]
 other       = "Kontakt"
+[contact-us]
+other       = "Schreib uns!"
+[projects-past]
+other       = "Vergangene Projekte"
+[projects-process]
+other       = "So funktionierts:"
+[projects-your-input]
+other       = "Euer Beitrag:"
+[project-challenge]
+other       = "Die Challenge"
+[project-data]
+other       = "Die Datengrundlage"
+[project-approach]
+other       = "Der Ansatz"
+[project-impact]
+other       = "Die Wirkung"
 [projects]
 other       = "Unsere Arbeit"
 [support]
@@ -23,13 +35,9 @@ other       = "Email Verteiler für Datenanalyst:innen"
 [mailing-list-npo]
 other       = "Newsletter für Non-Profits"
 [press]
-other       = "Die Presse über uns:"
+other       = "CorrelAid in der Presse:"
 [correlaidx]
 other       = "CorrelAid vor Ort:"
-[cookies]
-other       = "Wir benutzen Cookies, um uns zu merken, ob du Leisten, wie diese geschlossen hast."
-[cookies-more]
-other       = " Mehr Informationen findest du hier."
 [email]
 other       = "Email"
 [recipient]
@@ -50,10 +58,12 @@ other       = "Zurzeit gibt es leider keine Ausschreibungen."
 other       = "Du möchtest bei CorrelAid aktiv werden? Du möchtest mit uns gemeinsam die Welt verändern? Du glaubst auch daran, dass Datenanalyse allen zur Verfügung stehen sollte?"
 [claim-1-btn]
 other       = "Los geht's!"
-[claim-npo]
-other       = "Du bist bei einer NPO aktiv? Für alle Fragen rund um unsere Arbeit und Daten kannst du eine 1:1 Session mit unseren Koordinator:innen buchen. In den Notizen kannst du vermerken, worüber du sprechen möchtest (z.B. Projekte, Bildungsangebote, Veranstaltungen, Datenerhebung, Datenanalyse, ...), und dann sehen wir uns dort!"
-[claim-npo-book] 
-other = "Hier gehts zur Buchung"
+[data-hour]
+other   = "Datensprechstunde"
+[data-hour-description]
+other       = "Du bist bei einer NPO aktiv? Alle deine Fragen rund um unsere Arbeit und Daten kannst du in unserer *Datensprechstunde* mit unseren Koordinator:innen besprechen. Ob Projekte, Bildungsangebote, Veranstaltungen, Datenerhebung oder Datenanalyse: wir sehen uns dort!"
+[data-hour-book] 
+other = "Datensprechstunde vereinbaren"
 [error-claim-1]
 other       = "Das sieht aus wie Fehler 404. Leider konnten wir diese Seite nicht finden."
 [error-claim-2]
@@ -80,3 +90,13 @@ other = "Sprache"
 other = "Registrierung"
 [here]
 other = "Hier"
+[source]
+other = "Quelle"
+[for-nonprofits]
+other = "Für Nonprofits"
+[for-volunteers]
+other = "Für Volunteers"
+[website]
+other = "Webseite"
+[participate-volunteer]
+other = "Als Volunteer teilnehmen"
