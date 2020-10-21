@@ -20,7 +20,7 @@ Are you interested in leveraging data for good? Then you should join us at the C
 
 {{< button 
     btn-class="btn-dark"
-    href="http://eepurl.com/g6BDyz"
+    href="/material/correlcon2020_agenda.pdf"
     justify="center"
 >}}
 Download the program!

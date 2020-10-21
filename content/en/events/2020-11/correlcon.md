@@ -4,6 +4,7 @@ date: 2018-08-23T10:48:46+02:00
 draft: false
 eventDate: "2020-11-07"
 eventRegistration: "https://hopin.to/events/correlcon-2020"
+eventImage: "events/correlcon_header.png"
 meta:
     title: "CorrelCon 2020"
     description: "All about CorrelCon 2020"
@@ -14,13 +15,12 @@ languages:
     - english
 ---
 
-
 Are you interested in leveraging data for good? Then you should join us at the CorrelCon! The CorrelCon is a conference for everyone that is excited about using data and data science for the social good! From insights into our projects for NPOs to technical sessions on your favorite data science technologies - CorrelCon will have it all. ;) 
 
 
 {{< button 
     btn-class="btn-dark"
-    href="http://eepurl.com/g6BDyz"
+    href="/material/correlcon2020_agenda.pdf"
     justify="center"
 >}}
 Download the program!
@@ -30,6 +30,7 @@ Download the program!
     image="events/correlcon_header.png"
 >}}
 {{< /image-not-blog  >}}
+
 
 # For Nonprofits
 
@@ -47,7 +48,6 @@ You can expect discussions and input on topics like modern data science educatio
 We are still working on the details of the programme (speakers, adding more community-focused spaces) and there might be some changes, e.g. to the technical sessions, but feel free to [register now](https://hopin.to/events/correlcon-2020) so we can keep you updated over the next few weeks!
 
 We are looking forward to a creative, techy weekend with you!
-
 
 {{< button 
     btn-class="btn-dark"
