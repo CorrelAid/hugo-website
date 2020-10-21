@@ -6,8 +6,8 @@ eventDate: "2020-11-07"
 eventRegistration: "https://hopin.to/events/correlcon-2020"
 eventImage: "events/correlcon_header.png"
 meta:
-    title: "CorrelCon 2020"
-    description: "All about CorrelCon 2020"
+    title: "CorrelCon 2020 - A Weekend of Data4Good"
+    description: "CorrelAid invites you to join us online for a weekend of Data4Good from November 6-8. Doesn't matter if you're a data enthusiast, an interested NPO or just someone who likes attending conferences with nice people!"
     image: "events/correlcon_header.png"
     keywords: "CorrelAid, CorrelCon, conference, data4good"
 markup: mmark
