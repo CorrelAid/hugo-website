@@ -26,6 +26,15 @@ Are you interested in leveraging data for good? Then you should join us at the C
 Download the program!
 {{< /button >}}
 
+{{< button 
+    btn-class="btn-dark"
+    href="https://hopin.to/events/correlcon-2020"
+    justify="center"
+>}}
+Register on Hopin!
+{{< /button >}}
+
+
 {{< image-not-blog 
     image="events/correlcon_header.png"
 >}}
