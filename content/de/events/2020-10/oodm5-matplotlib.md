@@ -26,7 +26,7 @@ We are looking forward to see you at the event! :)
 
 
 
-## The Speakers
+## The Speaker
 {{< person 
     name="Henry Webel"
     img="/images/people/henry.jpg"
