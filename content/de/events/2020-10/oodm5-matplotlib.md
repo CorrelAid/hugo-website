@@ -4,12 +4,12 @@ date: 2020-05-11T22:01:56+02:00
 subtitle: "Open Online Data Meetup - Vol. 5"
 correlaidx: false
 eventDate: "2020-10-28"
-eventRegistration: https://www.eventbrite.de/e/the-lazy-data-scientist-automating-things-feat-r-python-aws-and-a-pi-registration-121498787143
+eventRegistration: https://www.eventbrite.com/e/untangling-matplotlib-an-interactive-workshop-registration-125895626207
 tags: ["oodm"]
 languages: 
     - english
 ---
-Join the 5th Open Online Data Meetup (OODM) 
+Join the 5th Open Online Data Meetup (OODM) for a conceptual introduction to Matplotlib and to learn about typical workflows from Henry.
 
 ## The Workshop
 Are you sometimes puzzled why matplotlib has to be so complicated?
