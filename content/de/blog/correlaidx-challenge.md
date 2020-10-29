@@ -1,7 +1,7 @@
 ---
 title:      "Our first CorrelAidX challenge"
 date:       2020-10-29T00:00:00+02:00
-image:      "509-datadialogue-berlin-online-recap.png"
+image:      "509-correlaidx-challenge-titel2.jpg"
 summary:    "In August we launched our first CorrelAidX challenge: Over the course of 8 weeks, we called on our local chapters to use regional data, provided by the state statistical offices, from their region and submit creative data projects using the python package developed by Datenguide in collaboration with CorrelAid. Have a look at the amazing outcomes!"
 draft:      false
 categories:       
@@ -10,7 +10,7 @@ categories:
     - News
 author: 
     name:           "Tasneem, Heba and Isabel (CorrelAid)"
-    image:          "correlaid.png"
+    image:          "correlaid-brand.png"
     description:    ""
     twitter:        "https://twitter.com/correlaid"
     facebook:       "https://facebook.com/WeAreCorrelAid"
@@ -20,11 +20,9 @@ author:
 meta:
     title:          "CorrelAid - Our first CorrelAidX challenge"
     description:    "In August we launched our first CorrelAidX challenge: Over the course of 8 weeks, we called on our local chapters to use regional data, provided by the state statistical offices, from their region and submit creative data projects using the python package developed by Datenguide in collaboration with CorrelAid. Have a look at the amazing outcomes!"
-    image:          "509-datadialogue-berlin-online-recap.png"
+    image:          "509-correlaidx-challenge-titel2.jpg"
     keywords:       "CorrelAid, Data4Good, Challenge, Local Chapter"
 ---
-
-
 # The idea
 
 Which state has the youngest population? Which cities are particularly popular with tourists? How did the parties do in the last European election? How much waste does Germany actually produce?
