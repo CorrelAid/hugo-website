@@ -26,7 +26,7 @@ meta:
 ---
 # Organizing an online community night
 
-In the time of zoom-fatigue and more than half a year with pure online events, our annual meeting, the [CorrelCon](/en/events/), also fell into this period.  It soon became clear to us that we wanted to make this event as creative and varied as possible, and at the same time integrate all the components of an offline event as smoothly as possible.
+In the time of zoom-fatigue and more than half a year with pure online events, our annual meeting, the [CorrelCon](/en/events/2020-11/correlcon/), also fell into this period.  It soon became clear to us that we wanted to make this event as creative and varied as possible, and at the same time integrate all the components of an offline event as smoothly as possible.
 Part of a good conference, at least in our opinion, should also be a format where you can come together, have fun, and meet the community you belong to. 
 
 Since this year's CorrelCon was held online, we had to be a little creative. Unfortunately, remotely organized events that aim to be fun and entertaining, especially after the more formal part, often fail to meet their expectations. Even if you prepare a drink and make yourself comfortable, it still doesn't feel the same as being in a bar together or participating in a board game evening. 
