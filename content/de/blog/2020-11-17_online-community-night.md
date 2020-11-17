@@ -10,7 +10,7 @@ categories:
     - CorrelAid
     - News
 author: 
-    name:           "Daniel and Isabel (CorrelAid)"
+    name:           "Daniel and Isabel"
     image:          "IsabelDaniel.png"
     description:    "Isabel works as Head of Community Management for CorrelAid. Daniel mainly volunteers for CorrelAid as part of the organizer team of CorrelAidX Munich, but he also joined the organizing team of CorrelCon."
     twitter:        "https://twitter.com/correlaid"
