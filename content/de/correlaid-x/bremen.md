@@ -41,3 +41,18 @@ Hendrik ist Soziologiestudent an der Uni Bremen und euer Ansprechpartner für de
 Ihn begeistert die Idee mit Datenanalyse die Welt zu verbessern und ein Peer-Learning Netzwerk von 
 Motivierten im Norden aufzubauen.
 {{< /person >}}
+
+
+{{< person 
+    name="Lukas"
+    subline="CorrelAidX Bremen"
+    img="/images/people/lukas_warode.jpeg"
+    data-email="bremen@correlaid.org"
+    data-to="Hendrik (CorrelAidX Bremen)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Lukas studiert Politikwissenschaft in Bremen und ist seit Mitte 2019 bei CorrelAid aktiv. Er ist sehr interessiert an angewandter Datenanalyse und Datenvisualisierung. An CorrelAid mag er nicht nur das Data4Good Volunteering, sondern auch die Möglichkeiten zum Austausch und Zusammenkommen mit anderen Data Scientists.
+{{< /person >}}
+
+
