@@ -42,3 +42,17 @@ Hendrik is a student of sociology at the University of Bremen and  your contact 
 He is intrigued by the idea to make the world a little better through data analysis and would like to build a 
 northern Peer-Learning network.
 {{< /person >}}
+
+{{< person 
+    name="Lukas"
+    subline="CorrelAidX Bremen"
+    img="/images/people/lukas_warode.jpeg"
+    data-email="bremen@correlaid.org"
+    data-to="Lukas (CorrelAidX Bremen)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Lukas is a student of Political Science and has been a member since summer 2019. He is very interested in applied data analysis and data visualization. He appreciates CorrelAid not only for its voluntary work, but also for the exchange and the coming together.
+
+
+{{< /person >}}
