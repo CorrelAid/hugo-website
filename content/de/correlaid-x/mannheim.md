@@ -13,11 +13,10 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
+Das Local Chapter Mannheim wurde im Herbst 2017 mit einem Kick-Off Event an der Universität Mannheim ins Leben gerufen. Seitdem haben wir Einstiegskurse für die Programmiersprachen R und Python für Studierende ausgerichtet, mit studentischen Initiativen an der Universität Mannheim zusammengearbeitet und eine Podiumsdiskussion Nutzen und Risiken der Verwendung von Offenen Regierungsdaten durchgeführt. Durch die Workshops, die Zusammenarbeit mit anderen Organisationen und Podiumsdiskussionen versuchen wir, CorrelAid im Bereich Data For Good in der Rhein-Neckar Region bekannt und relevant zu machen. Darüber hinaus haben wir in der Form lokaler Projekte mit Non-Profit Organisationen zusammengearbeitet, um ihnen anhand ihrer eigenen Daten neue Einblicke in ihre Arbeit zu ermöglichen.
+Wenn du uns dabei unterstützen möchtest, dann kannst du unseren [Newsletter](https://kutt.it/correlaidnewsletter) abonnieren, uns eine E-Mail an [mannheim@correlaid.org](mailto:mannheim@correlaid.org) schreiben und unserem Slack beitreten.
 
-
-Das Local Chapter Mannheim hat sich im Herbst 2017 konstituiert. Um unsere Vision von CorrelAid unter den Studierenden der Universität Mannheim zu verbreiten, veranstalteten wir ein Kick-Off Event. Zu diesem Kick-Off Event hatten wir unseren Vorsitzenden Johannes, Open-Data Experten Oliver Rack, Statistik- und empirische Methoden-Professor Thomas Gschwend und Malte Schierholz, Soziologe an der Universität Mannheim, geladen. Gemeinsam mit ihnen und 80 Interessierten haben wir über die steigende Relevanz von Daten in der Zivilgesellschaft und den Möglichkeiten des Einzelnen in diesem Prozess diskutiert.
-
-In den darauffolgenden Wochen haben wir zwei R-Einstiegs- und einen Python-Einstiegskurs veranstaltet, um die Studierenden der Universität Mannheim mit den wichtigsten Open-Source Programmen in der Datenanalyse vertraut zu machen. In den kommenden Wochen planen wir eine gemeinsame Veranstaltung mit einer studentischen Initiative der Universität Mannheim, welche zivilgesellschaftliche Organisationen dabei unterstützen möchte, sich sowohl organisatorisch als auch strukturell für die digitale Zukunft fit zu machen. Weiterhin ist eine Podiumsdiskussion zu den Nutzen und Risiken der Verwendung von Offenen Regierungsdaten geplant. Auf Grundlage unserer Workshops, der Zusammenarbeit mit anderen Organisationen und Podiumsdiskussionen versuchen wir, CorrelAid in der Rhein-Neckar Region bekannt und relevant zu machen.
+Vertrittst du eine Non-Profit Organisation in der Rhein-Neckar Region und willst mit uns in Kontakt treten? Schreib uns eine E-Mail an [mannheim@correlaid.org](mailto:mannheim@correlaid.org).
 
 
 {{< person 
