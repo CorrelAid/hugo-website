@@ -51,10 +51,12 @@ This talk touches on how we have used different open, not-so-open, open-but-impr
 
 Marcus is a Ph.D. student working in data analysis of smart meter data with applications in forecasting and clustering. He leads the working group Smart Energy Systems of the DAI-Lab at the TU Berlin that researches how AI, Machine Learning, and data-driven approaches can support the energy transition and digitization of the energy system.
 
-### Talk by Jasmin
+### Analyzing bike sharing demand and its driving factors in Hamburg with R
+For a bikesharing system to be successful, reliable availability of bikes and well-placed stations are key. This can only be achieved if the demand for shared bikes across a city is known.
+The amount of available open data about bikeshare usage has grown in the last years which offers many possibilities to analyze said demands. In a seminar paper for computational social science I therefore used [data](https://data.deutschebahn.com/dataset/data-call-a-bike) about "Call A Bike Hamburg" published by Deutsche Bahn AG to evaluate different factors driving trips across the city. I'll give an overview over how to prepare bike trip data for analysis, what model to use for predictions and how to use openstreetmap to create interesting features like intersections or points of interest within a certain area or shortest routes between coordinates. My goal is to show you the potential that bikesharing data has and fun ways to work with spatial data in R.
 
 **About Jasmin:**
-
+Jasmin studies in the Master’s program Social and Economic Data Science at the University of Konstanz, after a Bachelor’s degree in Sociology. She is a member of CorrelAid since its Meetup in 2017 and takes care of Education & Knowledge Management at CorrelAid. She also hosts our podcast “CorrelTalk – the CorrelAid Podcast”. 
 
 ## Registration 
 Please register on [Eventbrite](https://www.eventbrite.com/e/open-online-data-meetup-vol-6-mobility-data-tickets-130394490431). Once you've registered, you'll find the Zoom link there.
