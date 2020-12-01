@@ -84,7 +84,7 @@ The team developed the project topic, with carefully preselected data that was e
 
 **CorrelAidX Munich**: The [“Munich datenguide project“](https://github.com/CorrelAid/correlaidx-challenge-munich) creates an interface to the statistics provided by the local authorities in Germany. In order to make the data more accessible to the general public, the team built a chatbot, which utilizes the datenguide API and specifically answers the user questions and renders visualizations about diverse topics in Bavaria.
 
-The team used a very innovative approach by setting up a chatbot with a very appealing interface, even using an external service. Probs to Pia B, Jie Bao, Daniel and Michael Matiu.
+The team used a very innovative approach by setting up a chatbot with a very appealing interface, even using an external service. Probs to Pia B, Jie Bao, Daniel, Florian and Michael.
 
 {{< image 
     image="509-correlaidx-challenge-munich1.png"

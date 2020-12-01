@@ -35,7 +35,7 @@ Sebastian ist Senior Data Scientist und Tech-Evangelist bei Blue Yonder. Ihr kö
     subline="CorrelAidX Karlsruhe"
     img="/images/people/aniruddh.png"
     data-email="karlsruhe@correlaid.org"
-    data-to="Hamburg (CorrelAidX Karlsruhe)"
+    data-to="Karlsruhe (CorrelAidX Karlsruhe)"
     link-color="ca-red-text"
     x="1"
 >}}
