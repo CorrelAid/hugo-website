@@ -5,6 +5,7 @@ newsletter: "You want to know more about CorrelAidX Cologne? Sign up for our New
 menu: 
     correlaidx:
         weight: 5
+translationKey: "cologne"
 meta:
     title: "CorrelAidX - Cologne"
     description: "You want to get to know Data-for-good analysts around you and use data for social good? In this case, you are interested in CorrelAidX!"

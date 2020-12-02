@@ -5,6 +5,7 @@ newsletter: "Du willst mehr über CorrelAidX Köln erfahren? Dann abonniere unse
 menu: 
     correlaidx:
         weight: 5
+translationKey: "cologne"
 meta:
     title: "CorrelAidX - Köln"
     description: "Du möchtest Data-for-Good-Analyst*innen aus deiner Region kennenlernen und zusammen Daten für den guten Zweck nutzen? Mit CorrelAidX bringen wir Data for Good in deine Stadt!"
