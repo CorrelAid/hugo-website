@@ -5,7 +5,6 @@ correlaidx: false
 eventDate: "2021-01-04"
 eventTime: "7:00 PM – 8:00 PM CET"
 eventRegistration: https://www.eventbrite.de/e/open-onboarding-call-tickets-129284261707
-tags: ["oodm"]
 languages: 
     - english
 ---
