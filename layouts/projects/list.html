@@ -18,7 +18,7 @@
             <h1>{{ i18n "projects-past" }}</h1>
 
             <div class="row">
-                {{ $projects := getJSON "https://correlaid.github.io/projects/projects.json" }}
+                {{ $projects := getJSON "https://raw.githubusercontent.com/CorrelAid/projectsdb/main/projects.json" }}
                 {{ range $projects }}
                     {{ if eq .published true }}
                         <div class="col-12 col-md-6">

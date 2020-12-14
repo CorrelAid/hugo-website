@@ -13,11 +13,10 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
+The Local Chapter Mannheim was founded with a kick-off event at the University of Mannheim in the fall of 2017. Since then, we have held introductory workshops on R and Python for students, worked together with student initiatives at the university of Mannheim and hosted a panel discussion on risks and benefits of open data in the government context. With these events, we hope to make CorrelAid Mannheim a relevant voice in the space of Data for Good in the Rhein-Neckar region. Furthermore, we worked together with Non-Profit Organizations in local projects to help them gain new insights into their work using their own data.
+If you want to help us with this, you can subscribe to our [newsletter](https://kutt.it/correlaidnewsletter), send us an email at [mannheim@correlaid.org](mailto:mannheim@correlaid.org) and join the discussion in our slack.
 
-The local Chapter Mannheim exists since fall 2017. To get our vision of CorrelAid out to the students of Mannheim university, we organized our kick-off event as a panel discussion with Johannes, founder of CorrelAid, Open data expert Oliver Rack, Prof. Thomas Gschwend and Malte Schierholz, both from the Social Science Faculty of the University. Together with 80 interested students, we discussed the emerging relevance of data in society and the possibility for each and everyone to get involved here.
-
-In the following weeks, we held two introductory workshops into R, as well as one to Python to give students an insight onto open source programming languages. We also planned more panel discussions on risks and benefits of open data in the goverment context and worked together with student initiatives to help associations to be better structurally prepared for the digital age.
-In the long run, we hope to make CorrelAid Mannheim a relevant and important voice in the Rhein-Neckar region.
+Do you represent a Non-Profit organization in the Rhein-Neckar region and are interested in working with us? Send us an e-mail at [mannheim@correlaid.org](mailto:mannheim@correlaid.org).
 
 {{< person 
     name="Konstantin"

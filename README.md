@@ -60,7 +60,8 @@ Hugo provides a development server that enables _hot-reload_. The folder is watc
 ## 3. Deployment
 
 1. Commit your changes to GitHub. If you're not an admin, you cannot push to the `main` branch, so please create a branch for your changes and then open a pull request. 
-2. After someone has reviewed your changes and approved them, they'll be merged to `main` and automatically deployed by Netlify.
+2. Pull requests to the `main` branched are built into a _deploy preview_ by Netlify. You will see this in the PR status checks. If you click on "Details" for the last status check (it should say something like "Deploy preview ready!"), you'll be taken to the deploy preview.
+3. After someone has reviewed your changes and approved them, they'll be merged to `main` and automatically deployed to our FTP server by [buddy.works](buddy.works). You can check the status of this deployment by looking at the badge in the README.
 
 ## 4. Add content
 
@@ -76,4 +77,4 @@ Hugo provides a development server that enables _hot-reload_. The folder is watc
 
 ### 4.2 Using images
 
-Every image that is used for a block entry or news has the size **800px\*500px**.
+Every image that is used for a blog entry has the size **800px\*500px**.
