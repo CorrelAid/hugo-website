@@ -2,7 +2,7 @@
 <div class="container">
     <div class="row">
         {{ $lang := $.Site.Language.Lang }}
-        {{ $projects := getJSON "https://correlaid.github.io/projects/projects.json" }}
+        {{ $projects := getJSON "https://raw.githubusercontent.com/CorrelAid/projectsdb/main/projects.json" }}
         {{ $id := .Params.project_id_path }}
         <div class="col-12 my-5">
             {{ range where $projects "project_id_path" "==" $id }}
@@ -40,20 +40,23 @@
                 <p>{{ $content.impact | markdownify }}</p>
                 {{ end }}
                 
-                <h1 class="ca-blue-text">Links</h1>
+                {{ if len .links | gt 1 }}
 
-                {{ if eq .repo.public true }}
-                <p class="lead">
-                    <i class="fab fa-github"></i>
-                    <a href="{{ .repo.url }}">Git Repository</a>
-                </p>
-                {{ end }}
-
-                {{ range (index .links $lang )  }}
+                    <h1 class="ca-blue-text">Links</h1>
+                    
+                    {{ if eq .repo.public true }}
                     <p class="lead">
-                        <i class="fas fa-external-link-alt"></i>
-                        {{ . | markdownify }}
+                        <i class="fab fa-github"></i>
+                        <a href="{{ .repo.url }}">Git Repository</a>
                     </p>
+                    {{ end }}
+
+                    {{ range (index .links $lang )  }}
+                        <p class="lead">
+                            <i class="fas fa-external-link-alt"></i>
+                            {{ . | markdownify }}
+                        </p>
+                    {{ end }}
                 {{ end }}
 
                 {{ partial "project_team.html" . }}
