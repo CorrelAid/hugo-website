@@ -360,6 +360,14 @@ i.caveat {
     border-right: 10px solid #92de3f;
 }
 
+.ca-video-container {
+    position: relative; 
+    margin: 3rem 5% 3rem 5%;
+    padding-bottom: 56.25%; 
+    height: 0; 
+    overflow: hidden;
+}
+
 /* =============== DIV GRADIENT BORDER =============== */
 .ca-gradient-container {
     display: block;

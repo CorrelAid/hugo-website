@@ -21,11 +21,10 @@ If you want to participate or get in contact with us, just write us an e-mail to
 
 This video gives a little impression on our CorrelAid X Berlin activites in 2020: 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/PZM-sYdAlyA?start=115" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"  title="Pecha Kucha CorrelAid X Berlin YouTube Video"></iframe>
-</div>
-
-<br>
+{{< video
+    video_url = "https://www.youtube.com/embed/PZM-sYdAlyA?start=115"
+    title = "Pecha Kucha CorrelAid X Berlin YouTube Video"
+>}}
 
 [DSSG Berlin](https://dssg-berlin.org/) is another wonderful organization for Data Science For Social Good in Berlin with whom we work closely.
 
