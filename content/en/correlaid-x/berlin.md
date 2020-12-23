@@ -19,7 +19,7 @@ We also organize MeetUps like the [Data Dialogue](https://www.meetup.com/de-DE/C
 If you want to participate or get in contact with us, just write us an e-mail to berlin@correlaid.org!
 
 
-This video gives a little impression on our CorrelAid X Berlin activites in 2020: 
+This video (~ 6.5 mins) gives a little impression on our CorrelAid X Berlin activites in 2020: 
 
 {{< video
     video_url = "https://www.youtube.com/embed/PZM-sYdAlyA?start=115"

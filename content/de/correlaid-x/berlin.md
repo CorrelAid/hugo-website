@@ -20,7 +20,7 @@ In größeren Abständen organisieren wir auch MeetUps wie einen [Datendialog](h
 
 Wenn ihr mitmachen wollt oder mit uns in Kontakt kommen, schreibt uns einfach eine E-Mail an berlin@correlaid.org!
 
-Dieses Video gibt dir einen kleinen Eindruck, was wir 2020 gemacht haben bei CorrelAidX Berlin:
+Dieses Video (ca. 6,5 Minuten) gibt dir einen kleinen Eindruck, was wir 2020 bei CorrelAidX Berlin gemacht haben:
 
 {{< video
     video_url = "https://www.youtube.com/embed/PZM-sYdAlyA?start=115"
