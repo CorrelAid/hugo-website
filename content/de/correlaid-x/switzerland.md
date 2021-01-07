@@ -13,7 +13,7 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
-Die Schweiz! Heimat von Schokolade, Fondue und Datenwissenschaft! Seit 2017 stellt ein Netzwerk von in der Schweiz ansässigen Datenwissenschaftlerinnen und Datenwissenschaftler seine Fähigkeiten und Zeit für den guten Zweck zur Verfügung. Ende 2020 haben wir uns mit CorrelAid zusammengeschlossen, und CorrelAid Switzerland gegründet.
+Die Schweiz! Heimat der Schokolade, des Fondues und der Datenwissenschaften! Seit 2017 stellt ein Netzwerk von in der Schweiz ansässigen Datenwissenschaftlerinnen und Datenwissenschaftler seine Fähigkeiten und Zeit für den guten Zweck zur Verfügung. Ende 2020 haben wir uns mit CorrelAid zusammengeschlossen, und CorrelAid Switzerland gegründet.
  
 Wir arbeiten mit Non-Profit-Organisationen und Organisationen des sozialen Sektors zusammen, und helfen diesen dabei ihre Daten gezielt zu nutzen und damit ihre eigene Wirkung zu steigern. Unser Netzwerk umfasst Datenwissenschaftlerinnen und Datenwissenschaftler mit breit gefächerter Erfahrung, von Studierenden bis hin zu erfahrenen Berufstätigen. Zusätzlich zu den Datenanalyse-Projekten bieten wir Bildungsveranstaltungen, soziale Meetups und Hackathons an.
  
