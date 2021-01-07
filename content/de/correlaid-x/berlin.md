@@ -20,6 +20,13 @@ In größeren Abständen organisieren wir auch MeetUps wie einen [Datendialog](h
 
 Wenn ihr mitmachen wollt oder mit uns in Kontakt kommen, schreibt uns einfach eine E-Mail an berlin@correlaid.org!
 
+Dieses Video (ca. 6,5 Minuten) gibt dir einen kleinen Eindruck, was wir 2020 bei CorrelAidX Berlin gemacht haben:
+
+{{< video
+    video_url = "https://www.youtube.com/embed/PZM-sYdAlyA?start=115"
+    title = "Pecha Kucha CorrelAid X Berlin YouTube Video"
+>}}
+
 [DSSG Berlin](https://dssg-berlin.org/) ist eine weitere wunderbare Organisation für Data Science For Social Good in Berlin mit denen wir eng zusammenarbeiten.
 
 
