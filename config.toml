@@ -1,7 +1,7 @@
 baseURL                 = "https://correlaid.org/"
 
 DefaultContentLanguage  = "en"
-DefaultContentLanguageInSubdir = true
+DefaultContentLanguageInSubdir = false
 
 PygmentsCodeFences      = true
 PygmentsStyle           = "friendly"
@@ -15,6 +15,16 @@ enableEmoji             = true
     mailinglist_npos = "https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=175fade988"
     
 [Languages]
+# duplicate en settings to both get correlaid.org/en/projects and correlaid.org/projects 
+# see https://discourse.gohugo.io/t/default-language-in-both-root-and-subfolders/17531/3
+[Languages.en2]
+    contentDir      = "content/en"
+    title           = "CorrelAid"
+    weight          = 0
+    languageName    = "English"
+    [Languages.en2.params]
+        [Languages.en2.params.navigation]
+            about   = "About"
 [Languages.en]
     contentDir      = "content/en"
     title           = "CorrelAid"
@@ -23,7 +33,6 @@ enableEmoji             = true
     [Languages.en.params]
         [Languages.en.params.navigation]
             about   = "About"
-
 [Languages.de]
     contentDir      = "content/de"
     title           = "CorrelAid"
