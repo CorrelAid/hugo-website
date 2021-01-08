@@ -39,7 +39,7 @@ If you are interested in starting a local chapter yourself, or if you want to kn
 
 {{< button 
     btn-class="btn-dark"
-    href="/en/correlaid-x"
+    href="/en/correlaid-x/"
     justify="center"
 >}}
 Learn more about CorrelAidX!

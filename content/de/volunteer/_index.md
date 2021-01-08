@@ -39,7 +39,7 @@ Wenn du ein eigenes Chapter gründen möchtest, oder wenn du wissen möchtest, o
 
 {{< button 
     btn-class="btn-dark"
-    href="/de/correlaid-x"
+    href="/de/correlaid-x/"
     justify="center"
 >}}
 Erfahre mehr zu CorrelAidX!
