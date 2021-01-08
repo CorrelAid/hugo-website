@@ -1,7 +1,10 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2c8e5dc8-1df6-4b21-bfdb-77af3b1d525a/deploy-status)](https://app.netlify.com/sites/jolly-boyd-ddf9b1/deploys) [![buddy pipeline](https://app.buddy.works/correlaid/hugo-website/pipelines/pipeline/278548/badge.svg?token=6a0bb1686911e5f7ac4a49c400da307388ecd3dfa40e8f56bd2ed996ace28902 "buddy pipeline")](https://app.buddy.works/correlaid/hugo-website/pipelines/pipeline/278548) [![buddy pipeline](https://app.buddy.works/correlaid/hugo-website/pipelines/pipeline/277663/badge.svg?token=6a0bb1686911e5f7ac4a49c400da307388ecd3dfa40e8f56bd2ed996ace28902 "buddy pipeline")](https://app.buddy.works/correlaid/hugo-website/pipelines/pipeline/277663)
 
-# CorrelAid Hugo Website
+# License 
 
+Please note that the MIT license does not apply to all the files shared in this repository. See LICENSE.md and LICENSE-images.md for details.
+
+# CorrelAid Hugo Website
 1. [Installation](#1-installation)
 2. [Development](#2-development)
 3. [Deployment](#3-deployment)
