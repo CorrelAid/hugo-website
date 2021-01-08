@@ -1,7 +1,6 @@
 ---
 title: "Für Volunteers"
 date: 2020-05-11T22:01:56+02:00
-draft: true
 menu:
   main:
     weight: 200
@@ -39,7 +38,7 @@ Wenn du ein eigenes Chapter gründen möchtest, oder wenn du wissen möchtest, o
 
 {{< button 
     btn-class="btn-dark"
-    href="/de/correlaid-x"
+    href="/de/correlaid-x/"
     justify="center"
 >}}
 Erfahre mehr zu CorrelAidX!
