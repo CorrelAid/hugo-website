@@ -2,7 +2,7 @@
 
 # License 
 
-Please note that the MIT license does not apply to all the files shared in this repository. See LICENSE.md and LICENSE-images.md for details.
+Please note that the MIT license does not apply to all the files shared in this repository. See [LICENSE.md](https://github.com/CorrelAid/hugo-website/blob/main/LICENSE) and [LICENSE-images.md](https://github.com/CorrelAid/hugo-website/blob/main/LICENSE-images.md) for details.
 
 # CorrelAid Hugo Website
 1. [Installation](#1-installation)
