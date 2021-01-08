@@ -1,9 +1,15 @@
 {{ define "main" }}
+{{ $lang := .Site.Language.Lang }}
 <div class="container">
     <div class="row">
         <div class="col-12 mt-5 mb-2">
             {{ .Content }}
         </div>
+    </div>
+        <div>
+            <iframe width="100%" height="600" name="iframe" src="/html/map_{{ $lang }}.html"></iframe>
+        </div>
+    <div class="row">
         <div class="col-12 mb-5">
             <h2>Lokalgruppen</h2>
             <div class="row">
