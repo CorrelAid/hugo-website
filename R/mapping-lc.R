@@ -42,7 +42,7 @@ get_data <- function(base_url) {
 # Plotting with leaflet (clustering)
 cax_leaflet_map <- function(data) {
   leaflet(data) %>%
-    addTiles() %>%
+    addProviderTiles(providers$CartoDB.Positron) %>%
     addMarkers(icon = correlaidxicon,
                label = ~as.character(name),
                popup = ~(content))

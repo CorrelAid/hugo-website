@@ -16,7 +16,6 @@ Du möchtest Data-for-good-Analyst:innen in deiner Umgebung kennenlernen und Dat
 
 Im Rahmen unseres Lokalgruppenkonzepts stellen wir dir die digitale Infrastruktur, Unterstützung, Erfahrung und einen Werkzeugkoffer zur Verfügung, damit du dein eigenes CorrelAid Local Chapter in deiner Region starten kannst. In eigenen Workshops, Datendialogen oder lokale Projekten mit NPOs setzt du zusammen mit anderen Datenanalyst:innen in deiner Umgebung unsere Vision von Data4Good auf lokaler Ebene um. Dabei spielt es keine Rolle, ob du ein langfristiges Projekt starten willst oder nur Hilfe bei der Organisation einer einzelnen Veranstaltung benötigst, ob du ein:e erfahrene:r Datenanalyst:in bist oder deine ganze Gruppe neu in Data Science ist. Hier sind einige Veranstaltungsformate, die bereits von CorrelAid-Lokalgruppen in verschiedenen Städten durchgeführt wurden:
 
-Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
 1. OpenSpace-Data-Workshop
 2. Datendialog
 3. Lokale Data4Good Projekte
