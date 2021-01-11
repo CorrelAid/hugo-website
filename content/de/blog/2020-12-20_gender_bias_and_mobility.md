@@ -12,7 +12,7 @@ categories:
 author: 
     name:           "Alexandra, Liam & Marcus"
     image:          "alex_liam.jpg"
-    description:    "[Alexandra](https://twitter.com/lxndrkp), [Liam](https://twitter.com/ldbailey255) and Marcus are part of the local chapter CorrelAid X Berlin. Alexandra is a data analyst in mobility and has been with CorrelAid since 2018. Liam is an ecologist evolving into a data scientist. He's been a member of CorrelAid since late 2019 and using agent based modelling to study large African carnivores in the rest of my time. Marcus ... "
+    description:    "[Alexandra](https://twitter.com/lxndrkp), [Liam](https://twitter.com/ldbailey255) and [Marcus](https://www.linkedin.com/in/marcus-vo%C3%9F-5b6944ba/) are part of the local chapter CorrelAid X Berlin. Alexandra is a data analyst in mobility and has been with CorrelAid since 2018. Liam is an ecologist evolving into a data scientist. He's been a member of CorrelAid since late 2019 and using agent based modelling to study large African carnivores in the rest of my time. Marcus is a Ph.D. student interested in applying machine learning and artificial intelligence in general to support the energy transition. "
     twitter:        "https://twitter.com/correlaid"
     facebook:       "https://facebook.com/WeAreCorrelAid"
     github:         "https://github.com/correlaid"
