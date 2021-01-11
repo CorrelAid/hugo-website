@@ -102,22 +102,13 @@ Average trip counts across all ages only differ very slightly (2.7 trips for wom
 
 46 % of trips done by women in the age between 25 and 55 are for care purposes / running errands [^3] while for men it’s only 30 %. While the absolute amount of work trips are fairly similar, it only makes up 40% of trips by women compared to 56% by men. 
 
-Mens' absolute trip counts by purpose:
+Mens' and Women' absolute trip counts by purpose:
 
 
 {{< image-subtitle
-    image="20201220_gender_mobility_motive_m.png"
+    image="20201220_gender_mobility_motive.png"
 >}}
     Figure 4: xxxx
-{{< /image-subtitle >}}
-
-Womens’ absolute trip counts by purpose:
-
-{{< image-subtitle
-       image="20201220_gender_mobility_motive_w.png"
-
->}}
-    Figure 5: xxxx
 {{< /image-subtitle >}}
 
 
@@ -133,7 +124,7 @@ Speed difference corrected for travel time: There is a slight significant differ
 {{< image-subtitle
     image="20201220_gender_mobility_speed.png"
 >}}
-    Figure 6: xxxx
+    Figure 5: xxxx
 {{< /image-subtitle >}}
 
 
