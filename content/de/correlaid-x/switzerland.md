@@ -15,9 +15,9 @@ meta:
 
 Die Schweiz! Heimat der Schokolade, des Fondues und der Datenwissenschaften! Seit 2017 stellt ein Netzwerk von in der Schweiz ansässigen Datenwissenschaftlerinnen und Datenwissenschaftler seine Fähigkeiten und Zeit für den guten Zweck zur Verfügung. Ende 2020 haben wir uns mit CorrelAid zusammengeschlossen, und CorrelAid Switzerland gegründet.
  
-Wir arbeiten mit Non-Profit-Organisationen und Organisationen des sozialen Sektors zusammen, und helfen diesen dabei ihre Daten gezielt zu nutzen und damit ihre eigene Wirkung zu steigern. Unser Netzwerk umfasst Datenwissenschaftlerinnen und Datenwissenschaftler mit breit gefächerter Erfahrung, von Studierenden bis hin zu erfahrenen Berufstätigen. Zusätzlich zu den Datenanalyse-Projekten bieten wir Bildungsveranstaltungen, soziale Meetups und Hackathons an.
+Wir arbeiten mit Non-Profit-Organisationen und Organisationen des sozialen Sektors zusammen und helfen diesen dabei, ihre Daten gezielt zu nutzen und damit ihre eigene Wirkung zu steigern. Unser Netzwerk umfasst Datenwissenschaftlerinnen und Datenwissenschaftler mit breit gefächerter Erfahrung, von Studierenden bis hin zu erfahrenen Berufstätigen. Zusätzlich zu den Datenanalyse-Projekten bieten wir Bildungsveranstaltungen, soziale Meetups und Hackathons an.
  
-CorrelAid Switzerland bietet gemeinnützigen Organisationen, die sich dafür einsetzen, die Welt zu einem besseren Ort zu machen,  pro bono datenanalytische Beratung an, mit dem expliziten Ziel, diese Dienstleistungen nachhaltig und langfristige zum implementieren und zu warten.
+CorrelAid Switzerland bietet gemeinnützigen Organisationen, die sich dafür einsetzen, die Welt zu einem besseren Ort zu machen, pro bono datenanalytische Beratung an, mit dem expliziten Ziel, diese Dienstleistungen nachhaltig und langfristig zum implementieren und zu warten.
  
 Wir erweitern derzeit unser Organisationsteam und sind immer auf der Suche nach Menschen, die Lust haben uns beim weiteren Aufbau zu unterstützen! Nehmt Kontakt mit uns auf, wenn ihr mitmachen möchtet.
  
