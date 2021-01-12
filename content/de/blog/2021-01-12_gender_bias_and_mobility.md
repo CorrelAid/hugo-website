@@ -1,9 +1,9 @@
 ---
 title: "Gender differences in mobility patterns - an analysis on the example of Madrid"
-date:       2020-12-19T00:00:00+02:00
+date:       2021-01-12T00:00:00+02:00
 image:      "gender_mobility_header.jpg"
 slug:       "gender_bias_and_mobility"
-summary: "Data analysis can be gender biased. This article explores how and how this applies to mobility. We analyzed open mobility data of Madrid to identify differences in mobility behaviour between men and women."
+summary: "Data analysis can be gender biased. This article explores how this applies to mobility. We analyzed open mobility data of Madrid to identify differences in mobility behaviour between men and women."
 draft:      false
 categories:       
     - CorrelAidX
@@ -11,7 +11,7 @@ categories:
     - internal project
 author: 
     name: "Alexandra, Liam & Marcus"
-    image:          "alex_liam.jpg"
+    image:          "alex_liam_marcus.jpg"
     description:    "[Alexandra](https://twitter.com/lxndrkp), [Liam](https://twitter.com/ldbailey255) and [Marcus](https://www.linkedin.com/in/marcus-vo%C3%9F-5b6944ba/) are part of the local chapter CorrelAid X Berlin. Alexandra is a data analyst in mobility and has been with CorrelAid since 2018. Liam is an ecologist evolving into a data scientist. He's been a member of CorrelAid since late 2019 and using agent-based modelling to study large African carnivores in the rest of my time. Marcus is a PhD student interested in applying machine learning and artificial intelligence to support the energy transition. "
     twitter: "https://twitter.com/correlaid"
     facebook: "https://facebook.com/WeAreCorrelAid"
@@ -32,7 +32,7 @@ Having no (or not enough) data about women isn't the only issue: If there is dat
 
 ## Mobility: an issue of gender bias
 
-### Women trip chain, men, take the car to work during rush hour
+**Women trip chain, men take the car to work during rush hour**
 
 Is mobility gender biased? And if so, how? In most western cultures, women are still responsible for the majority of care work. Bringing children to school, going grocery shopping and taking care of elderly parents. Bias in the distribution of care work also leads to different mobility behaviour: Women do more trip chaining, with many, shorter trips, and greater use of public transport - especially buses. In comparison, a typical "male trip" involves long car trips to and from work during rush hour. This difference in mobility behaviour is reflected in city design and public transport networks, which is usually mainly designed by men with a focus on work-related and rush hour traffic - traffic that is considered to be most important. Connections optimized for the typical male "workforce" with fast connections from residential areas to the city centre, where most offices are located, and poor connections for short trips to kindergartens, schools, supermarkets, and tangential lines to neighbouring residential areas (Sánchez de Madariaga[^2]). This topic is not new to researchers (see, e.g. [the work of Prof. Inés Sánchez de Madariaga](https://unhabitat.org/mobility-of-care-ines-sanchez-de-madariaga)) but in recent years there has come more and more attention to it (e.g. [this publication by the GIZ](https://womenmobilize.org/wp-content/uploads/2020/02/iNUA-Paper.Gender-and-Urban-Transport-min.pdf) or in [this publication by CIVITAS](https://civitas.eu/sites/default/files/civ_pol-an2_m_web.pdf)).
 
@@ -60,80 +60,82 @@ Short answer: yes. Our results show clear evidence of differing mobility behavio
 men: 6.4 km for women compared to 7.9 km for men.**
 
 
-{{< image-subtitle
+{{< image-no-border
     image="20201220_gender_mobility_dist.png"
 >}}
-Figure 1: xxxx
-{{< /image-subtitle >}}
+{{< /image-no-border >}}
 
 
 **Women rely on public transport and walking more than men.**
 
 Men drive the car for 44% of their trips while women only use it for 35% of their trips. Instead, they walk or use public transport more often than men.
 
-{{< image-subtitle
+{{< image-no-border
     image="20201220_gender_mobility_modalsplit.png"
->}}
-Figure 2: xxxx
-{{< /image-subtitle >}}
+>}} 
+{{< /image-no-border >}}
 
 *2. Do we find additional differences with an exploratory analysis?*
 
 Digging further into the data, we found several other interesting gender differences in mobility behaviour.
-**The evening rush hour peak is earlier for working women than men.**
+
+**The evening rush hour peak is earlier for working women than working men.**
 
 While working men and women show similar travel patterns in the morning, working women show an earlier travel peak in the evening (~3 p.m. compared to ~6 p.m.). This is likely due to the larger share of women working part-time, about 25% of women but only 6% of men in Spain (data from 2011,  [European social statistics 2013](https://ec.europa.eu/eurostat/documents/3930297/5968986/KS-FP-13-001-EN.PDF/6952d836-7125-4ff5-a153-6ab1778bd4da)). This may also reflect the added burden of unpaid work that women have to balance (e.g. picking up children from school).
 
 
-{{< image-subtitle
+{{< image-no-border
     image="20201220_gender_mobility_rushhour.png"
 >}}
-    Figure 3: xxxx
-{{< /image-subtitle >}}
+{{< /image-no-border >}}
 
 **Women between 25 and 55 make more trips on average than men.**
+
 Average trip counts across all ages only differ very slightly (2.7 trips for women vs. 2.6 trips for men), but if the data are additionally age-disgregated, we see that working-age women (25 to 55) have more trips than men in the same age group. Interestingly, this pattern then flips for people + 55 years. What could explain this pattern?
 
-{{< image-subtitle
+{{< image-no-border
     image="20201220_gender_mobility_tripcount.png"
 >}}
-    Figure 3: xxxx
-{{< /image-subtitle >}}
+{{< /image-no-border >}}
 
 46 % of trips done by women in the age between 25 and 55 are for care purposes / running errands [^3] while for men, it's only 30 %. While the absolute amount of work trips are fairly similar, it only makes up 40% of trips by women compared to 56% by men. 
 
-Mens' and Women' absolute trip counts by purpose:
+Mens' and womens' absolute trip counts by purpose:
 
 
-{{< image-subtitle
+{{< image-no-border
     image="20201220_gender_mobility_motive.png"
 >}}
-    Figure 4: xxxx
-{{< /image-subtitle >}}
+{{< /image-no-border >}}
 
 
 Women older than 25 make significantly more care trips compared to men. Especially for men, the leisure trips peak once they retire. Together with the decreasing care trips of women, the average trip count flips.
 
 *3. Can we find evidence that the existing street and public transport network is not accounting as much for female needs as it is for male needs?*
 
-We now know that women and men in Madrid show differing travel patterns, but how well are these different patterns supported by the city's characteristics, such as street or public transport networks? To investigate this, we analyzed the travel speed of men and women using different modes of transport, using the straight-line distance and start and end time of each trip reported by participants. From the data, we see that across all trips, women move slower on average than men (11.6 km/h to 13.5km/h). Of course, the speed varies with the mode of transport - a car is faster than a bus is faster than walking. But even if we take a look at the single modes the difference remains: On public transport women move 11.3 km/h on average while men move 12.4 km/h. The average speed for car trips is 21.9 km/h for men and 19.7 km/h for women. This suggests that transport networks are better suited for male travel behaviour than for that of women. But we need to be careful with this interpretation! We should take into account that longer trips, like those taken by men as we see in Figure 6, can usually be done at faster speeds. Taking the subway four stops does not take twice as long as taking it two stops, as the time it takes to walk to and from the station and wait for the subway does not change. The same is true for cars, where the time to walk to the car and find a parking spot is unrelated to the distance travelled. Indeed we see a strong positive correlation between trip speed and distance in both public transport trips (0.70) and car trips (0.75). 
+We now know that women and men in Madrid show differing travel patterns, but how well are these different patterns supported by the city's characteristics, such as street or public transport networks? To investigate this, we analyzed the travel speed of men and women using different modes of transport, using the straight-line distance and start and end time of each trip reported by participants. From the data, we see that across all trips, **women move slower on average than men (11.6 km/h to 13.5km/h).** 
 
-Once we account for distance, we can better estimate how travel speed may differ for men and women across Madrid. Unsurprisingly, we see that men and women walking show similar speeds (~2.8km/h). Similarly, we found that men and women travelling by car have little difference in speed when travelling the same distance (23.5 km/h for males and 23.6 km/h for females). However, women travelling on public transport showed slightly slower travel speeds (13.0 km/h for males 12.7 km/h for females). Large sample sizes, as we have in this survey, can easily produce significant results from very slight differences, but are these differences actually meaningful? The answer to this question does not lie within the statistics but is a matter of interpretation. In our view, this difference is not large enough to support a strong gendered effect of city planning or public transport design for commuters in Madrid. Digging deeper into the data might reveal disadvantaged subgroups, in a similar way that age disaggregation revealed clear patterns in trip count data, though this is purely speculative. 
-Speed difference corrected for travel time: There is a slightly significant difference for men in women in public transport speed - but significant does not necessarily mean meaningful.
+**Of course, the speed varies with the mode of transport** - a car is faster than a bus is faster than walking. But even if we take a look at the single modes the difference remains: **On public transport women move 11.3 km/h on average while men move 12.4 km/h. The average speed for car trips is 21.9 km/h for men and 19.7 km/h for women.** This suggests that transport networks are better suited for male travel behaviour than for that of women. 
+But we need to be careful with this interpretation! We should take into account that longer trips, like those taken by men as we see in the first figure, can usually be done at faster speeds. Taking the subway four stops does not take twice as long as taking it two stops, as the time it takes to walk to and from the station and wait for the subway does not change. The same is true for cars, where the time to walk to the car and find a parking spot is unrelated to the distance travelled. **Indeed we see a strong positive correlation between trip speed and distance in both public transport trips (0.70) and car trips (0.75)**. 
 
-{{< image-subtitle
+Once we account for distance, we can better estimate how travel speed may differ for men and women across Madrid. Unsurprisingly, we see that men and women walking show similar speeds (~2.8km/h). Similarly, we found that men and women travelling by car have little difference in speed when travelling the same distance (23.5 km/h for males and 23.6 km/h for females). 
+
+**However, women travelling on public transport showed slightly slower travel speeds (13.0 km/h for males 12.7 km/h for females)**. Large sample sizes, as we have in this survey, can easily produce significant results from very slight differences, but are these differences actually meaningful? The answer to this question does not lie within the statistics but is a matter of interpretation. **In our view, this difference is not large enough** to support a strong gendered effect of city planning or public transport design for commuters in Madrid. Digging deeper into the data might reveal disadvantaged subgroups, in a similar way that age disaggregation revealed clear patterns in trip count data, though this is purely speculative. 
+
+{{< image-no-border
     image="20201220_gender_mobility_speed.png"
 >}}
-    Figure 5: xxxx
-{{< /image-subtitle >}}
+{{< /image-no-border >}}
 
 
 Another indicator for poorer public transport service is the amount of transfers needed for the trip. The hypothesis being: if the public transport network is less suited for the needs of women, women will need more transfers on average than men, as fewer lines connect their origin and destinations directly. This hypothesis does not hold for Madrid as both, men and women, need on average 1.62 transfers. 
 
+**No strong evidence for gender differences in speed or legs were found.**
+
 ### Conclusion of Analysis: 
 
 We can find the predicted differences between genders in the Madrid data set, but we cannot find meaningful differences in terms of speed and amount of transfers.
-From our analyses, we cannot infer a disadvantage for women, which is as a positive result for the Madrid public transport. Yet, we do not claim to have checked all possible disadvantages, e.g. the frequency of connections, or public transport alternatives for routes the car was used for - would the public transport offer a similar suited option for men and women if they were to switch from car to public transport? 
+**From our analyses, we cannot infer a disadvantage for women, which is as a positive result for the Madrid public transport. Yet, we do not claim to have checked all possible disadvantages**, e.g. the frequency of connections, or public transport alternatives for routes the car was used for - would the public transport offer a similar suited option for men and women if they were to switch from car to public transport? 
 Also, additional factors are relevant for gender equitable infrastructure which has not been considered, including price policy (e.g. pay for distance vs. the amount of trips), quality of streets (e.g. as women walk more, likely with strollers or elderly people, so the quality of the pavement is more relevant) or the safety and comfort (e.g. on dark streets or stations).
 At this point, we would also like to mention that none of us from the team has any domain or expert knowledge on Madrid or Spain, which also limits our ability to draw conclusions.
 
