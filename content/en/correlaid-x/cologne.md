@@ -53,7 +53,7 @@ Florian, just finished my Masters in politcal science. Became addicted to progra
 {{< person 
     name="Maike"
     subline="CorrelAidX Cologne"
-    img="/images/people/placeholder.jpg"
+    img="/images/people/_Maike_koeln.jpg"
     data-email="cologne@correlaid.org"
     data-to="Cologne (CorrelAidX Cologne)"
     link-color="ca-red-text"

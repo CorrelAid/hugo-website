@@ -32,10 +32,21 @@ Spezifischer aktueller Bedarf:
     subline="CorrelAidX Switzerland"
     img="/images/people/dylan.muir.jpg"
     data-email="switzerland@correlaid.org"
-    data-to="Köln (CorrelAidX Switzerland)"
+    data-to="Switzerland (CorrelAidX Switzerland)"
     link-color="ca-red-text"
     x="1"
 >}}
 Nach mehreren Jahren als Wissenschaftler der Neurowissenschaften verließ Dylan die akademische Welt, schloss sich einem Tech-Startup an und gründete eine Data Science for Good Gruppe mit Sitz in Basel. Er hofft, dass CorrelAid Switzerland es ihm ermöglicht, einen positiven Einfluss auf die Welt zu nehmen.
 {{< /person >}}
 
+{{< person 
+    name="Dirk"
+    subline="CorrelAidX Switzerland"
+    img="/images/people/dirk_cropped.png"
+    data-email="switzerland@correlaid.org"
+    data-to="Switzerland (CorrelAidX Switzerland)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Als Forscher an der Universität Basel beschäftigt Dirk sich mit der Kognition und Entscheidungsfindung von Menschen. In seiner Freizeit führt er Data-Science-Schulungen für Akademiker*innen und Berufstätige der Industrie, wie beispielsweise das R Bootcamp, durch und propagiert damit die Vorteile datengesteuerter Entscheidungsfindung.
+{{< /person >}}

@@ -52,7 +52,7 @@ Florian, ich habe gerade meinen Master in Politikmanagement abgeschlossen. An de
 {{< person 
     name="Maike"
     subline="CorrelAidX Köln"
-    img="/images/people/placeholder.jpg"
+    img="/images/people/_Maike_koeln.jpg"
     data-email="cologne@correlaid.org"
     data-to="Köln (CorrelAidX Köln)"
     link-color="ca-red-text"
