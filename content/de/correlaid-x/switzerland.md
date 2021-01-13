@@ -50,4 +50,3 @@ Nach mehreren Jahren als Wissenschaftler der Neurowissenschaften verließ Dylan 
 >}}
 Als Forscher an der Universität Basel beschäftigt Dirk sich mit der Kognition und Entscheidungsfindung von Menschen. In seiner Freizeit führt er Data-Science-Schulungen für Akademiker*innen und Berufstätige der Industrie, wie beispielsweise das R Bootcamp, durch und propagiert damit die Vorteile datengesteuerter Entscheidungsfindung.
 {{< /person >}}
-
