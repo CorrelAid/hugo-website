@@ -1,9 +1,9 @@
 ---
-title: "Gender differences in mobility patterns - an analysis on the example of Madrid"
+title: "Gender differences in mobility patterns - an analysis of Madrid"
 date:       2021-01-12T00:00:00+02:00
 image:      "gender_mobility_header.jpg"
 slug:       "gender_bias_and_mobility"
-summary: "Data analysis can be gender biased. This article explores how this applies to mobility. We analyzed open mobility data of Madrid to identify differences in mobility behaviour between men and women."
+summary: "Data analysis can be gender biased. This article explores how this applies to mobility. We analyzed open mobility data from Madrid to identify differences in mobility behaviour between men and women."
 draft:      false
 categories:       
     - CorrelAidX
@@ -19,14 +19,14 @@ author:
     email: "info@correlaid.org"
     website:        "https://www.correlaid.org/"
 meta:
-    title: "Gender differences in mobility patterns - an analysis on the example of Madrid"
-    description: "Data analysis can be gender biased. This article explores how and how this applies to mobility."
+    title: "Gender differences in mobility patterns - an analysis of Madrid"
+    description: "Data analysis can be gender biased. This article explores how this can occur using mobility data as an example."
     image:          "gender_mobility_header.jpg"
     keywords: "CorrelAidX, Analysis, internal project"
 ---
 ## Data analysis is (gender) biased
 
-Data is not objective truth - despite what we data analysts would like to believe. Analyses reflect the perspective from which they were created. If a team is too uniform in their experiences, then the diverse perspectives of different age groups, genders, or ethnicities are easily forgotten. Such bias is often observed in relation to gender, where most analyses focus on the 'default male' (Invisible Women, Caroline Criado-Perez), leading to serious, even deadly consequences for women[^1]. For example, crash dummies tend to represent the average male size, which is [one of the reasons why women are more likely to be injured or killed in a crash](https://www.consumerreports.org/car-safety/crash-test-bias-how-male-focused-testing-puts-female-drivers-at-risk/). Women are also more likely to be [misdiagnosed when having a heart attack](https://www.leeds.ac.uk/news/article/4269/women_more_at_risk_of_dying_after_a_heart_attack) because studies have mostly been done with male participants, who show very different symptoms to women. There is a growing awareness of this gender bias in data science, with great books written on this issue by [Caroline Criado-Perez](https://www.goodreads.com/book/show/41104077-invisible-women), [Catherine D'Ignazio and Lauren F. Klein](https://www.goodreads.com/book/show/51777543-data-feminism), and [Cathy O'Neil](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction).
+Data is not objective truth - despite what we data analysts would like to believe. Analyses reflect the perspective from which they were created. If a team is too uniform in their experiences, then the diverse perspectives of different age groups, genders, or ethnicities are easily forgotten. Such bias is often observed in relation to gender, where most analyses focus on the 'default male'[^1], leading to serious, even deadly consequences for women[^2]. For example, crash dummies tend to represent the average male size, which is [one of the reasons why women are more likely to be injured or killed in a crash](https://www.consumerreports.org/car-safety/crash-test-bias-how-male-focused-testing-puts-female-drivers-at-risk/). Women are also more likely to be [misdiagnosed when having a heart attack](https://www.leeds.ac.uk/news/article/4269/women_more_at_risk_of_dying_after_a_heart_attack) because studies have mostly been done with male participants, who show very different symptoms to women. There is a growing awareness of this gender bias in data science, with great books written on this issue by Caroline Criado Pérez[^1], Catherine D'Ignazio and Lauren F. Klein[^3], and Cathy O'Neil[^4].
 
 Having no (or not enough) data about women isn't the only issue: If there is data on men and women alike, it's often not gender disaggregated, which is necessary to reveal gender related differences. For example, gender disaggregated data is necessary to understand gender biases in working hours (including both paid and unpaid work): Gender disaggregated data does not exist for all countries, but in almost all countries where it exists, there is a clear trend that women work longer - on average 50 min more each day (see The [Global Gender Gap Report 2016](http://www3.weforum.org/docs/GGGR16/WEF_Global_Gender_Gap_Report_2016.pdf)). Another example where gender disaggregated data is important is the area of mobility behavior, which we want to investigate closer in this blog post.
 
@@ -98,7 +98,7 @@ Average trip counts across all ages only differ very slightly (2.7 trips for wom
 >}}
 {{< /image-no-border >}}
 
-46 % of trips done by women in the age between 25 and 55 are for care purposes / running errands [^3] while for men, it's only 30 %. While the absolute amount of work trips are fairly similar, it only makes up 40% of trips by women compared to 56% by men. 
+46 % of trips done by women in the age between 25 and 55 are for care purposes / running errands [^6] while for men, it's only 30 %. While the absolute amount of work trips are fairly similar, it only makes up 40% of trips by women compared to 56% by men. 
 
 Mens' and womens' absolute trip counts by purpose:
 
@@ -149,8 +149,14 @@ Gender is an obvious factor to keep in mind, but there are many others, such as 
 
 Educating yourself on potential biases is an important step. Next step is to ensure diverse teams and to make sure future data sets reflect different perspectives, for example, by including diverse participants in surveys, usability tests or labelled machine learning data sets. We should also be aware that there is potential harm in analyses and machine learning algorithms. Sometimes, it might even be better not to proceed with a possibly discriminating analysis or automatization.
 
-[^1]: We want to acknowledge that there are more than the two genders male and female. Yet, most literature and data sets simplify only using those two. For this blog post, we also focus on the difference between men and women, even though we are aware that there are additional issues for non-binary people.
+[^1]: Criado Pérez, C. Invisible Women: Data Bias in a World Designed for Men. New York, USA: Vintage. 2019.
 
-[^2]: Sánchez de Madariaga, Inés “The mobility of care. Introducing new concepts in urban transportation”, in Sánchez de Madariaga, Inés y Marion Roberts (eds.) Fair shared cities. The impact of gender planning in Europe. Ashgate, Aldershot-Nueva York, 2013.
+[^2]: We want to acknowledge that there are more than the two genders male and female. Yet, most literature and data sets simplify only using those two. For this blog post, we also focus on the difference between men and women, even though we are aware that there are additional issues for non-binary people.
 
-[^3]: "Care" is not a purpose specified within the data set. We recategorized the given options as follows: "Care / errand" consists of *purchases*, *doctor visits*, *escorting another person* and *personal business*. See also [Sánchez de Madariaga & Zucchini](https://www.researchgate.net/publication/330905894_Measuring_Mobilities_of_Care_a_Challenge_for_Transport_Agendas_From_One_to_Many_Tracks) on measuring travel associated with care tasks.
+[^3]: D'Ignazio, C. & Klein, LF. Data Feminism. Cambridge, USA: MIT Press. 2020.
+
+[^4]: O'Neil, C. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. New York, USA: Crown. 2016
+
+[^5]: Sánchez de Madariaga, Inés “The mobility of care. Introducing new concepts in urban transportation”, in Sánchez de Madariaga, Inés y Marion Roberts (eds.) Fair shared cities. The impact of gender planning in Europe. Ashgate, Aldershot-Nueva York, 2013.
+
+[^6]: "Care" is not a purpose specified within the data set. We recategorized the given options as follows: "Care / errand" consists of *purchases*, *doctor visits*, *escorting another person* and *personal business*. See also [Sánchez de Madariaga & Zucchini](https://www.researchgate.net/publication/330905894_Measuring_Mobilities_of_Care_a_Challenge_for_Transport_Agendas_From_One_to_Many_Tracks) on measuring travel associated with care tasks.
