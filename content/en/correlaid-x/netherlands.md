@@ -100,19 +100,6 @@ Daphne is currently specializing in labor law and in mediation. She wants to hel
 
 
 {{< person 
-    name="Yiran"
-    subline="CorrelAidX Nederland"
-    img="/images/people/nl-yiran.jpg"
-    data-email="yiran.g@correlaid.org"
-    data-to="CorrelAidX Netherlands"
-    link-color="ca-red-text"
-    x="1"
->}}
-Yiran is currently a research master student in organization at Erasmus University Rotterdam. She’s passionate about 
-helping others realize the power of data scienceand applying it to create more social value.
-{{< /person >}}
-
-{{< person 
     name="Florian"
     subline="CorrelAidX Nederland"
     img="/images/people/nl-florian.jpg"

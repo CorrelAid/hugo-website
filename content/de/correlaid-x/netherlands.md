@@ -99,20 +99,6 @@ Passionate about making a positive difference, she is excited to work with Corre
 Daphne is currently specializing in labor law and in mediation. She wants to help fight the injustice in the world any way she can. She’s currently doing so by providing legal assistance to CorrelAid Nederland.
 {{< /person >}}
 
-
-{{< person 
-    name="Yiran"
-    subline="CorrelAidX Nederland"
-    img="/images/people/nl-yiran.jpg"
-    data-email="yiran.g@correlaid.org"
-    data-to="CorrelAidX Netherlands"
-    link-color="ca-red-text"
-    x="1"
->}}
-Yiran is currently a research master student in organization at Erasmus University Rotterdam. She’s passionate about 
-helping others realize the power of data science and applying it to create more social value.
-{{< /person >}}
-
 {{< person 
     name="Florian"
     subline="CorrelAidX Nederland"

@@ -52,5 +52,17 @@ After several years working as a researcher in Neuroscience, Dylan left academia
 As a researcher at the University of Basel, Dirk investigates people’s cognition and decision making. In his spare time, he runs data science trainings for academics and industry professionals as The R Bootcamp and spreads the word on the benefits of data-driven decision making.
 {{< /person >}}
 
+{{< person 
+    name="Yiran"
+    subline="CorrelAidX Nederland"
+    img="/images/people/nl-yiran.jpg"
+    data-email="yiran.g@correlaid.org"
+    data-to="CorrelAidX Netherlands"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Yiran is a PhD candidate in organizational behavior at University of Lausanne. Before she came to Switzerland, she worked with the Dutch chapter and co-founded Correlaid Nederland. She’s passionate about helping others realize the power of data science and applying it to create more social value.
+{{< /person >}}
+
 
 
