@@ -154,6 +154,6 @@ Educating yourself on potential biases is an important step. The next step is to
 
 [^4]: O'Neil, C. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. New York, USA: Crown. 2016
 
-[^5]: Sánchez de Madariaga, Inés “The mobility of care. Introducing new concepts in urban transportation”, in Sánchez de Madariaga, Inés y Marion Roberts (eds.) Fair shared cities. The impact of gender planning in Europe. Ashgate, Aldershot-Nueva York, 2013.
+[^5]: de Madariaga, I.S. Mobility of Care: Introducing New Concepts in Urban Transport. In: de Madariaga, I.S. & Roberts M., (eds.). Fair shared cities: The impact of gender planning in Europe. Farnham, UK: Ashgate Publishing, 2013. pp. 33 - 48.
 
 [^6]: "Care" is not a purpose specified within the data set. We categorized a trip as  "Care / errand" if it included *purchases*, *doctor visits*, *escorting another person* and *personal business*. See also [Sánchez de Madariaga & Zucchini](https://www.researchgate.net/publication/330905894_Measuring_Mobilities_of_Care_a_Challenge_for_Transport_Agendas_From_One_to_Many_Tracks) on measuring travel associated with care tasks.
