@@ -149,7 +149,7 @@ Gender is an obvious factor to keep in mind, but there are many others, such as 
 
 Educating yourself on potential biases is an important step. Next step is to ensure diverse teams and to make sure future data sets reflect different perspectives, for example, by including diverse participants in surveys, usability tests or labelled machine learning data sets. We should also be aware that there is potential harm in analyses and machine learning algorithms. Sometimes, it might even be better not to proceed with a possibly discriminating analysis or automatization.
 
-[^1]: We want to acknowledge that there are more than the two genders male and female. Yet, most literature and data sets simplify only using those two. For this blog post, we also focus on the difference between men and women, even though we are aware that there are additional issues for non-binary people.
+[^1]: We want to acknowledge that there are more genders than male and female. Yet, most literature and data sets only take those into account. For this blog post, we also focus on the difference between men and women, even though we are aware that a) other genders exist and b) that there potentially are additional issues for non-binary people.
 
 [^2]: Sánchez de Madariaga, Inés “The mobility of care. Introducing new concepts in urban transportation”, in Sánchez de Madariaga, Inés y Marion Roberts (eds.) Fair shared cities. The impact of gender planning in Europe. Ashgate, Aldershot-Nueva York, 2013.
 
