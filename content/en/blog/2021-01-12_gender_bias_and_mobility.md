@@ -32,7 +32,7 @@ Having no (or not enough) data about women isn't the only issue: Even if there i
 
 ## Mobility: an issue of gender bias
 
-**Women trip chain, men take the car to work during rush hour**
+**Women "trip chain", men take the car to work during rush hour**
 
 Is mobility gender biased? And if so, how? In most western cultures, women are still responsible for the majority of care work. Bringing children to school, going grocery shopping and taking care of elderly parents. Bias in the distribution of care work also leads to different mobility behaviour: Women do more trip chaining, with many, shorter trips, and greater use of public transport - especially buses. In comparison, a typical "male trip" involves long car trips to and from work during rush hour. This difference in mobility behaviour is reflected in city design and public transport networks, which is usually mainly designed by men with a focus on work-related and rush hour traffic - traffic that is considered to be most important. Connections optimized for the typical male "workforce" with fast connections from residential areas to the city centre, where most offices are located, and poor connections for short trips to kindergartens, schools, supermarkets, and tangential lines to neighbouring residential areas (Sánchez de Madariaga[^2]). This topic is not new to researchers (see, e.g. [the work of Prof. Inés Sánchez de Madariaga](https://unhabitat.org/mobility-of-care-ines-sanchez-de-madariaga)) but in recent years there has come more and more attention to it (e.g. [this publication by the GIZ](https://womenmobilize.org/wp-content/uploads/2020/02/iNUA-Paper.Gender-and-Urban-Transport-min.pdf) or in [this publication by CIVITAS](https://civitas.eu/sites/default/files/civ_pol-an2_m_web.pdf)).
 
