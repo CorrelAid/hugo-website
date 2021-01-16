@@ -128,7 +128,7 @@ Once we account for distance, we can better estimate how travel speed may differ
 {{< /image-no-border >}}
 
 
-Another indicator for poorer public transport service is the amount of transfers needed for the trip. The hypothesis being: if the public transport network is less suited for the needs of women, women will need more transfers on average than men, as fewer lines connect their origin and destinations directly. This hypothesis does not hold for Madrid as both, men and women, need on average 1.62 transfers. 
+Another indicator for poorer public transport service is the amount of transfers needed for the trip. The hypothesis being: if the public transport network is less suited for the needs of women, women will need more transfers on average than men, as fewer lines connect their origin and destinations directly. This hypothesis does not hold for Madrid as both, men and women, need on average 0.62 transfers. 
 
 **No strong evidence for gender differences in speed or transfers were found.**
 
