@@ -54,7 +54,7 @@ For detailed information on the analysis see the [Python Jupyter Notebooks on Gi
 
 *1. Can we reproduce the results on gender differences from other studies?*
 
-Short answer: yes. Our results show clear evidence of differing mobility behaviour between men and women, exactly as shown in other studies, with women showing trip characteristics typical of 'trip chaining' and greater public transport use.
+Short answer: yes. Our results show clear evidence of differing mobility behaviour between men and women, exactly as shown in other studies, with women doing shorter trips and a greater use of public transport.
 
 **On average women travel shorter distances than 
 men: 6.4 km for women compared to 7.9 km for men.**
@@ -64,6 +64,8 @@ men: 6.4 km for women compared to 7.9 km for men.**
     image="20201220_gender_mobility_dist.png"
 >}}
 {{< /image-no-border >}}
+
+This is an indicator that women do more trips to places nearby typically visited for care purposes, like supermarkets or kindergardens.
 
 
 **Women rely on public transport and walking more than men.**
@@ -101,7 +103,7 @@ Average trip counts across all ages only differ very slightly (2.7 trips for wom
 **More trips for care purposes cause higher average trip counts for women between 25 and 55.**
 
 46 % of trips done by women aged between 25 and 55 are for care purposes / running errands[^6] while for men, it's only 30 %. As women of that age group also do a significant amount of work trips, they do more trips in sum than men.
-After the age of 45 the care trips decrease of women: supposedly because children are getting older and need to be less accompanied.
+After the age of 45 care trips of women decrease: supposedly because children are getting older and need to be accompanied less.
 
 {{< image-no-border
     image="20201220_gender_mobility_motive.png"
@@ -120,7 +122,7 @@ But we need to be careful with this interpretation! We should take into account 
 
 Once we account for distance, we can better estimate how travel speed may differ for men and women across Madrid. Unsurprisingly, we see that men and women walking show similar speeds (~2.8km/h). Similarly, we found that men and women travelling by car have little difference in speed when travelling the same distance (23.5 km/h for males and 23.6 km/h for females). 
 
-**However, women travelling on public transport showed slightly slower travel speeds (13.0 km/h for males 12.7 km/h for females)**. Large sample sizes, as we have in this survey, can easily produce significant results from very slight differences, but are these differences actually meaningful? The answer to this question does not lie within the statistics but is a matter of interpretation. **In our view, this difference is not large enough** to support a strong gendered effect of city planning or public transport design for commuters in Madrid. Digging deeper into the data might reveal disadvantaged subgroups, in a similar way that age disaggregation revealed clear patterns in trip count data, though this is purely speculative. 
+**However, women travelling on public transport showed slightly slower travel speeds (13.0 km/h for males 12.7 km/h for females)**. Large sample sizes, as we have in this survey, can easily produce significant results from very slight differences, **but are these differences actually meaningful?** The answer to this question does not lie within the statistics but is a matter of interpretation. **In our view, this difference is not large enough** to support a strong gendered effect of city planning or public transport design for commuters in Madrid. Digging deeper into the data might reveal disadvantaged subgroups, in a similar way that age disaggregation revealed clear patterns in trip count data, though this is purely speculative. 
 
 {{< image-no-border
     image="20201220_gender_mobility_speed.png"
@@ -135,7 +137,9 @@ Another indicator for poorer public transport service is the amount of transfers
 ### Conclusion of Analysis: 
 
 We observed many of the expected differences between genders in the Madrid data set, but did not find meaningful differences in terms of speed and amount of transfers.
-**Our analyses do not show a clear disadvantage for women, which is as a positive result for the Madrid public transport network. Yet, we do not claim to have checked all possible disadvantages**, e.g. the frequency of connections, or public transport alternatives for routes the car was used for - would public transport offer a similar suited option for men and women if they were to switch from car to public transport? 
+**Our analyses do not show a clear disadvantage for women, which is as a positive result for the Madrid public transport network.**
+
+**Yet, we do not claim to have checked all possible disadvantages**, e.g. the frequency of connections, or public transport alternatives for routes the car was used for - would public transport offer a similar suited option for men and women if they were to switch from car to public transport? 
 Other factors are also relevant for gender equitable infrastructure which have not been considered here, including price policy (e.g. pay for distance vs. the amount of trips), quality of streets (e.g. as women walk more, likely with strollers or elderly people, so the quality of the pavement is more relevant) or safety and comfort (e.g. on dark streets or stations).
 At this point, we would also like to mention that none of us from the team has any domain or expert knowledge on Madrid or Spain, which also limits our ability to draw conclusions.
 
@@ -145,7 +149,7 @@ A good data scientist should be aware that they potentially overlook crucial per
 1. Are all relevant groups represented in the data?
 2. Do certain groups within the data need to be looked at specifically?
 
-Gender is an obvious factor to keep in mind when analysing data, but there are many others, such as ethnicity, which we were just recently reminded about when a Twitter thread went viral where Zoom did not detect black faces for virtual backgrounds and Twitter auto-focused on white rather than Black people. 
+Gender is an obvious factor to keep in mind when analysing data, but there are many others, such as ethnicity, which we were just recently reminded about when a [Twitter thread went viral where zoom did not detect black faces for virtual backgrounds and Twitter auto-focused on white rather than Black people](https://www.theguardian.com/technology/2020/sep/21/twitter-apologises-for-racist-image-cropping-algorithm). 
 There have also been studies showing that [Black women are especially likely to be misclassified in facial recognition algorithms](https://venturebeat.com/2020/09/24/in-facial-recognition-challenge-top-ranking-algorithms-show-bias-against-black-women/). 
 Intersectional feminists state that particular sub-groups, such as Black women, have different issues than "just" the issues of women and Black people combined and therefore need to be considered additionally.
 Our society is diverse, and we need to find solutions that account for diversity in characteristics such as genders (more than just male and female), age, socio-economic background, and disability.
@@ -163,3 +167,4 @@ Educating yourself on potential biases is an important step. The next step is to
 [^5]: de Madariaga, I.S. Mobility of Care: Introducing New Concepts in Urban Transport. In: de Madariaga, I.S. & Roberts M., (eds.). Fair shared cities: The impact of gender planning in Europe. Farnham, UK: Ashgate Publishing, 2013. pp. 33 - 48.
 
 [^6]: "Care" is not a purpose specified within the data set. We categorized a trip as  "Care / errand" if it included *purchases*, *doctor visits*, *escorting another person* and *personal business*. See also [Sánchez de Madariaga & Zucchini](https://www.researchgate.net/publication/330905894_Measuring_Mobilities_of_Care_a_Challenge_for_Transport_Agendas_From_One_to_Many_Tracks) on measuring travel associated with care tasks.
+
