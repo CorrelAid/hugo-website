@@ -98,7 +98,10 @@ Average trip counts across all ages only differ very slightly (2.7 trips for wom
 >}}
 {{< /image-no-border >}}
 
-46 % of trips done by women aged between 25 and 55 are for care purposes / running errands [^6] while for men, it's only 30 %. While the absolute amount of work trips are fairly similar, it only makes up 40% of trips by women compared to 56% by men. 
+**More trips for care purposes cause higher average trip counts for women between 25 and 55.**
+
+46 % of trips done by women aged between 25 and 55 are for care purposes / running errands[^6] while for men, it's only 30 %. As women of that age group also do a significant amount of work trips, they do more trips in sum than men.
+After the age of 45 the care trips decrease of women: supposedly because children are getting older and need to be less accompanied.
 
 {{< image-no-border
     image="20201220_gender_mobility_motive.png"
@@ -106,7 +109,7 @@ Average trip counts across all ages only differ very slightly (2.7 trips for wom
 {{< /image-no-border >}}
 
 
-Women older than 25 make significantly more care trips compared to men. Especially for men, the leisure trips peak once they retire. Together with the decreasing care trips of women, the average trip count flips.
+Especially for men, the leisure trips peak once they retire, also, the amount of care trips done by men increase. On the other side care trips by women slightly decrease and leisure trips do not increase as much as for men.
 
 *3. Can we find evidence that the existing public transport network is more efficient for one gender group?*
 
