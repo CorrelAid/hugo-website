@@ -1,6 +1,6 @@
 ---
 title: "Gender differences in mobility patterns - an analysis of Madrid"
-date:       2021-01-12T00:00:00+02:00
+date:       2021-01-17T00:00:00+02:00
 image:      "gender_mobility_header.jpg"
 slug:       "gender_bias_and_mobility"
 summary: "Data analysis can be gender biased. This article explores how this applies to mobility. We analyzed open mobility data from Madrid to identify differences in mobility behaviour between men and women."
