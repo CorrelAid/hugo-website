@@ -1,8 +1,9 @@
 ---
 title: "(K)eine Datenstrategie für die Zivilgesellschaft"
-date: 2021-02-02T11:05:24+01:00
+date: 2021-02-01T11:05:24+01:00
 draft: false
-image:      "gender_mobility_header.jpg"
+image:      "509-2021-02-02-datenstrategie.jpg"
+imageattribution: "Photo by [Isaac Smith](https://unsplash.com/@isaacmsmith?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/data?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
 slug:       "datenstrategie"
 summary: "Die [Datenstrategie der Bundesregierung](https://www.bundesregierung.de/breg-de/suche/datenstrategie-der-bundesregierung-1845632)  ist da. Nachdem wir uns seit 2015 mit allem beschäftigen, was mit Datennutzung in der Zivilgesellschaft zu tun hat, nehmen Frie (COO) und Johannes (Vorstandsvorsitzender) die Strategie einmal aus dieser Perspektive unter die Lupe."
 draft:  false
@@ -21,7 +22,7 @@ author:
 meta:
     title: "(K)eine Datenstrategie für die Zivilgesellschaft"
     description: "Die [Datenstrategie der Bundesregierung](https://www.bundesregierung.de/breg-de/suche/datenstrategie-der-bundesregierung-1845632)  ist da. Nachdem wir uns seit 2015 mit allem beschäftigen, was mit Datennutzung in der Zivilgesellschaft zu tun hat, nehmen Frie (COO) und Johannes (Vorstandsvorsitzender) die Strategie einmal aus dieser Perspektive unter die Lupe."
-    image:          "gender_mobility_header.jpg"
+    image:          "509-2021-02-02-datenstrategie.jpg"
     keywords: "data4good, datenstrategie, politics"
 ---
 

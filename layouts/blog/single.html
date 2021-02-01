@@ -18,8 +18,11 @@
         <div class="col-12 col-md-10 col-lg-8">
             <div class="ca-img-container">
                 <img class="img-fluid dark" src="/images/blog/{{ .Params.image }}" alt="{{ .Title }}" />
-                <div class="ca-img-border"></div>
+                <div class="ca-img-border"></div>                
             </div>
+            {{ if isset .Params "imageattribution" }}
+            <p style="font-size: 0.9em;">{{ .Params.imageAttribution | markdownify }}</p>
+            {{ end }}
         </div>
     </div>
 </div>
