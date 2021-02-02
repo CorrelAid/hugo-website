@@ -46,15 +46,15 @@ Sarah studiert VWL und Soziologie im Master an der Universität Hamburg und inte
 {{< /person >}}
 
 {{< person 
-    name="Eva"
+    name="Drenizë"
     subline="CorrelAidX Hamburg"
-    img="/images/people/eva_jaumann.jpg"
+    img="/images/people/Drenize.jpg"
     data-email="hamburg@correlaid.org"
     data-to="Hamburg (CorrelAidX Hamburg)"
     link-color="ca-red-text"
     x="1"
 
     >}}
-Eva ist über das neue fische Bootcamp von dem Chemiestudium zu Data Science gekommen und sieht Daten als Möglichkeit um Erkenntnisse in vielen Bereichen zu erlangen, auch in gemeinnützigen Projekten. Sie arbeitet als Data Scientist bei FREE NOW in Hamburg und studiert nebenbei Kulturwissenschaften mit Schwerpunkt Philosophie um das Staunen nicht zu verlernen.
+Drenizë hat einen Master of Science in Psychologie und arbeitet jetzt als Datenanalystin in Hamburg. Ihre Interessen entfalten sich rund um Datenkommunikation und statistischer Entscheidungsfindung. In der Vergangenheit arbeitete sie mit dem Österreichischen Roten Kreuz zusammen und forschte über das Wohlbefinden von humanitären Helfer*innen. Aufbauend auf dieser Erfahrung ist sie seit August 2020 bei CorrelAid.
 {{< /person >}}
 

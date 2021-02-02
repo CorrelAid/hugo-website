@@ -46,14 +46,14 @@ Sarah is studying economics and sociology at the University of Hamburg and is pr
 {{< /person >}}
 
 {{< person 
-    name="Eva"
+    name="Drenizë"
     subline="CorrelAidX Hamburg"
-    img="/images/people/eva_jaumann.jpg"
+    img="/images/people/Drenize.jpg"
     data-email="hamburg@correlaid.org"
     data-to="Hamburg (CorrelAidX Hamburg)"
     link-color="ca-red-text"
     x="1"
 
     >}}
-Eva came to Data Science from her chemistry studies via the neue fische Bootcamp and sees data as a possibility to gain knowledge in many areas, also in non-profit projects. She works as a data scientist at FREE NOW in Hamburg and is studying cultural studies with a focus on philosophy in order to retain the childlike wonder.
+Drenizë holds a Master of Science degree in Psychology and is now working as a Data Analyst in Hamburg. Her interests evolve around data communication and statistical decision making. In the past, she cooperated with the Austrian Red Cross and conducted research on the well-being of humanitarian volunteers. Building on this experience she joined CorrelAid in August 2020.
 {{< /person >}}
