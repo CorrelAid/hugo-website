@@ -13,7 +13,7 @@ categories:
 author: 
     name: "Frie & Johannes"
     image:          "friejohannes.png"
-    description:    "[Frie](https:/twitter.com/ameisen_strasse) ist Gründungsmitglied von CorrelAid kümmert sich seit Februar 2020 als hauptamtlicher COO um CorrelAids Data4Good-Projekte mit zivilgesellschaftlichen Organisationen. [Johannes](https:/twitter.com/jj_mllr) hatte 2015 die Idee für CorrelAid und ist seitdem Vorstandsvorsitzender."
+    description:    "[Frie](https:/twitter.com/ameisen_strasse) ist Gründungsmitglied von CorrelAid und kümmert sich seit Februar 2020 als hauptamtlicher COO um CorrelAids Data4Good-Projekte mit zivilgesellschaftlichen Organisationen. [Johannes](https:/twitter.com/jj_mllr) hatte 2015 die Idee für CorrelAid und ist seitdem Vorstandsvorsitzender."
     twitter: "https://twitter.com/correlaid"
     facebook: "https://facebook.com/WeAreCorrelAid"
     github: "https://github.com/correlaid"
