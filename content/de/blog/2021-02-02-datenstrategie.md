@@ -21,7 +21,7 @@ author:
     website:        "https://www.correlaid.org/"
 meta:
     title: "(K)eine Datenstrategie für die Zivilgesellschaft"
-    description: "Die [Datenstrategie der Bundesregierung](https://www.bundesregierung.de/breg-de/suche/datenstrategie-der-bundesregierung-1845632)  ist da. Nachdem wir uns seit 2015 mit allem beschäftigen, was mit Datennutzung in der Zivilgesellschaft zu tun hat, nehmen Frie (COO) und Johannes (Vorstandsvorsitzender) die Strategie einmal aus dieser Perspektive unter die Lupe."
+    description: "Die Datenstrategie der Bundesregierung  ist da. Nachdem wir uns seit 2015 mit allem beschäftigen, was mit Datennutzung in der Zivilgesellschaft zu tun hat, nehmen Frie (COO) und Johannes (Vorstandsvorsitzender) die Strategie einmal aus dieser Perspektive unter die Lupe."
     image:          "509-2021-02-02-datenstrategie.jpg"
     keywords: "data4good, datenstrategie, politics"
 ---
