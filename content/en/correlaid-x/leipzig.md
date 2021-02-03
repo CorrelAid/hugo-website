@@ -40,7 +40,7 @@ Clemens is an undergraduate in Psychology and currently studies Sociology with a
     name="Alex"
     subline="CorrelAidX Leipzig"
     img="/images/people/Alex-Leipzig.png"
-    data-email="l   eipzig@correlaid.org"
+    data-email="leipzig@correlaid.org"
     data-to="Leipzig (CorrelAidX Leipzig)"
     link-color="ca-red-text"
     x="1"
