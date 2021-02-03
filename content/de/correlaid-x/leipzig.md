@@ -1,5 +1,5 @@
 ---
-title: "Leizpig"
+title: "Leipzig"
 date: 2021-02-03T12:36:49+02:00
 newsletter: "Du willst mehr über CorrelAidX Leipzig erfahren? Dann abonniere unseren Newsletter!"
 menu: 
