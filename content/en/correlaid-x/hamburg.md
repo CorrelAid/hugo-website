@@ -1,13 +1,13 @@
 ---
 title: "Hamburg"
 date: 2018-08-23T12:36:49+02:00
-newsletter: "Du willst mehr über CorrelAidX Hamburg erfahren? Dann abonniere unseren Newsletter!"
+newsletter: "You want to know more about CorrelAidX Karlsruhe? Sign up for our Newsletter!"
 menu: 
     correlaidx:
         weight: 5
 meta:
     title: "CorrelAidX - Hamburg"
-    description: "Du möchtest Data-for-Good-Analyst*innen aus deiner Region kennenlernen und zusammen Daten für den guten Zweck nutzen? Mit CorrelAidX bringen wir Data for Good in deine Stadt!"
+    description: "You want to get to know Data-for-good analysts around you and use data for social good? In this case, you are interested in CorrelAidX!"
     image: "509-correlaid-x-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
