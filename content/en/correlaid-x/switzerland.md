@@ -44,7 +44,7 @@ After several years working as a researcher in Neuroscience, Dylan left academia
     name="Dirk"
     subline="CorrelAidX Switzerland"
     img="/images/people/dirk_cropped.png"
-    data-email="switzerland@correlaid.org"
+    data-email="dirk.wulff@gmail.com"
     data-to="Switzerland (CorrelAidX Switzerland)"
     link-color="ca-red-text"
     x="1"
@@ -54,7 +54,7 @@ As a researcher at the University of Basel, Dirk investigates people’s cogniti
 
 {{< person 
     name="Yiran"
-    subline="CorrelAidX Nederland"
+    subline="CorrelAidX Switzerland"
     img="/images/people/nl-yiran.jpg"
     data-email="yiran.g@correlaid.org"
     data-to="CorrelAidX Netherlands"
