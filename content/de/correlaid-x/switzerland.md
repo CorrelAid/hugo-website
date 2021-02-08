@@ -43,7 +43,7 @@ Nach mehreren Jahren als Wissenschaftler der Neurowissenschaften verließ Dylan 
     name="Dirk"
     subline="CorrelAidX Switzerland"
     img="/images/people/dirk_cropped.png"
-    data-email="switzerland@correlaid.org"
+    data-email="dirk.wulff@gmail.com"
     data-to="Switzerland (CorrelAidX Switzerland)"
     link-color="ca-red-text"
     x="1"
@@ -53,7 +53,7 @@ Als Forscher an der Universität Basel beschäftigt Dirk sich mit der Kognition 
 
 {{< person 
     name="Yiran"
-    subline="CorrelAidX Nederland"
+    subline="CorrelAidX Switzerland"
     img="/images/people/nl-yiran.jpg"
     data-email="yiran.g@correlaid.org"
     data-to="CorrelAidX Netherlands"
