@@ -64,5 +64,29 @@ As a researcher at the University of Basel, Dirk investigates people’s cogniti
 Yiran is a PhD candidate in organizational behavior at University of Lausanne. Before she came to Switzerland, she worked with the Dutch chapter and co-founded Correlaid Nederland. She’s passionate about helping others realize the power of data science and applying it to create more social value.
 {{< /person >}}
 
+{{< person 
+    name="Dominik"
+    subline="CorrelAidX Switzerland"
+    img="/images/people/Dominik Meier.png"
+    data-email="dominikmeier@outlook.com"
+    data-to="CorrelAidX Netherlands"
+    link-color="ca-red-text"
+    x="1"
+>}}
+After studying Psychology and Economics, Dominik is now pursuing a PhD in Economic Psychology at the Center for Philanthropy Studies in Basel, where he is studying social preferences. CorrelAid Switzerland allows him to combine two of his favorite things: trying to make the world a better place and working with data.
+{{< /person >}}
+
+{{< person 
+    name="Ivo"
+    subline="CorrelAidX Switzerland"
+    img="/images/people/Bantel.jpg"
+    data-email="ivo.bantel@posteo.org"
+    data-to="CorrelAidX Switzerland"
+    link-color="ca-red-text"
+    x="1"
+>}}
+As a PhD candidate at the University of Zurich, Ivo investigates societal polarization. He is passionate about data literacy and using data science to help make fostering social change.
+{{< /person >}}
+
 
 
