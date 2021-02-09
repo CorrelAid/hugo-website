@@ -79,7 +79,7 @@ After studying Psychology and Economics, Dominik is now pursuing a PhD in Econom
 {{< person 
     name="Ivo"
     subline="CorrelAidX Switzerland"
-    img="/images/people/Bantel.jpg"
+    img="/images/people/ivo-bantel.jpg"
     data-email="ivo.bantel@posteo.org"
     data-to="CorrelAidX Switzerland"
     link-color="ca-red-text"
