@@ -56,9 +56,34 @@ Als Forscher an der Universität Basel beschäftigt Dirk sich mit der Kognition 
     subline="CorrelAidX Switzerland"
     img="/images/people/nl-yiran.jpg"
     data-email="yiran.g@correlaid.org"
-    data-to="CorrelAidX Netherlands"
+    data-to="CorrelAidX Switzerland"
     link-color="ca-red-text"
     x="1"
 >}}
 Yiran ist Doktorandin im Fachgebiet organisatorisches Verhalten an der Universität Lausanne. Bevor sie in die Schweiz kam, engagierte sie sich für das niederländischen Chapter und war Mitbegründerin von Correlaid Netherlands. Ihre Leidenschaft ist es, anderen zu helfen, die Macht der Datenwissenschaft für den sozialen Sektor zu erkennen und sie für den guten Zweck anzuwenden.
 {{< /person >}}
+
+{{< person 
+    name="Dominik"
+    subline="CorrelAidX Switzerland"
+    img="/images/people/Dominik Meier.png"
+    data-email="dominikmeier@outlook.com"
+    data-to="CorrelAidX Switzerland"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Nach seinem Studium der Psychologie und Wirtschaftswissenschaften promoviert Dominik nun in Wirtschaftspsychologie am Center for Philanthropy Studies in Basel, wo er soziale Präferenzen untersucht. CorrelAid Switzerland ermöglicht es ihm, zwei seiner Lieblingsbeschäftigungen miteinander zu verbinden: den Versuch, die Welt zu verbessern und die Arbeit mit Daten.
+{{< /person >}}
+
+{{< person 
+    name="Ivo"
+    subline="CorrelAidX Switzerland"
+    img="/images/people/Bantel.jpg"
+    data-email="ivo.bantel@posteo.org"
+    data-to="CorrelAidX Switzerland"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Als Doktorand an der Universität Zürich untersucht Ivo gesellschaftliche Polarisierung. Seine Leidenschaft gilt der Datenkompetenz und der Nutzung von Datenwissenschaft, um den sozialen Wandel zu fördern.
+{{< /person >}}
+
