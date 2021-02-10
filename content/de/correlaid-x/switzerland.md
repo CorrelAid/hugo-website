@@ -78,7 +78,7 @@ Nach seinem Studium der Psychologie und Wirtschaftswissenschaften promoviert Dom
 {{< person 
     name="Ivo"
     subline="CorrelAidX Switzerland"
-    img="/images/people/ivo-bantel.jpg"
+    img="/images/people/ivo-bantel-swiss.png"
     data-email="ivo.bantel@posteo.org"
     data-to="CorrelAidX Switzerland"
     link-color="ca-red-text"
