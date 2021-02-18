@@ -1,31 +1,4 @@
 ---
-title:      "How to host an online community night"
-date:       2020-11-17T00:00:00+02:00
-image:      "509-blogpost-communitynight-titel2.jpg"
-slug:       "online-community-night"
-summary:    "As part of our annual meet-up, the CorrelCon, which of course took place online this year, we didn't want to miss our community night, despite general zoom fatigue. You can read about our experiences and tips for a successful community night in this blog post."
-draft:      false
-categories:       
-    - Veranstaltungen
-    - CorrelAid
-    - News
-author: 
-    name:           "Daniel and Isabel"
-    image:          "IsabelDaniel.png"
-    description:    "Isabel works as Head of Community Management for CorrelAid. Daniel mainly volunteers for CorrelAid as part of the organizer team of CorrelAidX Munich, but he also joined the organizing team of CorrelCon."
-    twitter:        "https://twitter.com/correlaid"
-    facebook:       "https://facebook.com/WeAreCorrelAid"
-    github:         "https://github.com/correlaid"
-    email:          "info@correlaid.org"
-    website:        "https://www.correlaid.org/"
-meta:
-    title:          "CorrelAid - How to host an online community night"
-    description:    "As part of our annual meet-up, the CorrelCon, which of course took place online this year, we didn't want to miss our community night, despite general zoom fatigue. You can read about our experiences and tips for a successful community night in this blog post."
-    image:           "509-blogpost-communitynight-titel2.jpg"
-    keywords:       "CorrelAid, Data4Good, Meetup, CorrelCon"
----
-
----
 title: "Data Science Master Programmes"
 date: 2021-02-14T00:00:00+02:00
 image: "image.jpg"
@@ -67,7 +40,7 @@ Social Science and Data Science
         - [Management & Data Science](https://www.leuphana.de/graduate-school/master/studienangebot/management-data-science.html), Lüneburg
          - Data Science LMU
          - CITH - Bamberg
-         - Herte School: social / political data science 
+         - Hertie School: social / political data science 
          - SEDS (Konstanz)
     - Statistik
         - Survey Statistics, Bamberg
@@ -182,13 +155,15 @@ Falls ihr aus der Politikwissenschaft kommt und doch lieber ein Studium mit fach
 
 Überblickstabelle
 
-| Studiengang |Stadt | Zulassungsvorraussetzungen | Bewerbungsphase| Studienstart | Website |
+| Studiengang | Stadt | Zulassungsvorraussetzungen | Bewerbungsphase | Studienstart | Website |
 |------ | ----- | ----- | ----- | ----| ----- |
 | Msc Statistik | ? | gleichwertiger BA Statistik |   
 | Msc statistische Wissenschaften | ? | 20 Credits in Methoden (min. 10 Statistik **und** Mathematik)
 | Msc Angewandte Statistik |Göttingen| 60 Credits in Methoden (min. 24in Statistik) | 01.04. - 14.05. | nur WS | https://www.uni-goettingen.de/de/421501.html |
 | Msc Statistik mit wirtschafts- und sozialwissenschafticher Ausrichtung | München |Bachelor mit Statistik als Haupt oder Nebenfach (min. 42 Credits), Eignungstest | 01.04. - 15.07. bzw. 01.10. - 15.01 | Ws und SS | https://www.uni-muenchen.de/studium/studienangebot/studiengaenge/studienfaecher/statistik/master1/index.html |
-|Informatik für Geistes- und Sozialwissenschaftler | Chemnitz | zulassungsfrei |bis 15.07|https://www.cs.uni-kl.de/studium/studiengaenge/bm-si/ |
+| Informatik für Geistes- und Sozialwissenschaftler | Chemnitz | zulassungsfrei |bis 15.07 |https://www.cs.uni-kl.de/studium/studiengaenge/bm-si/ |
+| Master of Data Master of Data Science for Public Policy (MDS) | Berlin | ? | ? | September | https://www.uni-konstanz.de/en/study/before-you-study/study-programmes/masters-degree/social-and-economic-data-science-msc/ |
+| Msc Social and Economic Data Science | Konstanz | ? | ? | ? | https://www.hertie-school.org/en/mds |
 
 
 ------------------------------------------------------------------------
