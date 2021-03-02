@@ -87,3 +87,15 @@ Nach seinem Studium der Psychologie und Wirtschaftswissenschaften promoviert Dom
 Als Doktorand an der Universität Zürich untersucht Ivo gesellschaftliche Polarisierung. Seine Leidenschaft gilt der Datenkompetenz und der Nutzung von Datenwissenschaft, um den sozialen Wandel zu fördern.
 {{< /person >}}
 
+{{< person 
+    name="Priyanka"
+    subline="CorrelAidX Switzerland"
+    img="/images/people/Priyanka.png"
+    data-email="priyanka@correlaid.ch"
+    data-to="CorrelAidX Switzerland"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Tagsüber Business Data Scientist, Data 4 Good-er aus Leidenschaft. Interessiert an Clean Tech. Mit meinem Hintergrund in Informatik, Business und Wirtschaft  möchte ich helfen, den Planeten zu retten und Menschen dabei unterstützen, gesund zu leben.
+{{< /person >}}
+

@@ -88,5 +88,17 @@ After studying Psychology and Economics, Dominik is now pursuing a PhD in Econom
 As a PhD candidate at the University of Zurich, Ivo investigates societal polarization. He is passionate about data literacy and using data science to help make fostering social change.
 {{< /person >}}
 
+{{< person 
+    name="Priyanka"
+    subline="CorrelAidX Switzerland"
+    img="/images/people/Priyanka.png"
+    data-email="priyanka@correlaid.ch"
+    data-to="CorrelAidX Switzerland"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Business Data Science by the day, data 4 good-er by passion. Interested in clean tech. I come with background in Computer Science, Business and Economics and want to help save the planet and help people live healthy.
+{{< /person >}}
+
 
 
