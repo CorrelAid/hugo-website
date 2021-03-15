@@ -1,5 +1,5 @@
 ---
-title: "Open Onboarding Call" (due to Easter exceptionally on Tuesday)
+title: "Open Onboarding Call"
 date: 2020-05-11T22:01:56+02:00
 correlaidx: false
 eventDate: "2021-04-06"
