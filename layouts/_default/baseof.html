@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="{{ .Site.Language.Lang }}">
     <head>
+        {{ $lang := .Site.Language.Lang }}
         <!-- Required meta tags -->
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
@@ -33,9 +34,13 @@
 
         <!-- META DATA -->
         <title>{{ .Params.meta.title }}</title>
-        <meta name="description" content="{{ .Params.meta.description }}" />
         <meta name="keywords" content="{{ .Params.meta.keywords }}" />
-        <meta name="author" content="CorrelAid e.V.">
+        {{ if isset (index .Params "meta") "description" }}
+            <meta name="description" content="{{ .Params.meta.description }}" />
+        {{ else }}
+            <meta name="description" content="{{ (index $.Site.Params.description $lang) }}" />
+        {{ end }}
+        <meta name="author" content="{{ $.Site.Params.author }}">
 
         <meta property="og:title" content="{{ .Params.meta.title }}" />
         <meta property="og:type" content="website" />
@@ -46,33 +51,42 @@
         <meta property="og:image:height" content="250" />
 
         <meta property="og:url" content="{{ .Page.Permalink }}" />
+
+        {{ if isset (index .Params "meta") "description" }}
         <meta property="og:description" content="{{ .Params.meta.description }}" />
+         {{ else }}
+        <meta name="og:description" content="{{ (index $.Site.Params.description $lang) }}" />
+        {{ end }}
+
 
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@CorrelAid" />
         <meta name="twitter:title" content="{{ .Params.meta.title }}" />
-        <meta name="twitter:description" content="{{ .Params.meta.description }}" />
+        {{ if isset (index .Params "meta") "description" }}
+        <meta property="twitter:description" content="{{ .Params.meta.description }}" />
+         {{ else }}
+        <meta name="twitter:description" content="{{ (index $.Site.Params.description $lang) }}" />
+        {{ end }}
+
         <meta name="twitter:image" content="{{ "images/blog/thumbs-x250/" | absURL   }}{{.Params.meta.image}}" />
         <!-- /END META DATA -->
-
-        <!-- sw.report -->
-        <script src="https://script.sw.report/sw.js" siteId="1301d80e-a5ea-4d30-9216-78b137660fd0" async></script>
 
     </head>
     <body>
 
+        
         <!-- NAVBAR -->
         {{ partial "navbar" . }}
         <!-- /END NAVBAR -->
-
-
+        
+        
         <!-- MAIN -->
         <main role="main">
             <!-- BANNER -->
             <!-- {{ partial "banner" . }} -->
             <!-- /END BANNER -->
             {{ block "main" . }}
-                
+            
             {{ end }}
         </main>
         <!-- /END MAIN -->
