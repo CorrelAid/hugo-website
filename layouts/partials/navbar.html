@@ -153,7 +153,7 @@
 >
   <div class="collapse navbar-collapse">
     <div class="navbar-nav mr-auto">
-      {{ range .Site.Menus.correlaidx }}
+      {{ range .Site.Menus.correlaidx.ByName }}
       <a class="nav-item nav-link active" href="{{ .URL | absLangURL }}"
         >{{ .Title }}</a
       >
