@@ -76,7 +76,7 @@ countries <- countryref %>%
 
 # ENGLISH VERSION ---------------
 # international cities with lon/lat (source: https://simplemaps.com/data/de-cities)
-cities <- read_csv(here::here("R", "worldcities.csv")) %>% # internationale Buchstabierung
+cities <- read.csv(here::here("R", "worldcities.csv")) %>% # internationale Buchstabierung
   filter(iso2 == "DE" | iso2 == "FR" |  iso2 == "NL" |  iso2 == "CH") %>%
   rename(name = city) %>% 
   select(name, lat, lng, iso2)
