@@ -34,7 +34,7 @@ Wir treffen uns ein- oder zweimal im Jahr zu unserer Data4Good-Minikonferenz (au
 
 ## CorrelAidX: Data4Good auf lokaler Ebene
 Im Rahmen von CorrelAidX haben wir - in Ergänzung zu unserem Remote Netzwerk - Local Chapter in einigen deutschen Städten sowie in den Niederlanden und in Paris gegründet. In einem Local Chapter können Data Scientists eigene Workshops und Hackathons organisieren sowie Projekte mit lokalen NPOs organisieren. Alle existierenden CorrelAidX-Chapter und Anlaufstellen findest du [hier](/de/correlaid-x).
-Wenn du ein eigenes Chapter gründen möchtest, oder wenn du wissen möchtest, ob es in deiner Umgebung andere Data4Good Data Scientists gibt, schreib eine E-Mail an unsere Community Managerin [Isabel](mailto:isabel.w@correlaid.org). 
+Wenn du ein eigenes Chapter gründen möchtest, oder wenn du wissen möchtest, ob es in deiner Umgebung andere Data4Good Data Scientists gibt, schreib eine E-Mail an unseren Community Manager [Phil](mailto:phil.b@correlaid.org). 
 
 {{< button 
     btn-class="btn-dark"
@@ -45,7 +45,7 @@ Erfahre mehr zu CorrelAidX!
 {{< /button >}}
 
 ## Slack Community 
-Egal ob ein Local Chapter in deiner Nähe ist oder nicht: Du kannst immer unserem Slack beitreten, dich dort mit gleichgesinnten Data Scientists vernetzen, im #help-Channel nach Unterstützung für deine Probleme fragen und einen tieferen Einblick in die Arbeit von CorrelAid erhalten. Schreibe eine Email an [info@correlaid.org](mailto:info@correlaid.org) und Isabel oder Frie fügen dich gerne hinzu.
+Egal ob ein Local Chapter in deiner Nähe ist oder nicht: Du kannst immer unserem Slack beitreten, dich dort mit gleichgesinnten Data Scientists vernetzen, im #help-Channel nach Unterstützung für deine Probleme fragen und einen tieferen Einblick in die Arbeit von CorrelAid erhalten. Schreibe eine Email an [info@correlaid.org](mailto:info@correlaid.org) und Phil oder Frie fügen dich gerne hinzu.
 
 {{< button 
     btn-class="btn-dark"
@@ -75,14 +75,14 @@ Du arbeitest an einem interessanten Datenprojekt und möchtest deine Ergebnisse 
 
 Das Core Team ist ein Team von ca. 30 Ehrenamtlichen, die CorrelAid am Laufen halten. Von der Koordination unserer Data4Good-Projekte und der Erstellung von Bildungsinhalten bis zum Schreiben von Anträgen - es gibt viel zu tun. Das Core Team ist in verschiedene Subteams aufgeteilt: Bildung (für Nonprofits & Volunteers), Projektkoordination, PR, Fundraising und Infrastruktur. Mehr zu den einzelnen Teams kannst du in unseren [docs](https://docs.correlaid.org/get-started#get-involved-in-the-core-team) nachlesen.
 
-Wir freuen uns immer über neue Gesichter im Core Team! Wenn du uns in unserer internen Arbeit unterstützen möchtest, schreibe eine E-Mail an [info@correlaid.org](mailto:info@correlaid.org) - entweder Frie oder Isabel werden dir bald darauf antworten.
+Wir freuen uns immer über neue Gesichter im Core Team! Wenn du uns in unserer internen Arbeit unterstützen möchtest, schreibe eine E-Mail an [info@correlaid.org](mailto:info@correlaid.org) - entweder Frie oder Phil werden dir bald darauf antworten.
 
 # Verwirrt?
-Willst du mehr darüber erfahren, wie du dich bei CorrelAid einbringen kannst, oder weißt du noch nicht, was das richtige für dich ist? Dann mach einen Termin mit unserer Community Managerin Isabel aus. Sie freut sich darauf dich kennenzulernen, weitere Informationen mit dir zu teilen und in Form eines unverbindlichen Austauschs herauszufinden, was passend für dein Engagement wäre.
+Willst du mehr darüber erfahren, wie du dich bei CorrelAid einbringen kannst, oder weißt du noch nicht, was das richtige für dich ist? Dann mach einen Termin mit unserem Community Manager Phil aus. Er freut sich darauf dich kennenzulernen, weitere Informationen mit dir zu teilen und in Form eines unverbindlichen Austauschs herauszufinden, was passend für dein Engagement wäre.
 
 {{< button 
     btn-class="btn-dark"
-    href="mailto:isabel.w@correlaid.org"
+    href="mailto:phil.b@correlaid.org"
     justify="center"
 >}}
 Mach einen Termin!
