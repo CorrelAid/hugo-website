@@ -5,12 +5,6 @@
         <div class="col-12 my-5">
              <!--Design here-->
             {{ .Content }}
-
-                        
-            <h1>Testimonials</h1>
-
-            {{ $testimonials := $.Site.Data.testimonials_volunteers }}
-            {{ partial "testimonial_carousel.html" (dict "context" . "testimonials" $testimonials.projects "id" "projectTestimonials" "lang" $lang ) }}
         </div>
     </div>
 </div>
