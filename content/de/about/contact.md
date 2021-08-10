@@ -79,7 +79,8 @@ Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsi
     link-color="ca-green-text"
     x="0"
 >}}
-    Phil...
+    Phil ist Community Manager bei Correlaid und fungiert damit als deine erste Ansprechperson als Volunteer bei CorrelAid. Er koordiniert die CorrelAidX Lokalgruppen und sorgt dafür, dass unser Netzwerk wächst und gedeiht. Zurzeit ist Phil in den letzten Zügen seines Masters in "Social and Economic Data Science" an der Universität Konstanz. Vor seiner Zeit als Community Manager war er verantwortlich für das lokale Chapter in Konstanz und half dabei, CorrelAid in der Stadt am Bodensee wieder zu etablieren. In seiner neuen Rolle möchte er die Erfahrung, ein Chapter aufzubauen und sich mit der lokalen Data Science Community zu vernetzen, nun nutzen um anderen Chaptern in unserem Netzwerk zu helfen.
+    Wenn du an der Arbeit bei einer unserer CorrelAidX Lokalgruppen interessiert bist, eine neue Lokalgruppe gründen möchtest oder dich allgemein für eine Mitarbeit bei CorrelAid interessierst, kannst du Isabel jederzeit kontaktieren. 
 {{< /person >}}
 
 {{< person 

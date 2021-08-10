@@ -77,7 +77,8 @@ He studied "Evidence-based Policymaking" at the University of Oxford and Policy-
     link-color="ca-green-text"
     x="0"
 >}}
-    Phil... 
+    Phil works as the Head of Community Management at CorrelAid and will most likely be your first contact as a volunteer during your journey with CorrelAid. He coordinates the local CorrelAidX groups and ensures that our network grows and flourishes. Currently Phil is finishing his Masters degree in "Social and Economic Data Science" at the University of Konstanz. Before taking over the role as Community Manager, he was organizing our local chapter in Konstanz and reastablished CorrelAid in the city near the lake. In his new role he now wants to use this experience in setting up a chapter and connecting with the local data science community to benefit other chapters and cities accros our network.
+    If you are interested in working with one of our CorrelAidX chapters, would like to start a new one, or are generally interested in working with CorrelAid, please feel free to reach out to Phil.
 {{< /person >}}
 
 {{< person 
