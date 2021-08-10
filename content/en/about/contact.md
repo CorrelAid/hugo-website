@@ -56,7 +56,7 @@ He studied "Evidence-based Policymaking" at the University of Oxford and Policy-
 
 {{< person 
     name="Isabel"
-    subline="Head of Community Management"
+    subline="Head of Community Management (on parental leave, please reach out to Phil)"
     img="/images/people/isabel.jpg"
     data-email="isabel.w@correlaid.org"
     data-to="Isabel (Head of Community Management)"
@@ -66,6 +66,19 @@ He studied "Evidence-based Policymaking" at the University of Oxford and Policy-
     Isabel works as the Head of Community Management at CorrelAid and cares about the well-being of our volunteers. She coordinates the local CorrelAidX groups and ensures that our network grows and flourishes.
     She completed her master's degree in international relations in Berlin and then worked in project management at the Falling Walls Foundation. Isabel is interested in the operational development of our network in close dialogue with our community. As a certified mediator, communication on equal terms is as important to her as the appreciation of diversity.
     If you are interested in working with one of our CorrelAidX chapters, would like to start a new one, or are generally interested in working with CorrelAid, please feel free to reach out to Isabel. 
+{{< /person >}}
+
+{{< person 
+    name="Phil"
+    subline="Head of Community Management"
+    img="/images/people/philipp_bosch.jpg"
+    data-email="phil.b@correlaid.org"
+    data-to="Phil (Head of Community Management)"
+    link-color="ca-green-text"
+    x="0"
+>}}
+    Phil works as the Head of Community Management at CorrelAid and will most likely be your first contact as a volunteer during your journey with CorrelAid. He coordinates the local CorrelAidX groups and ensures that our network grows and flourishes. Currently Phil is finishing his Masters degree in "Social and Economic Data Science" at the University of Konstanz. Before taking over the role as Community Manager, he was organizing our local chapter in Konstanz and reastablished CorrelAid in the city near the lake. In his new role he now wants to use this experience in setting up a chapter and connecting with the local data science community to benefit other chapters and cities accros our network.
+    If you are interested in working with one of our CorrelAidX chapters, would like to start a new one, or are generally interested in working with CorrelAid, please feel free to reach out to Phil.
 {{< /person >}}
 
 {{< person 

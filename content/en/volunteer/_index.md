@@ -35,7 +35,7 @@ We meet once or twice a year in a different city in Germany for our Data4Good mi
 
 ### CorrelAidX: Data4Good on the local level
 With our program CorrelAidX, we have also established local chapters in several German cities, the Netherlands and Paris. The advantage is that you can start conducting your own workshops, hackathons, projects with local NGOs and to meet on a regular basis. You can find all existing CorrelAidX chapters and points of contact [here](/en/correlaid-x).
-If you are interested in starting a local chapter yourself, or if you want to know if there are people around you also interested in starting this, write an e-mail to our Head of Community Management [Isabel](mailto:isabel.w@correlaid.org). 
+If you are interested in starting a local chapter yourself, or if you want to know if there are people around you also interested in starting this, write an e-mail to our Head of Community Management [Phil](mailto:phil.b@correlaid.org). 
 
 {{< button 
     btn-class="btn-dark"
@@ -72,14 +72,14 @@ You are working on an interesting data project and want to share your results wi
 
 The core team is a team of ~30 volunteers who keep CorrelAid running. From organizing projects and creating educational content to writing grant applications - there is loads to do. The core team is divided into different subteams: education, project coordination, PR, fundraising and infrastructure. You can read more about the teams in our [docs](https://docs.correlaid.org/get-started#get-involved-in-the-core-team).
 
-We are always happy to see new faces in the core team! If you want to get active in the core team, write an e-mail to [info@correlaid.org](mailto:info@correlaid.org) - either Frie or Isabel will reply you soon afterwards. 
+We are always happy to see new faces in the core team! If you want to get active in the core team, write an e-mail to [info@correlaid.org](mailto:info@correlaid.org) - either Frie or Phil will reply you soon afterwards. 
 
 # Confused?
-Do you want to learn more about how you can get involved at CorrelAid? Or you don't know yet what's right for you? You can always arrange an informal meeting with our Community Manager Isabel. She is looking forward to meeting you, sharing more information with you and finding out where your place in CorrelAid can be.
+Do you want to learn more about how you can get involved at CorrelAid? Or you don't know yet what's right for you? You can always arrange an informal meeting with our Community Manager Phil. He is looking forward to meeting you, sharing more information with you and finding out where your place in CorrelAid can be.
 
 {{< button 
     btn-class="btn-dark"
-    href="mailto:isabel.w@correlaid.org"
+    href="mailto:phil.b@correlaid.org"
     justify="center"
 >}}
 Arrange a call!
