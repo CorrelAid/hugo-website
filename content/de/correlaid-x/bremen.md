@@ -48,11 +48,25 @@ Motivierten im Norden aufzubauen.
     subline="CorrelAidX Bremen"
     img="/images/people/lukas_warode.jpeg"
     data-email="bremen@correlaid.org"
-    data-to="Hendrik (CorrelAidX Bremen)"
+    data-to="Lukas (CorrelAidX Bremen)"
     link-color="ca-red-text"
     x="1"
 >}}
 Lukas studiert Politikwissenschaft in Bremen und ist seit Mitte 2019 bei CorrelAid aktiv. Er ist sehr interessiert an angewandter Datenanalyse und Datenvisualisierung. An CorrelAid mag er nicht nur das Data4Good Volunteering, sondern auch die Möglichkeiten zum Austausch und Zusammenkommen mit anderen Data Scientists.
 {{< /person >}}
 
+{{< person 
+    name="Matthies"
+    subline="CorrelAidX Bremen"
+    img="/images/people/matthies_hesse.jpeg"
+    data-email="bremen@correlaid.org"
+    data-to="Matthies (CorrelAidX Bremen)"
+    link-color="ca-red-text"
+    x="1"
+>}}
 
+
+
+
+Matthies ist Doktorand an der Universität in Bremen und beschäftigt sich mit künstlicher Intelligenz im Finanz- und Rechnungswesen. Er liebt das Konstruieren von Modellierungssystemen aller Art und begeistert gerne Menschen für Data Science. Aufgrund seiner Erfahrung im Projektmanagement bei CorrelAidX Bremen kann er dein Ansprechpartner für spannende Projekt in Bremen und Umgebung sein.
+{{< /person >}}

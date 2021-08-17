@@ -10,10 +10,13 @@ enableEmoji             = true
     twitter         = "https://twitter.com/CorrelAid"
     facebook        = "https://facebook.com/WeAreCorrelAid"
     linkedin        = "https://www.linkedin.com/company/correlaid/"
-    num_members     = "1300"
+    num_members     = "1900"
     mailinglist_volunteers = "https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"
     mailinglist_npos = "https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=175fade988"
-    
+    author = "CorrelAid e.V."
+    [params.description] 
+      de = "CorrelAid ist ein überparteiliches, gemeinnütziges Netzwerk von über 1700 Data-Science-begeisterten Menschen, die die Welt mithilfe von Data Science verändern wollen.  Unsere Arbeit richtet sich an den sozialen Sektor und Organisationen, die sich dafür einsetzen, die Welt zu einem besseren Ort zu machen." 
+      en = "CorrelAid is a non-partisan non-profit network of over 1700 data science enthusiasts who want to change the world through data science. We dedicate our work to the social sector and those organizations that strive for making the world a better place."
 [Languages]
 # duplicate en settings to both get correlaid.org/en/projects and correlaid.org/projects 
 # see https://discourse.gohugo.io/t/default-language-in-both-root-and-subfolders/17531/3

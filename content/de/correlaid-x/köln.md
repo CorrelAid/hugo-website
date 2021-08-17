@@ -17,7 +17,7 @@ Kölle Alaaf! Hilf uns, das Potenzial von Data Science in und um Köln herum fü
  
 Gegründet im Jahr 2020 sind wir eine der jüngsten Lokalgruppen von CorrelAid., Wir bringen  Menschen zusammen, die an der Datennutzung für eine sozial gerechte und ökologisch nachhaltige Zukunft interessiert sind.
  
-Wir bauen eine lokales Netzwerk auf, in dem wir unser Wissen austauschen, neue Fähigkeiten entwickeln, die neuesten Innovationen im Bereich Data Science teilen und gemeinnützige Organisationen in und um Köln unterstützen. Wir treffen uns regelmäßig, um in R und Python zu programmieren und gemeinsam zu lernen sowie Ideen für Projekte zu sammeln.
+Wir bauen eine lokales Netzwerk auf, in dem wir unser Wissen austauschen, neue Fähigkeiten entwickeln, die neuesten Innovationen im Bereich Data Science teilen und gemeinnützige Organisationen in und um Köln unterstützen. Wir treffen uns regelmäßig, um in R und Python zu programmieren und gemeinsam zu lernen sowie Ideen für Projekte zu sammeln. Die aktuellen Termine unserer Treffen findest du auf <a href="https://www.meetup.com/de-DE/dataforgood-correlaid-koln">MeetUp</a> und unter <a href="https://correlaid.org/de/events/">Events</a>.
  
 Unser Chapter weiß jede Art von Unterstützung zu schätzen. Unabhängig von Deinem Hintergrund oder Deinen (technischen) Fähigkeiten gibt es viele Möglichkeiten, sich aktiv einzubringen. Gegenwärtig entwickeln wir unsere lokalen Strukturen weiter. Du hast die Möglichkeit, Deine Ideen einzubringen, Verantwortung zu übernehmen und aktiv an der Gründung einer lokalen Gruppe dich zu beteiligen.
  

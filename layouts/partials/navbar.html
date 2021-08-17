@@ -1,101 +1,165 @@
 <!-- MAIN NAV -->
 <nav class="navbar navbar-expand-md navbar-dark fixed-top ca-dark-blue">
+  <a class="navbar-brand" href="{{ .Site.Home.URL }}">
+    <img
+      src="/images/correlaid/correlaid-icon.svg"
+      height="30"
+      alt="CorrelAid"
+    />
+  </a>
 
-    <a class="navbar-brand" href="{{ .Site.Home.URL }}">
-        <img src="/images/correlaid/correlaid-icon.svg" height="30" alt="CorrelAid"/>
-    </a>
+  <button
+    class="navbar-toggler"
+    type="button"
+    data-toggle="collapse"
+    data-target="#navbarCollapse"
+    aria-controls="navbarCollapse"
+    aria-expanded="false"
+    aria-label="Toggle navigation"
+  >
+    <span class="navbar-toggler-icon"></span>
+  </button>
 
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
+  <div class="collapse navbar-collapse" id="navbarCollapse">
+    <ul class="navbar-nav mr-auto"></ul>
+    <ul class="navbar-nav">
+      <!-- ABOUT US -->
+      <li class="nav-item dropdown">
+        <a
+          class="nav-link dropdown-toggle"
+          href="#"
+          id="about-us-dropdown"
+          role="button"
+          data-toggle="dropdown"
+          aria-haspopup="true"
+          aria-expanded="false"
+        >
+          {{ i18n "about-us" }}
+        </a>
+        <div class="dropdown-menu" aria-labelledby="about-us-dropdown">
+          {{ range .Site.Menus.about }}
+          <a class="dropdown-item" href="{{ .URL | absLangURL }}"
+            >{{ .Name }}</a
+          >
+          {{ end }}
+        </div>
+      </li>
+      <!-- /END ABOUT US -->
 
-    <div class="collapse navbar-collapse" id="navbarCollapse">
-        <ul class="navbar-nav mr-auto"></ul>
-        <ul class="navbar-nav">
+      <!-- FOR NONPROFITS -->
 
-             <!-- ABOUT US -->
-             <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="about-us-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    {{ i18n "about-us" }}
-                </a>
-                <div class="dropdown-menu" aria-labelledby="about-us-dropdown">
-                    {{ range .Site.Menus.about }}
-                    <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
-                    {{ end }}
+      <li class="nav-item dropdown">
+        <a
+          class="nav-link dropdown-toggle"
+          href="#"
+          id="about-us-dropdown"
+          role="button"
+          data-toggle="dropdown"
+          aria-haspopup="true"
+          aria-expanded="false"
+        >
+          {{ i18n "for-nonprofits" }}
+        </a>
+        <div class="dropdown-menu" aria-labelledby="about-us-dropdown">
+          {{ range .Site.Menus.nonprofits }}
+          <a class="dropdown-item" href="{{ .URL | absLangURL }}"
+            >{{ .Name }}</a
+          >
+          {{ end }}
+          <a class="dropdown-item" href="http://eepurl.com/g6BDyz"
+            >Newsletter</a
+          >
+        </div>
+      </li>
+      <!-- /END FOR NONPROFITS -->
 
-                    <a class="dropdown-item" href="https://soundcloud.com/correlaid_podcast"><i class="fas fa-external-link-square-alt"></i> Podcast</a>
-                </div>
-            </li>
-            <!-- /END ABOUT US -->
-            
-            <!-- FOR NONPROFITS -->
+      {{ $currentPage := . }} {{ range .Site.Menus.main }}
+      <li class="nav-item">
+        <a class="nav-link" href="{{ .URL }}" title="{{ .Title }}"
+          >{{ .Name }}</a
+        >
+      </li>
+      {{ end }}
 
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="about-us-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    {{ i18n "for-nonprofits" }}
-                </a>
-                <div class="dropdown-menu" aria-labelledby="about-us-dropdown">
-                    {{ range .Site.Menus.nonprofits }}
-                    <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
-                    {{ end }}
-                    <a class="dropdown-item" href="http://eepurl.com/g6BDyz">Newsletter</a>
-                </div>
-            </li>
-            <!-- /END FOR NONPROFITS -->
+      <!-- BLOGS AND PODCASTS -->
+      <li class="nav-item dropdown">
+        <a
+          class="nav-link dropdown-toggle"
+          href="#"
+          id="media-dropdown"
+          role="button"
+          data-toggle="dropdown"
+          aria-haspopup="true"
+          aria-expanded="false"
+        >
+          Blogs
+        </a>
+        <div class="dropdown-menu" aria-labelledby="media-dropdown">
+          <a class="dropdown-item" href="{{ .Site.Home.Permalink }}blog"
+            ><i class="fas fa-pen"></i>  CorrelAid Blog</a
+          >
+          <a class="dropdown-item" href="https://codes.correlaid.org"
+            ><i class="fas fa-laptop-code"></i> CorrelAid Codes</a
+          >
+        </div>
+      </li>
+      <!-- /END BLOGS AND PODCASTS-->
 
-            {{ $currentPage := . }}
-            {{ range .Site.Menus.main }}
-            <li class="nav-item">
-                <a class="nav-link" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-            </li>
-            {{ end }}
-              
-
-            <!-- BLOG -->
-            <li class="nav-item">
-                <a class="nav-link" href="{{ .Site.Home.Permalink }}blog">Blog</a>
-            </li>
-            <!-- /END BLOG -->
-
-            <!-- LANGUAGE -->
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="languages-dropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    <i class="fas fa-lg fa-language"></i>
-                </a>
-                <div class="dropdown-menu lang" aria-labelledby="languages-dropdown">
-                    {{ range .Translations }}
-                    <a class="dropdown-item" href="{{ .Permalink }}">{{ upper .Language }}</a>
-                    {{ end}}
-                </div>
-            </li>
-            <!-- /END LANGUAGE -->
-
-        </ul>
-        <form class="form-inline">
-             <a
-                     class="btn btn-donate my-2 my-sm-0"
-                     href="https://www.betterplace.org/de/projects/58963-correlaid-e-v-data-for-good"
-                     target="_blank"
-             >
-                 {{ i18n "donate" }}
-             </a>
-        </form>
-
-    </div>
+      <li class="nav-item">
+        <a class="nav-link" href="https://soundcloud.com/correlaid_podcast"
+          ><i class="fas fa-lg fa-podcast"></i
+        ></a>
+      </li>
+      <!-- LANGUAGE -->
+      <li class="nav-item dropdown">
+        <a
+          class="nav-link dropdown-toggle"
+          href="#"
+          id="languages-dropdown"
+          role="button"
+          data-toggle="dropdown"
+          aria-haspopup="true"
+          aria-expanded="false"
+        >
+          <i class="fas fa-lg fa-language"></i>
+        </a>
+        <div class="dropdown-menu lang" aria-labelledby="languages-dropdown">
+          {{ range .Translations }}
+          <a class="dropdown-item" href="{{ .Permalink }}"
+            >{{ upper .Language }}</a
+          >
+          {{ end}}
+        </div>
+      </li>
+      <!-- /END LANGUAGE -->
+    </ul>
+    <form class="form-inline">
+      <a
+        class="btn btn-donate my-2 my-sm-0"
+        href="https://www.betterplace.org/de/projects/58963-correlaid-e-v-data-for-good"
+        target="_blank"
+      >
+        {{ i18n "donate" }}
+      </a>
+    </form>
+  </div>
 </nav>
 <!-- /END MAIN NAV -->
 
 <!-- CORRELAID X NAV -->
-<nav class="navbar navbar-expand-md fixed-top second navbar-dark ca-x-gradient d-none d-md-block" id="correlaid-x-navbar">
-    <div class="collapse navbar-collapse">
-        <div class="navbar-nav mr-auto">
-            {{ range .Site.Menus.correlaidx }}
-            <a class="nav-item nav-link active" href="{{ .URL | absLangURL }}">{{ .Title }}</a>
-            {{ end }}
-        </div>
-        <div class="navbar-nav">
-        </div>
+<nav
+  class="navbar navbar-expand-md fixed-top second navbar-dark ca-x-gradient d-none d-md-block"
+  id="correlaid-x-navbar"
+>
+  <div class="collapse navbar-collapse">
+    <div class="navbar-nav mr-auto">
+      {{ range .Site.Menus.correlaidx.ByName }}
+      <a class="nav-item nav-link active" href="{{ .URL | absLangURL }}"
+        >{{ .Title }}</a
+      >
+      {{ end }}
     </div>
+    <div class="navbar-nav"></div>
+  </div>
 </nav>
 <!-- /END CORRELAID X NAV -->
-

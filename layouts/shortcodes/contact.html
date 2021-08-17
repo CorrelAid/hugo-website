@@ -1,0 +1,36 @@
+<div class="container">
+    {{ $people := $.Site.Data.people }}
+
+    {{ $key := .Get `key` }}
+    {{ $lang := .Site.Language.Lang }}
+    {{ $person := index $people $key }}
+
+
+    <div class="row my-5">
+        <div class="col-md-3 align-self-center">
+            <div class="ca-img-container">
+                <img class="img-fluid dark" src="{{ $person.img }}" alt="{{ $person.name }}" />
+                <div class="ca-img-border"></div>
+            </div>
+        </div>
+        <div class="col-md-9 align-self-center">
+            <h1 class="{{ .Get `link-color` }} mb-0 mt-0">
+                {{ $person.name }}
+            </h1>
+            <h3 class="mb-3">{{ index $person $lang "subline" }}</h3>
+            <!-- if there is a description in "inner", use that. otherwise pull from json -->
+            {{ if gt (len (trim .Inner "\n")) 0 }}
+            <p class="lead">{{ .Inner }}</p>
+            {{ else }}
+            <p class="lead">{{ index $person $lang "text" }}</p>
+            {{ end }}
+            <p class="lead">
+                {{ with $person.email }}
+                    [<a href="mailto:{{ . }}">
+                        {{ . }}
+                    </a>]
+                {{end}}
+            </p>
+        </div>
+    </div>
+</div>

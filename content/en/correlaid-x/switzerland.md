@@ -85,7 +85,7 @@ After studying Psychology and Economics, Dominik is now pursuing a PhD in Econom
     link-color="ca-red-text"
     x="1"
 >}}
-As a PhD candidate at the University of Zurich, Ivo investigates societal polarization. He is passionate about data literacy and using data science to help make fostering social change.
+As a PhD candidate at the University of Zurich, Ivo investigates societal polarization. He is passionate about data literacy and using data science to help fostering social change.
 {{< /person >}}
 
 {{< person 

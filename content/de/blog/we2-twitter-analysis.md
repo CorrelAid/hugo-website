@@ -78,19 +78,18 @@ Twitter activities
 ### Tweets & retweets stats
 
 In an initial step, we simply plot the number of tweets and retweets
-associated with the \#We2 Hashtag. As one can immediately see, this
-hashtag did not trend particular strong. In total we have less than 1000
+associated with the \#We2 hashtag. As is evident at first glance, the
+hashtag did not trend particularly strong with less than 1000
 tweets in total. When seperating the tweets in original tweets and
-retweets, we see a ratio of 1:3, which is actually not particular high.
-Thus, we are examining a hashtag, which did not spread like its pendants
-\#Metoo and \#MeTwo being extremely widespread and even changing public
+retweets, we find a ratio of 1:3 which is a rather low number compared to more prominent hashtags.
+Thus, \#We2 did not spread as widely as its pendants
+\#Metoo and \#MeTwo that were both highly popular and managed to change public
 discourse and politics on gender equality, sexual harassment, national
-identity and discrimination. Although trying to spark a discussion on
-multiple and particular european identities, the \#We2 hashtag was
-apparently not successful. In the following analyses we also try to
-answer the question, why this movement did not work out although other
-and quite comparable movement were extremely successful and sparked
-discussions on social and political problems.
+identity, and discrimination. Although trying to foster a discourse on
+multiple and particular European identities, the \#We2 hashtag was 
+apparently not as successful as its predecessor \#MeTwo. In the following analyses we try to
+answer the question of why this movement did not work out as intended, although other
+and quite comparable movements were extremely successful and sparked discussions on social and political issues.
 
 {{< image-subtitle image="we-2-analysis/figure-markdown_strict/unnamed-chunk-8-1.png" >}}{{< /image-subtitle >}}
 

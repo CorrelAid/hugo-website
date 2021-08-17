@@ -11,7 +11,6 @@ menu:
 translationKey: "contact"
 meta:
     title: "CorrelAid - Kontakt"
-    description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 1400 ehrenamtlichen Datenanalyst*innen."
     image: "509-correlaid-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---

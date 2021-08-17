@@ -15,7 +15,7 @@ meta:
 
 Kölle Alaaf! Join us on our quest to leverage the potential of data science for good in and around Cologne! Founded in 2020 we are one of the newest chapters bringing together people who are interested in data for a socially just and ecological sustainable future.
 
-We are building a local community in which we can exchange our knowledge, develop new skills, share the latest data science innovations and support non-profit organizations in and around Cologne. We meet regularly to code and learn R and Python and brainstorm ideas for projects. 
+We are building a local community in which we can exchange our knowledge, develop new skills, share the latest data science innovations and support non-profit organizations in and around Cologne. We meet regularly to code and learn R and Python and brainstorm ideas for projects. You can find the date for our next gatherings on <a href="https://www.meetup.com/de-DE/dataforgood-correlaid-koln">MeetUp</a> and at <a href="https://correlaid.org/de/events/">Events</a>.
 
 Our chapter appreciates every kind of support. No matter your background or (technical) skill set, there are plenty of opportunities to actively engage. We are currently developing our local structures. You have the opportunity to contribute your ideas, take responsibility and actively participate in the founding of a local group. 
 
