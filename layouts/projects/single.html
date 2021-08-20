@@ -2,10 +2,11 @@
 <div class="container">
     <div class="row">
         {{ $lang := $.Site.Language.Lang }}
-        {{ $projects := getJSON "https://raw.githubusercontent.com/CorrelAid/projectsdb/main/projects.json" }}
-        {{ $id := .Params.project_id_path }}
+        {{ $path := .Params.project_id | printf "https://correlaid.github.io/projects/%s.json"  }}
+        {{ $project := getJSON $path }}
         <div class="col-12 my-5">
-            {{ range where $projects "project_id_path" "==" $id }}
+
+            {{ with $project }}
             {{ if eq .published true }}
             <h1>{{ (index .title $lang ) }}</h1>
 
@@ -17,9 +18,6 @@
                     {{ $about := (index .organization.about $lang ) }}
                     <p>
                         {{ $about.text | markdownify }} 
-                        {{ if gt (len $about.source ) 0 }}
-                            ({{ $about.source | markdownify }})
-                        {{ end }}
                     </p>
                     <div class="row">
                         <p class="lead">
@@ -40,7 +38,8 @@
                 <p>{{ $content.impact | markdownify }}</p>
                 {{ end }}
                 
-                {{ if len .links | gt 1 }}
+                {{ $links := (index .links $lang )}}
+                {{ if gt (len $links) 1 }}
 
                     <h1 class="ca-blue-text">Links</h1>
                     
@@ -51,12 +50,21 @@
                     </p>
                     {{ end }}
 
-                    {{ range (index .links $lang )  }}
+                    {{ if eq (printf "%T" $links) "string" }}
+                        <p class="lead">
+                            <i class="fas fa-external-link-alt"></i>
+                            {{ $links | markdownify }}
+                        </p>
+                    {{ else }}
+                        {{ range (index .links $lang )  }}
                         <p class="lead">
                             <i class="fas fa-external-link-alt"></i>
                             {{ . | markdownify }}
                         </p>
+                        {{ end }}
                     {{ end }}
+                    
+
                 {{ end }}
 
                 {{ partial "project_team.html" . }}

@@ -18,12 +18,12 @@
             <h1>{{ i18n "projects-past" }}</h1>
 
             <div class="row">
-                {{ $projects := getJSON "https://raw.githubusercontent.com/CorrelAid/projectsdb/main/projects.json" }}
+                {{ $projects := getJSON "https://correlaid.github.io/projects/projects.json" }}
                 {{ range $projects }}
                     {{ if eq .published true }}
                         <div class="col-12 col-md-6">
                             <div class="correlaid-box-outer py-2">
-                            <a class="correlaid-box-inner" href="{{ .URL | absLangURL }}/projects/{{ lower .project_id_path }}">
+                            <a class="correlaid-box-inner" href="{{ .URL | absLangURL }}/projects/{{ lower .project_id }}">
                                 <h3>{{ .organization.name }}</h3>
                                 <p class="text-white">{{ (index .title $lang ) }} </p>
                             </a>
