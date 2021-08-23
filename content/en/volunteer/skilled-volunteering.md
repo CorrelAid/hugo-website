@@ -6,6 +6,7 @@ menu:
   volunteer:
     weight: 1
 description: "a description"
+img: "/volunteer/projects.jpg"
 weight: 1
 ---
 
