@@ -588,6 +588,18 @@ i.caveat {
     border-radius: 0;
 }
 
+.dropdown-toggle-split {
+    color: rgba(255,255,255,.5);
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+}
+
+.dropdown-toggle-split:focus, .dropdown-toggle-split:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 .dropdown-item {
     color: #ffffff;
     background-color: transparent;

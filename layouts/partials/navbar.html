@@ -83,49 +83,8 @@
           {{ i18n "for-volunteers" }}
         </a>
         <button
-          class="dropdown-toggle-split"
-          data-toggle="dropdown"
-          aria-haspopup="true"
-          aria-expanded="false"
-        >
-          <span class="sr-only">Toggle Dropdown</span>
-        </button>
-        <div class="dropdown-menu">
-          {{ range .Site.Menus.volunteer }}
-          <a class="dropdown-item" href="{{ .URL | absLangURL }}"
-            >{{ .Name }}</a
-          >
-          {{ end }}
-        </div>
-      </div>
-
-      <li class="nav-item dropdown">
-        <a
-          class="nav-link dropdown-toggle"
-          href="#"
-          id="about-us-dropdown"
-          role="button"
-          data-toggle="dropdown"
-          aria-haspopup="true"
-          aria-expanded="false"
-        >
-          {{ i18n "for-volunteers" }}
-        </a>
-        <div class="dropdown-menu" aria-labelledby="about-us-dropdown">
-          {{ range .Site.Menus.volunteer }}
-          <a class="dropdown-item" href="{{ .URL | absLangURL }}"
-            >{{ .Name }}</a
-          >
-          {{ end }}
-        </div>
-      </li>
-
-      <!-- Example split danger button -->
-      <div class="btn-group">
-        <button type="button" class="btn btn-danger">Action</button>
-        <button
           type="button"
-          class="btn btn-danger dropdown-toggle dropdown-toggle-split"
+          class="btn dropdown-toggle dropdown-toggle-split"
           data-toggle="dropdown"
           aria-haspopup="true"
           aria-expanded="false"
@@ -140,6 +99,7 @@
           {{ end }}
         </div>
       </div>
+
       <!-- /END FOR VOLUNTEERS -->
 
       {{ $currentPage := . }} {{ range .Site.Menus.main }}
