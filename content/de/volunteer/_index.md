@@ -9,4 +9,3 @@ draft: false
 
 Unser Netzwerk bietet verschiedene Möglichkeiten, miteinander in Kontakt zu treten und für Data4Good aktiv zu werden. Werde ein Teil unseres Netzwerks!
 
-

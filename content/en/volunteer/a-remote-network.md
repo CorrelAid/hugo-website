@@ -5,6 +5,7 @@ draft: false
 menu:
   volunteer:
     weight: 200
+translationKey: "remotenetwork"
 description: "a description"
 img: "volunteer/correlaidx.png"
 weight: 2

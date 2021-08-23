@@ -2,25 +2,21 @@
 {{ $lang := .Site.Language.Lang }}
 <div class="container">
     <div class="row">
-        <div class="col-12 mt-5 mb-2">
-            {{ .Content }}
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-12 mb-5">
+        <div class="col-12">
             <div class="row">
                 {{ range .Pages.ByWeight }}
                 <div class="col-12 col-md-4">
-                    <div class="local-group-box-outer py-2">
-                    <a class="local-group-box-inner" href="{{ .URL | absLangURL }}">
-                        <h3>{{ .Title }}</h3>
-                    </a>
-                    <p>{{ .Params.description }}</p>
+                    
+                    {{ partial "feature-volunteer.html" . }}
 
-                    </div>
                 </div>
                 {{ end }}
             </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            {{ .Content }}
         </div>
     </div>
 </div>

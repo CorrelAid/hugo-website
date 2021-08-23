@@ -1,9 +1,29 @@
 {{ define "main" }}
 <div class="container">
-    <div class="row">
-        <div class="col-12 my-5">
-            {{ .Content }}
+  <div class="row">
+    <div class="col-12 mt-5">{{ .Content }}</div>
+  </div>
+
+  
+  {{ if eq .File.BaseFileName "correlaidx" }}
+  <div class="row">
+    <div class="col-12 mb-5">
+      <div class="row">
+        {{ range (where .Site.RegularPages "Section" "in" (slice
+        "correlaidx")).ByTitle }}
+        <div class="col-12 col-md-6">
+          <div class="local-group-box-outer py-2">
+            <a class="local-group-box-inner" href="{{ .URL | absLangURL }}">
+              <h3>{{ .Title }}</h3>
+            </a>
+          </div>
         </div>
+        {{ end }}
+
+      </div>
     </div>
+  </div>
+      
+  {{ end }}
 </div>
 {{ end }}

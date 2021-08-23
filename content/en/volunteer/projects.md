@@ -5,6 +5,7 @@ draft: false
 menu:
   volunteer:
     weight: 1
+translationKey: "projects"
 description: "a description"
 img: "/volunteer/projects.jpg"
 weight: 1

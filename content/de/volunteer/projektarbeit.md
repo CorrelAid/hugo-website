@@ -5,8 +5,10 @@ draft: false
 menu:
   volunteer:
     weight: 1
+translationKey: "projects"
 description: "Eine Beschreibung"
 weight: 1
+img: "volunteer/correlaidx.png"
 ---
 
 # 1. Helfe gemeinnützigen Organisationen!
