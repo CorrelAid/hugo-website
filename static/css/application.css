@@ -581,6 +581,13 @@ i.caveat {
     border-radius: 0;
 }
 
+.dropdown-menu {
+    color: #ffffff;
+    background-color: #233140;
+    border: none;
+    border-radius: 0;
+}
+
 .dropdown-item {
     color: #ffffff;
     background-color: transparent;

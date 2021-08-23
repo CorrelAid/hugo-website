@@ -73,6 +73,75 @@
       </li>
       <!-- /END FOR NONPROFITS -->
 
+      <!-- FOR VOLUNTEERS -->
+      <div class="btn-group">
+        <a
+          class="nav-link"
+          type="button"
+          href="{{ .Site.Home.Permalink }}volunteer"
+        >
+          {{ i18n "for-volunteers" }}
+        </a>
+        <button
+          class="dropdown-toggle-split"
+          data-toggle="dropdown"
+          aria-haspopup="true"
+          aria-expanded="false"
+        >
+          <span class="sr-only">Toggle Dropdown</span>
+        </button>
+        <div class="dropdown-menu">
+          {{ range .Site.Menus.volunteer }}
+          <a class="dropdown-item" href="{{ .URL | absLangURL }}"
+            >{{ .Name }}</a
+          >
+          {{ end }}
+        </div>
+      </div>
+
+      <li class="nav-item dropdown">
+        <a
+          class="nav-link dropdown-toggle"
+          href="#"
+          id="about-us-dropdown"
+          role="button"
+          data-toggle="dropdown"
+          aria-haspopup="true"
+          aria-expanded="false"
+        >
+          {{ i18n "for-volunteers" }}
+        </a>
+        <div class="dropdown-menu" aria-labelledby="about-us-dropdown">
+          {{ range .Site.Menus.volunteer }}
+          <a class="dropdown-item" href="{{ .URL | absLangURL }}"
+            >{{ .Name }}</a
+          >
+          {{ end }}
+        </div>
+      </li>
+
+      <!-- Example split danger button -->
+      <div class="btn-group">
+        <button type="button" class="btn btn-danger">Action</button>
+        <button
+          type="button"
+          class="btn btn-danger dropdown-toggle dropdown-toggle-split"
+          data-toggle="dropdown"
+          aria-haspopup="true"
+          aria-expanded="false"
+        >
+          <span class="sr-only">Toggle Dropdown</span>
+        </button>
+        <div class="dropdown-menu">
+          {{ range .Site.Menus.volunteer }}
+          <a class="dropdown-item" href="{{ .URL | absLangURL }}"
+            >{{ .Name }}</a
+          >
+          {{ end }}
+        </div>
+      </div>
+      <!-- /END FOR VOLUNTEERS -->
+
       {{ $currentPage := . }} {{ range .Site.Menus.main }}
       <li class="nav-item">
         <a class="nav-link" href="{{ .URL }}" title="{{ .Title }}"
@@ -96,7 +165,7 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="media-dropdown">
           <a class="dropdown-item" href="{{ .Site.Home.Permalink }}blog"
-            ><i class="fas fa-pen"></i>  CorrelAid Blog</a
+            ><i class="fas fa-pen"></i> CorrelAid Blog</a
           >
           <a class="dropdown-item" href="https://codes.correlaid.org"
             ><i class="fas fa-laptop-code"></i> CorrelAid Codes</a
@@ -148,7 +217,14 @@
 
 <!-- CORRELAID X NAV -->
 <nav
-  class="navbar navbar-expand-md fixed-top second navbar-dark ca-x-gradient d-none d-md-block"
+  class="
+    navbar navbar-expand-md
+    fixed-top
+    second
+    navbar-dark
+    ca-x-gradient
+    d-none d-md-block
+  "
   id="correlaid-x-navbar"
 >
   <div class="collapse navbar-collapse">
