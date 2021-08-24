@@ -31,7 +31,7 @@ img: "volunteer/a-remote-network.png"
     title="Voller Lernmöglichkeiten" 
     color="ca-grey-text"
     img="/images/volunteer/lenovo.jpg"
-    href="/events/"
+    href="/de/events/"
     order="order-md-0"
 >}}
 - regelmäßige Workshops, Webinare und Events, z. B. zweiwöchentlicher [TidyTuesday Coding Hangout] (https://pretix.eu/correlaid/tidytuesday/) oder monatliches Open Online Data Meetup
@@ -48,7 +48,7 @@ img: "volunteer/a-remote-network.png"
     order="order-md-1"
 >}}
 - Vorträge, Workshops und Networking rund um Data4Good und Data Science
-- über 300 Teilnehmer*innen [letztes Jahr](/events/2020-11/correlcon/)
+- über 300 Teilnehmer*innen [letztes Jahr](/de/events/2020-11/correlcon/)
 - vollständig remote, Materialien für alle zugänglich [hier](https://docs.correlaid.org/correlcollection/correlcon)
 {{< /feature >}}
 
