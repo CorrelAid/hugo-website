@@ -11,3 +11,10 @@ In our skilled volunteering projects, we connect data scientist volunteers from 
 
 Over 2-6 months and in teams from 2-7 data scientists, our volunteers have tackled diverse data challenges of nonprofits: from data collection, data visualization and exploratory data analysis to automation, reporting and advanced statistical analyses using machine learning and deep learning techniques. 
 
+
+{{< contact
+    key="frie"
+    link-color="ca-green-text"
+>}}
+You can always reach out to Frie if you have any questions about our projects or if have an idea for a cool project!
+{{< /contact >}}
