@@ -17,7 +17,7 @@ CorrelAid has almost become a tradition in Konstanz!
 
 As the “birthplace” of CorrelAid, the small university town on the lake has always had a large circle of data science enthusiastic students. In order to fill this tradition with life, the Local Chapter Konstanz was founded in 2019 and has since then organized several R-workshops, data roundtables and data hackdays in cooperation with the data journalism team of SWR. Also, a project with the NPO “Studieren ohne Grenzen” (Study without borders) could be realized.
 
-There is a close cooperation of the local chapter with the Open-Data Portal of the city of Konstanz, for which for instance R and Python packages have been created. (Currently there is also an ongoing  project with the NPO "Stolpersteine" .) As you can see, Konstanz not only has CorrelAid tradition, its own local chapter and a lake to offer, but also a great Data4Good future.
+There is a close cooperation of the local chapter with the Open-Data Portal of the city of Konstanz, for which for instance R and Python packages have been created. Moreover, there is also currently an ongoing project with the NPO "Stolpersteine Konstanz". As you can see, Konstanz not only has CorrelAid tradition, its own local chapter and a lake to offer, but also a great Data4Good future.
 
 So feel free to contact us if you want to join us or just have a look!
 
