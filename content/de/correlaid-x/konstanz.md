@@ -57,7 +57,7 @@ Zoé studiert derzeit im Master "Social and Economic Data Science" an der Uni Ko
     name="Philipp"
     subline="CorrelAidX Konstanz"
     img="/images/people/philipp_bosch.jpg"
-    data-email="konstanz@correlaid.org"
+    data-email="phil.b@correlaid.org"
     data-to="Konstanz (CorrelAidX Konstanz)"
     link-color="ca-red-text"
     x="1"

@@ -52,7 +52,7 @@ Zoé is currently studying her Master’s degree in Social and Economic Data Sci
     name="Philipp"
     subline="CorrelAidX Konstanz"
     img="/images/people/philipp_bosch.jpg"
-    data-email="konstanz@correlaid.org"
+    data-email="phil.b@correlaid.org"
     data-to="Philipp (CorrelAidX Konstanz)"
     link-color="ca-red-text"
     x="1"
