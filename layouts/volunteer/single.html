@@ -1,10 +1,13 @@
 {{ define "main" }}
 <div class="container">
   <div class="row">
-    <div class="col-12 mt-5">{{ .Content }}</div>
-  </div>
+    <div class="col-12 mt-5">
+      <h1>{{ .Title }}</h1>
 
-  {{ if eq .File.BaseFileName "correlaidx" }}
+      {{ .Content }}
+    </div>
+  </div>
+  {{ $lang := .Site.Language.Lang }} {{ if eq .File.BaseFileName "correlaidx" }}
   <div class="row">
     <div class="col-12 mb-5">
       <div class="row">
@@ -19,6 +22,118 @@
         {{ end }}
       </div>
     </div>
+  </div>
+
+  {{ end }} {{ if in (slice "projektarbeit" "projects") .File.BaseFileName }}
+
+  <div class="row pb-5">
+    <div class="col-12 pb-4">
+      <h1>{{ i18n "projects-past" }}</h1>
+
+      <h2>{{ i18n "listen" }}</h2>
+    </div>
+    <div class="col-12 col-md-6">
+      <iframe
+        width="100%"
+        height="300"
+        scrolling="no"
+        frameborder="no"
+        allow="autoplay"
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/897390985&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+      ></iframe>
+      <div
+        style="
+          font-size: 10px;
+          color: #cccccc;
+          line-break: anywhere;
+          word-break: normal;
+          overflow: hidden;
+          white-space: nowrap;
+          text-overflow: ellipsis;
+          font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+            Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+          font-weight: 100;
+        "
+      >
+        <a
+          href="https://soundcloud.com/correlaid_podcast"
+          title="CorrelTalk - The CorrelAid Podcast"
+          target="_blank"
+          style="color: #cccccc; text-decoration: none"
+          >CorrelTalk - The CorrelAid Podcast</a
+        >
+        ·
+        <a
+          href="https://soundcloud.com/correlaid_podcast/about-correlaid-data-science-fur-die-wahlentscheidungshilfe-komunat"
+          title="About CorrelAid - Data Science für die Wahlentscheidungshilfe KOMUNAT"
+          target="_blank"
+          style="color: #cccccc; text-decoration: none"
+          >About CorrelAid - Data Science für die Wahlentscheidungshilfe
+          KOMUNAT</a
+        >
+      </div>
+    </div>
+
+    <div class="col-12 col-md-6">
+      <iframe
+        width="100%"
+        height="300"
+        scrolling="no"
+        frameborder="no"
+        allow="autoplay"
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/828162865&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+      ></iframe>
+      <div
+        style="
+          font-size: 10px;
+          color: #cccccc;
+          line-break: anywhere;
+          word-break: normal;
+          overflow: hidden;
+          white-space: nowrap;
+          text-overflow: ellipsis;
+          font-family: Interstate, Lucida Grande, Lucida Sans Unicode,
+            Lucida Sans, Garuda, Verdana, Tahoma, sans-serif;
+          font-weight: 100;
+        "
+      >
+        <a
+          href="https://soundcloud.com/correlaid_podcast"
+          title="CorrelTalk - The CorrelAid Podcast"
+          target="_blank"
+          style="color: #cccccc; text-decoration: none"
+          >CorrelTalk - The CorrelAid Podcast</a
+        >
+        ·
+        <a
+          href="https://soundcloud.com/correlaid_podcast/about-correlaid-automatisierte-reportgenerierung-fur-die-weltladen"
+          title="About CorrelAid - Automatisierte Reportgenerierung für die Weltläden"
+          target="_blank"
+          style="color: #cccccc; text-decoration: none"
+          >About CorrelAid - Automatisierte Reportgenerierung für die
+          Weltläden</a
+        >
+      </div>
+    </div>
+  </div>
+  <div class="row pb-5">
+    <div class="col-12 pb-4">
+      <h2>{{ i18n "read" }}</h2>
+    </div>
+    {{ $projects := getJSON "https://correlaid.github.io/projects/projects.json"
+    }} {{ range $projects }} {{ if eq .published true }}
+    <div class="col-12 col-md-6">
+      <div class="correlaid-box-outer py-2">
+        <a
+          class="correlaid-box-inner"
+          href="{{ .URL | absLangURL }}/projects/{{ lower .project_id }}"
+        >
+          <h3>{{ .organization.name }}</h3>
+          <p class="text-white">{{ (index .title $lang ) }}</p>
+        </a>
+      </div>
+    </div>
+    {{ end }} {{ end }}
   </div>
 
   {{ end }}

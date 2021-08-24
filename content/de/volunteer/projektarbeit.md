@@ -11,7 +11,6 @@ weight: 1
 img: "volunteer/projects.jpg"
 ---
 
-# 1. Helfe gemeinnützigen Organisationen!
 
 Die Kernaufgabe unserer Arbeit besteht darin, Datenanalyst:innen aus unserem Netzwerk in Skilled-Volunteering Projekten mit Non-Profit-Organisationen (NPO) zusammenzubringen. In unseren Projekten haben unsere Ehrenamtlichen die Möglichkeit, ihre Kenntnisse anzuwenden und gleichzeitig reale Probleme von realen Organisationen zu lösen. In Teams mit üblicherweise 2-7 Personen helfen Data Scientists von CorrelAid NPOs, Einblick in ihre eigenen Daten zu gewinnen und diese nutzbar zu machen. Üblicherweise starten jeden Monat ca. 1-4 Projekte.
 
@@ -26,3 +25,4 @@ Wenn du eine NPO kennst, die über Daten verfügt, aber nicht recht weiß, wie s
 >}}
 Abonniere den Newsletter!
 {{< /button >}}
+

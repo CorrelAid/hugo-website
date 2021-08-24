@@ -106,3 +106,7 @@ other = "Participate as a volunteer!"
 other = "Volunteering at CorrelAid"
 [volunteer-intro]
 other = "Our network provides different possibilities to network and get active for Data4Good. Become a part of our community!"
+[read]
+other = "To read"
+[listen]
+other = "To listen"
