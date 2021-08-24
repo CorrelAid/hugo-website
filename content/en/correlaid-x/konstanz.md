@@ -15,13 +15,37 @@ meta:
 
 CorrelAid has almost become a tradition in Konstanz!
 
-As the "birthplace" of CorrelAid, the small university town on the lake has always had a large circle of data science enthusiastic students. In order to fill this tradition with life, the Local Chapter Konstanz was founded in 2019 and has since then organized several R-workshops, data roundtables and data hackdays in cooperation with the data journalism team of SWR. Also a project with the NPO "Studieren ohne Grenzen" (Study without borders) could be realized.
+As the “birthplace” of CorrelAid, the small university town on the lake has always had a large circle of data science enthusiastic students. In order to fill this tradition with life, the Local Chapter Konstanz was founded in 2019 and has since then organized several R-workshops, data roundtables and data hackdays in cooperation with the data journalism team of SWR. Also, a project with the NPO “Studieren ohne Grenzen” (Study without borders) could be realized.
 
-A close cooperation with the Open-Data Portal of the City of Konstanz is planned for 2020. 
-As you can see, Konstanz has not only CorrelAid tradition, its own local chapter and a lake to offer, but also a great Data4Good future.
+There is a close cooperation of the local chapter with the Open-Data Portal of the city of Konstanz, for which for instance R and Python packages have been created. (Currently there is also an ongoing  project with the NPO "Stolpersteine" .) As you can see, Konstanz not only has CorrelAid tradition, its own local chapter and a lake to offer, but also a great Data4Good future.
 
-So feel free to contact us if you want to join us or just have a look.
+So feel free to contact us if you want to join us or just have a look!
 
+
+{{< person 
+    name="Marco"
+    subline="CorrelAidX Konstanz"
+    img="/images/people/marco_konstanz.jpg"
+    data-email="konstanz@correlaid.org"
+    data-to="Marco (CorrelAidX Konstanz)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Marco is studying Politics and Public administration in his Bachelor's degree at the University of Constance. The methodological and statistical focus has fascinated him since the beginning of his studies, so that data analysis and and the relation to Data Science became stronger and stronger. After Marco heard about CorrelAid, he wanted to start engaging in the local chapter of Constance. The versatility to help is large and the numerous projects inspire him. Currently, he is focused on building a good foundation in the world of data. He is also fascinated by CorrelAid's goal of doing something good with data. And of course he is looking forward to be in exchange with the other CorrelAidX chapters about ongoing projects and the goal to change the world a little bit together, based on Data4Good.
+{{< /person >}}
+
+
+{{< person 
+    name="Zoé"
+    subline="CorrelAidX Konstanz"
+    img="/images/people/zoe_konstanz.jpg"
+    data-email="konstanz@correlaid.org"
+    data-to="Zoé (CorrelAidX Konstanz)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Zoé is currently studying her Master’s degree in Social and Economic Data Science. Outside of academia, there is one perfect way to combine pure coding and helping others: Data4Good and thus CorrelAid.
+{{< /person >}}
 
 
 {{< person 
