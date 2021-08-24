@@ -6,13 +6,13 @@ menu:
   volunteer:
     weight: 1
 translationKey: "projects"
-description: "Ob Datenvisualisierung, Automatisierung, Modellierung, Consulting zum Datenmanagement oder etwas anderes: In unseren Data4Good-Projekten connecten wir dich und deine Teamkolleg*innen mit einer sozialen Organisation, die tatkräftige Unterstützung von Datenanalyst*innen benötigt. Gleichzeitig hast du die Möglichkeit, deine Fähigkeiten anzuwenden und auszubauen sowie dich mit anderen sozial engagierten Datenmenschen zu vernetzen. Unsere Projekte sind offen für alle, unabhängig von Hintergrund und bereits vorhandenen Datenkenntnissen."
+description: "Als Mitglied eines Data4Good-Projektteams unterstützt du zusammen mit anderen sozial engagierten Datenmenschen eine soziale Organisation bei ihrer Datenherausforderung. Gleichzeitig kannst du deine Skills anwenden und ausbauen."
 weight: 1
 img: "volunteer/projects.jpg"
 ---
 
 
-Die Kernaufgabe unserer Arbeit besteht darin, Datenanalyst:innen aus unserem Netzwerk in Skilled-Volunteering Projekten mit Non-Profit-Organisationen (NPO) zusammenzubringen. In einem Projekt hast du die Möglichkeit, deine Kenntnisse anzuwenden und gleichzeitig reale Probleme von realen Organisationen zu lösen. Im Team mit weiteren 2-7 Personen hilfst du deiner Partner-NPO, Einblick in ihre eigenen Daten zu gewinnen und diese nutzbar zu machen. Üblicherweise starten jeden Monat ca. 1-4 Projekte.
+Die Kernaufgabe unserer Arbeit besteht darin, Datenanalyst:innen aus unserem Netzwerk in Skilled-Volunteering Projekten mit Non-Profit-Organisationen (NPO) zusammenzubringen. In einem Projekt hast du die Möglichkeit, deine Kenntnisse anzuwenden und gleichzeitig reale Probleme von realen Organisationen zu lösen. Im Team mit weiteren 2-7 engagierten Data Scientists hilfst du deiner Partner-NPO, Einblick in ihre eigenen Daten zu gewinnen und diese nutzbar zu machen. Egal ob du noch ganz am Anfang stehst oder schon mehrere Jahre Berufserfahrung hast: unsere Projekte sind für alle offen, unabhängig von Hintergrund und Vorkenntnissen.
 
 Jedes Projekt wird über unseren [E-Mail-Newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) ausgeschrieben. Die Bewerbung ist für alle Datenanalyst:innen unseres Netzwerks offen und du kannst dich für all die Projekte bewerben, die du interessant findest. 
 
