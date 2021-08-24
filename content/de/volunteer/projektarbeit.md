@@ -12,11 +12,16 @@ img: "volunteer/projects.jpg"
 ---
 
 
-Die Kernaufgabe unserer Arbeit besteht darin, Datenanalyst:innen aus unserem Netzwerk in Skilled-Volunteering Projekten mit Non-Profit-Organisationen (NPO) zusammenzubringen. In unseren Projekten haben unsere Ehrenamtlichen die Möglichkeit, ihre Kenntnisse anzuwenden und gleichzeitig reale Probleme von realen Organisationen zu lösen. In Teams mit üblicherweise 2-7 Personen helfen Data Scientists von CorrelAid NPOs, Einblick in ihre eigenen Daten zu gewinnen und diese nutzbar zu machen. Üblicherweise starten jeden Monat ca. 1-4 Projekte.
+Die Kernaufgabe unserer Arbeit besteht darin, Datenanalyst:innen aus unserem Netzwerk in Skilled-Volunteering Projekten mit Non-Profit-Organisationen (NPO) zusammenzubringen. In einem Projekt hast du die Möglichkeit, deine Kenntnisse anzuwenden und gleichzeitig reale Probleme von realen Organisationen zu lösen. Im Team mit weiteren 2-7 Personen hilfst du deiner Partner-NPO, Einblick in ihre eigenen Daten zu gewinnen und diese nutzbar zu machen. Üblicherweise starten jeden Monat ca. 1-4 Projekte.
 
 Jedes Projekt wird über unseren [E-Mail-Newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) ausgeschrieben. Die Bewerbung ist für alle Datenanalyst:innen unseres Netzwerks offen und du kannst dich für all die Projekte bewerben, die du interessant findest. 
 
-Wenn du eine NPO kennst, die über Daten verfügt, aber nicht recht weiß, wie sie diese nutzen kann, lass es unser Projektkoordinationsteam rund um [Frie](mailto:projekte@correlaid.org) wissen! 
+
+## Dein Engagement
+
+- 2-6 Monate, ca. 4h pro Woche
+- zumeist remote Zusammenarbeit über Zoom und Slack
+- Open Source Technologien wie R, Python und Git/GitHub
 
 {{< button 
     btn-class="btn-dark"
@@ -26,3 +31,10 @@ Wenn du eine NPO kennst, die über Daten verfügt, aber nicht recht weiß, wie s
 Abonniere den Newsletter!
 {{< /button >}}
 
+
+{{< contact
+    key="frie"
+    link-color="ca-green-text"
+>}}
+Wenn du Fragen zu unseren Projekten hast oder wenn du eine Idee für ein Projekt hast, kannst du jederzeit Frie kontaktieren.
+{{< /contact >}}
