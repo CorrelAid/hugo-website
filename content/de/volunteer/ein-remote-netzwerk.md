@@ -12,30 +12,49 @@ img: "volunteer/a-remote-network.png"
 
 ---
 
-# 2. Tausch dich aus!
-
-## Jährliche Data4Good Konferenz
-Wir treffen uns ein- oder zweimal im Jahr zu unserer Data4Good-Minikonferenz (auch bekannt als "das Meetup"). Jede:r - unabhängig von Erfahrung oder Hintergrund - ist herzlich willkommen. Ob in Berlin, Duisburg, Bonn, Hamburg oder Mannheim: Bei Workshops, Diskussionen und Bar-Hopping kannst du viele gleichgesinnte Data Scientists treffen und neue Dinge lernen. Erfahrungsberichte zu den Meetups der letzten Jahre findest du [hier](/de/blog/meetup-berlin/), [hier](/de/blog/meetup-hh/), [hier](/de/blog/meetup-bonn/) und [hier](/de/blog/meetup-mannheim/). 
-
-
-## Slack Community 
-Egal ob ein Local Chapter in deiner Nähe ist oder nicht: Du kannst immer unserem Slack beitreten, dich dort mit gleichgesinnten Data Scientists vernetzen, im #help-Channel nach Unterstützung für deine Probleme fragen und einen tieferen Einblick in die Arbeit von CorrelAid erhalten. Schreibe eine Email an [info@correlaid.org](mailto:info@correlaid.org) und Phil oder Frie fügen dich gerne hinzu.
-
-{{< button 
-    btn-class="btn-dark"
-    href="mailto:info@correlaid.org"
-    justify="center"
->}}
-Tritt dem Slack bei!
-{{< /button >}}
-
-# Verwirrt?
-Willst du mehr darüber erfahren, wie du dich bei CorrelAid einbringen kannst, oder weißt du noch nicht, was das richtige für dich ist? Dann mach einen Termin mit unserem Community Manager Phil aus. Er freut sich darauf dich kennenzulernen, weitere Informationen mit dir zu teilen und in Form eines unverbindlichen Austauschs herauszufinden, was passend für dein Engagement wäre.
-
-{{< button 
-    btn-class="btn-dark"
+{{< feature 
+    title="Ein lebendiges Netzwerk" 
+    color="ca-grey-text"
+    img="/images/volunteer/community.jpg"
     href="mailto:phil.b@correlaid.org"
-    justify="center"
+    order="order-md-1"
 >}}
-Mach einen Termin!
-{{< /button >}}
+- tausche dich mit über 1000 Data4Good begeisterten Data Scientists in unserer aktiven Slack-Community aus
+- ehrenamtliches Core Team: beteilige dich an der Erstellung von Inhalten ([Blog](/blog), [technischer Blog](https://codes.correlaid.org), [Podcast](https://soundcloud.com/correlaid_podcast), soziale Medien), organisiere Veranstaltungen für das Netzwerk oder koordiniere Data4Good-Projekte
+- einmal im Jahr ein offline Social Event 
+{{< /feature >}}
+
+
+
+
+{{< feature 
+    title="Voller Lernmöglichkeiten" 
+    color="ca-grey-text"
+    img="/images/volunteer/lenovo.jpg"
+    href="/events/"
+    order="order-md-0"
+>}}
+- regelmäßige Workshops, Webinare und Events, z. B. zweiwöchentlicher [TidyTuesday Coding Hangout] (https://pretix.eu/correlaid/tidytuesday/) oder monatliches Open Online Data Meetup
+- Finde eine*n Mentor\*in (oder Mentee) in unserem Mentoring-Programm
+- Erhalte Support im #help Slack-Channel
+- Lizenzen für Projektteammitglieder für eine Data Science Lernplatform
+{{< /feature >}}
+
+{{< feature 
+    title="CorrelCon: jährliche Konferenz" 
+    color="ca-grey-text"
+    img="/images/volunteer/correlcon.png"
+    href="/events/2020-11/correlcon/"
+    order="order-md-1"
+>}}
+- Vorträge, Workshops und Networking rund um Data4Good und Data Science
+- über 300 Teilnehmer*innen [letztes Jahr](/events/2020-11/correlcon/)
+- vollständig remote, Materialien für alle zugänglich [hier](https://docs.correlaid.org/correlcollection/correlcon)
+{{< /feature >}}
+
+{{< contact
+    key="phil"
+    link-color="ca-green-text"
+>}}
+Willst du mehr darüber erfahren, wie du dich bei CorrelAid engagieren kannst? Möchtest du dem Slack Workspace beitreten? Brauchst du Informationen über ein bevorstehendes Event? Phil freut sich darauf, dich kennenzulernen, mehr Informationen mit dir zu teilen und herauszufinden, wo dein Platz bei CorrelAid sein kann.
+{{< /contact >}}
