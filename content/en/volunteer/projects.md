@@ -6,7 +6,7 @@ menu:
   volunteer:
     weight: 1
 translationKey: "projects"
-description: "a description"
+description: "Data visualization, automation, modelling, data management consulting: In our Data4Good projects, we connect you and your team mates with a social organization in need of support of data analysts. At the same time, the projects give you the opportunity to apply and expand your skills and connect with other socially-driven data folks. Our projects are open to everyone regardless of background and pre-existing data  skills."
 img: "/volunteer/projects.jpg"
 weight: 1
 ---

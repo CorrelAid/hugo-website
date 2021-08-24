@@ -1,14 +1,14 @@
 ---
-title: "Data4Good in der Praxis: Unsere Projekte"
+title: "Data4Good in der Praxis: Projekte"
 date: 2020-05-10T22:01:56+02:00
 draft: false
 menu:
   volunteer:
     weight: 1
 translationKey: "projects"
-description: "Eine Beschreibung"
+description: "Ob Datenvisualisierung, Automatisierung, Modellierung, Consulting zum Datenmanagement oder etwas anderes: In unseren Data4Good-Projekten connecten wir dich und deine Teamkolleg*innen mit einer sozialen Organisation, die tatkräftige Unterstützung von Datenanalyst*innen benötigt. Gleichzeitig hast du die Möglichkeit, deine Fähigkeiten anzuwenden und auszubauen sowie dich mit anderen sozial engagierten Datenmenschen zu vernetzen. Unsere Projekte sind offen für alle, unabhängig von Hintergrund und bereits vorhandenen Datenkenntnissen."
 weight: 1
-img: "volunteer/correlaidx.png"
+img: "volunteer/projects.jpg"
 ---
 
 # 1. Helfe gemeinnützigen Organisationen!

@@ -6,8 +6,8 @@ menu:
   volunteer:
     weight: 200
 translationKey: "remotenetwork"
-description: "a description"
-img: "volunteer/correlaidx.png"
+description: "Founded in a small town in southern Germany, CorrelAid has always been a remote-first network. A lot of our activities are accessible to anyone with a decent internet connection: our active Slack community, regular online workshops and meetups, a mentoring programme, our annual CorrelCon, and most of our Data4Good projects."
+img: "volunteer/a-remote-network.png"
 weight: 2
 ---
 

@@ -6,9 +6,9 @@ menu:
   volunteer:
     weight: 200
 translationKey: "remotenetwork"
-description: "Eine Beschreibung"
+description: "Gegründet im beschaulichen Konstanz am Bodensee, war CorrelAid schon immer ein remote-first Netzwerk. Auch 6 Jahre später sind viele unserer Aktivitäten für alle mit einer relativ guten Internetverbindung zugänglich: unsere aktive Slack-Community, regelmäßige Online-Workshops und Meetups, ein Mentoring-Programm, unsere jährliche CorrelCon und die meisten unserer Data4Good-Projekte."
 weight: 2
-img: "volunteer/correlaidx.png"
+img: "volunteer/a-remote-network.png"
 
 ---
 
