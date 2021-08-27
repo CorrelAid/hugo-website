@@ -56,15 +56,16 @@ class Event:
         self.title = self._parse_title(api_event)
         self.event_date = self._parse_date(api_event)
         self.event_time = self._parse_time(api_event)
+        # TODO: investigate: api_event.get('frontpage_text')??
         self.description = self._parse_description(
-            self._create_slug(api_event), self.is_subevent)
+            self._create_slug(api_event, self.is_subevent), self.is_subevent)
         self.save()
 
     def delete(self):
         self.is_deleted = True
         self.save()
 
-    @classmethod
+    @ classmethod
     def load(cls, filepath):
         with open(filepath) as f:
             contents = f.read()
@@ -120,7 +121,7 @@ class Event:
         with open(filepath, "w") as f:
             f.write(content)
 
-    @staticmethod
+    @ staticmethod
     def _parse_title(api_event):
         # TODO langs
         return (
@@ -129,13 +130,13 @@ class Event:
             or api_event["name"].get("de-informal")
         )
 
-    @staticmethod
+    @ staticmethod
     def _parse_date(api_event):
         date_from = parse_date(api_event["date_from"]).astimezone(
             pytz.timezone("CET"))
         return str(date_from.date())
 
-    @staticmethod
+    @ staticmethod
     def _parse_time(api_event):
         date_from = parse_date(api_event["date_from"]).astimezone(
             pytz.timezone("CET"))
@@ -145,7 +146,7 @@ class Event:
             pytz.timezone("CET"))
         return f"{date_from.strftime('%H:%M')} - {date_to.strftime('%H:%M')} CET"
 
-    @staticmethod
+    @ staticmethod
     def _parse_description(pretix_slug, is_subevent):
         # get html and create bs object
         r = requests.get("https://pretix.eu/correlaid/" + pretix_slug)
@@ -154,7 +155,7 @@ class Event:
 
         # navigate the tree.
         # each event has a header that is then followed by a div
-        # which contains the description in paragraphs (p)
+        # which contains the description as children tags
         if is_subevent:
             header = soup.select_one('main h2.subevent-head')
         else:
@@ -163,11 +164,11 @@ class Event:
 
         description_div = header.find_next_sibling('div')
         description_text = "\n\n".join(
-            [p.text for p in description_div.find_all('p')])
+            [str(child.string) for child in description_div.findChildren() if child.string is not None])
 
         return(description_text)
 
-    @staticmethod
+    @ staticmethod
     def _create_slug(api_event, is_subevent):
         if not is_subevent:
             # event
@@ -263,4 +264,4 @@ if __name__ == "__main__":
             events[pretix_slug].update(api_events[pretix_slug])
         for pretix_slug in set(events) - set(api_events):
             events[pretix_slug].delete()
-    print(events)
+    # print(events)
