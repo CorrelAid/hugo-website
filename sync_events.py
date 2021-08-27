@@ -4,13 +4,12 @@ import glob
 from dataclasses import dataclass
 from pathlib import Path
 from typing import List
-from bs4 import BeautifulSoup
+
 
 import requests
 import yaml
 from slugify import slugify
 from dateutil.parser import parse as parse_date
-import html2text
 
 
 @dataclass
@@ -45,8 +44,7 @@ class Event:
             correlaidx=False,
             languages=[],
             tags=[],
-            description=cls._parse_description(
-                pretix_slug, is_subevent=is_subevent),
+            description=cls._parse_description(api_event),
         )
 
         event.save()
@@ -57,9 +55,7 @@ class Event:
         self.title = self._parse_title(api_event)
         self.event_date = self._parse_date(api_event)
         self.event_time = self._parse_time(api_event)
-        # TODO: investigate: api_event.get('frontpage_text')??
-        self.description = self._parse_description(
-            self._create_slug(api_event, self.is_subevent), self.is_subevent)
+        self.description = self._parse_description(api_event)
         self.save()
 
     def delete(self):
@@ -148,28 +144,11 @@ class Event:
         return f"{date_from.strftime('%H:%M')} - {date_to.strftime('%H:%M')} CET"
 
     @ staticmethod
-    def _parse_description(pretix_slug, is_subevent):
+    def _parse_description(api_event, lang="en"):
         # get html and create bs object
-        r = requests.get("https://pretix.eu/correlaid/" + pretix_slug)
-        html = r.content
-        soup = BeautifulSoup(html, 'html.parser')
-
-        # navigate the tree.
-        # each event has a header that is then followed by a div
-        # which contains the description as children tags
-        if is_subevent:
-            header = soup.select_one('main h2.subevent-head')
-        else:
-            # for main events this is:
-            header = soup.select_one('main h2.content-header')
-
-        description_div = header.find_next_sibling('div')
-
-        # directly convert to markdown!
-        # Ignore converting links from HTML - otherwise we get weird results
-        h = html2text.HTML2Text()
-        h.ignore_links = True
-        return(h.handle(str(description_div)))
+        description_dict = api_event.get('frontpage_text')
+        description = description_dict[lang]
+        return(description)
 
     @ staticmethod
     def _create_slug(api_event, is_subevent):
