@@ -4,7 +4,7 @@
     <div class="col-12 mt-5 mb-2">
       {{ .Content }}
       <h1>{{ i18n "events-upcoming" }}</h1>
-      {{ range sort .Pages ".Params.eventdate" "desc"}}
+      {{ range sort .Pages ".Params.eventdate"}}
       {{ if (time .Params.eventDate).After now }} 
       {{ partial "event-summary.html" . }} {{ end }} {{ end }}
       <h1>{{ i18n "events-past" }}</h1>
