@@ -10,6 +10,7 @@ import requests
 import yaml
 from slugify import slugify
 from dateutil.parser import parse as parse_date
+import html2text
 
 
 @dataclass
@@ -163,10 +164,12 @@ class Event:
             header = soup.select_one('main h2.content-header')
 
         description_div = header.find_next_sibling('div')
-        description_text = "\n\n".join(
-            [str(child.string) for child in description_div.findChildren() if child.string is not None])
 
-        return(description_text)
+        # directly convert to markdown!
+        # Ignore converting links from HTML - otherwise we get weird results
+        h = html2text.HTML2Text()
+        h.ignore_links = True
+        return(h.handle(str(description_div)))
 
     @ staticmethod
     def _create_slug(api_event, is_subevent):
@@ -264,4 +267,4 @@ if __name__ == "__main__":
             events[pretix_slug].update(api_events[pretix_slug])
         for pretix_slug in set(events) - set(api_events):
             events[pretix_slug].delete()
-    # print(events)
+    print(events)
