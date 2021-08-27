@@ -3,6 +3,8 @@ import pytz
 import glob
 from dataclasses import dataclass
 from pathlib import Path
+from typing import List
+from bs4 import BeautifulSoup
 
 import requests
 import yaml
@@ -15,28 +17,26 @@ class Event:
     filename: str
     pretix_slug: str
     is_deleted: bool
+    is_subevent: bool
     title: str
     event_date: str
     event_time: str
     event_registration: str
     correlaidx: bool
-    languages: list[str]
-    tags: list[str]
+    languages: List[str]
+    tags: List[str]
     description: str
 
     @classmethod
     def create(cls, api_event):
-        if api_event.get("slug") is not None:
-            # event
-            pretix_slug = api_event["slug"]
-        else:
-            # subevent
-            pretix_slug = f"{api_event['event']}/{api_event['id']}"
+        is_subevent = api_event.get("slug") is None
+        pretix_slug = cls._create_slug(api_event, is_subevent)
 
         event = cls(
             filename=slugify(cls._parse_title(api_event), max_length=50),
             pretix_slug=pretix_slug,
             is_deleted=False,
+            is_subevent=is_subevent,
             title=cls._parse_title(api_event),
             event_date=cls._parse_date(api_event),
             event_time=cls._parse_time(api_event),
@@ -44,7 +44,8 @@ class Event:
             correlaidx=False,
             languages=[],
             tags=[],
-            description=cls._parse_description(api_event),
+            description=cls._parse_description(
+                pretix_slug, is_subevent=is_subevent),
         )
 
         event.save()
@@ -55,7 +56,8 @@ class Event:
         self.title = self._parse_title(api_event)
         self.event_date = self._parse_date(api_event)
         self.event_time = self._parse_time(api_event)
-        self.description = self._parse_description(api_event)
+        self.description = self._parse_description(
+            self._create_slug(api_event), self.is_subevent)
         self.save()
 
     def delete(self):
@@ -82,6 +84,7 @@ class Event:
             filename=filename,
             pretix_slug=front_matter["pretixSlug"],
             is_deleted=front_matter["isDeleted"],
+            is_subevent=front_matter["isSubevent"],
             title=front_matter["title"],
             event_date=front_matter["eventDate"],
             event_time=front_matter["eventTime"],
@@ -97,6 +100,7 @@ class Event:
             {
                 "pretixSlug": self.pretix_slug,
                 "isDeleted": self.is_deleted,
+                "isSubevent": self.is_subevent,
                 "title": self.title,
                 "eventDate": self.event_date,
                 "eventTime": self.event_time,
@@ -110,7 +114,8 @@ class Event:
 
         content = f"---\n{front_matter}---\n\n{self.description}"
 
-        filepath = Path(f"content/en/events/{self.event_date[:7]}/{self.filename}.md")
+        filepath = Path(
+            f"content/en/events/{self.event_date[:7]}/{self.filename}.md")
         filepath.parent.mkdir(parents=True, exist_ok=True)
         with open(filepath, "w") as f:
             f.write(content)
@@ -126,21 +131,51 @@ class Event:
 
     @staticmethod
     def _parse_date(api_event):
-        date_from = parse_date(api_event["date_from"]).astimezone(pytz.timezone("CET"))
+        date_from = parse_date(api_event["date_from"]).astimezone(
+            pytz.timezone("CET"))
         return str(date_from.date())
 
     @staticmethod
     def _parse_time(api_event):
-        date_from = parse_date(api_event["date_from"]).astimezone(pytz.timezone("CET"))
+        date_from = parse_date(api_event["date_from"]).astimezone(
+            pytz.timezone("CET"))
         if api_event.get("date_to") is None:
             return f"{date_from.strftime('%H:%M')} CET"
-        date_to = parse_date(api_event["date_to"]).astimezone(pytz.timezone("CET"))
+        date_to = parse_date(api_event["date_to"]).astimezone(
+            pytz.timezone("CET"))
         return f"{date_from.strftime('%H:%M')} - {date_to.strftime('%H:%M')} CET"
 
     @staticmethod
-    def _parse_description(api_event):
-        # TODO
-        return "nothing here..."
+    def _parse_description(pretix_slug, is_subevent):
+        # get html and create bs object
+        r = requests.get("https://pretix.eu/correlaid/" + pretix_slug)
+        html = r.content
+        soup = BeautifulSoup(html, 'html.parser')
+
+        # navigate the tree.
+        # each event has a header that is then followed by a div
+        # which contains the description in paragraphs (p)
+        if is_subevent:
+            header = soup.select_one('main h2.subevent-head')
+        else:
+            # for main events this is:
+            header = soup.select_one('main h2.content-header')
+
+        description_div = header.find_next_sibling('div')
+        description_text = "\n\n".join(
+            [p.text for p in description_div.find_all('p')])
+
+        return(description_text)
+
+    @staticmethod
+    def _create_slug(api_event, is_subevent):
+        if not is_subevent:
+            # event
+            pretix_slug = api_event["slug"]
+        else:
+            # subevent
+            pretix_slug = f"{api_event['event']}/{api_event['id']}"
+        return pretix_slug
 
 
 def load_events():
@@ -156,13 +191,13 @@ def load_events():
 
 
 if __name__ == "__main__":
+    # load events from file tree
     events = load_events()
 
     with open("PRETIX_API_TOKEN") as f:
         token = f.readline()
 
-    # events
-
+    # events from pretix
     response = requests.get(
         "https://pretix.eu/api/v1/organizers/correlaid/events/"
         "?is_future=true&has_subevents=false&is_public=true&live=true",
@@ -177,15 +212,19 @@ if __name__ == "__main__":
     api_events = {
         api_event["slug"]: api_event for api_event in response_json["results"]
     }
+
+    # what does that do?
+    # events new on pretix
     for pretix_slug in set(api_events) - set(events):
         Event.create(api_events[pretix_slug])
+    # events already on pretix and website
     for pretix_slug in set(api_events).intersection(set(events)):
         events[pretix_slug].update(api_events[pretix_slug])
+    # events deleted on pretix -> delete from website
     for pretix_slug in set(events) - set(api_events):
         events[pretix_slug].delete()
 
     # subevents
-
     response = requests.get(
         "https://pretix.eu/api/v1/organizers/correlaid/events/"
         "?has_subevents=true&is_public=true&live=true",
@@ -202,6 +241,7 @@ if __name__ == "__main__":
         for api_event in response_json["results"]
         if api_event["has_subevents"]
     ]:
+        # get subevents
         response = requests.get(
             f"https://pretix.eu/api/v1/organizers/correlaid/events/{slug}/subevents/"
             "?is_future=true&active=true",
@@ -223,3 +263,4 @@ if __name__ == "__main__":
             events[pretix_slug].update(api_events[pretix_slug])
         for pretix_slug in set(events) - set(api_events):
             events[pretix_slug].delete()
+    print(events)
