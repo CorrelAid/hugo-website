@@ -24,7 +24,8 @@
     </div>
   </div>
 
-  {{ end }} {{ if in (slice "projektarbeit" "projects") .File.BaseFileName }}
+  {{ end }} 
+  {{ if in (slice "projektarbeit" "projects") .File.BaseFileName }}
 
   <div class="row pb-5">
     <div class="col-12 pb-4">
@@ -120,8 +121,9 @@
     <div class="col-12 pb-4">
       <h2>{{ i18n "read" }}</h2>
     </div>
-    {{ $projects := getJSON "https://correlaid.github.io/projects/projects.json"
-    }} {{ range $projects }} {{ if eq .published true }}
+    {{ $projects := getJSON "https://correlaid.github.io/projects/projects.json"}} 
+    {{ range $projects }} 
+    {{ if eq .published true }}
     <div class="col-12 col-md-6">
       <div class="correlaid-box-outer py-2">
         <a
@@ -133,7 +135,8 @@
         </a>
       </div>
     </div>
-    {{ end }} {{ end }}
+    {{ end }} 
+    {{ end }}
   </div>
 
   {{ end }}
