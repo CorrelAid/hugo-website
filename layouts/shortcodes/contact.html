@@ -20,9 +20,9 @@
             <h3 class="mb-3">{{ index $person $lang "subline" }}</h3>
             <!-- if there is a description in "inner", use that. otherwise pull from json -->
             {{ if gt (len (trim .Inner "\n")) 0 }}
-            <p class="lead">{{ .Inner }}</p>
+            <p class="lead">{{ .Inner | markdownify }}</p>
             {{ else }}
-            <p class="lead">{{ index $person $lang "text" }}</p>
+            <p class="lead">{{ index $person $lang "text" | markdownify }}</p>
             {{ end }}
             <p class="lead">
                 {{ with $person.email }}
