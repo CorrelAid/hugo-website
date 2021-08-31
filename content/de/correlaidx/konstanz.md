@@ -17,18 +17,47 @@ In Konstanz hat CorrelAid fast schon Tradition!
 Als "Geburtsort" von CorrelAid gab es in der kleinen Uni-Stadt am See schon immer einen großen Kreis an Data-Science begeisterten Studierenden. 
 Um diese Tradition mit Leben zu füllen, hat sich 2019 das Local Chapter Konstanz gegründet und seitdem bereits mehrere R-Workshops, Datenstammtische sowie Data-HackDays in Kooperation mit dem Team Datenjournalismus des SWR veranstaltet. Auch ein Projekt mit der NPO "Studieren ohne Grenzen" konnte realisiert werden. 
 
-Für 2020 ist eine enge Kooperation mit dem Open-Data Portal der Stadt Konstanz geplant. 
+Seit 2020 besteht zudem eine enge Kooperation mit der Open-Data Stelle der Stadt Konstanz. Im Rahmen dieser Kooperation wurden zum Beispiel R- und Python Pakekte für die Open-Data API der Stadt geschrieben.
+Ein weiteres lokales Projekt in Kooperation mit "Stolpersteine-Konstanz" wurde 2021 gestartet.
+
 Ihr seht, Konstanz hat nicht nur CorrelAid-Tradition, ein eigenes Local Chapter und einen See zu bieten, sondern auch richtig viel Data4Good-Zukunft.
 
 Meldet euch also gerne wenn Ihr Lust habt bei uns mitzumischen oder einfach nur mal reinzuschnuppern.
 
 
 
+
+{{< person 
+    name="Marco"
+    subline="CorrelAidX Konstanz"
+    img="/images/people/marco_konstanz.jpg"
+    data-email="konstanz@correlaid.org"
+    data-to="Marco (CorrelAidX Konstanz)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Marco studiert im Bachelor Politik- und Verwaltungswissenschaften an der Universität Konstanz. Der methodische und statistische Schwerpunkt hat ihn seit Beginn des Studiums fasziniert, sodass die Datenanalyse und und der Bezug zu Data Science im Laufe des Studiums immer stärker wurde. Nachdem Marco von CorrelAid erfahren hat, wollte er sich natürlich direkt engagieren. Die Vielseitigkeit zu helfen ist groß und die zahlreichen Projekte begeistern ihn. Derzeit konzentriert er sich darauf, sich eine gute Grundlage in der Welt der Daten zu erarbeiten. Auch das Ziel von CorrelAid, mit Daten Gutes zu tun, fasziniert ihn. Er freut sich natürlich mit den anderen CorrelAidX Chaptern über laufende Projekte im Austausch zu stehen und die Welt anhand von Data4Good gemeinsam ein bißchen zu verändern.
+{{< /person >}}
+
+
+{{< person 
+    name="Zoé"
+    subline="CorrelAidX Konstanz"
+    img="/images/people/zoe_konstanz.jpg"
+    data-email="konstanz@correlaid.org"
+    data-to="Zoé (CorrelAidX Konstanz)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Zoé studiert derzeit im Master "Social and Economic Data Science" an der Uni Konstanz. Abseits der akademischen Welt ergibt sich für Sie mit Data4Good bei CorrelAid die perfekte Gelegenheit Coding mit dem Wunsch anderen zu helfen zu verbinden. 
+{{< /person >}}
+
+
 {{< person 
     name="Philipp"
     subline="CorrelAidX Konstanz"
     img="/images/people/philipp_bosch.jpg"
-    data-email="konstanz@correlaid.org"
+    data-email="phil.b@correlaid.org"
     data-to="Konstanz (CorrelAidX Konstanz)"
     link-color="ca-red-text"
     x="1"
