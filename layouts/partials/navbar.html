@@ -52,7 +52,7 @@
         <a
           class="nav-link dropdown-toggle"
           href="#"
-          id="about-us-dropdown"
+          id="for-nonprofits-dropdown"
           role="button"
           data-toggle="dropdown"
           aria-haspopup="true"
@@ -60,7 +60,7 @@
         >
           {{ i18n "for-nonprofits" }}
         </a>
-        <div class="dropdown-menu" aria-labelledby="about-us-dropdown">
+        <div class="dropdown-menu" aria-labelledby="for-nonprofits-dropdown">
           {{ range .Site.Menus.nonprofits }}
           <a class="dropdown-item" href="{{ .URL | absLangURL }}"
             >{{ .Name }}</a
