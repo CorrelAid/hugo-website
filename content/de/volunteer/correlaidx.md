@@ -5,12 +5,11 @@ draft: false
 menu:
   volunteer:
     weight: 200
-description: "Eine Beschreibung"
+description: "Bei unserer Mission, Data Science zu demokratisieren helfen unsere Lokalgruppen dabei, Data4Good in die Breite zu bringen. Bei unseren CorrelAid X Chaptern kannst du dich mit anderen datenbegeisterten Menschen vernetzen und echten Impact auf lokaler Ebene erzielen."
 weight: 3
 img: "volunteer/correlaidx.png"
 ---
 
-## CorrelAidX: Data4Good auf lokaler Ebene
 Im Rahmen von CorrelAidX haben wir - in Ergänzung zu unserem Remote Netzwerk - Local Chapter in einigen deutschen Städten sowie in den Niederlanden und in Paris gegründet. In einem Local Chapter können Data Scientists eigene Workshops und Hackathons organisieren sowie Projekte mit lokalen NPOs organisieren. Alle existierenden CorrelAidX-Chapter und Anlaufstellen findest du [hier](/de/correlaid-x).
 Wenn du ein eigenes Chapter gründen möchtest, oder wenn du wissen möchtest, ob es in deiner Umgebung andere Data4Good Data Scientists gibt, schreib eine E-Mail an unseren Community Manager [Phil](mailto:phil.b@correlaid.org). 
 
@@ -24,7 +23,7 @@ Wenn du ein eigenes Chapter gründen möchtest, oder wenn du wissen möchtest, o
     key="phil"
     link-color="ca-green-text"
 >}}
-a shorter text on why people short contact phil 
+Willst du mehr darüber erfahren, wie du dich bei CorrelAid engagieren kannst? Möchtest du dem Slack Workspace beitreten? Brauchst du Informationen über ein bevorstehendes Event? Phil freut sich darauf, dich kennenzulernen, mehr Informationen mit dir zu teilen und herauszufinden, wo dein Platz bei CorrelAid sein kann.
 {{< /contact >}}
 
 # Alle Lokalgruppen
