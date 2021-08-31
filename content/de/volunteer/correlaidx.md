@@ -5,6 +5,8 @@ draft: false
 menu:
   volunteer:
     weight: 200
+aliases:
+    - /de/correlaid-x/
 description: "Bei unserer Mission, Data Science zu demokratisieren helfen unsere Lokalgruppen dabei, Data4Good in die Breite zu bringen. Bei unseren CorrelAid X Chaptern kannst du dich mit anderen datenbegeisterten Menschen vernetzen und echten Impact auf lokaler Ebene erzielen."
 weight: 3
 img: "volunteer/correlaidx.png"

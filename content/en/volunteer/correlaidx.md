@@ -5,6 +5,10 @@ draft: false
 menu:
   volunteer:
     weight: 200
+aliases:
+    - /correlaid-x/
+    - /en/correlaid-x/
+
 description: "In our mission to democratize data science our CorrelAid X chapters help us to bring Data4Good near you. Connect with other data enthusiasts in your region and have real impact on the local level: CorrelAid X is the right place to start!"
 weight: 3
 img: "volunteer/correlaidx.png"
