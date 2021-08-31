@@ -5,5 +5,7 @@ RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
 RewriteCond %{HTTPS} !on
 RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
 RewriteRule ^blog/posts/(.*)$  blog/ [R=301,NC]
-RewriteRule ^correlaid-x/(.*)$  correlaidx/ [R=301,NC]
+RewriteRule ^correlaid-x/(.*)$  correlaidx/(.*)$ [R=301,NC]
+RewriteRule ^de/correlaid-x/(.*)$  de/correlaidx/(.*)$ [R=301,NC]
+
 ErrorDocument 404 /404/
