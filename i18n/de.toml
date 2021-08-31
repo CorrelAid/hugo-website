@@ -74,6 +74,8 @@ other       = "Mehr lesen"
 other       = "Von"
 [footer-newsletter]
 other       = "Du willst mehr über CorrelAid erfahren? Dann abonniere unseren "
+[newsletter-button]
+other       = "Abonniere den Newsletter!"
 [meetup-cta]
 other       = "Unser jährliches Meetup findet Ende November in Berlin statt!"
 [meetup-cta-button]
@@ -100,3 +102,11 @@ other = "Für Volunteers"
 other = "Webseite"
 [participate-volunteer]
 other = "Als Volunteer teilnehmen"
+[volunteer-header]
+other = "Volunteering bei CorrelAid"
+[volunteer-intro]
+other = "Unser Netzwerk bietet dir verschiedene Möglichkeiten, miteinander in Kontakt zu treten und für Data4Good aktiv zu werden. Werde ein Teil unseres Netzwerks!"
+[read]
+other = "Zum Lesen"
+[listen]
+other = "Zum Hören"

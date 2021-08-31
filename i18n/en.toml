@@ -72,6 +72,8 @@ other       = "Here are some helpful links instead:"
 other       = "Read more"
 [written-by]
 other       = "By"
+[newsletter-button]
+other       = "Sign up for the newsletter!"
 [footer-newsletter]
 other       = "You want to know more about CorrelAid? Sign up for our "
 [meetup-cta]
@@ -100,3 +102,11 @@ other = "For Volunteers"
 other = "Website"
 [participate-volunteer]
 other = "Participate as a volunteer!"
+[volunteer-header]
+other = "Volunteering at CorrelAid"
+[volunteer-intro]
+other = "Our network provides different possibilities to network and get active for Data4Good. Become a part of our community!"
+[read]
+other = "To read"
+[listen]
+other = "To listen"

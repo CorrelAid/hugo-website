@@ -17,9 +17,9 @@ meta:
     href="/en/projects/"
     order="order-md-0"
 >}}
-    We provide an innovative skilled-volunteering solution. Through our decentral
-	network of over {{< param num_members >}} skilled voluntary data scientists we democratize the potential of 
-	advanced data analysis and start projects with mission-driven organisations.
+We provide an innovative skilled-volunteering solution. Through our decentral
+network of over {{< param num_members >}} skilled voluntary data scientists we democratize the potential of 
+advanced data analysis and start projects with mission-driven organisations.
 {{< /feature >}}
 
 {{< feature 
@@ -29,9 +29,9 @@ meta:
     href="/en/volunteer/"
     order="order-md-1"
 >}}
-    We are training committed data scientists in data privacy, project management and the communication
-	with non-profit organizations. We are a platform to educate and connect the socially dedicated
-	data analysts of tomorrow.
+We are training committed data scientists in data privacy, project management and the communication
+with non-profit organizations. We are a platform to educate and connect the socially dedicated
+data analysts of tomorrow.
 {{< /feature >}}
 
 {{< feature 
@@ -41,6 +41,6 @@ meta:
     href="/en/education/"
     order="order-md-0"
 >}}
-    We advocate a broad dialogue about the potential and the limits of data science in civil society.
-	We demonstrate in talks, workshops and conferences how to do good with data. We offer education for NPOs on data strategy, data privacy, data collection and data analysis.
+We advocate a broad dialogue about the potential and the limits of data science in civil society.
+We demonstrate in talks, workshops and conferences how to do good with data. We offer education for NPOs on data strategy, data privacy, data collection and data analysis.
 {{< /feature >}}

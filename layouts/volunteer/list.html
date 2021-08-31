@@ -1,17 +1,30 @@
-{{ define "main" }}
-<div class="container">
-    {{ $lang := .Site.Language.Lang }}
-    <div class="row">
-        <div class="col-12 my-5">
-             <!--Design here-->
-            {{ .Content }}
+{{ define "main" }} {{ $lang := .Site.Language.Lang }}
+<div class="container mt-5 pt-5">
+  <div class="row">
+    <div class="col-12">
+      <h1>{{ i18n "volunteer-header"}}</h1>
 
-                        
-            <h1>Testimonials</h1>
-
-            {{ $testimonials := $.Site.Data.testimonials_volunteers }}
-            {{ partial "testimonial_carousel.html" (dict "context" . "testimonials" $testimonials.projects "id" "projectTestimonials" "lang" $lang ) }}
-        </div>
+      <p>{{ i18n "volunteer-intro"}}</p>
     </div>
+  </div>
+  <div class="row py-3 justify-content-center">
+    <button type="button" class="btn btn-ca-dark-blue btn-lg">
+      {{ i18n "newsletter-button"}}
+    </button>
+  </div>
+  <div class="row">
+    <div class="col-12">
+      <div class="row">
+        {{ range .Pages.ByWeight }}
+        <div class="col-12 col-md-4">
+          {{ partial "feature-volunteer.html" . }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12">{{ .Content }}</div>
+  </div>
 </div>
 {{ end }}
