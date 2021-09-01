@@ -106,6 +106,8 @@ other = "Als Volunteer teilnehmen"
 other = "Volunteering bei CorrelAid"
 [volunteer-intro]
 other = "Unser Netzwerk bietet dir verschiedene Möglichkeiten, miteinander in Kontakt zu treten und für Data4Good aktiv zu werden. Werde ein Teil unseres Netzwerks!"
+[volunteer-hitchhiker]
+other = "Wenn du mehr über unsere Arbeitsweise sowie unsere Prinzipien erfhren möchtest, click dich doch durch die Kacheln unten oder wirf einen Blick auf unseren [Hitchhiker's Guide to CorrelAid](https://docs.correlaid.org/wiki/hitchhikers-guide)."
 [read]
 other = "Zum Lesen"
 [listen]
