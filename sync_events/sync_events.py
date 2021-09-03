@@ -286,6 +286,27 @@ def fetch_api_events(token):
     return api_events
 
 
+def sync_events(Event, api_events):
+    events = Event.load_all()
+
+    created, updated, deleted = 0, 0, 0
+
+    # events new on pretix
+    for pretix_slug in set(api_events) - set(events):
+        Event.create(api_events[pretix_slug])
+        created += 1
+    # events already on pretix and website
+    for pretix_slug in set(api_events).intersection(set(events)):
+        events[pretix_slug].update(api_events[pretix_slug])
+        updated += 1
+    # events deleted on pretix -> delete from website
+    for pretix_slug in set(events) - set(api_events):
+        events[pretix_slug].delete()
+        deleted += 1
+
+    return created, updated, deleted
+
+
 if __name__ == "__main__":
     with open("../PRETIX_API_TOKEN") as f:
         token = f.readline()
@@ -293,14 +314,4 @@ if __name__ == "__main__":
     api_events = fetch_api_events(token)
 
     for Event in [EventEn, EventDe]:
-        events = Event.load_all()
-
-        # events new on pretix
-        for pretix_slug in set(api_events) - set(events):
-            Event.create(api_events[pretix_slug])
-        # events already on pretix and website
-        for pretix_slug in set(api_events).intersection(set(events)):
-            events[pretix_slug].update(api_events[pretix_slug])
-        # events deleted on pretix -> delete from website
-        for pretix_slug in set(events) - set(api_events):
-            events[pretix_slug].delete()
+        sync_events(Event, api_events)
