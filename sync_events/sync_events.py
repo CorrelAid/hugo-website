@@ -3,7 +3,6 @@ import pytz
 import glob
 from dataclasses import dataclass
 from pathlib import Path
-from typing import List
 
 import requests
 import yaml
@@ -22,8 +21,8 @@ class Event:
     event_time: str
     event_registration: str
     correlaidx: bool
-    languages: List[str]
-    tags: List[str]
+    languages: list[str]
+    tags: list[str]
     description: str
 
     base_dir = Path("../content/en/events/")
