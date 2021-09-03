@@ -13,7 +13,7 @@ from dateutil.parser import parse as parse_date
 
 
 @dataclass
-class Event:
+class EventEn:
     filename: str
     pretix_slug: str
     is_deleted: bool
@@ -28,6 +28,7 @@ class Event:
     description: str
 
     base_dir = "../content/en/events/"
+    lang_preference = ["en", "de-informal", "de"]
 
     def __str__(self):
         return f"{self.title} ({self.event_date}, {self.pretix_slug})"
@@ -47,7 +48,7 @@ class Event:
             event_time=cls._parse_time(api_event),
             event_registration="https://pretix.eu/correlaid/" + pretix_slug,
             correlaidx=False,
-            languages=[],
+            languages=cls._parse_languages(api_event),
             tags=[],
             description=cls._parse_description(api_event),
         )
@@ -142,14 +143,12 @@ class Event:
         with open(self.filepath, "w") as f:
             f.write(content)
 
-    @staticmethod
-    def _parse_title(api_event):
-        # TODO langs
-        return (
-            api_event["name"].get("en")
-            or api_event["name"].get("de")
-            or api_event["name"].get("de-informal")
-        )
+    @classmethod
+    def _parse_title(cls, api_event):
+        for lang in cls.lang_preference:
+            name = api_event["name"].get(lang)
+            if name is not None:
+                return name
 
     @staticmethod
     def _parse_date(api_event):
@@ -165,11 +164,21 @@ class Event:
         return f"{date_from.strftime('%H:%M')} - {date_to.strftime('%H:%M')} CET"
 
     @staticmethod
-    def _parse_description(api_event, lang="en"):
-        # get html and create bs object
-        description_dict = api_event.get("frontpage_text")
-        description = description_dict[lang]
-        return description
+    def _parse_languages(api_event):
+        langs = api_event["name"].keys()
+        if "en" in langs:
+            return ["english"]
+        elif "de" in langs or "de-informal" in langs:
+            return ["german"]
+        else:
+            return []
+
+    @classmethod
+    def _parse_description(cls, api_event):
+        for lang in cls.lang_preference:
+            frontpage_text = api_event["frontpage_text"].get(lang)
+            if frontpage_text is not None:
+                return frontpage_text
 
     @classmethod
     def _create_filename(cls, api_event):
@@ -189,6 +198,11 @@ class Event:
             # subevent
             pretix_slug = f"{api_event['event']}/{api_event['id']}"
         return pretix_slug
+
+
+class EventDe(EventEn):
+    base_dir = "../content/de/events/"
+    lang_preference = ["de-informal", "de", "en"]
 
 
 def fetch_api_events(token):
@@ -249,19 +263,20 @@ def fetch_api_events(token):
 
 
 if __name__ == "__main__":
-    events = Event.load_all()
-
     with open("../PRETIX_API_TOKEN") as f:
         token = f.readline()
 
     api_events = fetch_api_events(token)
 
-    # events new on pretix
-    for pretix_slug in set(api_events) - set(events):
-        Event.create(api_events[pretix_slug])
-    # events already on pretix and website
-    for pretix_slug in set(api_events).intersection(set(events)):
-        events[pretix_slug].update(api_events[pretix_slug])
-    # events deleted on pretix -> delete from website
-    for pretix_slug in set(events) - set(api_events):
-        events[pretix_slug].delete()
+    for Event in [EventEn, EventDe]:
+        events = Event.load_all()
+
+        # events new on pretix
+        for pretix_slug in set(api_events) - set(events):
+            Event.create(api_events[pretix_slug])
+        # events already on pretix and website
+        for pretix_slug in set(api_events).intersection(set(events)):
+            events[pretix_slug].update(api_events[pretix_slug])
+        # events deleted on pretix -> delete from website
+        for pretix_slug in set(events) - set(api_events):
+            events[pretix_slug].delete()

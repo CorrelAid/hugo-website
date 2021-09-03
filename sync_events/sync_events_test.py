@@ -5,14 +5,14 @@ import random
 
 import pytest
 
-from sync_events import Event
+from sync_events import EventEn
 
 
 @pytest.fixture
 def TestEvent():
     dirpath = tempfile.mkdtemp()
 
-    class E(Event):
+    class E(EventEn):
         base_dir = dirpath
 
     yield E
@@ -104,7 +104,7 @@ def test_create_update_delete_subevent(TestEvent):
         == "https://pretix.eu/correlaid/open-onboarding/1234322"
     )
     assert event.correlaidx == False
-    assert event.languages == []
+    assert event.languages == ["english"]
     assert event.tags == []
     assert (
         event.description
