@@ -5,7 +5,6 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import List
 
-
 import requests
 import yaml
 from slugify import slugify
@@ -26,6 +25,8 @@ class Event:
     languages: List[str]
     tags: List[str]
     description: str
+
+    base_dir = Path("../content/en/events/")
 
     @classmethod
     def create(cls, api_event):
@@ -93,6 +94,10 @@ class Event:
             description=description,
         )
 
+    @property
+    def filepath(self):
+        return self.base_dir / Path(f"{self.event_date[:7]}/{self.filename}.md")
+
     def save(self):
         front_matter = yaml.dump(
             {
@@ -112,9 +117,8 @@ class Event:
 
         content = f"---\n{front_matter}---\n\n{self.description}"
 
-        filepath = Path(f"content/en/events/{self.event_date[:7]}/{self.filename}.md")
-        filepath.parent.mkdir(parents=True, exist_ok=True)
-        with open(filepath, "w") as f:
+        self.filepath.parent.mkdir(parents=True, exist_ok=True)
+        with open(self.filepath, "w") as f:
             f.write(content)
 
     @staticmethod
@@ -173,7 +177,7 @@ if __name__ == "__main__":
     # load events from file tree
     events = load_events()
 
-    with open("PRETIX_API_TOKEN") as f:
+    with open("../PRETIX_API_TOKEN") as f:
         token = f.readline()
 
     # events from pretix
