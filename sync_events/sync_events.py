@@ -2,7 +2,9 @@ import os
 import pytz
 import glob
 from dataclasses import dataclass
+import random
 from pathlib import Path
+import string
 
 import requests
 import yaml
@@ -25,7 +27,10 @@ class Event:
     tags: list[str]
     description: str
 
-    base_dir = Path("../content/en/events/")
+    base_dir = "../content/en/events/"
+
+    def __str__(self):
+        return f"{self.title} ({self.event_date}, {self.pretix_slug})"
 
     @classmethod
     def create(cls, api_event):
@@ -33,7 +38,7 @@ class Event:
         pretix_slug = cls._create_slug(api_event, is_subevent)
 
         event = cls(
-            filename=slugify(cls._parse_title(api_event), max_length=50),
+            filename=cls._create_filename(api_event),
             pretix_slug=pretix_slug,
             is_deleted=False,
             is_subevent=is_subevent,
@@ -48,6 +53,7 @@ class Event:
         )
 
         event.save()
+        print(f"[created] {event}")
         return event
 
     def update(self, api_event):
@@ -57,13 +63,17 @@ class Event:
         self.event_time = self._parse_time(api_event)
         self.description = self._parse_description(api_event)
         self.save()
+        print(f"[updated] {self}")
 
     def delete(self):
         self.is_deleted = True
         self.save()
+        print(f"[deleted] {self}")
 
     @classmethod
     def load(cls, filepath):
+        filepath = Path(filepath)
+
         with open(filepath) as f:
             contents = f.read()
             _, contents = contents.split("---", 1)
@@ -93,9 +103,21 @@ class Event:
             description=description,
         )
 
+    @classmethod
+    def load_all(cls):
+        events = {}
+        for path in [p for p in glob.glob(cls.base_dir + "*/*.md")]:
+            event = cls.load(path)
+            if event is None:
+                # not a pretix event
+                continue
+            events[event.pretix_slug] = event
+
+        return events
+
     @property
     def filepath(self):
-        return self.base_dir / Path(f"{self.event_date[:7]}/{self.filename}.md")
+        return Path(self.base_dir) / (f"{self.event_date[:7]}/{self.filename}.md")
 
     def save(self):
         front_matter = yaml.dump(
@@ -149,6 +171,15 @@ class Event:
         description = description_dict[lang]
         return description
 
+    @classmethod
+    def _create_filename(cls, api_event):
+        title = cls._parse_title(api_event)
+        filename = slugify(title, max_length=50)
+        # filename must be unique (we can have multiple events with same title per month)
+        uid = "".join(random.choices(string.ascii_lowercase + string.digits, k=5))
+        filename += "--" + uid
+        return filename
+
     @staticmethod
     def _create_slug(api_event, is_subevent):
         if not is_subevent:
@@ -160,25 +191,7 @@ class Event:
         return pretix_slug
 
 
-def load_events():
-    events = {}
-    for path in [Path(p) for p in glob.glob("content/en/events/*/*.md")]:
-        event = Event.load(path)
-        if event is None:
-            # not a pretix event
-            continue
-        events[event.pretix_slug] = event
-
-    return events
-
-
-if __name__ == "__main__":
-    # load events from file tree
-    events = load_events()
-
-    with open("../PRETIX_API_TOKEN") as f:
-        token = f.readline()
-
+def fetch_api_events(token):
     # events from pretix
     response = requests.get(
         "https://pretix.eu/api/v1/organizers/correlaid/events/"
@@ -194,17 +207,6 @@ if __name__ == "__main__":
     api_events = {
         api_event["slug"]: api_event for api_event in response_json["results"]
     }
-
-    # what does that do?
-    # events new on pretix
-    for pretix_slug in set(api_events) - set(events):
-        Event.create(api_events[pretix_slug])
-    # events already on pretix and website
-    for pretix_slug in set(api_events).intersection(set(events)):
-        events[pretix_slug].update(api_events[pretix_slug])
-    # events deleted on pretix -> delete from website
-    for pretix_slug in set(events) - set(api_events):
-        events[pretix_slug].delete()
 
     # subevents
     response = requests.get(
@@ -236,13 +238,30 @@ if __name__ == "__main__":
             raise Exception("pagination not implemented")
 
         api_events = {
-            f"{api_event['event']}/{api_event['id']}": api_event
-            for api_event in response_json["results"]
+            **api_events,
+            **{
+                f"{api_event['event']}/{api_event['id']}": api_event
+                for api_event in response_json["results"]
+            },
         }
-        for pretix_slug in set(api_events) - set(events):
-            Event.create(api_events[pretix_slug])
-        for pretix_slug in set(api_events).intersection(set(events)):
-            events[pretix_slug].update(api_events[pretix_slug])
-        for pretix_slug in set(events) - set(api_events):
-            events[pretix_slug].delete()
-    print(events)
+
+    return api_events
+
+
+if __name__ == "__main__":
+    events = Event.load_all()
+
+    with open("../PRETIX_API_TOKEN") as f:
+        token = f.readline()
+
+    api_events = fetch_api_events(token)
+
+    # events new on pretix
+    for pretix_slug in set(api_events) - set(events):
+        Event.create(api_events[pretix_slug])
+    # events already on pretix and website
+    for pretix_slug in set(api_events).intersection(set(events)):
+        events[pretix_slug].update(api_events[pretix_slug])
+    # events deleted on pretix -> delete from website
+    for pretix_slug in set(events) - set(api_events):
+        events[pretix_slug].delete()
