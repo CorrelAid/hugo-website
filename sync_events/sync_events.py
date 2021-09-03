@@ -1,15 +1,38 @@
 import os
 import pytz
 import glob
-from dataclasses import dataclass
 import random
-from pathlib import Path
 import string
+from dataclasses import dataclass
+from pathlib import Path
 
 import requests
 import yaml
+import html2text
 from slugify import slugify
 from dateutil.parser import parse as parse_date
+from bs4 import BeautifulSoup
+
+
+def is_subevent(api_event):
+    assert api_event.get("name") is not None  # small sanity check
+    return api_event.get("slug") is None
+
+
+def try_scrape_description(pretix_slug):
+    try:
+        response = requests.get("https://pretix.eu/correlaid/" + pretix_slug)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, "html.parser")
+        description_div = soup.select_one("main h2.content-header").find_next_sibling(
+            "div"
+        )
+        h = html2text.HTML2Text()
+        h.ignore_links = True
+        return h.handle(str(description_div))
+    except Exception as e:
+        print(f"ERROR scraping event description ({pretix_slug}): {e}")
+        return ""
 
 
 @dataclass
@@ -35,14 +58,12 @@ class EventEn:
 
     @classmethod
     def create(cls, api_event):
-        is_subevent = api_event.get("slug") is None
-        pretix_slug = cls._create_pretix_slug(api_event, is_subevent)
-
+        pretix_slug = cls._create_pretix_slug(api_event)
         event = cls(
             filename=cls._create_filename(api_event),
             pretix_slug=pretix_slug,
             is_deleted=False,
-            is_subevent=is_subevent,
+            is_subevent=is_subevent(api_event),
             title=cls._parse_title(api_event),
             event_date=cls._parse_date(api_event),
             event_time=cls._parse_time(api_event),
@@ -175,10 +196,17 @@ class EventEn:
 
     @classmethod
     def _parse_description(cls, api_event):
-        for lang in cls.lang_preference:
-            frontpage_text = api_event["frontpage_text"].get(lang)
-            if frontpage_text is not None:
-                return frontpage_text
+        if is_subevent(api_event):
+            # for subevents the api_event contains the description
+            for lang in cls.lang_preference:
+                frontpage_text = api_event["frontpage_text"].get(lang)
+                if frontpage_text is not None:
+                    return frontpage_text
+            return ""
+        else:
+            # for events the api_event does not contain the description
+            # let's try to scrape it
+            return try_scrape_description(api_event["slug"])
 
     @classmethod
     def _create_filename(cls, api_event):
@@ -190,8 +218,8 @@ class EventEn:
         return filename
 
     @staticmethod
-    def _create_pretix_slug(api_event, is_subevent):
-        if is_subevent:
+    def _create_pretix_slug(api_event):
+        if is_subevent(api_event):
             return f"{api_event['event']}/{api_event['id']}"
         return api_event["slug"]
 

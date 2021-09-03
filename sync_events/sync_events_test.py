@@ -2,10 +2,12 @@ import tempfile
 from pathlib import Path
 import shutil
 import random
+from unittest import mock
+from collections import namedtuple
 
 import pytest
 
-from sync_events import EventEn
+from sync_events import EventEn, try_scrape_description
 
 
 @pytest.fixture
@@ -155,7 +157,9 @@ def test_create_update_delete_subevent(TestEvent):
         event.description
         == "Join our Open Onboarding Call to learn more about the structure..."
     )
-    expected_filepath = Path(TestEvent.base_dir) / "2021-10/open-onboarding-call--e41jr.md"
+    expected_filepath = (
+        Path(TestEvent.base_dir) / "2021-10/open-onboarding-call--e41jr.md"
+    )
     assert expected_filepath.exists()
 
     api_subevent["name"]["en"] = "A new name"
@@ -168,3 +172,16 @@ def test_create_update_delete_subevent(TestEvent):
     event.delete()
     assert event.is_deleted == True
     assert expected_filepath.exists()
+
+
+@mock.patch("requests.get")
+def test_try_scrape_description(mock_requests_get):
+    with open("./jena-workshop.html") as f:
+        pretix_event_html = f.read()
+
+    mock_requests_get.return_value = mock.Mock(text=pretix_event_html)
+
+    description = try_scrape_description("jena-workshop")
+    assert description.startswith(
+        "I don’t need to know everything, I just need to know where to"
+    )
