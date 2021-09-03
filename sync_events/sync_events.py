@@ -19,6 +19,12 @@ def is_subevent(api_event):
     return api_event.get("slug") is None
 
 
+def get_pretix_slug(api_event):
+    if is_subevent(api_event):
+        return f"{api_event['event']}/{api_event['id']}"
+    return api_event["slug"]
+
+
 def try_scrape_description(pretix_slug):
     try:
         response = requests.get("https://pretix.eu/correlaid/" + pretix_slug)
@@ -58,7 +64,7 @@ class EventEn:
 
     @classmethod
     def create(cls, api_event):
-        pretix_slug = cls._create_pretix_slug(api_event)
+        pretix_slug = get_pretix_slug(api_event)
         event = cls(
             filename=cls._create_filename(api_event),
             pretix_slug=pretix_slug,
@@ -217,12 +223,6 @@ class EventEn:
         filename += "--" + uid
         return filename
 
-    @staticmethod
-    def _create_pretix_slug(api_event):
-        if is_subevent(api_event):
-            return f"{api_event['event']}/{api_event['id']}"
-        return api_event["slug"]
-
 
 class EventDe(EventEn):
     base_dir = "../content/de/events/"
@@ -243,7 +243,7 @@ def fetch_api_events(token):
         raise Exception("pagination not implemented")
 
     api_events = {
-        api_event["slug"]: api_event for api_event in response_json["results"]
+        get_pretix_slug(api_event): api_event for api_event in response_json["results"]
     }
 
     # subevents
@@ -278,7 +278,7 @@ def fetch_api_events(token):
         api_events = {
             **api_events,
             **{
-                f"{api_event['event']}/{api_event['id']}": api_event
+                get_pretix_slug(api_event): api_event
                 for api_event in response_json["results"]
             },
         }
