@@ -31,12 +31,12 @@ def get_api_event():
         "live": True,
         "testmode": False,
         "currency": "EUR",
-        "date_from": "2021-03-29T19:00:00+02:00",
-        "date_to": "2021-03-29T20:30:00+02:00",
+        "date_from": "2025-06-29T19:00:00+02:00",
+        "date_to": "2025-06-29T20:30:00+02:00",
         "date_admission": None,
         "is_public": True,
-        "presale_start": "2021-03-23T00:00:00+01:00",
-        "presale_end": "2021-03-30T00:00:00+02:00",
+        "presale_start": "2025-06-23T00:00:00+01:00",
+        "presale_end": "2025-06-30T00:00:00+02:00",
         "location": {"en": "Online / Zoom"},
         "geo_lat": 43.5904719,
         "geo_lon": 3.8595132,
@@ -68,8 +68,8 @@ def get_api_subevent():
     return {
         "id": 1234322,
         "name": {"en": "Open Onboarding Call"},
-        "date_from": "2021-10-04T19:00:00+02:00",
-        "date_to": "2021-10-04T20:00:00+02:00",
+        "date_from": "2025-10-04T19:00:00+02:00",
+        "date_to": "2025-10-04T20:00:00+02:00",
         "active": True,
         "date_admission": None,
         "presale_start": None,
@@ -87,7 +87,7 @@ def get_api_subevent():
         "variation_price_overrides": [],
         "meta_data": {},
         "seat_category_mapping": {},
-        "last_modified": "2021-04-29T10:47:01.307952+02:00",
+        "last_modified": "2025-04-29T10:47:01.307952+02:00",
     }
 
 
@@ -101,7 +101,7 @@ def test_save_load(TestEvent):
         is_deleted=False,
         is_subevent=False,
         title="My nice event",
-        event_date="2021-11-12",
+        event_date="2025-11-12",
         event_time="7:00 - 8:00 CET",
         event_registration="https://pretix.eu/correlaid/abcde/ ",
         correlaidx=False,
@@ -111,7 +111,7 @@ def test_save_load(TestEvent):
     )
     event.save()
 
-    expected_filepath = Path(TestEvent.base_dir) / "2021-11/my-nice-event.md"
+    expected_filepath = Path(TestEvent.base_dir) / "2025-11/my-nice-event.md"
     assert expected_filepath.exists()
     assert event.filepath == expected_filepath
 
@@ -131,14 +131,14 @@ def test_save_load(TestEvent):
     assert loaded_event.description == event.description
 
 
-def test_load_all(TestEvent):
+def test_load_all_future(TestEvent):
     event_1 = TestEvent(
         filename="my-nice-event",
         pretix_slug="abcde",
         is_deleted=False,
         is_subevent=False,
         title="My nice event",
-        event_date="2021-11-12",
+        event_date="2025-11-12",
         event_time="7:00 - 8:00 CET",
         event_registration="https://pretix.eu/correlaid/abcde/ ",
         correlaidx=False,
@@ -147,7 +147,7 @@ def test_load_all(TestEvent):
         description="This will be a very nice event",
     )
     event_1.save()
-    expected_filepath = Path(TestEvent.base_dir) / "2021-11/my-nice-event.md"
+    expected_filepath = Path(TestEvent.base_dir) / "2025-11/my-nice-event.md"
     assert expected_filepath.exists()
 
     event_2 = TestEvent(
@@ -156,7 +156,7 @@ def test_load_all(TestEvent):
         is_deleted=False,
         is_subevent=False,
         title="My nice event 2",
-        event_date="2021-12-12",
+        event_date="2025-12-12",
         event_time="7:00 - 8:00 CET",
         event_registration="https://pretix.eu/correlaid/fghij/ ",
         correlaidx=False,
@@ -165,10 +165,29 @@ def test_load_all(TestEvent):
         description="This will be a very nice event 2",
     )
     event_2.save()
-    expected_filepath = Path(TestEvent.base_dir) / "2021-12/my-nice-event-2.md"
+    expected_filepath = Path(TestEvent.base_dir) / "2025-12/my-nice-event-2.md"
     assert expected_filepath.exists()
 
-    events = TestEvent.load_all()
+    # in the past
+    event_3 = TestEvent(
+        filename="my-nice-event-3",
+        pretix_slug="klmno",
+        is_deleted=False,
+        is_subevent=False,
+        title="My nice event 3",
+        event_date="1991-12-12",
+        event_time="7:00 - 8:00 CET",
+        event_registration="https://pretix.eu/correlaid/klmno/ ",
+        correlaidx=False,
+        languages=["english"],
+        tags=[],
+        description="This will be a very nice event 3",
+    )
+    event_3.save()
+    expected_filepath = Path(TestEvent.base_dir) / "1991-12/my-nice-event-3.md"
+    assert expected_filepath.exists()
+
+    events = TestEvent.load_all_future()
 
     assert len(events) == 2
     assert events["abcde"].title == "My nice event"
@@ -195,7 +214,7 @@ def test_create_update_delete_event(mock_try_scrape_description, TestEvent):
         event.title
         == 'CorrelAidX Stuttgart talk: „Modeling the Covid-19 pandemic – How we estimate undetected cases for the Dunkelzifferradar dashboard"'
     )
-    assert event.event_date == "2021-03-29"
+    assert event.event_date == "2025-06-29"
     assert event.event_time == "19:00 - 20:30 CET"
     assert event.event_registration == "https://pretix.eu/correlaid/3gw3v"
     assert event.correlaidx == False
@@ -204,7 +223,7 @@ def test_create_update_delete_event(mock_try_scrape_description, TestEvent):
     assert event.description == "a nice event description"
     expected_filepath = (
         Path(TestEvent.base_dir)
-        / "2021-03/correlaidx-stuttgart-talk-modeling-the-covid-19-pa--e41jr.md"
+        / "2025-06/correlaidx-stuttgart-talk-modeling-the-covid-19-pa--e41jr.md"
     )
     assert expected_filepath.exists()
 
@@ -234,7 +253,7 @@ def test_create_update_delete_subevent(TestEvent):
     assert event.is_deleted == False
     assert event.is_subevent == True
     assert event.title == "Open Onboarding Call"
-    assert event.event_date == "2021-10-04"
+    assert event.event_date == "2025-10-04"
     assert event.event_time == "19:00 - 20:00 CET"
     assert (
         event.event_registration
@@ -248,7 +267,7 @@ def test_create_update_delete_subevent(TestEvent):
         == "Join our Open Onboarding Call to learn more about the structure..."
     )
     expected_filepath = (
-        Path(TestEvent.base_dir) / "2021-10/open-onboarding-call--e41jr.md"
+        Path(TestEvent.base_dir) / "2025-10/open-onboarding-call--e41jr.md"
     )
     assert expected_filepath.exists()
 

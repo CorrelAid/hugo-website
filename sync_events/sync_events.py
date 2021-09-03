@@ -5,6 +5,7 @@ import random
 import string
 from dataclasses import dataclass
 from pathlib import Path
+import datetime
 
 import requests
 import yaml
@@ -132,12 +133,14 @@ class EventEn:
         )
 
     @classmethod
-    def load_all(cls):
+    def load_all_future(cls):
         events = {}
         for path in [p for p in glob.glob(cls.base_dir + "*/*.md")]:
             event = cls.load(path)
             if event is None:
                 # not a pretix event
+                continue
+            if parse_date(event.event_date) < datetime.datetime.now():
                 continue
             events[event.pretix_slug] = event
 
@@ -287,7 +290,7 @@ def fetch_api_events(token):
 
 
 def sync_events(Event, api_events):
-    events = Event.load_all()
+    events = Event.load_all_future()
 
     created, updated, deleted = 0, 0, 0
 
