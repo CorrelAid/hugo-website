@@ -13,7 +13,7 @@ def TestEvent():
     dirpath = tempfile.mkdtemp()
 
     class E(EventEn):
-        base_dir = dirpath
+        base_dir = dirpath + "/"
 
     yield E
 
@@ -38,10 +38,11 @@ def test_save_load(TestEvent):
         tags=[],
         description="This will be a very nice event",
     )
-
     event.save()
 
-    assert event.filepath == Path(TestEvent.base_dir) / "2021-11/my-nice-event.md"
+    expected_filepath = Path(TestEvent.base_dir) / "2021-11/my-nice-event.md"
+    assert expected_filepath.exists()
+    assert event.filepath == expected_filepath
 
     loaded_event = TestEvent.load(event.filepath)
 
@@ -59,11 +60,55 @@ def test_save_load(TestEvent):
     assert loaded_event.description == event.description
 
 
+def test_load_all(TestEvent):
+    event_1 = TestEvent(
+        filename="my-nice-event",
+        pretix_slug="abcde",
+        is_deleted=False,
+        is_subevent=False,
+        title="My nice event",
+        event_date="2021-11-12",
+        event_time="7:00 - 8:00 CET",
+        event_registration="https://pretix.eu/correlaid/abcde/ ",
+        correlaidx=False,
+        languages=["english"],
+        tags=[],
+        description="This will be a very nice event",
+    )
+    event_1.save()
+    expected_filepath = Path(TestEvent.base_dir) / "2021-11/my-nice-event.md"
+    assert expected_filepath.exists()
+
+    event_2 = TestEvent(
+        filename="my-nice-event-2",
+        pretix_slug="fghij",
+        is_deleted=False,
+        is_subevent=False,
+        title="My nice event 2",
+        event_date="2021-12-12",
+        event_time="7:00 - 8:00 CET",
+        event_registration="https://pretix.eu/correlaid/fghij/ ",
+        correlaidx=False,
+        languages=["english"],
+        tags=[],
+        description="This will be a very nice event 2",
+    )
+    event_2.save()
+    expected_filepath = Path(TestEvent.base_dir) / "2021-12/my-nice-event-2.md"
+    assert expected_filepath.exists()
+
+    events = TestEvent.load_all()
+
+    assert len(events) == 2
+    assert events["abcde"].title == "My nice event"
+    assert events["fghij"].title == "My nice event 2"
+
+
 def test_create_update_delete_subevent(TestEvent):
     """
     We can create, update & delete a subevent.
     """
-    # an example response from pretix
+    # an example subevent from pretix
     api_subevent = {
         "id": 1234322,
         "name": {"en": "Open Onboarding Call"},
@@ -110,12 +155,16 @@ def test_create_update_delete_subevent(TestEvent):
         event.description
         == "Join our Open Onboarding Call to learn more about the structure..."
     )
+    expected_filepath = Path(TestEvent.base_dir) / "2021-10/open-onboarding-call--e41jr.md"
+    assert expected_filepath.exists()
 
     api_subevent["name"]["en"] = "A new name"
     event.update(api_subevent)
     assert event.filename == "open-onboarding-call--e41jr"
     assert event.pretix_slug == "open-onboarding/1234322"
     assert event.title == "A new name"
+    assert expected_filepath.exists()
 
     event.delete()
     assert event.is_deleted == True
+    assert expected_filepath.exists()

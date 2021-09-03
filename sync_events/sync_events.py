@@ -36,7 +36,7 @@ class EventEn:
     @classmethod
     def create(cls, api_event):
         is_subevent = api_event.get("slug") is None
-        pretix_slug = cls._create_slug(api_event, is_subevent)
+        pretix_slug = cls._create_pretix_slug(api_event, is_subevent)
 
         event = cls(
             filename=cls._create_filename(api_event),
@@ -190,14 +190,10 @@ class EventEn:
         return filename
 
     @staticmethod
-    def _create_slug(api_event, is_subevent):
-        if not is_subevent:
-            # event
-            pretix_slug = api_event["slug"]
-        else:
-            # subevent
-            pretix_slug = f"{api_event['event']}/{api_event['id']}"
-        return pretix_slug
+    def _create_pretix_slug(api_event, is_subevent):
+        if is_subevent:
+            return f"{api_event['event']}/{api_event['id']}"
+        return api_event["slug"]
 
 
 class EventDe(EventEn):
