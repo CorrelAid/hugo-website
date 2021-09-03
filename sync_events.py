@@ -62,7 +62,7 @@ class Event:
         self.is_deleted = True
         self.save()
 
-    @ classmethod
+    @classmethod
     def load(cls, filepath):
         with open(filepath) as f:
             contents = f.read()
@@ -112,13 +112,12 @@ class Event:
 
         content = f"---\n{front_matter}---\n\n{self.description}"
 
-        filepath = Path(
-            f"content/en/events/{self.event_date[:7]}/{self.filename}.md")
+        filepath = Path(f"content/en/events/{self.event_date[:7]}/{self.filename}.md")
         filepath.parent.mkdir(parents=True, exist_ok=True)
         with open(filepath, "w") as f:
             f.write(content)
 
-    @ staticmethod
+    @staticmethod
     def _parse_title(api_event):
         # TODO langs
         return (
@@ -127,30 +126,27 @@ class Event:
             or api_event["name"].get("de-informal")
         )
 
-    @ staticmethod
+    @staticmethod
     def _parse_date(api_event):
-        date_from = parse_date(api_event["date_from"]).astimezone(
-            pytz.timezone("CET"))
+        date_from = parse_date(api_event["date_from"]).astimezone(pytz.timezone("CET"))
         return str(date_from.date())
 
-    @ staticmethod
+    @staticmethod
     def _parse_time(api_event):
-        date_from = parse_date(api_event["date_from"]).astimezone(
-            pytz.timezone("CET"))
+        date_from = parse_date(api_event["date_from"]).astimezone(pytz.timezone("CET"))
         if api_event.get("date_to") is None:
             return f"{date_from.strftime('%H:%M')} CET"
-        date_to = parse_date(api_event["date_to"]).astimezone(
-            pytz.timezone("CET"))
+        date_to = parse_date(api_event["date_to"]).astimezone(pytz.timezone("CET"))
         return f"{date_from.strftime('%H:%M')} - {date_to.strftime('%H:%M')} CET"
 
-    @ staticmethod
+    @staticmethod
     def _parse_description(api_event, lang="en"):
         # get html and create bs object
-        description_dict = api_event.get('frontpage_text')
+        description_dict = api_event.get("frontpage_text")
         description = description_dict[lang]
-        return(description)
+        return description
 
-    @ staticmethod
+    @staticmethod
     def _create_slug(api_event, is_subevent):
         if not is_subevent:
             # event
