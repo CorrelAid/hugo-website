@@ -3,9 +3,9 @@ import pytz
 import glob
 import random
 import string
+import datetime
 from dataclasses import dataclass
 from pathlib import Path
-import datetime
 
 import requests
 import yaml
@@ -16,7 +16,7 @@ from bs4 import BeautifulSoup
 
 
 def is_subevent(api_event):
-    assert api_event.get("name") is not None  # small sanity check
+    assert api_event.get("name") is not None  # sanity check
     return api_event.get("slug") is None
 
 
@@ -26,7 +26,7 @@ def get_pretix_slug(api_event):
     return api_event["slug"]
 
 
-def try_scrape_description(pretix_slug):
+def try_scrape_event_description(pretix_slug):
     try:
         response = requests.get("https://pretix.eu/correlaid/" + pretix_slug)
         response.raise_for_status()
@@ -43,7 +43,7 @@ def try_scrape_description(pretix_slug):
 
 
 @dataclass
-class EventEn:
+class EventMixin:
     filename: str
     pretix_slug: str
     is_deleted: bool
@@ -56,9 +56,6 @@ class EventEn:
     languages: list[str]
     tags: list[str]
     description: str
-
-    base_dir = "../content/en/events/"
-    lang_preference = ["en", "de-informal", "de"]
 
     def __str__(self):
         return f"{self.title} ({self.event_date}, {self.pretix_slug})"
@@ -117,7 +114,7 @@ class EventEn:
 
         filename = filepath.name[: -len(filepath.suffix)]
 
-        return cls(
+        event = cls(
             filename=filename,
             pretix_slug=front_matter["pretixSlug"],
             is_deleted=front_matter["isDeleted"],
@@ -131,6 +128,8 @@ class EventEn:
             tags=front_matter["tags"],
             description=description,
         )
+        assert event._filepath == filepath  # sanity check
+        return event
 
     @classmethod
     def load_all_future(cls):
@@ -145,10 +144,6 @@ class EventEn:
             events[event.pretix_slug] = event
 
         return events
-
-    @property
-    def filepath(self):
-        return Path(self.base_dir) / (f"{self.event_date[:7]}/{self.filename}.md")
 
     def save(self):
         front_matter = yaml.dump(
@@ -169,9 +164,13 @@ class EventEn:
 
         content = f"---\n{front_matter}---\n\n{self.description}"
 
-        self.filepath.parent.mkdir(parents=True, exist_ok=True)
-        with open(self.filepath, "w") as f:
+        self._filepath.parent.mkdir(parents=True, exist_ok=True)
+        with open(self._filepath, "w") as f:
             f.write(content)
+
+    @property
+    def _filepath(self):
+        return Path(self.base_dir) / (f"{self.event_date[:7]}/{self.filename}.md")
 
     @classmethod
     def _parse_title(cls, api_event):
@@ -215,7 +214,7 @@ class EventEn:
         else:
             # for events the api_event does not contain the description
             # let's try to scrape it
-            return try_scrape_description(api_event["slug"])
+            return try_scrape_event_description(api_event["slug"])
 
     @classmethod
     def _create_filename(cls, api_event):
@@ -227,12 +226,17 @@ class EventEn:
         return filename
 
 
-class EventDe(EventEn):
+class EventEn(EventMixin):
+    base_dir = "../content/en/events/"
+    lang_preference = ["en", "de-informal", "de"]
+
+
+class EventDe(EventMixin):
     base_dir = "../content/de/events/"
     lang_preference = ["de-informal", "de", "en"]
 
 
-def fetch_api_events(token):
+def fetch_future_api_events(token):
     # events from pretix
     response = requests.get(
         "https://pretix.eu/api/v1/organizers/correlaid/events/"
@@ -261,11 +265,7 @@ def fetch_api_events(token):
     if response_json["next"] is not None:
         raise Exception("pagination not implemented")
 
-    for slug in [
-        api_event["slug"]
-        for api_event in response_json["results"]
-        if api_event["has_subevents"]
-    ]:
+    for slug in [api_event["slug"] for api_event in response_json["results"]]:
         # get subevents
         response = requests.get(
             f"https://pretix.eu/api/v1/organizers/correlaid/events/{slug}/subevents/"
@@ -289,22 +289,22 @@ def fetch_api_events(token):
     return api_events
 
 
-def sync_events(Event, api_events):
-    events = Event.load_all_future()
+def sync_future_events(Event, future_api_events):
+    future_events = Event.load_all_future()
 
     created, updated, deleted = 0, 0, 0
 
     # events new on pretix
-    for pretix_slug in set(api_events) - set(events):
-        Event.create(api_events[pretix_slug])
+    for pretix_slug in set(future_api_events) - set(future_events):
+        Event.create(future_api_events[pretix_slug])
         created += 1
     # events already on pretix and website
-    for pretix_slug in set(api_events).intersection(set(events)):
-        events[pretix_slug].update(api_events[pretix_slug])
+    for pretix_slug in set(future_api_events).intersection(set(future_events)):
+        future_events[pretix_slug].update(future_api_events[pretix_slug])
         updated += 1
     # events deleted on pretix -> delete from website
-    for pretix_slug in set(events) - set(api_events):
-        events[pretix_slug].delete()
+    for pretix_slug in set(future_events) - set(future_api_events):
+        future_events[pretix_slug].delete()
         deleted += 1
 
     return created, updated, deleted
@@ -314,7 +314,7 @@ if __name__ == "__main__":
     with open("../PRETIX_API_TOKEN") as f:
         token = f.readline()
 
-    api_events = fetch_api_events(token)
+    future_api_events = fetch_future_api_events(token)
 
     for Event in [EventEn, EventDe]:
-        sync_events(Event, api_events)
+        sync_future_events(Event, future_api_events)

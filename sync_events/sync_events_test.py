@@ -6,18 +6,20 @@ from unittest import mock
 from collections import namedtuple
 
 import pytest
+from freezegun import freeze_time
 
-from sync_events import EventEn, try_scrape_description, sync_events
+from sync_events import EventMixin, try_scrape_event_description, sync_future_events
 
 
 @pytest.fixture
 def TestEvent():
     dirpath = tempfile.mkdtemp()
 
-    class E(EventEn):
+    class Event(EventMixin):
         base_dir = dirpath + "/"
+        lang_preference = ["en"]
 
-    yield E
+    yield Event
 
     shutil.rmtree(dirpath)
 
@@ -31,12 +33,12 @@ def get_api_event():
         "live": True,
         "testmode": False,
         "currency": "EUR",
-        "date_from": "2025-06-29T19:00:00+02:00",
-        "date_to": "2025-06-29T20:30:00+02:00",
+        "date_from": "2021-06-29T19:00:00+02:00",
+        "date_to": "2021-06-29T20:30:00+02:00",
         "date_admission": None,
         "is_public": True,
-        "presale_start": "2025-06-23T00:00:00+01:00",
-        "presale_end": "2025-06-30T00:00:00+02:00",
+        "presale_start": "2021-06-23T00:00:00+01:00",
+        "presale_end": "2021-06-30T00:00:00+02:00",
         "location": {"en": "Online / Zoom"},
         "geo_lat": 43.5904719,
         "geo_lon": 3.8595132,
@@ -68,8 +70,8 @@ def get_api_subevent():
     return {
         "id": 1234322,
         "name": {"en": "Open Onboarding Call"},
-        "date_from": "2025-10-04T19:00:00+02:00",
-        "date_to": "2025-10-04T20:00:00+02:00",
+        "date_from": "2021-10-04T19:00:00+02:00",
+        "date_to": "2021-10-04T20:00:00+02:00",
         "active": True,
         "date_admission": None,
         "presale_start": None,
@@ -87,7 +89,7 @@ def get_api_subevent():
         "variation_price_overrides": [],
         "meta_data": {},
         "seat_category_mapping": {},
-        "last_modified": "2025-04-29T10:47:01.307952+02:00",
+        "last_modified": "2021-04-29T10:47:01.307952+02:00",
     }
 
 
@@ -101,7 +103,7 @@ def test_save_load(TestEvent):
         is_deleted=False,
         is_subevent=False,
         title="My nice event",
-        event_date="2025-11-12",
+        event_date="2021-11-12",
         event_time="7:00 - 8:00 CET",
         event_registration="https://pretix.eu/correlaid/abcde/ ",
         correlaidx=False,
@@ -111,11 +113,10 @@ def test_save_load(TestEvent):
     )
     event.save()
 
-    expected_filepath = Path(TestEvent.base_dir) / "2025-11/my-nice-event.md"
+    expected_filepath = Path(TestEvent.base_dir) / "2021-11/my-nice-event.md"
     assert expected_filepath.exists()
-    assert event.filepath == expected_filepath
 
-    loaded_event = TestEvent.load(event.filepath)
+    loaded_event = TestEvent.load(expected_filepath)
 
     assert loaded_event.filename == event.filename
     assert loaded_event.pretix_slug == event.pretix_slug
@@ -131,6 +132,7 @@ def test_save_load(TestEvent):
     assert loaded_event.description == event.description
 
 
+@freeze_time("2021-01-01")
 def test_load_all_future(TestEvent):
     event_1 = TestEvent(
         filename="my-nice-event",
@@ -138,7 +140,7 @@ def test_load_all_future(TestEvent):
         is_deleted=False,
         is_subevent=False,
         title="My nice event",
-        event_date="2025-11-12",
+        event_date="2021-11-12",
         event_time="7:00 - 8:00 CET",
         event_registration="https://pretix.eu/correlaid/abcde/ ",
         correlaidx=False,
@@ -147,7 +149,7 @@ def test_load_all_future(TestEvent):
         description="This will be a very nice event",
     )
     event_1.save()
-    expected_filepath = Path(TestEvent.base_dir) / "2025-11/my-nice-event.md"
+    expected_filepath = Path(TestEvent.base_dir) / "2021-11/my-nice-event.md"
     assert expected_filepath.exists()
 
     event_2 = TestEvent(
@@ -156,7 +158,7 @@ def test_load_all_future(TestEvent):
         is_deleted=False,
         is_subevent=False,
         title="My nice event 2",
-        event_date="2025-12-12",
+        event_date="2021-12-12",
         event_time="7:00 - 8:00 CET",
         event_registration="https://pretix.eu/correlaid/fghij/ ",
         correlaidx=False,
@@ -165,7 +167,7 @@ def test_load_all_future(TestEvent):
         description="This will be a very nice event 2",
     )
     event_2.save()
-    expected_filepath = Path(TestEvent.base_dir) / "2025-12/my-nice-event-2.md"
+    expected_filepath = Path(TestEvent.base_dir) / "2021-12/my-nice-event-2.md"
     assert expected_filepath.exists()
 
     # in the past
@@ -194,12 +196,9 @@ def test_load_all_future(TestEvent):
     assert events["fghij"].title == "My nice event 2"
 
 
-@mock.patch("sync_events.try_scrape_description")
-def test_create_update_delete_event(mock_try_scrape_description, TestEvent):
-    """
-    We can create, update & delete an event.
-    """
-    mock_try_scrape_description.return_value = "a nice event description"
+@mock.patch("sync_events.try_scrape_event_description")
+def test_create_update_delete_event(mock_try_scrape_event_description, TestEvent):
+    mock_try_scrape_event_description.return_value = "a nice event description"
 
     api_event = get_api_event()
 
@@ -214,7 +213,7 @@ def test_create_update_delete_event(mock_try_scrape_description, TestEvent):
         event.title
         == 'CorrelAidX Stuttgart talk: „Modeling the Covid-19 pandemic – How we estimate undetected cases for the Dunkelzifferradar dashboard"'
     )
-    assert event.event_date == "2025-06-29"
+    assert event.event_date == "2021-06-29"
     assert event.event_time == "19:00 - 20:30 CET"
     assert event.event_registration == "https://pretix.eu/correlaid/3gw3v"
     assert event.correlaidx == False
@@ -223,7 +222,7 @@ def test_create_update_delete_event(mock_try_scrape_description, TestEvent):
     assert event.description == "a nice event description"
     expected_filepath = (
         Path(TestEvent.base_dir)
-        / "2025-06/correlaidx-stuttgart-talk-modeling-the-covid-19-pa--e41jr.md"
+        / "2021-06/correlaidx-stuttgart-talk-modeling-the-covid-19-pa--e41jr.md"
     )
     assert expected_filepath.exists()
 
@@ -240,9 +239,6 @@ def test_create_update_delete_event(mock_try_scrape_description, TestEvent):
 
 
 def test_create_update_delete_subevent(TestEvent):
-    """
-    We can create, update & delete a subevent.
-    """
     api_subevent = get_api_subevent()
 
     random.seed(1)
@@ -253,7 +249,7 @@ def test_create_update_delete_subevent(TestEvent):
     assert event.is_deleted == False
     assert event.is_subevent == True
     assert event.title == "Open Onboarding Call"
-    assert event.event_date == "2025-10-04"
+    assert event.event_date == "2021-10-04"
     assert event.event_time == "19:00 - 20:00 CET"
     assert (
         event.event_registration
@@ -267,7 +263,7 @@ def test_create_update_delete_subevent(TestEvent):
         == "Join our Open Onboarding Call to learn more about the structure..."
     )
     expected_filepath = (
-        Path(TestEvent.base_dir) / "2025-10/open-onboarding-call--e41jr.md"
+        Path(TestEvent.base_dir) / "2021-10/open-onboarding-call--e41jr.md"
     )
     assert expected_filepath.exists()
 
@@ -284,20 +280,24 @@ def test_create_update_delete_subevent(TestEvent):
 
 
 @mock.patch("requests.get")
-def test_try_scrape_description(mock_requests_get):
-    with open("./jena-workshop.html") as f:
+def test_try_scrape_event_description(mock_requests_get):
+    with open("./event.html") as f:
         pretix_event_html = f.read()
 
     mock_requests_get.return_value = mock.Mock(text=pretix_event_html)
 
-    description = try_scrape_description("jena-workshop")
+    description = try_scrape_event_description("some-pretix-event-slug")
+    mock_requests_get.assert_called_once_with(
+        "https://pretix.eu/correlaid/some-pretix-event-slug"
+    )
     assert description.startswith(
         "I don’t need to know everything, I just need to know where to"
     )
 
 
-@mock.patch("sync_events.try_scrape_description")
-def test_sync_events(mock_try_scrape_description, TestEvent):
+@freeze_time("2021-01-01")
+@mock.patch("sync_events.try_scrape_event_description")
+def test_sync_future_events(mock_try_scrape_event_description, TestEvent):
     api_event = get_api_event()
     api_subevent = get_api_subevent()
     api_events = {
@@ -305,17 +305,17 @@ def test_sync_events(mock_try_scrape_description, TestEvent):
         f'{api_subevent["event"]}/{api_subevent["id"]}': api_subevent,
     }
 
-    created, updated, deleted = sync_events(TestEvent, api_events)
+    created, updated, deleted = sync_future_events(TestEvent, api_events)
     assert created == 2
     assert updated == 0
     assert deleted == 0
 
-    created, updated, deleted = sync_events(TestEvent, api_events)
+    created, updated, deleted = sync_future_events(TestEvent, api_events)
     assert created == 0
     assert updated == 2
     assert deleted == 0
 
-    created, updated, deleted = sync_events(TestEvent, {})
+    created, updated, deleted = sync_future_events(TestEvent, {})
     assert created == 0
     assert updated == 0
     assert deleted == 2
