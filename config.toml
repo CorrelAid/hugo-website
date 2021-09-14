@@ -1,6 +1,6 @@
 baseURL                 = "https://correlaid.org/"
 
-DefaultContentLanguage  = "en"
+DefaultContentLanguage  = "de"
 DefaultContentLanguageInSubdir = false
 
 PygmentsCodeFences      = true
@@ -20,14 +20,6 @@ enableEmoji             = true
 [Languages]
 # duplicate en settings to both get correlaid.org/en/projects and correlaid.org/projects 
 # see https://discourse.gohugo.io/t/default-language-in-both-root-and-subfolders/17531/3
-[Languages.en2]
-    contentDir      = "content/en"
-    title           = "CorrelAid"
-    weight          = 0
-    languageName    = "English"
-    [Languages.en2.params]
-        [Languages.en2.params.navigation]
-            about   = "About"
 [Languages.en]
     contentDir      = "content/en"
     title           = "CorrelAid"
@@ -36,6 +28,14 @@ enableEmoji             = true
     [Languages.en.params]
         [Languages.en.params.navigation]
             about   = "About"
+[Languages.de2]
+    contentDir      = "content/de"
+    title           = "CorrelAid"
+    weight          = 0
+    languageName    = "Deutsch"
+    [Languages.de2.params]
+        [Languages.de2.params.navigation]
+            about   = "Über uns"
 [Languages.de]
     contentDir      = "content/de"
     title           = "CorrelAid"
