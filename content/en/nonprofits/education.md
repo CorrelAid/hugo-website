@@ -1,16 +1,16 @@
 ---
 title: "Workshops & Education"
-date: 2018-08-23T12:38:17+02:00
+date: 2020-05-10T22:01:56+02:00
 draft: false
 menu:
   nonprofits:
     weight: 200
-meta:
-    title: "CorrelAid - for non-profits"
-    description: "CorrelAid is a registered association with a network of 1300 data analysts"
-    image: "509-correlaid-thumb.jpg"
-    keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
+translationKey: "workshops"
+description: "workshops and education"
+img: "volunteer/a-remote-network.png"
+weight: 2
 ---
+
 # Workshops & Education
 
 At CorrelAid e.V., we are not only committed to the idea of data for good, but also firmly believe in sharing knowledge. This is why "education" has become our legal purpose. We offer a wide range of educational formats for nonprofits and volunteers. In addition, we share our knowledge, code and other material publicly whenever data protection guidelines allow us to do so.

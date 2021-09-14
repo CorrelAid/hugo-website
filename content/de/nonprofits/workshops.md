@@ -1,15 +1,15 @@
 ---
-title: "Workshops & Weiterbildung"
-date: 2018-08-23T12:38:17+02:00
+title: "Workshops"
+date: 2020-05-10T22:01:56+02:00
 draft: false
 menu:
   nonprofits:
-    weight: 100
-meta:
-    title: "CorrelAid - Für Non-Profits"
-    description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 1300 ehrenamtlichen Datenanalyst*innen."
-    image: "509-correlaid-thumb.jpg"
-    keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
+    weight: 200
+translationKey: "workshops"
+description: "text workshops"
+weight: 2
+img: "volunteer/a-remote-network.png"
+
 ---
 
 # Workshops & Weiterbildung

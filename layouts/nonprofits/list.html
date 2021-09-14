@@ -1,0 +1,32 @@
+{{ define "main" }} {{ $lang := .Site.Language.Lang }}
+<div class="container mt-5 pt-5">
+  <div class="row">
+    <div class="col-12">
+      <h1>{{ i18n "volunteer-header"}}</h1>
+
+      <p>{{ i18n "volunteer-intro"}}</p>
+    </div>
+  </div>
+  <div class="row py-3 justify-content-center">
+    <button type="button" class="btn btn-ca-dark-blue btn-lg">
+      {{ i18n "newsletter-button"}}
+    </button>
+  </div>
+  <p>{{ i18n "volunteer-hitchhiker" | markdownify }}</p>
+  <div class="row">
+    
+    <div class="col-12">
+      <div class="row">
+        {{ range .Pages.ByWeight }}
+        <div class="col-12 col-md-4">
+          {{ partial "feature-volunteer.html" . }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12">{{ .Content }}</div>
+  </div>
+</div>
+{{ end }}

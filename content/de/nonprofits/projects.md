@@ -1,10 +1,15 @@
 ---
-title: "Unsere Data4Good Projekte"
-date: 2018-08-23T12:36:49+02:00
+title: "Projekte"
+date: 2020-05-10T22:01:56+02:00
 draft: false
 menu:
   nonprofits:
-    weight: 40
+    weight: 200
+translationKey: "projectsnpo"
+description: "Gegründet im beschaulichen Konstanz am Bodensee, war CorrelAid schon immer ein remote-first Netzwerk. Auch 6 Jahre später sind viele unserer Aktivitäten für alle mit einer relativ guten Internetverbindung zugänglich."
+weight: 2
+img: "volunteer/a-remote-network.png"
+
 ---
 
 # Unsere Data4Good Projekte für NPOs
