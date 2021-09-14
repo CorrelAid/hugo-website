@@ -149,7 +149,7 @@
           aria-haspopup="true"
           aria-expanded="false"
         >
-          <i class="fas fa-lg fa-language"></i>
+          {{ upper .Language }}
         </a>
         <div class="dropdown-menu lang" aria-labelledby="languages-dropdown">
           {{ range .Translations }}
