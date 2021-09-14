@@ -32,7 +32,7 @@ weight: 2
     title="Full of learning opportunities" 
     color="ca-grey-text"
     img="/images/volunteer/lenovo.jpg"
-    href="/events/"
+    href="/en/events/"
     order="order-md-0"
 >}}
 - regular workshops, webinars and events, e.g. bi-weekly [TidyTuesday Coding Hangout](https://pretix.eu/correlaid/tidytuesday/) or monthly Open Online Data Meetup
@@ -45,7 +45,7 @@ weight: 2
     title="CorrelCon: our annual conference" 
     color="ca-grey-text"
     img="/images/volunteer/correlcon.png"
-    href="/events/2020-11/correlcon/"
+    href="/en/events/2020-11/correlcon/"
     order="order-md-1"
 >}}
 - talks, workshops and networking all about Data4Good and Data Science
