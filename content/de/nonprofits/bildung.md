@@ -1,14 +1,14 @@
 ---
-title: "Workshops"
+title: "Bildung"
 date: 2020-05-10T22:01:56+02:00
 draft: false
 menu:
   nonprofits:
-    weight: 200
-translationKey: "workshops"
-description: "text workshops"
-weight: 2
-img: "volunteer/a-remote-network.png"
+    weight: 40
+translationKey: "education"
+description: "Wir bieten Mitarbeiter:innen und ehrenamtlich Engagierten aus gemeinnützigen Organisationen Möglichkeiten ihr Wissen über Daten zu verbessern."
+weight: 6
+img: "nonprofits/education.png"
 
 ---
 
@@ -16,16 +16,6 @@ img: "volunteer/a-remote-network.png"
 
 Wir bei CorrelAid e.V. setzen uns nicht nur die Nutzung von Daten für den guten Zweck ein, sondern glauben auch fest daran, dass wir unser Wissen teilen sollten. Nicht umsonst haben wir als Vereinszweck *Bildung* gewählt. In unserer Bildungssparte bieten wir zahlreiche Angebot für Non-Profits und Ehrenamtliche an. Daneben teilen wir unser Wissen, unseren Code und unsere Materialien öffentlich, falls dies unter Einhaltung der Richtlinien des Datenschutzes möglich ist.
 
-## Newsletter für NPOs
-In unserem Newsletter für gemeinnützige Organisationen gewähren wir Einblicke in unsere Arbeit und teilen kurze Einführungen in Themen wie Impact Measurement, Datenerhebung und Datenanalyse. 
-
-{{< button 
-    btn-class="btn-dark"
-    href="http://eepurl.com/g6BDyz"
-    justify="center"
->}}
-Abonniere den Newsletter!
-{{< /button >}}
 
 ## Datensprechstunde
 Jeden Donnerstagnachmittag bieten wir die Seelsorge für Datenherausforderungen jeglicher Art an. Ihr habt Fragen und möchtet mit einem Datenanalyst/einer Datenanalystin sprechen? Vereinbart euren 30-minütigen Termin [hier](https://calendly.com/correlaid/30min).
