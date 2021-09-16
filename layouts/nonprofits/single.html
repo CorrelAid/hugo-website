@@ -144,19 +144,16 @@
   <div class="row">
     <div class="col-12">{{ .Content }}</div>
   </div>
+      
+  {{ $afterPath := printf "%s%s_after.md" .Dir .File.BaseFileName }}
+  {{ if (fileExists $afterPath) -}}
+      {{ with .Site.GetPage $afterPath }}
+      <div class="row">
+        <div class="col-12">{{ .Content }}</div>
+      </div>        
+      {{ end }}
+  {{- end }}
   
-
-  
-          
-    {{ $afterPath := printf "%s%s_after.md" .Dir .File.BaseFileName }}
-    {{ if (fileExists $afterPath) -}}
-        {{ with .Site.GetPage $afterPath }}
-        <div class="row">
-          <div class="col-12">{{ .Content }}</div>
-        </div>        
-        {{ end }}
-    {{- end }}
-    
     <div class="row my-5">
         {{ $process_steps := $.Site.Data.process_steps }}
         {{ range $step_index, $step := (index $process_steps $lang ) }} 
@@ -179,6 +176,12 @@
                 </div>
         {{ end }}
     </div>
+  {{ else }}
+  <!-- not projects page -->
+  <div class="row">
+    <div class="col-12">{{ .Content }}</div>
+  </div>
   {{ end }}
+  
 </div>
 {{ end }}

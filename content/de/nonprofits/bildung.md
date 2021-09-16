@@ -12,8 +12,6 @@ img: "nonprofits/education.png"
 
 ---
 
-# Workshops & Weiterbildung
-
 Wir bei CorrelAid e.V. setzen uns nicht nur die Nutzung von Daten für den guten Zweck ein, sondern glauben auch fest daran, dass wir unser Wissen teilen sollten. Nicht umsonst haben wir als Vereinszweck *Bildung* gewählt. In unserer Bildungssparte bieten wir zahlreiche Angebot für Non-Profits und Ehrenamtliche an. Daneben teilen wir unser Wissen, unseren Code und unsere Materialien öffentlich, falls dies unter Einhaltung der Richtlinien des Datenschutzes möglich ist.
 
 

@@ -11,3 +11,11 @@ weight: 8
 img: "nonprofits/community.jpg"
 
 ---
+
+## CorrelCon
+Unsere digitale Konferenz  bietet jedes Jahr im November Teilnehmer:innen die Gelegenheit Vorträge und Workshops rund um die Themen Daten,  Datenwissenschaft und Data4Good zu besuchen und sich mit anderen Datenenthusiasten zu vernetzen. Alle Materialien sind auch nach der Konferenz für alle öffentlich zugänglich - klick [hier](https://docs.correlaid.org/correlcollection/correlcon).
+
+## Konferenzen
+Auch auf externen Veranstaltungen setzen wir uns für die digitalen Bedarfe der Zivilgesellschaft ein: Kommende Termine sind in [unserem Kalender](/events/) hinterlegt.
+Ihr sucht für Euer Event noch Speaker?
+Wir unterstützen Euch gerne mit Vorträgen und Workshops zu Data4Good. Unsere Kontaktdaten findet Ihr hier:
