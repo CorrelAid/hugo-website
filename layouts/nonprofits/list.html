@@ -1,0 +1,48 @@
+{{ define "main" }} {{ $lang := .Site.Language.Lang }}
+<div class="container mt-5 pt-5">
+
+  <div class="row">
+    <div class="col-12">
+      <h1>{{ .Page.Title }}</h1>
+    </div>
+  </div>
+
+  {{ $beforePath := printf "%s%s_before.md" .Dir .File.BaseFileName }}
+  {{ if (fileExists $beforePath) }}
+      {{ with .Site.GetPage $beforePath }}
+      <div class="row">
+        <div class="col-12">{{ .Content }}</div>
+      </div>        
+      {{ end }}
+  {{ end }}
+
+  <div class="row">
+    <div class="col-12">{{ .Content }}</div>
+  </div>
+  
+  <div class="row">
+    
+    <div class="col-12">
+      <div class="row">
+        {{ range .Pages.ByWeight }}
+        {{ if not (or (strings.HasSuffix .File.BaseFileName "_after") (strings.HasSuffix .File.BaseFileName "_before" )) }}      
+        <div class="col-12 col-md-4">
+          {{ partial "feature-volunteer.html" . }}
+        </div>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+    
+    {{ $afterPath := printf "%s%s_after.md" .Dir .File.BaseFileName }}
+    {{ if (fileExists $afterPath) -}}
+        {{ with .Site.GetPage $afterPath }}
+        <div class="row">
+          <div class="col-12">{{ .Content }}</div>
+        </div>        
+        {{ end }}
+    {{- end }}
+  </div>
+
+</div>
+{{ end }}

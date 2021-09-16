@@ -1,31 +1,19 @@
 ---
-title: "Workshops & Weiterbildung"
-date: 2018-08-23T12:38:17+02:00
+title: "Bildung"
+date: 2020-05-10T22:01:56+02:00
 draft: false
 menu:
   nonprofits:
-    weight: 100
-meta:
-    title: "CorrelAid - Für Non-Profits"
-    description: "CorrelAid ist ein gemeinnütziger Verein mit einem Netzwerk von 1300 ehrenamtlichen Datenanalyst*innen."
-    image: "509-correlaid-thumb.jpg"
-    keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
----
+    weight: 40
+translationKey: "education"
+description: "Wir bieten Mitarbeiter:innen und ehrenamtlich Engagierten aus gemeinnützigen Organisationen Möglichkeiten ihr Wissen über Daten zu verbessern."
+weight: 6
+img: "nonprofits/education.png"
 
-# Workshops & Weiterbildung
+---
 
 Wir bei CorrelAid e.V. setzen uns nicht nur die Nutzung von Daten für den guten Zweck ein, sondern glauben auch fest daran, dass wir unser Wissen teilen sollten. Nicht umsonst haben wir als Vereinszweck *Bildung* gewählt. In unserer Bildungssparte bieten wir zahlreiche Angebot für Non-Profits und Ehrenamtliche an. Daneben teilen wir unser Wissen, unseren Code und unsere Materialien öffentlich, falls dies unter Einhaltung der Richtlinien des Datenschutzes möglich ist.
 
-## Newsletter für NPOs
-In unserem Newsletter für gemeinnützige Organisationen gewähren wir Einblicke in unsere Arbeit und teilen kurze Einführungen in Themen wie Impact Measurement, Datenerhebung und Datenanalyse. 
-
-{{< button 
-    btn-class="btn-dark"
-    href="http://eepurl.com/g6BDyz"
-    justify="center"
->}}
-Abonniere den Newsletter!
-{{< /button >}}
 
 ## Datensprechstunde
 Jeden Donnerstagnachmittag bieten wir die Seelsorge für Datenherausforderungen jeglicher Art an. Ihr habt Fragen und möchtet mit einem Datenanalyst/einer Datenanalystin sprechen? Vereinbart euren 30-minütigen Termin [hier](https://calendly.com/correlaid/30min).
@@ -59,4 +47,9 @@ Die Teilnehmer:innen lernen gemeinsam mit uns, wie soziale Organisationen Wirkun
 ### Datenanalyse
 - Kommt bald - bleibt gespannt!
 
-Für mehr Informationen zu unseren Workshopformaten schreibt uns gerne unter [nina.h@correlaid.org](mailto:nina.h@correlaid.org)!
+{{< contact
+    key="nina"
+    link-color="ca-green-text"
+>}}
+
+{{< /contact >}}

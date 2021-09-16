@@ -47,31 +47,30 @@
       <!-- /END ABOUT US -->
 
       <!-- FOR NONPROFITS -->
-
-      <li class="nav-item dropdown">
+      <div class="btn-group">
         <a
-          class="nav-link dropdown-toggle"
-          href="#"
-          id="for-nonprofits-dropdown"
-          role="button"
+          class="nav-link"
+          type="button"
+          href="{{ .Site.Home.Permalink }}nonprofits"
+        >
+          {{ i18n "for-nonprofits" }}
+        </a>
+        <button
+          type="button"
+          class="btn dropdown-toggle dropdown-toggle-split d-none d-lg-block"
           data-toggle="dropdown"
           aria-haspopup="true"
           aria-expanded="false"
         >
-          {{ i18n "for-nonprofits" }}
-        </a>
-        <div class="dropdown-menu" aria-labelledby="for-nonprofits-dropdown">
+        </button>
+        <div class="dropdown-menu">
           {{ range .Site.Menus.nonprofits }}
           <a class="dropdown-item" href="{{ .URL | absLangURL }}"
             >{{ .Name }}</a
           >
           {{ end }}
-          <a class="dropdown-item" href="http://eepurl.com/g6BDyz"
-            >Newsletter</a
-          >
         </div>
-      </li>
-      <!-- /END FOR NONPROFITS -->
+      </div>
 
       <!-- FOR VOLUNTEERS -->
       <div class="btn-group">

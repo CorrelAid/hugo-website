@@ -17,16 +17,16 @@
     {
       "title": "Onboarding und Kickoff",
       "duration": "1-3 Wochen",
-      "work": "Terminfindung für Kickoff, zusammen mit Projektkoordinator:innen Inhalte & Programm für Kickoff erarbeiten",
+      "work": "Teilnahme am Kickoff (verpflichtend)",
       "icon": "fa-rocket",
-      "content": "Das Projektteam wird intern zu allen Tools eingeladen und eingeführt, die wir zur Kommunikation und Zusammenarbeit verwenden. Parallel planen wir zusammen mit euch den Kickoff-Workshop, wo ihr und das Team euch kennenlernen könnt und zusammen näher Ziele, Arbeitsweise und Inhalt des Projekts definiert. Wenn möglich, findet dieser Workshop an einem Wochenende bei euch statt. Ansonsten führen wir den Kickoff-Workshop als remote Event (ca 2-3 Stunden) durch."
+      "content": "Das Projektteam wird intern zu allen Tools eingeladen und eingeführt, die wir zur Kommunikation und Zusammenarbeit verwenden. Parallel planen wir zusammen mit euch den Kickoff-Workshop, wo ihr und das Team euch kennenlernen könnt und zusammen näher Ziele, Arbeitsweise und Inhalt des Projekts definiert. Bei Projekten, die im Rahmen eines Projektzyklus stattfinden, findet der Workshop an einem Freitagabend und Samstagnachmittag online statt. Alternativ sind auch offline Formate denkbar, je nach Situation."
     },
     {
       "title": "Projektarbeit",
       "duration": "1-6 Monate",
       "work": "regelmäßiger telefonischer Austausch mit Projektteam (mind. alle 2 Wochen), Feedback geben, Fragen des Projektteams schnellstmöglich beantworten",
       "icon": "fa-laptop-code",
-      "content": "Das Projektteam wird intern zu allen Tools eingeladen und eingeführt, die wir zur Kommunikation und Zusammenarbeit verwenden. Parallel planen wir zusammen mit euch den Kickoff-Workshop, wo ihr und das Team euch kennenlernen könnt und zusammen näher Ziele, Arbeitsweise und Inhalt des Projekts definiert. Wenn möglich, findet dieser Workshop an einem Wochenende bei euch statt. Ansonsten führen wir den Kickoff-Workshop als remote Event (ca 2-3 Stunden) durch."
+      "content": "Das Projektteam arbeitet in engem und iterativem Austausch mit euch an einer Lösung für Ihr Datenproblem. Die kurzen Feedback-Zyklen sind wichtig für den Projekterfolg, daher ist es wichtig, dass ihr euch die Zeit nehmt für regelmäßigen Austausch."
     },
     {
       "title": "Handover",
@@ -61,9 +61,9 @@
     {
       "title": "Onboarding and Kickoff",
       "duration": "1-3 weeks",
-      "work": " find a meeting slot for the kickoff, create content and programme for the kickoff together with project coordinators",
+      "work": "mandatory participation in kickoff event",
       "icon": "fa-rocket",
-      "content": "We onboard the team to all the tooling that we use for communication and collaboration. At the same time, our project coordiantors, the project lead and you plan the kickoff workshop where you and the team can meet, get to know each other and more clearly define goals, modes of collaboration and content of the project. If possible, this workshop takes place at your office or in the city you're mainly operating in over the course of a weekend. If this is not possible, the kickoff takes place as a remote online event (~2-3 hours)."
+      "content": "We onboard the team to all the tooling that we use for communication and collaboration. At the same time, our project coordiantors, the project lead and you plan the kickoff workshop where you and the team can meet, get to know each other and more clearly define goals, modes of collaboration and content of the project. For projects that are organized as part of a project cycle, this kickoff takes place either on the first or second weekend of the month starting the quarter (Friday evening & Saturday afternoon). For other projects, individual arrangements are made."
     },
     {
       "title": "Project work",
