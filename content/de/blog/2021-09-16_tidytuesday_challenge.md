@@ -16,7 +16,7 @@ author:
     name: "Long and Andreas"
     image:          "correlaid.jpg"
     description:    "
-    Long and Andreas are volunteers at CorrelAid. They co-organize the informal CorrelAid TidyTuesday coding hangout which takes place every 2nd and 4th Tuesday per month, where participants can both translate raw and untidy data sets from the [TidyTuesday project](https://github.com/rfordatascience/tidytuesday) into beautiful plots and refine their skills in R or Python data viz. You can join Long and Andreas for the next coding hangout by registering [here](https://pretix.eu/correlaid/tidytuesday/)."
+    Long and Andreas are volunteers at CorrelAid. They co-organize the informal CorrelAid TidyTuesday coding hangout which takes place every 2nd and 4th Tuesday per month, where participants can both translate tidied data sets from the [TidyTuesday project](https://github.com/rfordatascience/tidytuesday) into beautiful plots and refine their skills in R or Python data viz. You can join Long and Andreas for the next coding hangout by registering [here](https://pretix.eu/correlaid/tidytuesday/)."
     email: "education@correlaid.org"
 meta:
     title: "The potential political power of citizens with a migration background: showcasing results from CorrelAid's #tidytuesday inspired challenge"
