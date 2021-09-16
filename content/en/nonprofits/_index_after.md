@@ -4,7 +4,7 @@ In our monthly newsletter for non-profit organizations, we give insights into ou
 
 {{< button 
     btn-class="btn-dark"
-    href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"
+    href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=175fade988"
     justify="center"
 >}}
 Subscribe to the newsletter!
