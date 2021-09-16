@@ -48,7 +48,7 @@ We created the plot using R and the packages `ggplot2` and `ggparliament`. The l
 *[Julius Lagodny](https://www.juliuslagodny.com/) is a PhD candidate in the Department of Government, Cornell University working on political behavior and public opinion. [Arndt Leininger](https://aleininger.eu/) assistant professor for political science research methods at Chemnitz University of Technology and works on political behavior and applied quantitative methods.*
 
 
-## Unleashing the full electoral potential of voters of immigrant origin-a case study for Germany
+## The electoral potential of migrant communities-a case study for Germany
 
 {{< image-subtitle 
     image="2021-09-16_neumann.png"
@@ -58,11 +58,11 @@ Please right click on the image and click on "open image in new tab" to get a be
 
 In this highly hypothetical thought experiment we assume the following:
 
-* there exists a migrant party -all voters with migrant background share homogenous political alignments
-* all voters of immigrant origin vote for the migrant party
+* there exists a migrant party-all voters with a migrant background share a similar political orientation represented by the migrant party
+* all voters of immigrant origin vote for the migrant party (no abstentions)
 * only the first votes (“Erststimmen”) were being assessed. With the first vote, an electorate can vote the MP directly into parliament. Hence, the contestant with the highest number of votes wins the seat in parliament
 
-The top left plot highlights the first scenario in which all voters of migrant descend who are eligible to vote, actually vote for migrant party. In 4 constituencies, the number of votes given to the migrant party would outnumber the party with the highest share of votes in 2017, namely
+The top left plot portrays the first scenario in which all eligible migrant voters vote for the migrant party. In 4 constituencies, the number of votes given to the migrant party would outnumber the party with the highest share of votes in 2017, namely
 
 Constituency        |Party                                            |No. of votes |Migrant party votes|
 |------------------|-----------------------------------|-------------|--------------------|
@@ -71,7 +71,7 @@ Constituency        |Party                                            |No. of vo
 |Frankfurt a. Main I|Christian Democratic Union (CDU)|43663 votes  |58684 votes         |
 |Augsburg Stadt    | Christian Social Union (CSU)         |52769 votes   |62766 votes        |
 
-In the second scenario we added non-eligible voters of migrant descend in our evaluation (i.e. minors). This time, the migrant party would win additional 146 seats. In total:
+In the second scenario we added non-eligible immigrant voters in our evaluation (i.e. minors). This time, the migrant party would win additional 146 seats. In total:
 
 - 35MPs would represent Baden-Wurttemberg, 
 - Bavaria: 14MPs, 
@@ -83,7 +83,7 @@ In the second scenario we added non-eligible voters of migrant descend in our ev
 - North Rhine-Westfalia: 45MPs, 
 - Rhineland-Palatinate: 8MPs, 
 - Saarland: 2MPs 
-- and 2MPs would come from Schleswig-Holstein.
+  and 2MPs would come from Schleswig-Holstein.
 
 You can find the code for the plot [here](https://gist.github.com/anneumann1/ac439481c6e1b01a72d4954f337cd6ec).
 
