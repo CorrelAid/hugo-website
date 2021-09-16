@@ -40,6 +40,7 @@ The participants of the #tidytuesday inspired challenge created a great many dat
 {{< /image >}}
 
 
+
 This plot, which is also included in the [policy paper](https://vielfaltentscheidet.de/waehlerinnen-mit-migrationshintergrund-als-wahlentscheidender-faktor/), visualizes the potential electoral power of resident aliens who are not (yet?) able to vote because they lack citizenship. More than half of residents in Germany lack citizenship, although many of them have been living in the country for many years or even decades. They might vote in the future if they acquire German citizenship, possibly after regulations have been liberalized or if voting rights are extended to resident aliens. Additionally, there are many Germans with migration background who are simply not yet old enough to vote. They will be able to vote in the future. Both of these groups together represent not yet realized but future potential of residents with a migration background. To visualize this potential, we proceeded as follows: First, we obtained the absolute vote counts for the party lists nationwide ("Zweitstimme) from the official national result of the 2017 Bundestag election. In a second step, we added the number of resident aliens and underage Germans with a migration background to this small dataset. We then calculated the seat distribution that would follow from these numbers in a 598 seat parliament. We chose the minimum size of 598 because it is hard to predict how many seats parliament will comprise after the 2021 election. In making these calculations, we obviously make the grossly simplifying that all these currently non-eligible citizens will be eligible in the future, will all vote and vote for the same party. We make this assumption simply for visualizing the size of the group.
 
 We created the plot using R and the packages `ggplot2` and `ggparliament`. The latter provides the functionality to draw 'parliament plots' that mimic the layout of actual national parliaments, such as the German Bundestag or the UK House of Commons. We have no GitHub repository for the code, but it is available upon request.
@@ -83,6 +84,8 @@ In the second scenario we added non-eligible voters of migrant descend in our ev
 - Rhineland-Palatinate: 8MPs, 
 - Saarland: 2MPs 
 - and 2MPs would come from Schleswig-Holstein.
+
+You can find the code for the plot [here](https://gist.github.com/anneumann1/ac439481c6e1b01a72d4954f337cd6ec).
 
 *Andreas Neumann is a volunteer at CorrelAid. You can follow Andreas' GitHub [here](https://github.com/anneumann1).*
 
