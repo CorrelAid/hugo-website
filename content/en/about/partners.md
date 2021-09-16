@@ -23,3 +23,12 @@ meta:
 >}}
 [Dataquest](https://dataquest.io) provides us with free licenses for their excellent data science courses. Through Dataquest, each data scientist for social good can get the training they need in order to be best prepared to help non-profit organisations with their data challenges. 
 {{< /partner >}}
+
+
+{{< partner 
+    name="D3 - so geht digital"
+    img="/images/partners/d3.png"
+    website="https://so-geht-digital.de"
+>}}
+Together with [D3 - so geht digital](https://so-geht-digital.de), [OpenTransfer](https://opentransfer.de/) and [GoVolunteer](https://govolunteer.com) we came up with *"Plötzlich digital: Die Sprechstunde* ("digital over night: the walk-in hour") at the beginning of the Corona crisis. Every other week, nonprofits get the opportunity to learn more about new tools for digital collaboration. Whether Slack, Trello, HumHub, Office365, Nextcloud or Password Manager: experts give a 45-minute practical introduction into a tool that they know by heart. Thanks to the excellent organizational skills of the D3 team, the format has been going strong for 1,5 years! You can find more information - and the recordings of all past sessions - [here](https://so-geht-digital.de/ploetzlich-digital-die-sprechstunde/).
+{{< /partner >}}
