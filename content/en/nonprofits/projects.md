@@ -20,6 +20,7 @@ Since the beginning of 2021, we have organized our projects in the **Project Cyc
 
 Since our internal processes in the run-up to the start of the project cycle - sending out the call for applications, collecting applications, selecting the teams and onboarding - take about four weeks, you should contact us with your idea at least 1.5 months before the start of the project cycle. 
 
+\*of course there can be exceptions :) 
 
 {{< contact
     key="frie"
