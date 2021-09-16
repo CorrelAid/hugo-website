@@ -18,4 +18,11 @@ Unsere digitale Konferenz  bietet jedes Jahr im November Teilnehmer:innen die Ge
 ## Konferenzen
 Auch auf externen Veranstaltungen setzen wir uns für die digitalen Bedarfe der Zivilgesellschaft ein: Kommende Termine sind in [unserem Kalender](/events/) hinterlegt.
 Ihr sucht für Euer Event noch Speaker?
-Wir unterstützen Euch gerne mit Vorträgen und Workshops zu Data4Good. Unsere Kontaktdaten findet Ihr hier:
+Wir unterstützen Euch gerne mit Vorträgen und Workshops zu Data4Good. Gerne kannst du dich an Nina wenden.
+
+{{< contact
+    key="nina"
+    link-color="ca-green-text"
+>}}
+
+{{< /contact >}}
