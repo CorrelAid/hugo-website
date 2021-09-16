@@ -11,6 +11,15 @@
 Abonniere den Newsletter!
 {{< /button >}}
 
-## Noch Fragen?
 
+
+{{< feature 
+    title="Noch Fragen?" 
+    color="ca-grey-text"
+    img="/images/nonprofits/elmo.png"
+    href="https://correlaid.shinyapps.io/datamaturitymodel/"
+    order="order-md-1"
+>}}
 Wenn du dir unsicher bist, was CorrelAid für dich und deine Organisation tun kann, dann kann dir [Elmo](https://correlaid.shinyapps.io/datamaturitymodel/) helfen: Basierend auf dem Datenreifegrad deiner Organisation gibt dir unser interaktives Tool Empfehlungen, welches unserer Angebote am besten zu eurer Situation passt. 
+
+{{< /feature >}}
