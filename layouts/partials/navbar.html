@@ -110,34 +110,23 @@
       {{ end }}
 
       <!-- BLOGS AND PODCASTS -->
-      <li class="nav-item dropdown">
+      <li class="nav-item">
         <a
-          class="nav-link dropdown-toggle"
-          href="#"
-          id="media-dropdown"
-          role="button"
-          data-toggle="dropdown"
-          aria-haspopup="true"
-          aria-expanded="false"
+          class="nav-link"
+          type="button"
+          href="{{ .Site.Home.Permalink }}blog"
         >
-          Blogs
+          Blog
         </a>
-        <div class="dropdown-menu" aria-labelledby="media-dropdown">
-          <a class="dropdown-item" href="{{ .Site.Home.Permalink }}blog"
-            ><i class="fas fa-pen"></i> CorrelAid Blog</a
-          >
-          <a class="dropdown-item" href="https://codes.correlaid.org"
-            ><i class="fas fa-laptop-code"></i> CorrelAid Codes</a
-          >
-        </div>
       </li>
-      <!-- /END BLOGS AND PODCASTS-->
-
+     
+      
       <li class="nav-item">
         <a class="nav-link" href="https://soundcloud.com/correlaid_podcast"
-          ><i class="fas fa-lg fa-podcast"></i
-        ></a>
-      </li>
+        ><i class="fas fa-lg fa-podcast"></i
+          ></a>
+        </li>
+        <!-- /END BLOGS AND PODCASTS-->
       <!-- LANGUAGE -->
       <li class="nav-item dropdown">
         <a

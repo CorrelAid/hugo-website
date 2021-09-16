@@ -38,9 +38,6 @@ Jeden Donnerstagnachmittag bieten wir die Seelsorge für Datenherausforderungen 
 Vereinbart eine Datensprechstunde!
 {{< /button >}}
 
-## Plötzlich digital: Die Sprechstunde
-Zusammen mit [*D3 - so geht digital*](https://so-geht-digital.de), [*OpenTransfer*](https://opentransfer.de/) und [*GoVolunteer*](https://govolunteer.com) haben wir zu Beginn der Corona-Krise das Angebot *Plötzlich digital: Die Sprechstunde* geschaffen. Dort geben wir alle zwei Wochen Nonprofits die Möglichkeit, mehr über neue Tools zur digitalen Zusammenarbeit kennenzulernen. Ob Slack, Trello, HumHub, Office365, Nextcloud oder Passwortmanager: wir laden Expert:innen ein, die in 45 Minuten einen ersten praxisorientierten Einblick in Tools geben. [Hier](https://so-geht-digital.de/ploetzlich-digital-die-sprechstunde/) gibt es mehr Infos - und die Streams der vergangenen Sitzungen! 
-
 ## Workshops
 ### Wirkungsmessung
 Die Teilnehmer:innen lernen gemeinsam mit uns, wie soziale Organisationen Wirkungsketten und Wirkungsindikatoren entwickeln. Wir arbeiten während des Workshops mit anschaulichen Beispielen, direkt übertragbaren Instrumenten, gestalten gemeinsam Wirkungsketten und sprechen über den derzeitigen Stand der Wirkungsmessung in Deutschland.
