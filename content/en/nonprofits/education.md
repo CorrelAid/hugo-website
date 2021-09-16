@@ -53,4 +53,9 @@ Coming soon - stay tuned!
 Coming soon - stay tuned!
 
 
-For more information about our workshop formats please contact Nina at [nina.h@correlaid.org](nina.h@correlaid.org)!
+{{< contact
+    key="nina"
+    link-color="ca-green-text"
+>}}
+
+{{< /contact >}}

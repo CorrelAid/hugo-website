@@ -47,4 +47,9 @@ Die Teilnehmer:innen lernen gemeinsam mit uns, wie soziale Organisationen Wirkun
 ### Datenanalyse
 - Kommt bald - bleibt gespannt!
 
-Für mehr Informationen zu unseren Workshopformaten schreibt uns gerne unter [nina.h@correlaid.org](mailto:nina.h@correlaid.org)!
+{{< contact
+    key="nina"
+    link-color="ca-green-text"
+>}}
+
+{{< /contact >}}
