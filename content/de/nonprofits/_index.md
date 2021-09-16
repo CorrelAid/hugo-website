@@ -4,16 +4,15 @@ date: 2020-05-10T22:01:56+02:00
 draft: false
 ---
 
- Wir bei CorrelAid sind überzeugt davon, dass Daten und Datenanalyse ein enormes, bisher größtenteils ungenutztes Potenzial für die Zivilgesellschaft innewohnt. Mit unserer Arbeit wollen wir dieses Potenzial nutzbar machen für den sozialen Sektor und Organisationen, die sich dafür einsetzen, die Welt zu einem besseren Ort zu machen. Um unser Ziel zu erreichen, arbeiten wir in drei Bereichen: praktische Umsetzung in Projekten, niedrigschwellige Bildungsangebote und Community-Arbeit.
 
- In unserem Newsletter für gemeinnützige Organisationen berichten wir einmal im Monat aus unserer Arbeit und stellen ein bestimmtes Datenthema in den Fokus. 
-{{< button 
-    btn-class="btn-dark"
-    href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"
-    justify="center"
->}}
-Abonniere den Newsletter!
-{{< /button >}}
+Während sich in der Wirtschaft in den letzten Jahren ein Verständnis für
+digitale Technologien hat, werden Gesellschaft und zivilgesellschaftliche Organisationen hier bislang abgehängt. Deutlich wurde das im [Digital-Report 2020](https://www.digital-report.org/): 72 Prozent der 3,400 befragten Organisationen haben eine Organisationsstrategie, aber nur 38 Prozent erheben und/oder nutzen (externe) Daten zur Strategieentwicklung. Eine vollständig durchdachte Wirkungslogik haben nur 30 Prozent der Organisationen und nur insgesamt 28 Prozent messen tatsächlich ihre soziale Wirkung. Es fehlen finanzielle und personelle Ressourcen, um die neuen Möglichkeiten durch Daten und Datenanalyse erfolgreich nutzen zu können. Mitarbeiter:innen schätzen ihre Fähigkeiten und Kenntnisse im Umgang mit Daten als zu gering ein. 
 
+Dabei können Daten und ihre Analyse ein wichtiger Enabler für gesellschaftliche Wirkung sein, indem sie dabei helfen, folgende Fragen zu beantworten:
 
-Wenn du dir unsicher bist, was CorrelAid für dich und deine Organisation tun kann, dann kann dir [Elmo](https://correlaid.shinyapps.io/datamaturitymodel/) helfen: Basierend auf dem Datenreifegrad deiner Organisation gibt dir unser interaktives Tool Empfehlungen, welches unserer Angebote am besten zu eurer Situation passt. 
+- Was macht unsere gesellschaftliche Herausforderung aus?
+- Wie können wir bessere Entscheidungen treffen?
+- Wie können wir effizienter und effektiver arbeiten?
+
+Mit unserer Arbeit helfen wir Menschen und Organisationen, die sich dafür einsetzen, die Welt zu einem besseren Ort zu machen, diese Potenziale zu nutzen.
+

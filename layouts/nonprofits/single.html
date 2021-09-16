@@ -7,6 +7,8 @@
       <h1>{{ .Title }}</h1>
     </div>
   </div>
+  {{ $lang := .Site.Language.Lang }} 
+
 
   {{ $beforePath := printf "%s%s_before.md" .Dir .File.BaseFileName }}
   {{ if (fileExists $beforePath) }}
@@ -17,15 +19,16 @@
       {{ end }}
   {{ end }}
   
-  {{ $lang := .Site.Language.Lang }} 
 
-  <div class="row">
-    <div class="col-12">{{ .Content }}</div>
-  </div>
-  
 
   {{ if in (slice "projektarbeit" "projects") .File.BaseFileName }}
-
+  <div class="row">
+    <div class="col-12">
+      {{ $testimonials := $.Site.Data.testimonials }}
+      {{ partial "testimonial_carousel.html" (dict "context" . "testimonials" $testimonials.projects "id" "projectTestimonials" "lang" $lang ) }}
+    </div>
+  </div>
+  
   <div class="row pb-5">
     <div class="col-12 pb-4">
       <h1>{{ i18n "projects-past" }}</h1>
@@ -35,7 +38,7 @@
     <div class="col-12 col-md-6">
       <iframe
         width="100%"
-        height="300"
+        height="200"
         scrolling="no"
         frameborder="no"
         allow="autoplay"
@@ -77,7 +80,7 @@
     <div class="col-12 col-md-6">
       <iframe
         width="100%"
-        height="300"
+        height="200"
         scrolling="no"
         frameborder="no"
         allow="autoplay"
@@ -138,38 +141,13 @@
     {{ end }}
   </div>
 
-  <h1>{{ i18n "projects-process" }}</h1>
+  <div class="row">
+    <div class="col-12">{{ .Content }}</div>
+  </div>
+  
 
-            <div class="row my-5">
-                {{ $process_steps := $.Site.Data.process_steps }}
-                {{ range $step_index, $step := (index $process_steps $lang ) }} 
-                        <div class="col-sm-6">
-
-                            {{ $iconClass := .icon | printf "fas fa-2x %s" }}
-                            <h2 class="ca-green-text mb-0 mt-0">
-                                {{ add $step_index 1 }}. {{ .title }}
-                            </h2> 
-                           
-                            <p class="lead">
-                                <i class="fas fa-s fa-clock"></i>
-                                {{ .duration }}
-                            </p>
-                            <p class="lead">{{ .content | markdownify }}</p>
-                            <p>
-                                <b>{{ i18n "projects-your-input" }}</b>
-                                {{ .work | markdownify}}
-                            </p>
-                        </div>
-                {{ end }}
-            </div>
-            
-            <h1>FAQ</h1>
-            {{ $faqs := (index $.Site.Data.projects_faq $lang) }}
-            {{ range $faqs }}
-                <h2>{{ .q }}</h2>
-                <p>{{ .a | markdownify }}</p>
-            {{ end }}
-            
+  
+          
     {{ $afterPath := printf "%s%s_after.md" .Dir .File.BaseFileName }}
     {{ if (fileExists $afterPath) -}}
         {{ with .Site.GetPage $afterPath }}
@@ -178,7 +156,29 @@
         </div>        
         {{ end }}
     {{- end }}
+    
+    <div class="row my-5">
+        {{ $process_steps := $.Site.Data.process_steps }}
+        {{ range $step_index, $step := (index $process_steps $lang ) }} 
+                <div class="col-sm-6">
 
+                    {{ $iconClass := .icon | printf "fas fa-2x %s" }}
+                    <h3 class="ca-green-text mb-0 mt-0">
+                        {{ add $step_index 1 }}. {{ .title }}
+                    </h3> 
+                   
+                    <p class="lead">
+                        <i class="fas fa-s fa-clock"></i>
+                        {{ .duration }}
+                    </p>
+                    <p class="lead">{{ .content | markdownify }}</p>
+                    <p>
+                        <b>{{ i18n "projects-your-input" }}</b>
+                        {{ .work | markdownify}}
+                    </p>
+                </div>
+        {{ end }}
+    </div>
   {{ end }}
 </div>
 {{ end }}

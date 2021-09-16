@@ -1,10 +1,10 @@
 ---
-title: "Projekte"
+title: "Data4Good Projekte"
 date: 2020-05-10T22:01:56+02:00
 draft: false
 menu:
   nonprofits:
-    weight: 200
+    weight: 100
 translationKey: "projectsnpo"
 description: "Wir führen pro-bono Datenanalyseprojekte für gemeinnützige Organisationen durch und ermöglichen so, dass auch die Zivilgesellschaft das große Potential von Daten und Datenanalyse nutzen kann."
 weight: 2
@@ -12,11 +12,9 @@ img: "nonprofits/projects.JPG"
 
 ---
 
-# Unsere Data4Good Projekte für NPOs
-In unseren Skilled-Volunteering Projekten bringen wir ehrenamtliche Data Scientists aus unserem Netzwerk von über {{< param num_members >}} freiwilligen Data Scientists mit gemeinnützigen Organisationen zusammen. In den Projekten erhalten unsere Data Scientists die Gelegenheit, ihre Kenntnisse in der Praxis anzuwenden und neue Skills hinzuzugewinnen. Gleichzeitig unterstützen sie gemeinnützige Organisationen dabei, ihre datenbezogenen Herausforderungen zu lösen. 
+# Voraussetzungen
 
-Über einen Zeitraum von 2-6 Monaten und in Teams von 2-7 Scientists haben unsere Freiwilligen in der Vergangenheit ganz verschiedene Datenherausforderungen von NPOs bewältigt: von der Datenerfassung, Datenvisualisierung und explorativen Datenanalyse bis hin zu Automatisierung, Reporting und fortgeschrittenen statistischen Analysen mithilfe von Machine Learning und Deep Learning Techniken.
-
+CorrelAid-Projekte starten typischerweise immer zusammen zum Quartalsanfang. 
 
 {{< contact
     key="frie"
@@ -24,3 +22,8 @@ In unseren Skilled-Volunteering Projekten bringen wir ehrenamtliche Data Scienti
 >}}
 Wenn du Fragen zu unseren Projekten hast oder wenn du eine Idee für ein Projekt hast, kannst du jederzeit Frie kontaktieren.
 {{< /contact >}}
+# FAQ
+## Was kostet mich das?
+CorrelAid ist ein gemeinnütziger Verein, der Data4Good Projekte anstößt, indem er gemeinnützige Organisationen mit Datenanalyst:innen vernetzt. CorrelAid macht keinen Profit mit diesen Projekten. Unsere Datenanalyst:innen sind _skilled volunteers_, die ihre Zeit und Kenntnisse für den guten Zweck einsetzen, weil sie überzeugt davon sind, dass das Potenzial von Data Science auch für die Zivilgesellschaft genutzt werden sollte. Dank dieses Engagements unserer Freiwilligen müsst ihr als gemeinnützige Organisation sie nicht für ihre Arbeit bezahlen. Die Koordinationsarbeit vor, während und nach dem Projekt wird von unserer hauptamtlichen Frie gemacht. Diese Stelle finanziert CorrelAid durch [Spenden](https://www.betterplace.org/de/projects/58963-correlaid-e-v-foerderung-von-datenwissenschaft-in-der-zivilgesellschaft) und Fördergelder.
+
+## Wie ist der Ablauf?
