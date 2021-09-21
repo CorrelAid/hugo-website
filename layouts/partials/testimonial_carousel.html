@@ -1,16 +1,62 @@
-{{ range $testi_index, $testi := (index .testimonials .lang ) }} 
-<div class="testimonial ca-original-gradient py-3 px-4 mt-3">
-    <div class="row">
-        <div class="col-12 col-sm-5 col-md-4 col-lg-3 align-self-center">
-            {{ with $testi.image }}
-                <img class="img-fluid rounded-circle" src="/images/people/{{ . }}" />
+<div class="row pb-5">
+    <div id="testimonialsCarousel" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            <ol class="carousel-indicators">
+            {{ range $testi_index, $testi := (index .testimonials .lang ) }} 
+                {{ $activeClass := "" }}
+                {{ if eq $testi_index 0 }}
+                    {{ $activeClass = "active"}}            
+                {{ end }}
 
+                <li data-target="#testimonialsCarousel" data-slide-to="{{ $testi_index }}" class="{{ $activeClass }}"></li>
             {{ end }}
-            <p class="text-white text-center m-0">{{ $testi.contact }}, <i>{{ $testi.organisation }}</i></p>
-        </div>
-        <div class="col-12 col-sm-7 col-md-8 col-lg-9 align-self-center my-2">
-            <blockquote><i class="fas fa-quote-left fa-2x fa-pull-left"></i>{{ $testi.text }}</blockquote>
+            </ol>
+
+            {{ range $testi_index, $testi := (index .testimonials .lang ) }} 
+
+                {{ $activeClass := "carousel-item" }}
+                {{ if eq $testi_index 0 }}
+                    {{ $activeClass = "carousel-item active"}}            
+                {{ end }}
+    
+                <div class= "{{ $activeClass}}">
+                    <div class="testimonial ca-original-gradient py-3 px-4 mt-3">
+                        <div class="row">
+                            <div class="col-12 col-sm-5 col-md-4 col-lg-3 align-self-center">
+                                {{ with $testi.image }}
+                                    <img class="img-fluid rounded-circle" src="/images/people/{{ . }}" />
+                    
+                                {{ end }}
+                                <p class="text-white text-center m-0">{{ $testi.contact }}, <i>{{ $testi.organisation }}</i></p>
+                            </div>
+                            <div class="col-12 col-sm-7 col-md-8 col-lg-9 align-self-center my-2">
+                                <blockquote><i class="fas fa-quote-left fa-2x fa-pull-left"></i>{{ $testi.text }}</blockquote>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+    
+            {{ end }}
+            
+            <a
+                class="carousel-control-prev"
+                href="#testimonialsCarousel"
+                role="button"
+                data-slide="prev"
+            >
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a
+                class="carousel-control-next"
+                href="#testimonialsCarousel"
+                role="button"
+                data-slide="next"
+            >
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+    
         </div>
     </div>
 </div>
-{{ end }}

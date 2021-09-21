@@ -13,3 +13,5 @@ public/*
 
 # python venv
 venv
+
+PRETIX_API_TOKEN
