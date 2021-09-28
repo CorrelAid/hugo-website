@@ -158,3 +158,11 @@ We created the plot using R and the packages `ggplot2`, `tidyr`, and `sf`. We us
 *[Arndt Leininger](https://aleininger.eu/) assistant professor for political science research methods at Chemnitz University of Technology and works on political behavior and applied quantitative methods. [Bruno Ponne](https://twitter.com/brunoponne) works in the Brazilian parliament and holds a Masters in Public Policy from the Hertie School in Berlin, which is where he got involved with CorrelAid.*
 
 
+
+
+### Interactive Map
+
+{{< iframe 
+    src="/html/tidytuesday_challenge_map.html"
+    height=600px
+>}}
