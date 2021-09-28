@@ -97,7 +97,7 @@ As I explored the Migrazensus data, as part of August's Correlaid TidyTuesday ev
 1. How many people with a "migration background" live in each German region, and the proportion of these people who are eligible to vote;
 
 {{< image-subtitle 
-    image="2021-09-16_martin-chris-1.svg"
+    image="2021-09-16_martin-chris-1.png"
 >}}
 Please right click on the image and click on "open image in new tab" to get a better view.
 {{< /image-subtitle  >}}
@@ -106,7 +106,7 @@ Please right click on the image and click on "open image in new tab" to get a be
 
 
 {{< image-subtitle 
-    image="2021-09-16_martin-chris-2.svg"
+    image="2021-09-16_martin-chris-2.png"
 >}}
 Please right click on the image and click on "open image in new tab" to get a better view.
 {{< /image-subtitle  >}}
