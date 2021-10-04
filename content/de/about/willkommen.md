@@ -13,7 +13,7 @@ meta:
 
 Liebes Neumitglied,
 
-herzlich Willkommen bei CorrelAid e.V. und vielen Dank, dass du mit deiner aktiven Mitgliedschaft oder Fördermitgliedschaft unsere Arbeit ideell sowie finanziell unterstützt.
+herzlich Willkommen bei CorrelAid e.V. und vielen Dank, dass du mit deiner aktiven Mitgliedschaft oder Fördermitgliedschaft unsere Arbeit ideell sowie finanziell unterstützt. 💚💙
 
 Wir haben deine Daten erhalten und werden nun die notwendigen Prozesse in die Wege leiten. Das kann ein paar Wochen dauern, da unser Finanzvorstand auch nur ehrenamtlich arbeitet. Wir hoffen, dass du dafür Verständnis hast.
 
