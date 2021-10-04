@@ -2,7 +2,7 @@
 title: "Save the date: CorrelCon 2021"
 date: 2018-08-23T10:48:46+02:00
 draft: false
-eventDate: "2021-11-12"
+eventDate: "2021-11-13"
 meta:
     title: "Save the date: CorrelCon 2021"
     description: "CorrelAid invites you to join us online for a weekend of Data4Good from November 12-13. Doesn't matter if you're a data enthusiast, an interested NPO or just someone who likes attending conferences with nice people! Watch this space in the following weeks for the program and more information!"
@@ -12,9 +12,7 @@ languages:
     - english
 ---
 
-Are you interested in leveraging data for good? Then you should join us at the CorrelCon! The CorrelCon is a conference for everyone that is excited about using data and data science for the social good! From insights into our projects for NPOs to technical sessions on your favorite data science technologies - CorrelCon will have it all. ;) 
-
-
+Are you interested in leveraging data for good? Then you should join us at the CorrelCon from **from November 12-13**! The CorrelCon is a conference for everyone that is excited about using data and data science for the social good! From insights into our projects for NPOs to technical sessions on your favorite data science technologies - CorrelCon will have it all. ;) 
 
 # For Nonprofits
 
