@@ -97,7 +97,7 @@ As I explored the Migrazensus data, as part of August's Correlaid TidyTuesday ev
 1. How many people with a "migration background" live in each German region, and the proportion of these people who are eligible to vote;
 
 {{< image-subtitle 
-    image="2021-09-16_martin-chris-1.svg"
+    image="2021-09-16_martin-chris-1.png"
 >}}
 Please right click on the image and click on "open image in new tab" to get a better view.
 {{< /image-subtitle  >}}
@@ -106,7 +106,7 @@ Please right click on the image and click on "open image in new tab" to get a be
 
 
 {{< image-subtitle 
-    image="2021-09-16_martin-chris-2.svg"
+    image="2021-09-16_martin-chris-2.png"
 >}}
 Please right click on the image and click on "open image in new tab" to get a better view.
 {{< /image-subtitle  >}}
@@ -156,4 +156,9 @@ We created the plot using R and the packages `ggplot2`, `tidyr`, and `sf`. We us
 
 *[Arndt Leininger](https://aleininger.eu/) assistant professor for political science research methods at Chemnitz University of Technology and works on political behavior and applied quantitative methods. [Bruno Ponne](https://twitter.com/brunoponne) works in the Brazilian parliament and holds a Masters in Public Policy from the Hertie School in Berlin, which is where he got involved with CorrelAid.*
 
+### Interactive Map
 
+{{< iframe 
+    src="/html/tidytuesday_challenge_map.html"
+    height=600px
+>}}

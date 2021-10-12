@@ -33,7 +33,7 @@ Unsere Arbeit stützt sich auf drei Säulen:
 
 ## Unsere Werte 
 
-Wir sind ein inklusives Netzwerk, in dem Vielfalt geschätzt und gefördert wird. Wir lehnen jede Form von Diskriminierung, Gewalt oder Belästigung entschieden ab. Wir legen Wert auf wertschätzende Kommunikation und wertschätzen die Zeit und Arbeit unserer Volunteers. Unseren Volunteers gute Lernerfahrungen zu ermöglichen ist der Kern unserer Mission. Darüber hinaus kommt ihr Engagement in unseren Skilled-Volunteering-Projekten dem sozialen Sektor und der Gesellschaft zugute. Bei unserer Arbeit halten wir uns an unseren [Code of Conduct](/de/about/codeofconduct), den wir für uns definiert haben.
+Wir sind ein inklusives Netzwerk, in dem Vielfalt geschätzt und gefördert wird. Wir lehnen jede Form von Diskriminierung, Gewalt oder Belästigung entschieden ab. Wir legen Wert auf wertschätzende Kommunikation und wertschätzen die Zeit und Arbeit unserer Volunteers. Unseren Volunteers gute Lernerfahrungen zu ermöglichen ist der Kern unserer Mission. Darüber hinaus kommt ihr Engagement in unseren Skilled-Volunteering-Projekten dem sozialen Sektor und der Gesellschaft zugute. Bei unserer Arbeit halten wir uns an unseren [Code of Conduct](/about/codeofconduct), den wir für uns definiert haben.
 
 # Preise und Förderungen
 
