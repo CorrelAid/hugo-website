@@ -24,6 +24,14 @@ meta:
 {{< /partner >}}
 
 {{< partner 
+    name="DSEE"
+    img="/images/partners/dsee.png"
+    website="https://www.deutsche-stiftung-engagement-und-ehrenamt.de/"
+>}}
+[Die Deutsche Stiftung für Engagement und Ehrenamt (DSEE)](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/) fördert seit 2020 ehrenamtliches Engagement in Deutschland. Dank ihrer Unterstützung können wir seit 2021 den 12-wöchigen Kurs "R Lernen - Der Datenkurs von und für die Zivilgesellschaft" anbieten, in dem Vertreter:innen aus der Zivilgesellschaft lernen, wie sie Datenprojekte angehen und in der Programmiersprache R umsetzen können.
+{{< /partner >}}
+
+{{< partner 
     name="IOMIDS"
     img="/images/partners/iomids.png"
     website="https://iomids.com/"
