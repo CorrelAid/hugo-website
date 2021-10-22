@@ -61,7 +61,7 @@ men: 6.4 km for women compared to 7.9 km for men.**
 
 
 {{< image-no-border
-    image="20201220_gender_mobility_dist.png"
+    image="blog/20201220_gender_mobility_dist.png"
 >}}
 {{< /image-no-border >}}
 
@@ -87,7 +87,7 @@ While working men and women show similar travel patterns in the morning, working
 
 
 {{< image-no-border
-    image="20201220_gender_mobility_rushhour.png"
+    image="blog/20201220_gender_mobility_rushhour.png"
 >}}
 {{< /image-no-border >}}
 
@@ -96,7 +96,7 @@ While working men and women show similar travel patterns in the morning, working
 Average trip counts across all ages only differ very slightly (2.7 trips for women vs. 2.6 trips for men), but if the data are additionally age-disgregated, we see that working-age women (25 to 55) have more trips than men in the same age group. Interestingly, this pattern then flips for people over 55. What could explain this pattern?
 
 {{< image-no-border
-    image="20201220_gender_mobility_tripcount.png"
+    image="blog/20201220_gender_mobility_tripcount.png"
 >}}
 {{< /image-no-border >}}
 
@@ -106,7 +106,7 @@ Average trip counts across all ages only differ very slightly (2.7 trips for wom
 After the age of 45 care trips of women decrease: supposedly because children are getting older and need to be accompanied less.
 
 {{< image-no-border
-    image="20201220_gender_mobility_motive.png"
+    image="blog/20201220_gender_mobility_motive.png"
 >}}
 {{< /image-no-border >}}
 
@@ -125,7 +125,7 @@ Once we account for distance, we can better estimate how travel speed may differ
 **However, women travelling on public transport showed slightly slower travel speeds (13.0 km/h for males 12.7 km/h for females)**. Large sample sizes, as we have in this survey, can easily produce significant results from very slight differences, **but are these differences actually meaningful?** The answer to this question does not lie within the statistics but is a matter of interpretation. **In our view, this difference is not large enough** to support a strong gendered effect of city planning or public transport design for commuters in Madrid. Digging deeper into the data might reveal disadvantaged subgroups, in a similar way that age disaggregation revealed clear patterns in trip count data, though this is purely speculative. 
 
 {{< image-no-border
-    image="20201220_gender_mobility_speed.png"
+    image="blog/20201220_gender_mobility_speed.png"
 >}}
 {{< /image-no-border >}}
 

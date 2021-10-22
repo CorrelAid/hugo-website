@@ -1,3 +1,10 @@
 <div class="ca-img-container">
-    <img class="img-fluid" src="/images/blog/{{ .Get `image` }}" alt="{{ .Inner }}" />
+
+    {{ if isset .Params `href` }}
+    <a href="{{ .Get `href` }}"><img class="img-fluid" height="{{ .Get `height` }}" width="{{ .Get `width` }}" src="/images/{{ .Get `image` }}" alt="{{ .Inner }}" /></a>
+
+    {{ else }}
+    <img class="img-fluid" height="{{ .Get `height` }}" width="{{ .Get `width` }}" src="/images/{{ .Get `image` }}" alt="{{ .Inner }}"/>
+    {{ end }}
+
 </div>
