@@ -61,7 +61,7 @@ men: 6.4 km for women compared to 7.9 km for men.**
 
 
 {{< image-no-border
-    image="20201220_gender_mobility_dist.png"
+    image="blog/20201220_gender_mobility_dist.png"
 >}}
 {{< /image-no-border >}}
 
@@ -73,7 +73,7 @@ This is an indicator that women do more trips to places nearby typically visited
 Men drive the car for 44% of their trips while women only use it for 35% of their trips. Instead, they walk or use public transport more often than men.
 
 {{< image-no-border
-    image="20201220_gender_mobility_modalsplit.png"
+    image="blog/20201220_gender_mobility_modalsplit.png"
 >}} 
 {{< /image-no-border >}}
 
@@ -87,7 +87,7 @@ While working men and women show similar travel patterns in the morning, working
 
 
 {{< image-no-border
-    image="20201220_gender_mobility_rushhour.png"
+    image="blog/20201220_gender_mobility_rushhour.png"
 >}}
 {{< /image-no-border >}}
 
@@ -96,7 +96,7 @@ While working men and women show similar travel patterns in the morning, working
 Average trip counts across all ages only differ very slightly (2.7 trips for women vs. 2.6 trips for men), but if the data are additionally age-disgregated, we see that working-age women (25 to 55) have more trips than men in the same age group. Interestingly, this pattern then flips for people over 55. What could explain this pattern?
 
 {{< image-no-border
-    image="20201220_gender_mobility_tripcount.png"
+    image="blog/20201220_gender_mobility_tripcount.png"
 >}}
 {{< /image-no-border >}}
 
@@ -106,7 +106,7 @@ Average trip counts across all ages only differ very slightly (2.7 trips for wom
 After the age of 45 care trips of women decrease: supposedly because children are getting older and need to be accompanied less.
 
 {{< image-no-border
-    image="20201220_gender_mobility_motive.png"
+    image="blog/20201220_gender_mobility_motive.png"
 >}}
 {{< /image-no-border >}}
 
