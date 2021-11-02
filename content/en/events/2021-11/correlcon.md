@@ -76,3 +76,10 @@ We thank our sponsors for supporting CorrelCon 2021!
     href=https://codecentric.de
 >}}
 {{< /image-no-border >}}
+
+{{< image-no-border
+    image="events/therbootcamp_logo.png"
+    width=150px
+    href=https://therbootcamp.github.io/
+>}}
+{{< /image-no-border >}}
