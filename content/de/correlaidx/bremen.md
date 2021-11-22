@@ -24,22 +24,21 @@ wir eine Kooperation mit verschiedenen Fachbereichen an der Uni Bremen an.
 Unser Team freut sich über weitere Unterstützung. Dies betrifft insbesondere Studis oder Staff der Hochschule Bremen, 
 der Jacobs University oder der Bremen International Graduate School of Social Sciences (BIGSSS). Wenn ihr 
 Interesse daran habt, selber Projekte mitzumachen, meldet euch im Newsletter an (wobei eine Angabe eures Wohnorts 
-dafür hilfreich wäre). Habt ihr Lust, im Orgateam aktiv zu werden, könnt ihr euch per E-Mail an Hendrik wenden.
+dafür hilfreich wäre). Habt ihr Lust, im Orgateam aktiv zu werden, könnt ihr euch per E-Mail an Alice wenden.
 
 
 
 {{< person 
-    name="Hendrik"
+    name="Alice"
     subline="CorrelAidX Bremen"
-    img="/images/people/hendrik-f.jpg"
+    img="/images/people/alice_bremen.png"
     data-email="bremen@correlaid.org"
-    data-to="Hendrik (CorrelAidX Bremen)"
+    data-to="Alice (CorrelAidX Bremen)"
     link-color="ca-red-text"
     x="1"
 >}}
-Hendrik ist Soziologiestudent an der Uni Bremen und euer Ansprechpartner für den hohen Norden.
-Ihn begeistert die Idee mit Datenanalyse die Welt zu verbessern und ein Peer-Learning Netzwerk von 
-Motivierten im Norden aufzubauen.
+Alice Blanksma übernimmt zurzeit die Organisation des Local Chapters Bremen und steht euch gerne für alle Fragen und die erste Kontaktaufnahme zur Verfügung. Sie hat Politikwissenschaften und Sozialforschung studiert und begegnet gesellschaftlichen Problemen gerne mit empirischer Datenanalyse. Sie engagiert sich bei CorrelAid, weil hier nicht nur die gute Sache von gemeinwohlorientierten Initiativen unterstützt wird, sondern nebenbei auch Datenbegeisterte anhand realer Projektdaten und Peer-Learning ihr Können ausbauen können. Win-win für alle!
+
 {{< /person >}}
 
 

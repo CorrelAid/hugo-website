@@ -26,21 +26,20 @@ Our team appreciates every kind of support. Especially students and staff from t
 Jacobs University or the Bremen International Graduate School of Social Sciences (BIGSSS) are very welcome 
 to participate. If you are interested in implementing your own project, simply sign up for our newsletter 
 (specifying the area your living at would be advantageous). In case you would like to take part in the organizational
- unit, please send an email to Hendrik. 
+ unit, please send an email to Alice. 
 
 
 {{< person 
-    name="Hendrik"
+    name="Alice"
     subline="CorrelAidX Bremen"
-    img="/images/people/hendrik-f.jpg"
+    img="/images/people/alice_bremen.png"
     data-email="bremen@correlaid.org"
-    data-to="Hendrik (CorrelAidX Bremen)"
+    data-to="Alice (CorrelAidX Bremen)"
     link-color="ca-red-text"
     x="1"
 >}}
-Hendrik is a student of sociology at the University of Bremen and  your contact person in Germany’s High North. 
-He is intrigued by the idea to make the world a little better through data analysis and would like to build a 
-northern Peer-Learning network.
+Alice Blanksma currently coordinates the local chapter Bremen and as contact person she will be happy to answer any questions you may have. She studied political science and social research and likes to approach social problems with empirical data analysis. She is involved in CorrelAid because here not only the good cause of NPOs is supported, but also data enthusiasts improve their skills through real-world projects and peer learning. Win-win for everyone!
+
 {{< /person >}}
 
 {{< person 
