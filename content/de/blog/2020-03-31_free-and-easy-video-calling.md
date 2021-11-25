@@ -7,7 +7,7 @@ slug: free-and-easy-video-calling
 author: 
     name:           "Jasmin und Frie"
     image:          "jasminfrie.jpg"
-    description:    "Jasmin is a member of CorrelAid since the Meetup in 2017 and takes care of Education & Knowledge Management at CorrelAid. She also hosts our podcast “CorrelTalk – the CorrelAid Podcast”. Frie works as Chief Operating Officer for CorrelAid; she tweets at [@ameisen_strasse](https://twitter.com/ameisen_strasse)."
+    description:    "Jasmin is a member of CorrelAid since the Meetup in 2017 and takes care of Education & Knowledge Management at CorrelAid. She also hosts our podcast “CorrelTalk – the CorrelAid Podcast”. Frie works as Chief Operating Officer for CorrelAid; they tweet at [@ameisen_strasse](https://twitter.com/ameisen_strasse)."
     twitter:        ""
     facebook:       ""
     github:         ""
