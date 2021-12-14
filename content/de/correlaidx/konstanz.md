@@ -18,7 +18,7 @@ Als "Geburtsort" von CorrelAid gab es in der kleinen Uni-Stadt am See schon imme
 Um diese Tradition mit Leben zu füllen, hat sich 2019 das Local Chapter Konstanz gegründet und seitdem bereits mehrere R-Workshops, Datenstammtische sowie Data-HackDays in Kooperation mit dem Team Datenjournalismus des SWR veranstaltet. Auch ein Projekt mit der NPO "Studieren ohne Grenzen" konnte realisiert werden. 
 
 Seit 2020 besteht zudem eine enge Kooperation mit der Open-Data Stelle der Stadt Konstanz. Im Rahmen dieser Kooperation wurden zum Beispiel R- und Python Pakekte für die Open-Data API der Stadt geschrieben.
-Ein weiteres lokales Projekt in Kooperation mit "Stolpersteine-Konstanz" wurde 2021 gestartet.
+Ein weiteres lokales Projekt in Kooperation mit "Stolpersteine-Konstanz" wurde 2021 gestartet. Besonderes Augenmerk legen wir jedoch seit jeher auf den Bereich Education. Deshalb haben wir 2021 auch damit angefangen unsere Workshops und Kurse zu professionalisieren und nutzerfreundlich auf einer [Website](https://correlaid.github.io/correlaidx-kn-education/) zur Verfügung zu stellen. Schaut gerne mal rein! 
 
 Ihr seht, Konstanz hat nicht nur CorrelAid-Tradition, ein eigenes Local Chapter und einen See zu bieten, sondern auch richtig viel Data4Good-Zukunft.
 
