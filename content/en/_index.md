@@ -38,7 +38,7 @@ data analysts of tomorrow.
     title="Data Science for Society." 
     color="ca-dark-blue-text"
     img="/images/data-science-for-society.jpg"
-    href="/en/education/"
+    href="/en/nonprofits/education/"
     order="order-md-0"
 >}}
 We advocate a broad dialogue about the potential and the limits of data science in civil society.
