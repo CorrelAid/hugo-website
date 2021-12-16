@@ -5,6 +5,16 @@ on:
     branches:
       - main  # Set a branch to deploy
       - gh-action-deploy
+    paths:
+      - "archetypes/**"
+      - "content/**"
+      - "data/**"
+      - "i18n/**"
+      - "layouts/**"
+      - "resources/**"
+      - "static/**"
+      - ".github/**"
+      - "config.toml"
 
 jobs:
   deploy:
@@ -30,6 +40,7 @@ jobs:
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
           restore-keys: |
             ${{ runner.os }}-hugomod-
+
       - name: Build
         run: hugo --minify
 
