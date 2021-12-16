@@ -47,58 +47,59 @@
       <!-- /END ABOUT US -->
 
       <!-- FOR NONPROFITS -->
-      <div class="btn-group">
-        <a
-          class="nav-link"
-          type="button"
-          href="{{ .Site.Home.Permalink }}nonprofits"
-        >
-          {{ i18n "for-nonprofits" }}
-        </a>
-        <button
-          type="button"
-          class="btn dropdown-toggle dropdown-toggle-split d-none d-lg-block"
-          data-toggle="dropdown"
-          aria-haspopup="true"
-          aria-expanded="false"
-        >
-        </button>
-        <div class="dropdown-menu">
-          {{ range .Site.Menus.nonprofits }}
-          <a class="dropdown-item" href="{{ .URL | absLangURL }}"
-            >{{ .Name }}</a
+      <li class="nav-item">
+        <div class="btn-group">
+          <a
+            class="nav-link"
+            href="{{ .Site.Home.Permalink }}nonprofits"
           >
-          {{ end }}
+            {{ i18n "for-nonprofits" }}
+          </a>
+          <button
+            type="button"
+            class="btn dropdown-toggle dropdown-toggle-split d-none d-lg-block"
+            data-toggle="dropdown"
+            aria-haspopup="true"
+            aria-expanded="false"
+          ></button>
+          <div class="dropdown-menu">
+            {{ range .Site.Menus.nonprofits }}
+            <a class="dropdown-item" href="{{ .URL | absLangURL }}"
+              >{{ .Name }}</a
+            >
+            {{ end }}
+          </div>
         </div>
-      </div>
+      </li>
 
-      <!-- FOR VOLUNTEERS -->
-      <div class="btn-group">
-        <a
-          class="nav-link"
-          type="button"
-          href="{{ .Site.Home.Permalink }}volunteer"
-        >
-          {{ i18n "for-volunteers" }}
-        </a>
-        <button
-          type="button"
-          class="btn dropdown-toggle dropdown-toggle-split d-none d-lg-block"
-          data-toggle="dropdown"
-          aria-haspopup="true"
-          aria-expanded="false"
-        >
-        </button>
-        <div class="dropdown-menu">
-          {{ range .Site.Menus.volunteer }}
-          <a class="dropdown-item" href="{{ .URL | absLangURL }}"
-            >{{ .Name }}</a
+      <li class="nav-item">
+
+        <!-- FOR VOLUNTEERS -->
+        <div class="btn-group">
+          <a
+            class="nav-link"
+            href="{{ .Site.Home.Permalink }}volunteer"
           >
-          {{ end }}
+            {{ i18n "for-volunteers" }}
+          </a>
+          <button
+            type="button"
+            class="btn dropdown-toggle dropdown-toggle-split d-none d-lg-block"
+            data-toggle="dropdown"
+            aria-haspopup="true"
+            aria-expanded="false"
+          ></button>
+          <div class="dropdown-menu">
+            {{ range .Site.Menus.volunteer }}
+            <a class="dropdown-item" href="{{ .URL | absLangURL }}"
+              >{{ .Name }}</a
+            >
+            {{ end }}
+          </div>
         </div>
-      </div>
-
-      <!-- /END FOR VOLUNTEERS -->
+  
+        <!-- /END FOR VOLUNTEERS -->
+      </li>
 
       {{ $currentPage := . }} {{ range .Site.Menus.main }}
       <li class="nav-item">
@@ -110,21 +111,17 @@
 
       <!-- BLOGS AND PODCASTS -->
       <li class="nav-item">
-        <a
-          class="nav-link"
-          type="button"
-          href="{{ .Site.Home.Permalink }}blog"
-        >
+        <a class="nav-link" href="{{ .Site.Home.Permalink }}blog">
           Blog
         </a>
       </li>
-     
-      
+
       <li class="nav-item">
         <a class="nav-link" href="https://soundcloud.com/correlaid_podcast"
-        >Podcast</a>
-        </li>
-        <!-- /END BLOGS AND PODCASTS-->
+          >Podcast</a
+        >
+      </li>
+      <!-- /END BLOGS AND PODCASTS-->
       <!-- LANGUAGE -->
       <li class="nav-item dropdown">
         <a
