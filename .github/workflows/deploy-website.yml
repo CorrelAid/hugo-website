@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main  # Set a branch to deploy
-      - gh-action-deploy
     paths:
       - "archetypes/**"
       - "content/**"
