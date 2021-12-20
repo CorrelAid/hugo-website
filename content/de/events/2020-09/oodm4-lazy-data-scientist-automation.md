@@ -54,7 +54,7 @@ Frie will take you back to 2017: She will talk about how - back when CorrelAid's
     img="/images/people/frie.jpg"
     x="0"
 >}}
-   Frie is the COO of CorrelAid but has been around as a volunteer since the beginning. Before starting to work full-time for CorrelAid, she regularly used her volunteering as an opportunity to try out new technologies and hack together things for CorrelAid.
+   Frie is the COO of CorrelAid but has been around as a volunteer since the beginning. Before starting to work full-time for CorrelAid, they regularly used their volunteering as an opportunity to try out new technologies and hack together things for CorrelAid.
 {{< /person >}}
 
 ## Registration 

@@ -1,4 +1,5 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2c8e5dc8-1df6-4b21-bfdb-77af3b1d525a/deploy-status)](https://app.netlify.com/sites/jolly-boyd-ddf9b1/deploys) [![buddy pipeline](https://app.buddy.works/correlaid/hugo-website/pipelines/pipeline/278548/badge.svg?token=6a0bb1686911e5f7ac4a49c400da307388ecd3dfa40e8f56bd2ed996ace28902 "buddy pipeline")](https://app.buddy.works/correlaid/hugo-website/pipelines/pipeline/278548) [![buddy pipeline](https://app.buddy.works/correlaid/hugo-website/pipelines/pipeline/277663/badge.svg?token=6a0bb1686911e5f7ac4a49c400da307388ecd3dfa40e8f56bd2ed996ace28902 "buddy pipeline")](https://app.buddy.works/correlaid/hugo-website/pipelines/pipeline/277663)
+[<img alt="Deployed with FTP Deploy Action" src="https://img.shields.io/badge/Deployed With-FTP DEPLOY ACTION-%3CCOLOR%3E?style=for-the-badge&color=0077b6">](https://github.com/SamKirkland/FTP-Deploy-Action)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2c8e5dc8-1df6-4b21-bfdb-77af3b1d525a/deploy-status)](https://app.netlify.com/sites/jolly-boyd-ddf9b1/deploys) 
 
 # CorrelAid Hugo Website
 0. Licensing information
@@ -64,7 +65,7 @@ Hugo provides a development server that enables _hot-reload_. The folder is watc
 
 1. Commit your changes to GitHub. If you're not an admin, you cannot push to the `main` branch, so please create a branch for your changes and then open a pull request. 
 2. Pull requests to the `main` branched are built into a _deploy preview_ by Netlify. You will see this in the PR status checks. If you click on "Details" for the last status check (it should say something like "Deploy preview ready!"), you'll be taken to the deploy preview.
-3. After someone has reviewed your changes and approved them, they'll be merged to `main` and automatically deployed to our FTP server by [buddy.works](buddy.works). You can check the status of this deployment by looking at the badge in the README.
+3. After someone has reviewed your changes and approved them, they'll be merged to `main` and automatically deployed to our FTP server by GitHub Actions. You can check the status of this deployment by looking at the "Actions" tab of the GitHub Repository. This will only happend if you have modified files that are actually relevant to the website, i.e. updating the README will not trigger a build.
 
 ## 4. Add content
 
