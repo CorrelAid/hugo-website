@@ -12,19 +12,15 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
-Die Lokalgruppe Bremen ist Ende 2018 entstanden. Anstoß war das Lokalgruppen Kickoff Wochenende in Berlin. 
-Daraufhin haben sich zunächst über persönliche Kontakte an der Uni Bremen Interessierte aus den Sozialwissenschaften 
-und der Informatik zusammengefunden, die ein erstes Treffen zur Gründung der Lokalgruppe abgehalten haben.
+Willkommen bei CorrelAidXBremen! Das Local Chapter Bremen ist 2018 gegründet worden und war zunächst noch stark studentisch geprägt. Mittlerweile sind wir jedoch eine bunte Mischung von Datenbegeisterten aus verschiedenen Fach- und Arbeitsbereichen – von den Sozialwissenschaften über das Kommunikationswesen bis hin zur Informatik. Wir verfügen über unterschiedliche Skill-Level, uns alle eint jedoch der Gedanke, mit Datenanalyse etwas Gutes bezwecken zu wollen. Jede*r, der sich in Bremen und Umgebung für Data4Good interessiert, ist bei uns also genau an der richtigen Stelle! 
 
-Mittlerweile hat sich ein Kernteam herausgebildet, das sich regelmäßig im AStA-Konferenzraum der Universität trifft. 
-Für die nächste Zeit haben wir uns erstens vorgenommen, Kontakte zu knüpfen zu gemeinwohlorientierten Initiativen in 
-Bremen und „umzu“. Zweitens wollen wir ein Netzwerk von hier ansässigen Datenanalyst*innen aufbauen. Dazu streben 
-wir eine Kooperation mit verschiedenen Fachbereichen an der Uni Bremen an.
+Uns ist es wichtig, von- und miteinander zu lernen und das möglichst praxisnah. Daher haben wir den Bremer Datentreff ins Leben gerufen, bei dem wir Data Challenges in R in Angriff nehmen, uns gegenseitig kleine Projekte vorstellen (z.B. eine Analyse innerhalb einer Seminararbeit oder die Datenvisualisierung in Python), oder auch einfach nur zusammenkommen und uns austauschen. Es herrscht eine lockere angenehme Atmosphäre, in der auch vermeintlich „dumme“ Fragen gestellt werden können. 
 
-Unser Team freut sich über weitere Unterstützung. Dies betrifft insbesondere Studis oder Staff der Hochschule Bremen, 
-der Jacobs University oder der Bremen International Graduate School of Social Sciences (BIGSSS). Wenn ihr 
-Interesse daran habt, selber Projekte mitzumachen, meldet euch im Newsletter an (wobei eine Angabe eures Wohnorts 
-dafür hilfreich wäre). Habt ihr Lust, im Orgateam aktiv zu werden, könnt ihr euch per E-Mail an Alice wenden.
+Um möglichst viel Praxisnähe herzustellen, treten wir regelmäßig mit lokalen Initiativen in Kontakt und bieten unsere Unterstützung beim Erreichen ihrer gemeinnützigen Ziele an. Hier ist schon die ein oder andere spannende Zusammenarbeit zustande gekommen, in Zukunft möchten wir diesen Bereich jedoch stärker ausbauen. Wir hoffen, dass wir so für den gesamten Nordwesten ein Netzwerk aus Datenanalyst*innen und Partnerorganisationen etablieren können und der Data4Good-Gedanke damit weiter verbreitet wird. 
+
+Alle zwei Wochen montags findet unser Chapter-Call statt. Hier treiben wir CorrelAid Bremen voran, besprechen Projektideen und planen unsere nächsten Schritte. Wir suchen immer aktive Mitstreiter*innen, aber genauso freuen wir uns über Gelegenheitsbesuche. Der Chapter-Call eignet sich auch gut für ein erstes Reinschnuppern und Kennenlernen.
+
+Bei uns findet größtenteils alles online statt, sodass Interessierte aus ganz Nordwestdeutschland problemlos mitmachen können. Wenn ihr Lust habt, ehrenamtlich an Daten-Projekten mitzuarbeiten oder auch einfach nur den Kontakt zu Gleichgesinnten sucht, dann schreibt uns gerne eine kurze Nachricht an [bremen@correlaid.org](mailto:bremen@correlaid.org). Wir freuen uns auf euch! 
 
 
 
@@ -37,7 +33,8 @@ dafür hilfreich wäre). Habt ihr Lust, im Orgateam aktiv zu werden, könnt ihr 
     link-color="ca-red-text"
     x="1"
 >}}
-Alice Blanksma übernimmt zurzeit die Organisation des Local Chapters Bremen und steht euch gerne für alle Fragen und die erste Kontaktaufnahme zur Verfügung. Sie hat Politikwissenschaften und Sozialforschung studiert und begegnet gesellschaftlichen Problemen gerne mit empirischer Datenanalyse. Sie engagiert sich bei CorrelAid, weil hier nicht nur die gute Sache von gemeinwohlorientierten Initiativen unterstützt wird, sondern nebenbei auch Datenbegeisterte anhand realer Projektdaten und Peer-Learning ihr Können ausbauen können. Win-win für alle!
+Alice steht euch gerne für alle Fragen und die erste Kontaktaufnahme zur Verfügung. Sie hat Politikwissenschaften und Sozialforschung studiert und begegnet gesellschaftlichen Problemen gerne mit empirischer Datenanalyse. Sie engagiert sich bei CorrelAid, weil hier nicht nur die gute Sache von gemeinwohlorientierten Initiativen unterstützt wird, sondern nebenbei auch Datenbegeisterte anhand realer Projektdaten und Peer-Learning ihr Können ausbauen können. Win-win für alle!
+
 
 {{< /person >}}
 
