@@ -12,21 +12,16 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
-The local chapter in Bremen, which was prompted in context of a Kick-Off meeting in Berlin, was established in the 
-end of 2018. Through people-to-people contact, several interested people from the department of sociology and 
-informatics participated in the first meeting that brought the actual foundation process on its way. 
+Welcome to CorrelAidXBremen! The Local Chapter Bremen was founded in 2018 and was initially very student-oriented. Nowadays, we are a diverse mix of data enthusiasts from different fields of study and work - from social sciences to communications to computer science. We have different skill levels, but we are all united by the idea of using data analysis as means to do something good /do a good deed. So if you are interested in Data4Good in Bremen and the surrounding area you have come to the right place! 
 
-By now, a core team has been developed which regularly meets in the conference room of the University’s General 
-Students Committee (AStA). For the near future we decided to establish new contacts with socially-oriented 
-initiatives in Bremen and „umzu“. Secondly, we would like to create a network for local data analysts. 
-For this purpose we aim to build a strong cooperation with different faculties and departments at the 
-University of Bremen.
+It is important to us to learn from and with each other as well as with a practical orientation. That's why we launched the Bremen Data Meet-Up, where we tackle data challenges in R, present small projects to each other (e.g. an analysis within a seminar paper or a data visualization in Python), or we just get together and have a chat. This all happens in an informal and relaxed atmosphere and any questions (including those supposedly "stupid" ones) may be asked. 
 
-Our team appreciates every kind of support. Especially students and staff from the Hochschule Bremen, 
-Jacobs University or the Bremen International Graduate School of Social Sciences (BIGSSS) are very welcome 
-to participate. If you are interested in implementing your own project, simply sign up for our newsletter 
-(specifying the area your living at would be advantageous). In case you would like to take part in the organizational
- unit, please send an email to Alice. 
+In order to work with real-world data as much as possible, we regularly get in touch with local initiatives and offer our support in achieving their charitable goals. This has already resulted in one or two exciting collaborations, but we would like to expand our efforts in this area in the future. We hope that we can establish a network of data analysts and partner organizations in the Northwest and thus spread the Data4Good idea further. 
+
+Our chapter call takes place every two weeks on Mondays. Here we push CorrelAid Bremen forward, discuss project ideas and plan our next steps. We are always looking for active supporters, but we are also happy to welcome occasional visitors. The chapter call is a good opportunity to say hello and to get to know each other.
+
+Most of our work is done online, so interested people from all over Northwest Germany can join us easily. If you are interested in volunteering for data projects or just want to get in touch with like-minded people, please send us a short message to [bremen@correlaid.org](mailto:bremen@correlaid.org). We are looking forward to meeting you! 
+
 
 
 {{< person 
@@ -38,7 +33,9 @@ to participate. If you are interested in implementing your own project, simply s
     link-color="ca-red-text"
     x="1"
 >}}
-Alice Blanksma currently coordinates the local chapter Bremen and as contact person she will be happy to answer any questions you may have. She studied political science and social research and likes to approach social problems with empirical data analysis. She is involved in CorrelAid because here not only the good cause of NPOs is supported, but also data enthusiasts improve their skills through real-world projects and peer learning. Win-win for everyone!
+
+Alice currently coordinates the local chapter Bremen and will be happy to answer any questions you may have. She studied political science and social research and likes to approach social problems with empirical data analysis. She is involved in CorrelAid because here not only the good cause of NPOs is supported, but also data enthusiasts improve their skills through real-world projects and peer learning. Win-win for everyone!
+
 
 {{< /person >}}
 
