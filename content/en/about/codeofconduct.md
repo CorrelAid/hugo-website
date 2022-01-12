@@ -28,7 +28,7 @@ When deciding on partners to cooperate with, our ethics commission will place gr
 # Our working principles
 
 
-### Flexibility and Self-determination
+### Flexibility and Self-actualization
 
 We guarantee that both NPOs and volunteers are able to freely dedicate their time to projects to accommodate for different needs. We believe that this enables us to get everyone involved and make the best out of the experience.
 
