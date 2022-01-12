@@ -29,13 +29,6 @@ meta:
 
 
 {{< contact
-    key="manuel"
-    link-color="ca-green-text"
->}}
-{{< /contact >}}
-
-
-{{< contact
     key="isabel"
     link-color="ca-green-text"
 >}}
@@ -51,13 +44,6 @@ meta:
 
 {{< contact
     key="nina"
-    link-color="ca-green-text"
->}}
-{{< /contact >}}
-
-
-{{< contact
-    key="jasmin"
     link-color="ca-green-text"
 >}}
 {{< /contact >}}
