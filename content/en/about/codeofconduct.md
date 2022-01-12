@@ -28,44 +28,37 @@ When deciding on partners to cooperate with, our ethics commission will place gr
 # Our working principles
 
 
-### Flexibility
+### Flexibility and Self-determination
 
 We guarantee that both NPOs and volunteers are able to freely dedicate their time to projects to accommodate for different needs. We believe that this enables us to get everyone involved and make the best out of the experience.
 
-
+To accommodate for different working styles and backgrounds, we do not prefer specific coding languages or technologies but rather encourage our partners and members to choose the right path for themselves, guiding them through their unique journey.
 ### Pragmatism
 
 We create practical and sustainable solutions that have real value to our partners. We do so by striving to use technologies that can be implemented, used, maintained and updated by our partners, even if that means that we have to integrate less advanced tools. We foster an impact-driven mindset for the greater good.
-
 
 ### Professionalism
 
 We dedicate ourselves to have high working standards and ensuring that insights derived from our analysis are profound. Data protection and security are our key concerns. We especially make sure that confidential data is treated carefully and deleted after project closure.
 
 
-### Transparency
+### Transparency and Openness
 
 We are transparent in how we derive conclusions and try to explain methods and technologies used to our partners to empower them on their individual data journey. We also present differing views and are honest about the limitations of our knowledge and work. 
 
+We believe in sharing our work, knowledge and experience. We make code and resources publicly available whenever possible and attend conferences and talks to share our expertise. 
 
-### Appreciation
+Information and decision making processes within CorrelAid are accessible and open to as many people as possible. We work towards removing knowledge silos by sharing and documenting workflows, processes and knowledge. 
 
-We respect and value other people and their views, especially if they are different from ours. We do so by learning from each other and practicing gratitude. This can be as simple as saying ‘thank you’.
+### Appreciation and Respect
 
+We respect and value other people, the time they volunteer and their views, especially if they are different from ours. We do so by learning from each other and practicing gratitude. This can be as simple as saying ‘thank you’.
 
-### Diversity 
+We embrace diversity in all its forms and take care of fostering acceptance and respect inside our community and beyond. We want everyone to feel welcome and safe within CorrelAid. 
 
-We embrace diversity in all its forms and take care of fostering tolerance and acceptance inside our community and beyond.
+### Courage
+We don't shy away from working on hard problems or making difficult decisions. We say no to things if they don't align with CorrelAid's values and speak up when we see unfairness or discrimination. We own up to our mistakes. 
 
-
-### Knowledge sharing
-
-What is ours is yours. We believe in sharing our work and knowledge with a broad community. We do so by making code and resources publicly available whenever possible and attending conferences and talks to share our expertise.
-
-
-### Self-actualization
-
-To accommodate for different working styles and backgrounds, we do not prefer specific coding languages or technologies but rather encourage our partners and members to choose the right path for themselves, guiding them through their unique journey.
 
 
 # Examples of how we strive to work
@@ -75,8 +68,8 @@ To accommodate for different working styles and backgrounds, we do not prefer sp
 *   You work on a Data4Good project. An NPO representative asks you a question that you do not know the answer to. You politely explain that this is unfortunately not your area of expertise and offer to seek advice from the CorrelAid community. When the NPO representative agrees to share the information, you reach out to the network.
 *   You work on a Data4Good project. One of the volunteers disappears and you are now understaffed. You contact the project lead who then aims at resolving the issue with the volunteer. If the issue persists, the project lead contacts the operational team to provide additional resources.
 *   Together with other volunteers you organize an event in which NPOs can propose their data challenges and our community can pitch solutions. One of the NPOs is not satisfied with the outcome. As one of the organizers you send an official apology to the official contact person, thank them for their feedback and take responsibility for what happened. You derive lessons learned and share them with the community. If additional resources become available, you offer more counselling to the affected partner NPO.
-*   In the community, you joke around about a game you played and laugh about a situation that occured. A person that is affected by the situation does not seem to enjoy the conversation. You pull them aside and check in with them to make sure they are okay. When they tell you, they feel bad about it, you apologize, thank them for their honesty and ask how you can improve the situation. When they suggest you can stop to talk about the situation, you honor their will and, without exposing your confidant, politely cut mentions of the incident short, whenever they arise.
-*   During a meeting, one of the members keeps cutting other community members off. You thank them for your input but also make clear that others should have the opportunity to contribute to the discussion without being interrupted.
+*   In the community, you joke around about a game you played and laugh about a situation that occured. A person that is affected by the situation does not seem to enjoy the conversation. You pull them aside and check in with them to make sure they are okay. When they tell you, they feel bad about it, you apologize, thank them for their honesty and ask how you can improve the situation. When they suggest you can stop to talk about the situation, you honor their wishes and, without exposing your confidant, politely cut mentions of the incident short, whenever they arise.
+*   During a meeting, one of the members keeps cutting other community members off. You thank them for their input but also make clear that others should have the opportunity to contribute to the discussion without being interrupted.
 *   You overhear another volunteer making discriminating comments about another volunteer in their absence. You may confront them privately and refer them to our Code of Conduct and/or seek counselling and report the incident to our responsible Ethics officer (see below).
 *   You overhear another volunteer making discriminating comments about another volunteer in their presence. You interrupt the situation proactively by referring to our Code of Conduct and/or you seek counselling and report the incident to our responsible Ethics officer (see below).
 
