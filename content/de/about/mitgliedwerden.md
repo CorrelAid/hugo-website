@@ -5,7 +5,7 @@ draft: false
 translationKey: "become-member"
 menu: 
     about:
-        weight: 6
+        weight: 600
 meta:
     title: "CorrelAid - Willkommen bei CorrelAid e.V."
     image: "509-correlaid-thumb.jpg"
@@ -47,4 +47,8 @@ Bitte beachte, dass aktive Mitglieder an der Mitgliederversammlung teilnehmen so
 
 3. Fülle das [Mitgliedsformular](https://ee.correlaid.org/single/xDjRNPPH?returnURL=https://correlaid.org/about/willkommen/) aus und lade dort das Eintrittsformular sowie das SEPA-Lastschriftmandat hoch. Diese Dokumente findest du [hier](https://correlcloud.org/index.php/s/6fxT6b3xTeSADtJ).
 
-Unser Finanzvorstand [Konstantin](mailto:finanzen@correlaid.org) steht dir bei Fragen oder Problemen gerne zur Verfügung.
+Unser Finanzvorstand Konstantin steht dir bei Fragen oder Problemen gerne via [Email](mailto:finanzen@correlaid.org) zur Verfügung.
+
+# Einfach nur spenden?
+
+Eine Vereinsmitgliedschaft ist zu viel für dich? Du kannst CorrelAid auch mit einer (regelmäßigen) Spende unterstützen. Hier gehts zu unserem [Betterplace Profil](https://www.betterplace.org/de/projects/58963-correlaid-e-v-foerderung-von-datenwissenschaft-in-der-zivilgesellschaft). Natürlich bekommst du eine Spendenbescheinigung, sodass du deine Spende bei der Steuererklärung geltend machen kannst. 
