@@ -8,7 +8,6 @@ meta:
     image: "509-correlaid-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
-
 # Willkommen bei CorrelAid e.V.!
 
 Liebes Neumitglied,
