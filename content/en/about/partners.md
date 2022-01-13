@@ -1,5 +1,5 @@
 ---
-title: "Our Partners"
+title: "Our Partners and sponsors"
 date: 2018-08-23T10:48:46+02:00
 draft: false
 translationKey: "partners"
@@ -7,14 +7,14 @@ menu:
     about:
         weight: -100
 meta:
-    title: "CorrelAid - Partner organisations"
+    title: "CorrelAid - Partner organisations and sponsors"
     description: "CorrelAid Homepage. We are a network of young data analysts that wants to change the world with a more inclusive, integrated and innovative approach to data analysis."
     image: "509-correlaid-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
 
-# Our partners
+# Our partners and sponsors
 
 {{< partner 
     name="Dataquest"
@@ -46,4 +46,12 @@ Each year [IOMIDS](https://iomids.com/) enables our volunteers to join their dat
     website="https://so-geht-digital.de"
 >}}
 Together with [D3 - so geht digital](https://so-geht-digital.de), [OpenTransfer](https://opentransfer.de/) and [GoVolunteer](https://govolunteer.com) we came up with *"Plötzlich digital: Die Sprechstunde* ("digital over night: the walk-in hour") at the beginning of the Corona crisis. Every other week, nonprofits get the opportunity to learn more about new tools for digital collaboration. Whether Slack, Trello, HumHub, Office365, Nextcloud or Password Manager: experts give a 45-minute practical introduction into a tool that they know by heart. Thanks to the excellent organizational skills of the D3 team, the format has been going strong for 1,5 years! You can find more information - and the recordings of all past sessions - [here](https://so-geht-digital.de/ploetzlich-digital-die-sprechstunde/).
+{{< /partner >}}
+
+{{< partner 
+    name="Tides Foundation"
+    img="/images/partners/tidesfoundation.png"
+    website="https://www.tides.org/"
+>}}
+The [Tides Foundation](https://www.tides.org/) has been supporting CorrelAid e.V. in the scaling of its processes, activities and impact since 2019 and will continue to serve as a crucial partner until the end of 2022. Without the generous basic funding, we could not offer many of our services to civic society. Through the support, we were able to grow the CorrelAid e.V. network by 50%, conducted four times more projects and were finally able to kick off long-awaited educational programs.
 {{< /partner >}}
