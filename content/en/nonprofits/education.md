@@ -52,8 +52,8 @@ In this course, participants learn how to visualize data in R. We will work with
 - Die Teilnehmer:innen can adapt code segments
 - Die Teilnehmer:innen get to know open source frame works for data analysis
 
-### Euer Thema?
-Gerne gestalten wir für Euch auch eigene Workshopformate! Schreibt uns dazu eine E-Mail mit Euren Themenwünschen und wir vereinbaren ein Erstgespräch.
+### Your topic?
+We are also happy to come up with individual workshops. Write us an e-mail with your topic of choice and we can schedule a first appointment to figure out the details.
 
 
 {{< contact
