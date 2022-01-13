@@ -38,8 +38,8 @@ Wir sind ein inklusives Netzwerk, in dem Vielfalt geschätzt und gefördert wird
 # Preise und Förderungen
 {{< price 
     year="2022" 
-    img="/images/ausgzeichnetesengagement.png"
-    order="order-md-1"
+    img="/images/ausgezeichnetesengagement.png"
+    order="order-md-0"
 >}}
 Siegel für Ausgezeichnetes Engagement
 {{< /price >}}
@@ -55,7 +55,7 @@ Projektförderung der Deutschen Stiftung für Engagement und Ehrenamt
 {{< price 
     year="2019" 
     img="/images/partners/tidesfoundation.png"
-    order="order-md-1"
+    order="order-md-0"
 >}}
 Grundförderung des Tides Foundation mit Google.org
 {{< /price >}}
