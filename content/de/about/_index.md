@@ -57,7 +57,7 @@ Projektförderung der Deutschen Stiftung für Engagement und Ehrenamt
     img="/images/partners/tidesfoundation.png"
     order="order-md-0"
 >}}
-Grundförderung des Tides Foundation mit Google.org
+Grundförderung der Tides Foundation mit Google.org
 {{< /price >}}
 
 {{< price 
