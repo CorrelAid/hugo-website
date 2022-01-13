@@ -42,6 +42,30 @@ We are an inclusive network in which diversity is valued and promoted. We firmly
 # Prizes and awards
 
 {{< price 
+    year="2022" 
+    img="/images/ausgezeichnetesengagement.png"
+    order="order-md-0"
+>}}
+Seal for excellent engagement
+{{< /price >}}
+
+{{< price 
+    year="2021" 
+    img="/images/partners/dsee.png"
+    order="order-md-1"
+>}}
+Project funding of the Deutschen Stiftung für Engagement und Ehrenamt
+{{< /price >}}
+
+{{< price 
+    year="2019" 
+    img="/images/partners/tidesfoundation.png"
+    order="order-md-0"
+>}}
+Basic funding by the Tides Foundation supported by Google.org
+{{< /price >}}
+
+{{< price 
     year="2018" 
     img="/images/ideen.jpg"
     order="order-md-1"
