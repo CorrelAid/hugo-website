@@ -14,7 +14,7 @@ meta:
 ---
 
 
-# Our partners
+# Our partners and sponsors
 
 {{< partner 
     name="Dataquest"
@@ -53,5 +53,5 @@ Together with [D3 - so geht digital](https://so-geht-digital.de), [OpenTransfer]
     img="/images/partners/tidesfoundation.png"
     website="https://www.tides.org/"
 >}}
-The [Tides Foundation](https://www.tides.org/) has been supporting CorrelAid e.V. in the scaling of its processes, activities and impact since 2019 and will continue to serve as a crucial partner until the end of 2022. Without the generous basic funding, we could not offer many of our services to civic society. Through the support, we were able to grow the CorrelAid e.V. network by 50%, conducted four times more projects and were finally able to kick off longawaited educational programs.
+The [Tides Foundation](https://www.tides.org/) has been supporting CorrelAid e.V. in the scaling of its processes, activities and impact since 2019 and will continue to serve as a crucial partner until the end of 2022. Without the generous basic funding, we could not offer many of our services to civic society. Through the support, we were able to grow the CorrelAid e.V. network by 50%, conducted four times more projects and were finally able to kick off long-awaited educational programs.
 {{< /partner >}}
