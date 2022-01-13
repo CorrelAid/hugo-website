@@ -13,7 +13,7 @@ meta:
 ---
 
 
-# Unsere Partner
+# Unsere Partner und Fördernden
 
 {{< partner 
     name="Dataquest"
