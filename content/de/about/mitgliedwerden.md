@@ -2,7 +2,7 @@
 title: "Mitglied werden"
 date: 2018-08-23T10:48:46+02:00
 draft: false
-translationKey: "becomemember"
+translationKey: "become-member"
 menu: 
     about:
         weight: 6
@@ -19,7 +19,7 @@ CorrelAid ist ein **Netzwerk** von Data-Science begeisterten Menschen, die die W
 
 **Wichtig: Alle CorrelAid Angebote und Aktivitäten sind offen für alle Personen, unabhängig davon, ob sie Mitglied im Verein CorrelAid e.V. sind** (Ausnahme: Betätigung in den Gremien des Vereins, derzeit Vorstand und Ethikkommission).
 
-_Wieso solltest du Mitglied werden?_ 
+_Wieso solltest du trotzdem Mitglied werden?_ 
 
 1. Unterstütze CorrelAids Idee!
 
@@ -29,16 +29,22 @@ Mit deinen Beiträgen können wir grundlegende CorrelAid-Bausteine wie z.B. Serv
 
 2. Entscheide mit und übernehme Verantwortung!
 
-Als Vereinsmitglied nimmst du bei der jährlichen Mitgliederversammlung (MV) teil. Die MV entscheidet über Anträge, die die Struktur von CorrelAid maßgeblich prägen. Als Mitglied kannst du eigene Anträge einbringen. Außerdem wählt die MV den Vorstand und die Ethikkommission - Gremien, die signifikanten Einfluss auf die Arbeit von CorrelAid haben. Gleichzeitig ermöglicht dir eine Mitgliedschaft natürlich auch, selbst für diese wichtigen Gremien zu kandidieren!
+Als _aktives Vereinsmitglied_ nimmst du bei der jährlichen Mitgliederversammlung (MV) teil. Die MV entscheidet über Anträge, die die Struktur von CorrelAid maßgeblich prägen. Als Mitglied kannst du eigene Anträge einbringen. Außerdem wählt die MV den Vorstand und die Ethikkommission - Gremien, die signifikanten Einfluss auf die Arbeit von CorrelAid haben. Gleichzeitig ermöglicht dir eine Mitgliedschaft natürlich auch, selbst für diese wichtigen Gremien zu kandidieren!
 
 
 ## Jetzt Mitglied werden!
 
-1. Informiere dich über die [Satzung](/material/2020-12-10_Satzung.pdf) und die [Gebührenordnung](/material/2020-12-10_Satzung.pdf)
-2. Entscheide dich für den Typ der Mitgliedschaft. 
-- aktive Mitgliedschaft:
-- Fördermitgliedschaft: 
+1. Informiere dich über die [Satzung](/material/2020-12-10_Satzung.pdf) und die [Gebührenordnung](/material/2021-12-17_gebuehrenordnung.pdf)
+2. Entscheide dich für die Art der Mitgliedschaft, die am besten zu dir passt. 
+- aktive Mitgliedschaft: "Aktive Mitglieder sind all jene Vereinspersonen, die sich aktiv an der Gestaltung und Entwicklung des Vereins, insbesondere durch die Organisation und Beteiligung an einem thematischen Bereich oder Local Chapters, beteiligen. Sie sind in der Mitgliederversammlung stimmberechtigt."
+    - regulärer Beitrag: 50 Euro / Jahr
+    - reduzierter Beitrag (Studierende und Personen mit einem Einkommen unter 2,000 Euro brutto / Monat, in Rücksprache mit Finanzvorstand)
+    - Befreiung von Beiträgen in begründeten Einzelfällen
+- Fördermitgliedschaft: "Fördermitglieder sind all jene Vereinspersonen, die den Verein finanziell unterstützen wollen, weil sie von Vereinsangeboten im Bildungsbereich und/oder Projekten profitieren oder sich mit dem Verein auf ideeller Ebene identifizieren. Fördermitglieder sind in der Mitgliederversammlung nicht stimmberechtigt."
+    - frei wählbar, mindestens 30 Euro / Jahr 
 
-3. Fülle das [Mitgliedsformular](https://ee.correlaid.org/single/xDjRNPPH?returnURL=https://correlaid.org/about/willkommen/) aus. Die Eintrittsformulare zum Hochladen findest du [hier](https://correlcloud.org/index.php/s/6fxT6b3xTeSADtJ).
+Bitte beachte, dass aktive Mitglieder an der Mitgliederversammlung teilnehmen sollten. Details zu den Mitgliedschaften findest du in der [Gebührenordnung](/material/2021-12-17_gebuehrenordnung.pdf). 
+
+3. Fülle das [Mitgliedsformular](https://ee.correlaid.org/single/xDjRNPPH?returnURL=https://correlaid.org/about/willkommen/) aus und lade dort das Eintrittsformular sowie das SEPA-Lastschriftmandat hoch. Diese Dokumente findest du [hier](https://correlcloud.org/index.php/s/6fxT6b3xTeSADtJ).
 
 Unser Finanzvorstand [Konstantin](mailto:finanzen@correlaid.org) steht dir bei Fragen oder Problemen gerne zur Verfügung.
