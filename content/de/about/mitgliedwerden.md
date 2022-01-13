@@ -7,11 +7,11 @@ menu:
     about:
         weight: 600
 meta:
-    title: "CorrelAid - Willkommen bei CorrelAid e.V."
+    title: "CorrelAid - Werde Mitglied bei CorrelAid e.V."
     image: "509-correlaid-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
-# Werde CorrelAid-Mitglied!
+# Werde CorrelAid e.V.-Mitglied!
 
 ## Warum Mitglied werden?
 
