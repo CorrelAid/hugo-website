@@ -3,11 +3,15 @@ title: "Für Volunteers"
 date: 2020-05-10T22:01:56+02:00
 draft: false
 ---
+# Volunteering bei CorrelAid
+Unser Netzwerk bietet dir verschiedene Möglichkeiten, miteinander in Kontakt zu treten und für Data4Good aktiv zu werden. Unsere Angebote sind offen und zugänglich für alle, unter der Voraussetzung, dass sie sich an unseren [Code of Conduct](/about/codeofconduct/) halten. Wenn du CorrelAid über dein Engagement hinaus unterstützten möchtest, kannst du [Mitglied des gemeinnützigen Vereins werden](/mitgliedwerden/). 
 
+Wenn du mehr über unsere Arbeitsweise sowie unsere Prinzipien erfahren möchtest, klick dich doch durch die Kacheln unten oder wirf einen Blick auf unseren [Hitchhiker's Guide to CorrelAid](https://docs.correlaid.org/wiki/hitchhikers-guide). Über unsere Aktivitäten und Angebote informieren wir regelmäßig in unserem Newsletter. 
 
-{{< contact
-    key="phil"
-    link-color="ca-green-text"
+{{< button 
+    btn-class="btn-dark"
+    href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"
+    justify="center"
 >}}
-Willst du mehr darüber erfahren, wie du dich bei CorrelAid einbringen kannst, oder weißt du noch nicht, was das richtige für dich ist? Dann mach einen Termin mit unserem Community Manager Phil aus. Er freut sich darauf dich kennenzulernen, weitere Informationen mit dir zu teilen und in Form eines unverbindlichen Austauschs herauszufinden, was passend für dein Engagement wäre. Außerdem ist er deine Ansprechperson falls du unserem Slack-Channel beitreten möchtest. Dort organisieren wir unsere tägliche Arbeit und vernetzen uns.
-{{< /contact >}}
+Abonniere den Newsletter!
+{{< /button >}}

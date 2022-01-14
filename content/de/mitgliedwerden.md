@@ -4,14 +4,17 @@ date: 2018-08-23T10:48:46+02:00
 draft: false
 translationKey: "become-member"
 menu: 
-    about:
+    volunteer:
         weight: 600
+    becomemember: 
+        weight: 1
 meta:
     title: "CorrelAid - Werde Mitglied bei CorrelAid e.V."
     image: "509-correlaid-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
-# Werde CorrelAid e.V.-Mitglied!
+
+# CorrelAid e.V. Mitglied werden
 
 ## Warum Mitglied werden?
 

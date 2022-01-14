@@ -143,17 +143,20 @@
           {{ end}}
         </div>
       </li>
+      <li class="nav-item">
+        <a class="btn btn-donate my-2 my-sm-0 mr-2" href="https://www.betterplace.org/de/projects/58963-correlaid-e-v-data-for-good"
+        target="_blank"> {{ i18n "donate" }}</a>
+      </li>
+
+      {{ range .Site.Menus.becomemember }}
+      <li class="nav-item">
+        <a class="btn btn-donate my-2 my-sm-0 mr-0" href="{{ .URL | absLangURL }}"
+        target="_blank"> {{ .Title }}</a>
+      </li>
+      {{ end }}
       <!-- /END LANGUAGE -->
+      
     </ul>
-    <form class="form-inline">
-      <a
-        class="btn btn-donate my-2 my-sm-0"
-        href="https://www.betterplace.org/de/projects/58963-correlaid-e-v-data-for-good"
-        target="_blank"
-      >
-        {{ i18n "donate" }}
-      </a>
-    </form>
   </div>
 </nav>
 <!-- /END MAIN NAV -->

@@ -1,17 +1,20 @@
 ---
-title: "Become a member of CorrelAid e.V."
+title: "Become a member"
 date: 2018-08-23T10:48:46+02:00
 draft: false
 translationKey: "become-member"
 menu: 
-    about:
+    volunteer:
         weight: 600
+    becomemember: 
+        weight: 1
 meta:
     title: "CorrelAid - Become a member"
     image: "509-correlaid-thumb.jpg"
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
-# Become a member of CorrelAid e.V.!
+
+# Join CorrelAid e.V.
 
 ## Why join CorrelAid e.V.?
 
