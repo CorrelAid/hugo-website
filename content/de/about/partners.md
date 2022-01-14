@@ -5,7 +5,7 @@ draft: false
 translationKey: "partners"
 menu: 
     about:
-        weight: -100
+        weight: 1
 meta:
     title: "CorrelAid - Partner organisations and sponsors"
     image: "509-correlaid-thumb.jpg"
@@ -13,7 +13,7 @@ meta:
 ---
 
 
-# Unsere Partner und Fördernden
+# Partner und Fördernde
 
 {{< partner 
     name="Dataquest"

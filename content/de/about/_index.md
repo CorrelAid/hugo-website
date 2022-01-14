@@ -4,7 +4,7 @@ date: 2018-08-23T10:48:46+02:00
 draft: false
 menu:
   about:
-    weight: -400
+    weight: -1
 meta:
     title: "CorrelAid - Unsere Arbeit"
     image: "509-correlaid-thumb.jpg"
