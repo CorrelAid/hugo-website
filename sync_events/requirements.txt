@@ -1,0 +1,10 @@
+requests
+pyyaml
+python-slugify
+python-dateutil
+beautifulsoup4
+html2text
+
+# dev
+pytest
+freezegun
