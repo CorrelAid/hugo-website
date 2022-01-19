@@ -5,7 +5,7 @@ draft: false
 translationKey: "about"
 menu:
   about:
-    weight: -200
+    weight: 5
   essentials:
     weight: 2
 translationKey: "contact"

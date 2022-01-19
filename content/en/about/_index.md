@@ -4,7 +4,7 @@ date: 2018-08-23T12:35:49+02:00
 draft: false
 menu: 
     about:
-        weight: -400
+        weight: -1
 meta:
     title: "CorrelAid - Our work"
     description: "CorrelAid Homepage. We are a network of young data analysts that wants to change the world with a more inclusive, integrated and innovative approach to data analysis."
