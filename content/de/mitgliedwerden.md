@@ -37,7 +37,7 @@ Als _aktives Vereinsmitglied_ nimmst du bei der jährlichen Mitgliederversammlun
 
 ## Jetzt Mitglied werden!
 
-1. Informiere dich über die [Satzung](/material/2020-12-10_Satzung.pdf) und die [Gebührenordnung](/material/2021-12-17_gebuehrenordnung.pdf)
+1. Informiere dich über die [Satzung](/material/correlaid_ev/2020-12-10_Satzung.pdf) und die [Gebührenordnung](/material/correlaid_ev/2021-12-17_gebuehrenordnung.pdf)
 2. Entscheide dich für die Art der Mitgliedschaft, die am besten zu dir passt. 
 - aktive Mitgliedschaft: "Aktive Mitglieder sind all jene Vereinspersonen, die sich aktiv an der Gestaltung und Entwicklung des Vereins, insbesondere durch die Organisation und Beteiligung an einem thematischen Bereich oder Local Chapters, beteiligen. Sie sind in der Mitgliederversammlung stimmberechtigt."
     - regulärer Beitrag: 50 Euro / Jahr
@@ -46,7 +46,7 @@ Als _aktives Vereinsmitglied_ nimmst du bei der jährlichen Mitgliederversammlun
 - Fördermitgliedschaft: "Fördermitglieder sind all jene Vereinspersonen, die den Verein finanziell unterstützen wollen, weil sie von Vereinsangeboten im Bildungsbereich und/oder Projekten profitieren oder sich mit dem Verein auf ideeller Ebene identifizieren. Fördermitglieder sind in der Mitgliederversammlung nicht stimmberechtigt."
     - frei wählbar, mindestens 30 Euro / Jahr 
 
-Bitte beachte, dass aktive Mitglieder an der Mitgliederversammlung teilnehmen sollten. Details zu den Mitgliedschaften findest du in der [Gebührenordnung](/material/2021-12-17_gebuehrenordnung.pdf). 
+Bitte beachte, dass aktive Mitglieder an der Mitgliederversammlung teilnehmen sollten. Details zu den Mitgliedschaften findest du in der [Gebührenordnung](/material/correlaid_ev/2021-12-17_gebuehrenordnung.pdf). 
 
 3. Fülle das [Mitgliedsformular](https://ee.correlaid.org/single/xDjRNPPH?returnURL=https://correlaid.org/about/willkommen/) aus und lade dort das Eintrittsformular sowie das SEPA-Lastschriftmandat hoch. Diese Dokumente findest du [hier](https://correlcloud.org/index.php/s/6fxT6b3xTeSADtJ).
 
