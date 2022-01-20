@@ -40,7 +40,7 @@ As an _active member_ of the association you are expected to take part in the an
 
 **Note**: the assocation works in German so far. Documents are only available in German. Of course, we don't exclude people who don't speak German, but be aware that you might need to do some translating (e.g. with [deepl](https://deepl.com)). 
 
-1. inform yourself about the [association's statutes](/material/2020-12-10_Satzung.pdf) and the [fee regulations](/material/2021-12-17_gebuehrenordnung.pdf)
+1. inform yourself about the [association's statutes](/material/correlaid_ev/2020-12-10_Satzung.pdf) and the [fee regulations](/material/correlaid_ev/2021-12-17_gebuehrenordnung.pdf)
 2. decide on the type of membership that suits you best. 
 - Active membership: "Active members are all those association members who actively participate in the organization and development of the association, especially by organizing and participating in a certain topical area or in the Local Chapters. They are entitled to vote in the general assembly."
     - regular fee: 50 Euro / year
@@ -49,7 +49,7 @@ As an _active member_ of the association you are expected to take part in the an
 - Sponsoring membership: "Sponsoring members are all those members of the association who want to support the association financially because they benefit from the association's offers in the field of education and/or projects or because they identify with the association on a non-material level. Sponsoring members are not entitled to vote in the general assembly."
     - fees: flexible, at least 30 Euro / year 
 
-Please note that active members are expected to attend the general meeting. For membership details, please see the [fee regulations](/material/2021-12-17_gebuehrenordnung.pdf). 
+Please note that active members are expected to attend the general meeting. For membership details, please see the [fee regulations](/material/correlaid_ev/2021-12-17_gebuehrenordnung.pdf). 
 
 3. Fill out the [membership form](https://ee.correlaid.org/single/xDjRNPPH?returnURL=https://correlaid.org/about/willkommen/) and upload the registration form and the SEPA direct debit mandate. You can find these documents [here](https://correlcloud.org/index.php/s/6fxT6b3xTeSADtJ).
 
