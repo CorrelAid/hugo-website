@@ -110,11 +110,7 @@ In this context, we pointed out that on the websites of MailChimp cookies are us
 
 The granted consent to the storage of the data, the e-mail address and their use for sending the newsletter can be revoked at any time, for example via the "unsubscribe" link in the newsletter or by contacting our data protection officer.
 
-### Contact form
-
-If you contact us by contact form or by e-mail, your information from the contact form, including the contact details you provided there, will be stored in order to process the request and in case of follow-up questions. We do not share this information with third parties without your consent.
-
-Integration of services and content of third parties
+### Integration of services and content of third parties
 
 Our offer may include content, services and services of other providers. These are, for example, maps provided by Google Maps, videos from YouTube as well as graphics and images from other websites. In order for these data to be accessed and displayed in the user's browser, the transmission of the IP address is absolutely necessary. The corresponding providers (hereinafter referred to as "third party providers") thus perceive the IP address of the respective user.
 
