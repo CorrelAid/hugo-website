@@ -3,7 +3,6 @@ title: "From the data to the story"
 date: 2017-10-28T00:00:00+02:00
 image: "509-data-to-story.jpg"
 summary: "Journocode: A typical DDJ workflow in R"
-author: "Marie-Louise"
 categories:       
     - Data Science
     - R

@@ -6,7 +6,6 @@ image:      "2021-09-16_parliamentJL.png"
 imageattribution: "Data visualization by Arndt Leininger and Julius Lagodny"
 slug:       "potential-political-power"
 summary: "As part of a successful cooperation between [Citizens For Europe](https://citizensforeurope.org/), [Arndt Leininger](https://aleininger.eu/) (long-time member of CorrelAid and assistant professor for political science research methods at Chemnitz University of Technology) and [Julius Lagodny](https://www.juliuslagodny.com/) (PhD candidate in political science at Cornell University), CorrelAid volunteers met up for the first TidyTuesday inspired Challenge to explore different ways to visualize the potential electoral power of people with so-called migration background in Germany."
-draft:  false
 categories:       
     - education
     - rstats

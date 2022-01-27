@@ -6,7 +6,6 @@ image:      "509-2021-02-23-correlaid-strategy.jpg"
 imageattribution: "Photo by [Johannes Plenio](https://unsplash.com/@jplenio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/strategy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
 slug:       "correlaid-strategy-2021"
 summary: "As we are growing (and growing and growing), it is time to tackle old challenges with a shifted mindset: With 1,600 members, 15 local chapters, 18 projects a year and a never ending stream of workshops, events and conferences, we need to scale up existing processes to accommodate for growing target groups. Both in our work with data analysts, scientists and enthusiasts and NPOs with a data-mindset, we want to become more effective and efficient, opening the doors to new fundraising and partnership opportunities."
-draft:  false
 categories:       
     - comment
     - politics
