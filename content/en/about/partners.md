@@ -1,11 +1,11 @@
 ---
-title: "Our Partners and sponsors"
+title: "Partners and sponsors"
 date: 2018-08-23T10:48:46+02:00
 draft: false
 translationKey: "partners"
 menu: 
     about:
-        weight: -100
+        weight: 2
 meta:
     title: "CorrelAid - Partner organisations and sponsors"
     description: "CorrelAid Homepage. We are a network of young data analysts that wants to change the world with a more inclusive, integrated and innovative approach to data analysis."
