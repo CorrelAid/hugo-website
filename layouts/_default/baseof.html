@@ -33,7 +33,13 @@
         <!-- /END FAVICONS -->
 
         <!-- META DATA -->
-        <title>{{ .Params.meta.title }}</title>
+        <!-- title: take from Params.meta (if specified) or otherwise take page title -->
+        {{ $title := .Title }}
+        {{ if isset (index .Params "meta") "title" }}
+        {{ $title := .Params.meta.title }}
+        {{ end }}
+        
+        <title>{{ $title }}</title>
         <meta name="keywords" content="{{ .Params.meta.keywords }}" />
         {{ if isset (index .Params "meta") "description" }}
             <meta name="description" content="{{ .Params.meta.description }}" />
@@ -42,7 +48,7 @@
         {{ end }}
         <meta name="author" content="{{ $.Site.Params.author }}">
 
-        <meta property="og:title" content="{{ .Params.meta.title }}" />
+        <meta property="og:title" content="{{ $title }}" />
         <meta property="og:type" content="website" />
         <meta property="og:image" itemprop="image" content="{{ "images/blog/thumbs-x250/" | absURL   }}{{.Params.meta.image}}" />
         <meta property="og:image:secure_url" itemprop="image" content="{{ "images/blog/thumbs-x250/" | absURL   }}{{.Params.meta.image}}" />
