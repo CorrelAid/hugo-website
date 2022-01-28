@@ -15,3 +15,5 @@ public/*
 venv
 
 PRETIX_API_TOKEN
+
+resources/_gen/images
