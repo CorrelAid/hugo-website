@@ -1,0 +1,86 @@
+---
+title: Wahl-O-Mat Analyse
+date: '2019-05-17T00:00:00+02:00'
+image: wahl-o-mat.jpg
+summary: Wo sich CDU und SPD unterscheiden, wie verwandt AfD und NPD sind und wie
+  man eine Lobby-Partei erkennt
+categories: Dataviz
+author:
+  name: Samu
+  image: samu.jpg
+  description: Samuel studiert Politik- und Verwaltungswissenschaften in Konstanz
+    und ist seit einer ganzen Weile bei CorrelAid. Wenn er nicht gerade neue Dinge
+    in R entdeckt, spielt er gerne Gitarre oder ist draußen unterwegs.
+  twitter: https://twitter.com/SBrielmaier
+  facebook: ''
+  github: https://github.com/le-kutscher/
+  email: ''
+  website: ''
+meta:
+  title: Wahl-O-Mat Analyse
+  description: Wo sich CDU und SPD unterscheiden, wie verwandt AfD und NPD sind und
+    wie man eine Lobby-Partei erkennt
+  image: wahl-o-mat.jpg
+  keywords: CorrelAid, Wahl-O-Mat, Europawahl
+slug: wahl-o-mat-analyse
+---
+
+Der Wahl-O-Mat fragt alle zur Europawahl antretenden Parteien zu ihrer Haltung gegenüber 38 Thesen ab. Normalerweise benutzt man den Wahl-O-Mat, um zu schauen, mit welcher Partei man selbst inhaltlich am meisten Überschneidungen hat. Was aber, wenn man sich die Position der Partein im Vergleich anschaut? Welche Parteien haben viel gemeinsam, welche wenig? Stimmt es, dass sich SPD und Union so stark ähneln, wie <a href="https://www.spiegel.de/politik/ausland/europawahl-waehler-von-union-und-spd-sehen-laut-umfrage-kaum-unterschiede-a-1267328.html">viele glauben</a>?
+Inspiriert von einem ähnlichen  <a href="http://www.dkriesel.com/blog/2017/0904_wahl-o-mat-auswertung_teil_2_thesen-_und_parteienverwandtschaften">Blogpost zur Bundestagswahl 2017</a> von David Kriesel habe ich die Daten analysiert und grafisch aufbereitet. 
+
+Die Grafiken sehen auf den ersten Blick etwas kompliziert aus, im Grunde bestehen sie aber nur aus einer farbige Tabelle und einer Art Verwandschaftsbaum, ich erkläre das jeweils schrittweise. Um es einfach zu halten, schauen wir zuerst nur auf die Parteien, die aktuell im Bundestag vertreten sind, bevor wir alle kandidierenden Parteien betrachten. Die Grafiken sind interaktiv, d.h. durch klicken oder tippen erhaltet ihr noch etwas mehr Informationen. Durch einen Klick auf die Beschriftung am Rand könnt ihr eine einzelne Partei oder These hervorheben, durch Doppelklick löst ihr das wieder. 
+
+
+
+
+### Wahlprogramme auf Farben verkürzen
+
+Die folgende Grafik besteht eigentlich aus zwei Grafiken. Wir schauen uns erstmal nur die Heatmap, das sind die farbigen Kästchen in der Mitte, an. Sie symbolisieren die Haltung jeder Partei (Spalten, Beschriftung unten) zu den 38 Thesen des Wahl-O-Mats (Zeilen, Beschriftung rechts). Wenn es unübersichtlich ist oder ihr die komplette These sehen wollt, klickt einfach auf das Kästchen, dann wird euch die Partei, und ihre Haltung zu der These angezeigt. Rote Kästchen bedeuten Ablehnung, grüne Zustimmung und graue eine neutrale Haltung. Wenn wir uns beispielsweise die oberste These "Bio-Landwirtschaft fördern" anschauen, sehen wir, dass die Grünen, SPD und die Linke dem Zustimmen, die CDU/CSU sich neutral verhält und sowohl FDP als auch AfD Bio-Landwirtschaft nicht fördern wollen. So weit ist das Ganze nur eine extrem verkürzte Form von Wahlprogrammen (möglicherweise zu stark verkürzt). Jede Partei hat zu ihren Positionen auch eine kurze Erklärung, die findet ihr auf wahl-o-mat.de.
+ 
+ 
+ {{< d3heatmap-bt >}}asd{{< /d3heatmap-bt >}}
+ 
+
+### SPD und Grüne stimmen in 33 von 38 Thesen überein
+
+Wir können aus der Heatmap noch mehr ableiten, z.B. wie stark sich einzelne Parteien unterscheiden. Die Sortierung der Parteien ist nicht zufällig (dazu später mehr). Oben links ist ein Bereich, in dem fast alle Kästchen grün sind. Ein Blick auf die Parteien in diesen Spalten zeigt: Linke, SPD und Grüne haben offensichtlich große inhaltliche Schnittmengen. Von den 38 Thesen, die der Wahl-O-Mat aufgestellt hat, stimmen SPD und Grüne bei 33 in ihrer Position überein. Nur bei Fluggastdaten, Plastiksteuer, Russland, Tierversuchen und einer europäischen Armee unterscheiden sich die beiden Parteien. Man muss allerdings dazu sagen, dass es neben diesen 38 Themen natürlich noch weitere Themen gibt, bei denen sich die Parteien unterscheiden könnten. Der Wahl-O-Mat versucht aber, alle wichtigen Themengebiete abzudecken.  
+
+Statt die Übereinstimmungen der Parteien zu zählen, können wir auch auf die oben als "Verwandschaftsbaum" betitelten Striche über der heatmap schauen (der korrekte Begriff ist übrigens Dendrogram). Parteien, die sehr viele Übereinstimmungen haben, sind "eng" verwandt, und werden vom Algorithmus nebeneinander sortiert. Im Verwandschaftsbaum sind sehr ähnliche Parteien daher nah an einer gemeinsamen Abzweigung. Um zu schauen, wie weit die SPD inhaltlich von den Grünen weg ist, können wir die Abzweigungen zwischen den beiden zählen: Um von der SPD den Grünen zu kommen, muss man nur an einer einzigen Abzweigung vorbei. Das bedeutet, dass von diesen sechs Parteien die Grünen der SPD am ähnlichsten sind. Zum Vergleich: von der SPD zur Linken sind es schon zwei Abzweigungen, zur FDP sogar vier. 
+
+
+### "Die beiden Volksparteien unterscheiden sich nicht mehr" - oder doch?
+
+Die Klage, dass sich SPD und Union nicht mehr wirklich unterscheiden, hört man mittlerweile nicht mehr nur bei enttäuschten Sozialdemokraten. Aber anders als die inhaltsleeren Wahlplakate vermuten lassen, unterscheiden sich die Volkparteien tatsächlich in mehr Punkten, als sie übereinstimmen. 
+Ein Blick auf die Heatmap zeigt: Nur in 16 Thesen stimmen die beiden Volksparteien in ihrer Position überein. Bei der Mehrzahl der Thesen, 22 an der Zahl, unterscheiden sich ihre Meinungen. Aus dem Verwandschaftsbaum können wir ablesen, dass die FDP und auch die AfD der Union deutlich näher sind als die SPD. Bei dieser Interpretation muss man allerdings aufpassen, da die Beziehungen hier nur relativ dargestellt werden. FDP und CDU sind also die <i>nächsten</i> Parteien zur AfD, keinesfalls aber wirklich nah. Sowohl Union als auch FDP haben bei 25 Thesen eine andere Meinung als die AfD. Insgesamt steht die AfD inhaltlich sehr isoliert da, mit den Grünen hat sie sogar nur drei übereinstimmende Positionen. 
+
+
+### Links - Rechts sieht man auch in den Daten
+
+Betrachtet man den Verwandschaftsbaum nun im Ganzen, kann man ihn auch als Struktur oder Modell der Parteienlandschaft interpretieren. Welche Parteien sind sich ähnlich? Wie gruppieren sie sich also? SPD, Grüne und Linke bilden einen großen Zweig im Partei-Verwandschaftsbaum (rot eingefärbt), auf der anderen Seite stehen CDU, FDP und AfD (türkis). Das ist in dem Fall wenig überraschend, aber wenn wir gleich alle 40 zur Wahl antretenden Parteien betrachten, wird die Einordnung aus dem Kopf heraus schon schwieriger. Wer weiß schon, wo "Die Grauen" oder die Pan-Europäische Partei "Volt" einzuordnen sind? 
+
+
+### Woran man eine Lobby-Partei erkennt und wie sich Tierschutz unterscheidet
+
+Genug von den Bundestagsparteien, bei der Europawahl treten in Deutschland schließlich insgesamt 40 interessante und teilweise kuriose Parteien an. Die erste Anomalie lässt sich in der nächsten Grafik direkt erkennen: Die "Partei für Gesundheitsforschung" hat zu nichts eine Meinung außer zu Tierversuchen in der Medizin, die findet sie gut. 
+
+Eine andere Kuriosität der Kleinstparteien sind die verschiedenen Tierschutz-Parteien. Direkt neben der Partei für Gesundheitsforschung finden wir die "Partei für die Tiere Deutschland", mit ebenfalls vielen Enthaltungen. Unter den Tierschutzparteien am bekanntesten ist vermutlich die "Partei Mensch Umwelt Tierschutz", kurz Tierschutzpartei (die mit dem Regenbogen im Logo). Diese Variante des Tierschutzes in Parteiform findet sich an zweiter Stelle von links, mit großer Ähnlichkeit zu den Grünen. 
+Eine wahre Kuriosität ist die Partei "Aktion Partei für Tierschutz - DAS ORIGINAL" (so heißen die wirklich, abgekürzt hier mit "TIERSCHUTZ"), da sie zwischen AfD und "DIE RECHTE" zu finden ist. Geradezu langweilig und vorhersehbar dagegen die Tierschutzallianz wiederum, die sich offensichtlich am meisten mit der ÖDP gemeinsam hat. Überraschend, wie unterschiedlich Parteien sind, die man allein vom Namen schon gern mal durcheinanderbringen könnte. Augen auf also wer sein Kreuzchen bei den Tierfreunden machen zu gedenkt.
+
+ {{< d3heatmap-all >}}asd{{< /d3heatmap-all >}}
+ 
+
+### Die ähnlichste Partei zur AfD ist die NPD
+
+ Spannend ist es auch, das Umfeld der AfD näher zu betrachten. Von allen 40 Parteien, die zur Wahl antreten, ist die NPD mit 26 übereinstimmenden Positionen die Partei, die der AfD am ähnlichsten ist, gefolgt von "der III. Weg" und DIE RECHTE (je 25 Übereinstimmungen). Bereits erwähnte TIERSCHUTZ-Partei ist in 24 Fällen gleicher Meinung wie die AfD. An dieser Stelle sollte noch erwähnt werden, dass die AfD ihre Position zum "Dexit" - dem Austritt Deutschlands aus der EU - nachträglich von Zustimmung in Neutral <a href="https://www.merkur.de/politik/europawahl-2019-afd-aendert-weitreichende-wahl-o-mat-aussage-zr-12278012.html">geändert hat</a>. 
+ 
+
+### Viele Linke Parteien, einige Nationalisten, wenig Konservative und Liberale Parteien
+
+ Neben allerlei Spannendem und den Kuriositäten, deren weitere Entdeckung ich an dieser Stelle jedem selbst überlassen möchte, lohnt es sich, nochmal auf den Verwandschaftsbaum als Ganzes zu schauen. Wie könnte man die 40 Parteien, die zur Europawahl antreten, datenbasiert in Cluster oder Gruppen einteilen? Und das Ganze idealerweise ohne vorher festlegen zu müssen, welche Positionen wir als links, rechts, liberal, konservativ oder anderweitig einstufen. Genau das kann uns der Verwandschaftsbaum bieten. Wenn wir an der obersten Abzweigung stehen, können wir die ersten zwei großen Cluster erkennen: Eins auf der Rechten Seite (türkis eingefärbt), in dem bspw. die AfD und die Bayernpartei sind. Im anderen großen Zweig sind deutlich mehr Parteien, weshalb hier eine weitere Unterscheidung Sinn macht. An der nächsten Abzweigung spalten sich in rot die linken Partein ab (so würde ich sie zumindest erstmal nennen). In der Mitte bleiben zwei Cluster, die ich als liberal (gold eingefärbt) und bürgerlich/konservativ (türkis) betiteln würde. Theoretisch könnte man diese Gruppierung immer weiter verfeinern. In diesem Fall habe ich die vier Cluster unterschieden, die zum einen in sich sehr ähnlich und zum anderen sehr unähnlich zu den anderen Clustern sind.
+ 
+
+### Daten & Danke
+
+ Die Daten und der Code sind auf <a href="https://github.com/le-kutscher/Wahl-O-Mat-Europawahl">github</a> verfügbar. 
+ Danke an Jan und Johannes für den Support bei der Einbindung der Grafiken und Steffen für das scraping der Daten. Leider stellt die Bundeszentrale für politische Bildung die Daten des Wahl-O-Mats auch auf Nachfrage nicht zur Verfügung (sondern versteckt die Position der Parteien in der PDF als Hintergrundgrafik), weshalb man sie aufwändig mit einem Zeichenerkennungsverfahren auslesen muss. Die Positionen der Parteien im Bundestag hab ich nochmal händisch überprüft, trotzdem kann ich leider keine Verantwortung für die Richtigkeit der Daten übernehmen. Ich würde der Bundeszentrale für Politische Bildung bei der Gelegenheit gerne ein bisschen Idealismus und Mut beim Thema Open Data wünschen :)
+
