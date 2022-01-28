@@ -50,9 +50,35 @@
 
         <meta property="og:title" content="{{ $title }}" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" itemprop="image" content="{{ "images/blog/thumbs-x250/" | absURL   }}{{.Params.meta.image}}" />
-        <meta property="og:image:secure_url" itemprop="image" content="{{ "images/blog/thumbs-x250/" | absURL   }}{{.Params.meta.image}}" />
-        <meta property="og:image:type" content="image/jpeg" />
+
+        {{ $page := . }}
+        {{ $image := . }}
+        <!-- if we have a custom thumb image we take it -->
+        {{ with .Resources.GetMatch "thumb_x250.*" }}
+            {{ $image := . }}
+
+        {{ else }}
+            <!-- if not, we resize and crop the title image -->
+            {{ with .Resources.GetMatch "title_image.*" }}
+            
+            <!-- resizing or cropping -->
+            {{ $image := . }}
+            {{ $ratio := div (float .Width) (float .Height) }}
+            {{ if eq $ratio (float 1) }}
+                <!-- if the ratio is 1, just resize, no crop -->
+                {{ $image = .Fit "250x250" }}
+            {{ else }}
+                <!-- if the ratio different, we crop and resize 
+                    this might result in a part of the picture which you don't like
+                    in this case please specify the thumbnail separately as thumb_x250.png|jpg  -->
+                {{ $image = .Fill "250x250" }}
+            {{ end }}
+
+            {{ end }}
+        {{ end }}
+        <meta property="og:image" itemprop="image" content="{{ $image.Permalink }}" />
+        <meta property="og:image:secure_url" itemprop="image" content="{{ $image.Permalink }}" />
+        <meta property="og:image:type" content="{{ $image.MediaType }}" />
         <meta property="og:image:width" content="250" />
         <meta property="og:image:height" content="250" />
 
@@ -60,21 +86,23 @@
 
         {{ if isset (index .Params "meta") "description" }}
         <meta property="og:description" content="{{ .Params.meta.description }}" />
-         {{ else }}
-        <meta name="og:description" content="{{ (index $.Site.Params.description $lang) }}" />
-        {{ end }}
-
-
-        <meta name="twitter:card" content="summary" />
-        <meta name="twitter:site" content="@CorrelAid" />
-        <meta name="twitter:title" content="{{ .Params.meta.title }}" />
-        {{ if isset (index .Params "meta") "description" }}
         <meta property="twitter:description" content="{{ .Params.meta.description }}" />
          {{ else }}
+        <meta name="og:description" content="{{ (index $.Site.Params.description $lang) }}" />
         <meta name="twitter:description" content="{{ (index $.Site.Params.description $lang) }}" />
         {{ end }}
 
-        <meta name="twitter:image" content="{{ "images/blog/thumbs-x250/" | absURL   }}{{.Params.meta.image}}" />
+        {{ if isset (index .Params "meta") "title" }}
+        <meta name="twitter:title" content="{{ .Params.meta.title }}" />
+
+        {{ else }}
+        <meta name="twitter:title" content="{{ .Title }}" />
+
+        {{ end }}
+
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@CorrelAid" />
+        <meta name="twitter:image" content="{{ $image.Permalink }}" />
         <!-- /END META DATA -->
 
     </head>
