@@ -11,4 +11,9 @@ file_info <- file_info %>%
   mutate(image = yaml %>% purrr::map_chr("image"))
 
 file_info %>% 
-  select(image, folder_name)
+  select(image, folder_path) %>% 
+  purrr::pwalk(function(image, folder_path) {
+    ext <- fs::path_ext(image)
+    file.copy(here::here("static", "images", "blog", image), paste0(folder_path, "/title_image.", ext))
+  })
+

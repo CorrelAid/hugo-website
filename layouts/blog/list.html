@@ -9,10 +9,40 @@
     {{ range (where .Pages "Section" "blog").ByPublishDate.Reverse }}
     <div class="row my-2">
         <div class="col-12 col-sm-6 col-lg-4 align-self-center">
-            <a href="{{ .URL }}" class="ca-img-container link">
-                <img class="img-fluid dark" src="/images/blog/thumbs-x800/{{ .Params.image }}" alt="{{ .Title }}" />
-                <div class="ca-img-border"></div>
-            </a>
+            {{ $page := . }}
+            <!-- check if there is a 800x.png|jpg file that we can use -->
+            {{ with .Resources.GetMatch "thumb_x800.*" }}
+                <a href="{{ $page.URL }}" class="ca-img-container link">
+                    <img class="img-fluid dark" src="{{ .RelPermalink }}" alt="{{ $page.Title }}" />
+                    <div class="ca-img-border"></div>
+                </a> 
+
+            {{ else }}
+                <!-- if not, we resize and crop the title image -->
+                {{ with .Resources.GetMatch "title_image.*" }}
+
+                {{ $ratio := div (float .Width) (float .Height) }}
+
+                <!-- resizing or cropping -->
+                {{ $image := . }}
+                
+                {{ if eq $ratio (float 1.6) }}
+                    <!-- if the ratio is 1.6, just resize, no crop -->
+                    {{ $image = .Fit "800x500" }}
+                {{ else }}
+                    <!-- if the ratio different, we crop and resize 
+                        this might result in a part of the picture which you don't like
+                        in this case please specify the thumbnail separately as thumb_x800.png|jpg  -->
+                    {{ $image = .Fill "800x500" }}
+                {{ end }}
+
+                
+                <a href="{{ $page.URL }}" class="ca-img-container link">
+                    <img class="img-fluid dark" src="{{ $image.RelPermalink }}" alt="{{ $page.Title }}" />
+                    <div class="ca-img-border"></div>
+                </a> 
+                {{ end }}
+            {{ end }}
         </div>
         <div class="col-12 col-sm-6 col-lg-8 align-self-center">
             <p style="margin-bottom: 0">{{ .Date.Format "2006-01-02" }}</p>
