@@ -55,14 +55,14 @@
         {{ $image := . }}
         <!-- if we have a custom thumb image we take it -->
         {{ with .Resources.GetMatch "thumb_x250.*" }}
-            {{ $image := . }}
+            {{ $image = . }}
 
         {{ else }}
             <!-- if not, we resize and crop the title image -->
             {{ with .Resources.GetMatch "title_image.*" }}
             
             <!-- resizing or cropping -->
-            {{ $image := . }}
+            {{ $image = . }}
             {{ $ratio := div (float .Width) (float .Height) }}
             {{ if eq $ratio (float 1) }}
                 <!-- if the ratio is 1, just resize, no crop -->
@@ -99,6 +99,7 @@
         <meta name="twitter:title" content="{{ .Title }}" />
 
         {{ end }}
+
 
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@CorrelAid" />
