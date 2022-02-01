@@ -102,5 +102,18 @@
       "subline": "Data4Good Projekte",
       "text": "Manuel ist wissenschaftlicher Mitarbeiter am Mannheimer Zentrum für Europäische Sozialforschung. Er ist seit 2017 bei CorrelAid aktiv. Sein Interesse liegt vor allem darin, unübersichtliche Datenmengen und komplizierte Modelle verständlich darzustellen. Für CorrelAid kümmert er sich um die Betreuung der Projektpartnerschaften und -ideen."
     }
+  },
+  "patrizia": {
+    "name": "Patrizia",
+    "img": "",
+    "email": "",
+    "en": {
+      "subline": "Data4Good projects",
+      "text": "Patrizia is a psychologist and currently works as a neuroscientist at the Charité - Universitätsmedizin Berlin. She joined CorrelAid in January 2021 and is a member of the board since end of 2021. At CorrelAid she is taking care of project organization and infrastructure-related topics, together with Frie."
+    },
+    "de": {
+      "subline": "Data4Good Projekte",
+      "text": "Patrizia ist Psychologin und arbeitet aktuell als Neurowissenschaftlerin an der Charité - Universitätsmedizin Berlin. Sie ist seit Anfang 2021 bei CorrelAid und seit Ende 2021 Teil des Vereinsvorstands. Bei CorrelAid kümmert sie sich gemeinsam mit Frie um die Bereiche Projektarbeit und Infrastruktur."
+    }
   }
 }
