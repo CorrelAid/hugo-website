@@ -57,3 +57,9 @@ meta:
     link-color="ca-green-text"
 >}}
 {{< /contact >}}
+
+{{< contact
+    key="lena"
+    link-color="ca-green-text"
+>}}
+{{< /contact >}}
