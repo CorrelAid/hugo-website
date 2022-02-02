@@ -60,3 +60,9 @@ meta:
     link-color="ca-green-text"
 >}}
 {{< /contact >}}
+
+{{< contact
+    key="patrizia"
+    link-color="ca-green-text"
+>}}
+{{< /contact >}}
