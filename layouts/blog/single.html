@@ -16,10 +16,14 @@
 <div class="container ">
     <div class="row justify-content-center">
         <div class="col-12 col-md-10 col-lg-8">
+            {{ with .Resources.GetMatch "title_image.*" }}
+
             <div class="ca-img-container">
-                <img class="img-fluid dark" src="/images/blog/{{ .Params.image }}" alt="{{ .Title }}" />
+                <img class="img-fluid dark" src="{{ .RelPermalink }}" alt="{{ .Title }}" />
                 <div class="ca-img-border"></div>                
             </div>
+            {{ end }}
+
             {{ if isset .Params "imageattribution" }}
             <p style="font-size: 0.9em;">{{ .Params.imageAttribution | markdownify }}</p>
             {{ end }}
