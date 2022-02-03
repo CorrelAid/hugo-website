@@ -106,7 +106,7 @@
   "patrizia": {
     "name": "Patrizia",
     "img": "",
-    "email": "",
+    "email": "patrizia.m@correlaid.org",
     "en": {
       "subline": "Data4Good projects",
       "text": "Patrizia is a psychologist and currently works as a neuroscientist at the Charité - Universitätsmedizin Berlin. She joined CorrelAid in January 2021 and is a member of the board since end of 2021. At CorrelAid she is taking care of project organization and infrastructure-related topics, together with Frie."
@@ -114,6 +114,19 @@
     "de": {
       "subline": "Data4Good Projekte",
       "text": "Patrizia ist Psychologin und arbeitet aktuell als Neurowissenschaftlerin an der Charité - Universitätsmedizin Berlin. Sie ist seit Anfang 2021 bei CorrelAid und seit Ende 2021 Teil des Vereinsvorstands. Bei CorrelAid kümmert sie sich gemeinsam mit Frie um die Bereiche Projektarbeit und Infrastruktur."
+    }
+  },
+  "sebastian": {
+    "name": "Sebastian",
+    "img": "/images/people/sebastianz.jpg",
+    "email": "sebastian.z@correlaid.org",
+    "en": {
+      "subline": "Education",
+      "text": "Sebastian studies philosophy of science, econometrics, and machine learning, currently in Tübingen. In 2017, an internship brought him to CorrelAid and data science. After working in the project team and the local chapter Stuttgart, he now takes care of our educational offers for non-profits and volunteers."
+    },
+    "de": {
+      "subline": "Education",
+      "text": "Sebastian studiert Wissenschaftstheorie, Ökonometrie und Machine Learning, derzeit in Tübingen. 2017 hat ihn ein Praktikum zu CorrelAid und der Datenanalyse gebracht. Nach Stationen im Projektteam und der Lokalgruppe Stuttgart kümmert er sich jetzt um Bildungsangebote für non-profits und unsere Volunteers."
     }
   }
 }

@@ -66,3 +66,10 @@ meta:
     link-color="ca-green-text"
 >}}
 {{< /contact >}}
+
+
+{{< contact
+    key="sebastian"
+    link-color="ca-green-text"
+>}}
+{{< /contact >}}
