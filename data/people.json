@@ -128,5 +128,18 @@
       "subline": "Education",
       "text": "Sebastian studiert Wissenschaftstheorie, Ökonometrie und Machine Learning, derzeit in Tübingen. 2017 hat ihn ein Praktikum zu CorrelAid und der Datenanalyse gebracht. Nach Stationen im Projektteam und der Lokalgruppe Stuttgart kümmert er sich jetzt um Bildungsangebote für non-profits und unsere Volunteers."
     }
+  },
+  "marco": {
+    "name": "Marco",
+    "img": "/images/people/marco.jpg",
+    "email": "marco.l@correlaid.org",
+    "en": {
+      "subline": "Community & CorrelAidX",
+      "text": ""
+    },
+    "de": {
+      "subline": "Community & CorrelAidX",
+      "text": ""
+    }
   }
 }
