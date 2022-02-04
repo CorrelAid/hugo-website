@@ -29,14 +29,13 @@ When deciding on partners to cooperate with, our ethics commission will place gr
 
 
 ### Self-determination
-Volunteers and partner work and make decisions self-determined
-and responsibly. To accommodate for different working styles and backgrounds, we do not prefer specific coding languages or technologies but rather encourage our partners and members to choose the right path for themselves, guiding them through their unique journey.
+Volunteers and partners work and make decisions self-determined and responsibly. To accommodate for different working styles and backgrounds, we do not prefer specific coding languages or technologies but rather encourage our partners and members to choose the right path for themselves, guiding them through their unique journey.
 
 ### Pragmatism
 
 We create practical and sustainable solutions that have real value to our partners. We do so by striving to use technologies that can be implemented, used, maintained and updated by our partners, even if that means that we have to integrate less advanced tools. We foster an impact-driven mindset for the greater good.
 
-### Transparency and Openness
+### Transparency
 
 We are transparent in how we derive conclusions and try to explain methods and technologies used to our partners to empower them on their individual data journey. We also present differing views and are honest about the limitations of our knowledge and work. 
 
