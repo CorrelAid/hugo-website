@@ -28,19 +28,13 @@ When deciding on partners to cooperate with, our ethics commission will place gr
 # Our working principles
 
 
-### Flexibility and Self-actualization
+### Self-determination
+Volunteers and partner work and make decisions self-determined
+and responsibly. To accommodate for different working styles and backgrounds, we do not prefer specific coding languages or technologies but rather encourage our partners and members to choose the right path for themselves, guiding them through their unique journey.
 
-We guarantee that both NPOs and volunteers are able to freely dedicate their time to projects to accommodate for different needs. We believe that this enables us to get everyone involved and make the best out of the experience.
-
-To accommodate for different working styles and backgrounds, we do not prefer specific coding languages or technologies but rather encourage our partners and members to choose the right path for themselves, guiding them through their unique journey.
 ### Pragmatism
 
 We create practical and sustainable solutions that have real value to our partners. We do so by striving to use technologies that can be implemented, used, maintained and updated by our partners, even if that means that we have to integrate less advanced tools. We foster an impact-driven mindset for the greater good.
-
-### Professionalism
-
-We dedicate ourselves to have high working standards and ensuring that insights derived from our analysis are profound. Data protection and security are our key concerns. We especially make sure that confidential data is treated carefully and deleted after project closure.
-
 
 ### Transparency and Openness
 
