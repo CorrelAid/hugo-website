@@ -12,6 +12,19 @@
       "text": "Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsitzender. Er studierte im Master \"Evidence-based Policymaking\" an der University of Oxford und Policy-Analyse an der Universität Konstanz. Er interessiert sich vor allem für Evaluierungsmethoden, die Nutzung von Evidenz und Daten in Gesellschaft und Politik, und Social Entrepreneurship."
     }
   },
+  "regina": {
+    "name": "Regina",
+    "img": "/images/people/regina.jpg",
+    "email": "regina.s@correlaid.org",
+    "en": {
+      "subline": "Vice Chairwoman",
+      "text": "Regina is a survey statistician and PhD student at the Leibniz Institute for Educational Trajectories. She is primarily concerned with how people understand data (outcomes) and with measuring data literacy as a core competency of the 21st century. At CorrelAid, she is primarily concerned with the funding and long-term strategy."
+    },
+    "de": {
+      "subline": "2. Vorsitzende",
+      "text": "Regina ist Survey Statistikerin und Doktorandin am Leibniz-Institut für Bildungsverläufe. Sie beschäftigt sich vor allem damit, wie Menschen Daten(ergebnisse) verstehen und mit der Messung von Data Literacy als Kernkompetenz des 21. Jahrhunderts. Bei CorrelAid beschäftigt sie sich vor allem mit der Finanzierung und langfristigen Strategie des Vereins."
+    }
+  },
   "konstantin": {
     "name": "Konstantin",
     "img": "/images/people/konstantin.jpeg",
