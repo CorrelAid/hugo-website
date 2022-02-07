@@ -4,7 +4,7 @@ date: 2018-08-23T12:35:49+02:00
 draft: false
 menu: 
     about:
-        weight: -400
+        weight: -1
 meta:
     title: "CorrelAid - Our work"
     description: "CorrelAid Homepage. We are a network of young data analysts that wants to change the world with a more inclusive, integrated and innovative approach to data analysis."
@@ -40,6 +40,30 @@ We are an inclusive network in which diversity is valued and promoted. We firmly
 
 
 # Prizes and awards
+
+{{< price 
+    year="2022" 
+    img="/images/ausgezeichnetesengagement.png"
+    order="order-md-0"
+>}}
+Seal for excellent engagement
+{{< /price >}}
+
+{{< price 
+    year="2021" 
+    img="/images/partners/dsee.png"
+    order="order-md-1"
+>}}
+Project funding of the Deutschen Stiftung für Engagement und Ehrenamt
+{{< /price >}}
+
+{{< price 
+    year="2019" 
+    img="/images/partners/tidesfoundation.png"
+    order="order-md-0"
+>}}
+Basic funding by the Tides Foundation supported by Google.org
+{{< /price >}}
 
 {{< price 
     year="2018" 

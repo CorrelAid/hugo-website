@@ -33,7 +33,13 @@
         <!-- /END FAVICONS -->
 
         <!-- META DATA -->
-        <title>{{ .Params.meta.title }}</title>
+        <!-- title: take from Params.meta (if specified) or otherwise take page title -->
+        {{ $title := .Title }}
+        {{ if isset (index .Params "meta") "title" }}
+        {{ $title := .Params.meta.title }}
+        {{ end }}
+        
+        <title>{{ $title }}</title>
         <meta name="keywords" content="{{ .Params.meta.keywords }}" />
         {{ if isset (index .Params "meta") "description" }}
             <meta name="description" content="{{ .Params.meta.description }}" />
@@ -42,7 +48,7 @@
         {{ end }}
         <meta name="author" content="{{ $.Site.Params.author }}">
 
-        <meta property="og:title" content="{{ .Params.meta.title }}" />
+        <meta property="og:title" content="{{ $title }}" />
         <meta property="og:type" content="website" />
         <meta property="og:image" itemprop="image" content="{{ "images/blog/thumbs-x250/" | absURL   }}{{.Params.meta.image}}" />
         <meta property="og:image:secure_url" itemprop="image" content="{{ "images/blog/thumbs-x250/" | absURL   }}{{.Params.meta.image}}" />
@@ -90,44 +96,6 @@
             {{ end }}
         </main>
         <!-- /END MAIN -->
-
-        <!-- CONTACT FORM -->
-        <div class="modal fade" id="contact-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
-                <div class="modal-content">
-                    <div class="modal-body">
-                        <form>
-                            <div class="form-group d-none">
-                                <label for="message-email" class="col-form-label">{{ i18n "email" }}</label>
-                                <input type="email" class="form-control" id="message-email" disabled>
-                            </div>
-                            <div class="form-group">
-                                <label for="message-recipient-name" class="col-form-label">{{ i18n "recipient" }}</label>
-                                <input type="text" class="form-control" id="message-recipient-name" disabled>
-                            </div>
-                            <div class="form-group">
-                                <label for="message-from-name" class="col-form-label">{{ i18n "your-name" }}</label>
-                                <input type="text" class="form-control" id="message-from-name">
-                            </div>
-                            <div class="form-group">
-                                <label for="message-from-email" class="col-form-label">{{ i18n "your-email" }}</label>
-                                <input type="email" class="form-control" id="message-from-email">
-                            </div>
-                            <div class="form-group">
-                                <label for="message-text" class="col-form-label">{{ i18n "your-message" }}</label>
-                                <textarea class="form-control" id="message-text"></textarea>
-                            </div>
-                        </form>
-                        <p id="message-info">Info message.</p>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary btn-lg" data-dismiss="modal">{{ i18n "close" }}</button>
-                        <button type="button" class="btn btn-ca-dark-blue btn-lg" id="send-email">{{ i18n "send" }}</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- /END CONTACT FORM -->
 
         <!-- FOOTER -->
         {{ partial "footer" . }}

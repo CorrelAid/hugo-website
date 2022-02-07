@@ -100,12 +100,6 @@ other = "For Volunteers"
 other = "Website"
 [participate-volunteer]
 other = "Participate as a volunteer!"
-[volunteer-header]
-other = "Volunteering at CorrelAid"
-[volunteer-intro]
-other = "Our network provides different possibilities to network and get active for Data4Good. Become a part of our community!"
-[volunteer-hitchhiker]
-other = "Want to learn more about the way we work and our principles? Check out the section below or take a look at our [Hitchhiker's Guide to CorrelAid](https://docs.correlaid.org/wiki/hitchhikers-guide)."
 [read]
 other = "To read"
 [listen]

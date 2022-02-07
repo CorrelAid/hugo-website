@@ -1,30 +1,32 @@
 {{ define "main" }} {{ $lang := .Site.Language.Lang }}
 <div class="container mt-5 pt-5">
   <div class="row">
-    <div class="col-12">
-      <h1>{{ i18n "volunteer-header"}}</h1>
-
-      <p>{{ i18n "volunteer-intro"}}</p>
-    </div>
+    <div class="col-12">{{ .Content }}</div>
   </div>
-  <div class="row py-3 justify-content-center">
-    <a class="btn btn-ca-dark-blue btn-lg" target="_blank" href="http://eepurl.com/duIb-L" role="button">{{ i18n "newsletter-button"}}</a>
-  </div>
-  <p>{{ i18n "volunteer-hitchhiker" | markdownify }}</p>
   <div class="row">
     
     <div class="col-12">
       <div class="row">
         {{ range .Pages.ByWeight }}
+        {{ if not (or (strings.HasSuffix .File.BaseFileName "_after") (strings.HasSuffix .File.BaseFileName "_before" )) }}      
+
         <div class="col-12 col-md-4">
           {{ partial "feature-volunteer.html" . }}
         </div>
         {{ end }}
+        {{ end }}
       </div>
     </div>
   </div>
-  <div class="row">
-    <div class="col-12">{{ .Content }}</div>
-  </div>
+
+  {{ $afterPath := printf "%s%s_after.md" .Dir .File.BaseFileName }}
+  {{ if (fileExists $afterPath) -}}
+      {{ with .Site.GetPage $afterPath }}
+      <div class="row">
+        <div class="col-12">{{ .Content }}</div>
+      </div>        
+      {{ end }}
+  {{- end }}
+
 </div>
 {{ end }}
