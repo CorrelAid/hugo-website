@@ -13,7 +13,39 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
-# Contacts
+# Contact us!
+
+For general inquiries, please contact us at [info [at] correlaid [dot] org](mailto:info@correlaid.org).
+## The remote office
+Our three full-time employees organize and coordinate the everyday work of the CorrelAid network.
+
+{{< contact
+    key="frie"
+    link-color="ca-green-text"
+>}}
+{{< /contact >}}
+
+{{< contact
+    key="nina"
+    link-color="ca-green-text"
+>}}
+{{< /contact >}}
+ 
+{{< contact
+    key="phil"
+    link-color="ca-green-text"
+>}}
+{{< /contact >}}
+
+{{< contact
+    key="isabel"
+    link-color="ca-green-text"
+>}}
+{{< /contact >}}
+
+## Our board
+The elected board of CorrelAid e.V., the official registered non-profit association, consists of CorrelAid volunteers. They work together with our employees and develop the long-term strategy for CorrelAid.
+
 {{< contact
     key="johannes"
     link-color="ca-green-text"
@@ -26,39 +58,13 @@ meta:
 >}}
 {{< /contact >}}
 
-{{< contact
-    key="frie"
-    link-color="ca-green-text"
->}}
-{{< /contact >}}
-
-
-{{< contact
-    key="isabel"
-    link-color="ca-green-text"
->}}
-{{< /contact >}}
-
- 
-{{< contact
-    key="phil"
-    link-color="ca-green-text"
->}}
-{{< /contact >}}
-
-
-{{< contact
-    key="nina"
-    link-color="ca-green-text"
->}}
-{{< /contact >}}
-
 
 {{< contact
     key="konstantin"
     link-color="ca-green-text"
 >}}
 {{< /contact >}}
+
 
 {{< contact
     key="lena"

@@ -16,7 +16,38 @@ meta:
 ---
 
 
-# Ansprechpartner
+# Ansprechpersonen
+Für generelle Anfragen kannst du uns gerne unter [info [at] correlaid [dot] org](mailto:info@correlaid.org) kontaktieren.
+## Das remote Büro
+Unsere Mitarbeiter*innen organisieren und koordinieren die tägliche Arbeit des CorrelAid Netzwerks.
+
+{{< contact
+    key="frie"
+    link-color="ca-green-text"
+>}}
+{{< /contact >}}
+
+{{< contact
+    key="nina"
+    link-color="ca-green-text"
+>}}
+{{< /contact >}}
+ 
+{{< contact
+    key="phil"
+    link-color="ca-green-text"
+>}}
+{{< /contact >}}
+
+{{< contact
+    key="isabel"
+    link-color="ca-green-text"
+>}}
+{{< /contact >}}
+
+## Der Vorstand
+Der gewählte Vorstand von CorrelAid e.V., dem gemeinnützigen Verein, besteht aus CorrelAid Ehrenamtlichen. Sie arbeiten mit dem remote Büro zusammen und entwickeln die langfristige Strategie für CorrelAid.
+
 {{< contact
     key="johannes"
     link-color="ca-green-text"
@@ -29,33 +60,6 @@ meta:
 >}}
 {{< /contact >}}
 
-{{< contact
-    key="frie"
-    link-color="ca-green-text"
->}}
-{{< /contact >}}
-
-
-{{< contact
-    key="isabel"
-    link-color="ca-green-text"
->}}
-{{< /contact >}}
-
- 
-{{< contact
-    key="phil"
-    link-color="ca-green-text"
->}}
-{{< /contact >}}
-
-
-{{< contact
-    key="nina"
-    link-color="ca-green-text"
->}}
-{{< /contact >}}
-
 
 {{< contact
     key="konstantin"
@@ -63,12 +67,12 @@ meta:
 >}}
 {{< /contact >}}
 
+
 {{< contact
     key="lena"
     link-color="ca-green-text"
 >}}
 {{< /contact >}}
-
 
 {{< contact
     key="patrizia"
@@ -76,11 +80,13 @@ meta:
 >}}
 {{< /contact >}}
 
+
 {{< contact
     key="sebastian"
     link-color="ca-green-text"
 >}}
 {{< /contact >}}
+
 
 {{< contact
     key="marco"
