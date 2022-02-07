@@ -12,17 +12,30 @@
       "text": "Johannes hatte 2015 die Idee für CorrelAid und ist seitdem unser Vorstandsvorsitzender. Er studierte im Master \"Evidence-based Policymaking\" an der University of Oxford und Policy-Analyse an der Universität Konstanz. Er interessiert sich vor allem für Evaluierungsmethoden, die Nutzung von Evidenz und Daten in Gesellschaft und Politik, und Social Entrepreneurship."
     }
   },
+  "regina": {
+    "name": "Regina",
+    "img": "/images/people/regina.jpg",
+    "email": "regina.s@correlaid.org",
+    "en": {
+      "subline": "Vice Chairwoman",
+      "text": "Regina is a survey statistician and PhD student at the Leibniz Institute for Educational Trajectories. She is primarily concerned with how people understand data (outcomes) and with measuring data literacy as a core competency of the 21st century. At CorrelAid, she is primarily concerned with the funding and long-term strategy."
+    },
+    "de": {
+      "subline": "2. Vorsitzende",
+      "text": "Regina ist Survey Statistikerin und Doktorandin am Leibniz-Institut für Bildungsverläufe. Sie beschäftigt sich vor allem damit, wie Menschen Daten(ergebnisse) verstehen und mit der Messung von Data Literacy als Kernkompetenz des 21. Jahrhunderts. Bei CorrelAid beschäftigt sie sich vor allem mit der Finanzierung und langfristigen Strategie des Vereins."
+    }
+  },
   "konstantin": {
     "name": "Konstantin",
-    "img": "/images/people/konstantin.jpg",
+    "img": "/images/people/konstantin.jpeg",
     "email": "finanzen@correlaid.org",
     "en": {
       "subline": "Finance and Donations",
-      "text": "Konstantin is a Ph.D. candidate at the Graduate School of Economic and Social Sciences in Political Science and research associate at the Chair of Political Psychology at the University of Mannheim. He has been active at CorrelAid since 2015 and currently takes care of all financial matters, donations etc."
+      "text": "Konstantin works as Senior Data Scientist at Nesto Software GmbH. Previously, he completed his PhD in Political Science at the University of Mannheim and worked at the Mannheim Center for European Social Research. Konstantin joined CorrelAid in 2015 and currently takes care of all financial matters. Feel free to contact him about becoming a member of CorrelAid e.V. or for donations."
     },
     "de": {
       "subline": "Finanzen und Spenden",
-      "text": "Konstantin (@kongavras) is a Ph.D. candidate at the Graduate School of Economic and Social Sciences in Political Science and research associate at the Chair of Political Psychology at the University of Mannheim. Konstantin ist Doktorand in Politikwissenschaft an der Graduate School of Economic and Social Sciences und wissenschaftlicher Mitarbeiter am Lehrstuhl für politische Psychologie an der Universität Mannheim. Bei CorrelAid ist er seit 2015 aktiv. Er kümmert sich derzeit um alle finanziellen Angelegenheiten und kann für Spenden kontaktiert werden."
+      "text": "Konstantin ist Senior Data Scientist bei der Nesto Software GmbH. Zuvor hat er seine Promotion in Politikwissenschaft an der Universität Mannheim abgeschlossen und am Mannheimer Zentrum für Europäische Sozialforschung gearbeitet. Konstantin ist seit 2015 bei CorrelAid aktiv und kümmert sich derzeit um alle finanziellen Angelegenheiten. Kontaktiert ihn gerne wegen einer Mitgliedschaft bei CorrelAid e.V. oder für Spenden."
     }
   },
   "frie": {
@@ -31,11 +44,11 @@
     "email": "frie.p@correlaid.org",
     "en": {
       "subline": "Data4Good Projects & COO",
-      "text": "Frie has been a part of CorrelAid since the beginnings in 2015. Since February 2020, they have the opportunity to work full-time for CorrelAid. Together with Manuel, they are responsible for the coordination of our data4good projects. In addition, they collaborate with Jasmin on education and knowledge management topics and like to program internal tooling for CorrelAid. For all this, they can draw from their two-year experience working as an IT consultant during which they were able to learn a lot about working in and implementing techical projects."
+      "text": "Frie has been a part of CorrelAid since the beginnings in 2015. Since February 2020, they have the opportunity to work full-time for CorrelAid. They are responsible for the coordination of our data4good projects. In addition, they maintain and organize our infrastructure, occassionally developing internal tooling. For all this, they can draw from their two-year experience working as an IT consultant during which they were able to learn a lot about working in and implementing technical projects."
     },
     "de": {
       "subline": "Data4Good Projekte & COO",
-      "text": "Frie ist seit 2015 bei CorrelAid aktiv und ist seit Februar 2020 hauptamtlich angestellt bei CorrelAid. Sie ist dort - zusammen mit Manuel - verantwortlich für die Koordination der Projekte, kümmert sich mit Jasmin um das Wissensmanagement und programmiert gerne interne Tools. Bei alldem kann sie aus ihrer zweijährigen Berufserfahrung als IT Consultant schöpfen, während derer sie viel über Projektarbeit und deren technische Umsetzung lernen durfte."
+      "text": "Frie ist seit 2015 bei CorrelAid aktiv und ist seit Februar 2020 hauptamtlich angestellt bei CorrelAid. Sie ist dort verantwortlich für die Koordination der Projekte. Zusätzlich dazu wartet und organisiert sie die CorrelAid Infrastruktur und programmiert ab und an gerne interne Tools. Bei alldem kann sie aus ihrer zweijährigen Berufserfahrung als IT Consultant schöpfen, während derer sie viel über Projektarbeit und deren technische Umsetzung lernen durfte."
     }
   },
   "nina": {
@@ -90,17 +103,56 @@
       "text": "Jasmin studiert nach einem Bachelor in Soziologie jetzt Social and Economic Data Science im Master in Konstanz. Sie ist seit dem Meetup 2017 bei CorrelAid und kümmert sich dort um den Bereich Bildung & Wissensmanagement. Außerdem hostet sie in unserem Podcast “CorrelTalk – der CorrelAid Podcast”."
     }
   },
-  "manuel": {
-    "name": "Manuel",
-    "img": "/images/people/manuel.jpg",
-    "email": "projects@correlaid.org",
+  "lena": {
+    "name": "Lena (Marie-Helen)",
+    "img": "/images/people/lena.jpg",
+    "email": "marie-helen.c@correlaid.org",
+    "en": {
+      "subline": "PR and communication",
+      "text": "Lena (Marie-Helen) works as an advisor for the Data4Policy Flagship of the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. Here, she develops various data4development projects. Since 2018 she is part of the CorrelAid Community - and together with Meret and Rahel she is in charge of its communication and PR. Feel free to check us out on [Twitter](https://twitter.com), [Instagram](https://www.instagram.com/correlaid/?hl=de) or [LinkedIn](https://www.linkedin.com/company/15245842/admin/)!"
+    },
+    "de": {
+      "subline": "PR und Kommunikation",
+      "text": "Lena (Marie-Helen) arbeitet als Beraterin im Data4Policy Flagships bei der Deutschen Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH. Dort entwickelt sie verschiedene Data4Development Projekte. Seit 2018 ist sie Teil der CorrelAid Community und betreut zusammen mit Meret und Rahel die Kommunikation und PR des Vereins. Schaut doch mal bei uns auf [Twitter](https://twitter.com), [Instagram](https://www.instagram.com/correlaid/?hl=de) oder [LinkedIn](https://www.linkedin.com/company/15245842/admin/) vorbei!"
+    }
+  },
+  "patrizia": {
+    "name": "Patrizia",
+    "img": "/images/people/patrizia.png",
+    "email": "patrizia.m@correlaid.org",
     "en": {
       "subline": "Data4Good projects",
-      "text": " Manuel is an Associate Researcher at the Mannheim Centre for European Social Research. He joined CorrelAid in 2017. He’s particularly interested in making comprehensive data and complicated models understandable. For CorrelAid, he’s responsible for the contact for projects and partnerships."
+      "text": "Patrizia is a psychologist and currently works as a neuroscientist at the Charité - Universitätsmedizin Berlin. She joined CorrelAid in January 2021 and is a member of the board since end of 2021. At CorrelAid she is taking care of project organization and infrastructure-related topics, together with Frie."
     },
     "de": {
       "subline": "Data4Good Projekte",
-      "text": "Manuel ist wissenschaftlicher Mitarbeiter am Mannheimer Zentrum für Europäische Sozialforschung. Er ist seit 2017 bei CorrelAid aktiv. Sein Interesse liegt vor allem darin, unübersichtliche Datenmengen und komplizierte Modelle verständlich darzustellen. Für CorrelAid kümmert er sich um die Betreuung der Projektpartnerschaften und -ideen."
+      "text": "Patrizia ist Psychologin und arbeitet aktuell als Neurowissenschaftlerin an der Charité - Universitätsmedizin Berlin. Sie ist seit Anfang 2021 bei CorrelAid und seit Ende 2021 Teil des Vereinsvorstands. Bei CorrelAid kümmert sie sich gemeinsam mit Frie um die Bereiche Projektarbeit und Infrastruktur."
+    }
+  },
+  "sebastian": {
+    "name": "Sebastian",
+    "img": "/images/people/sebastianz.jpg",
+    "email": "sebastian.z@correlaid.org",
+    "en": {
+      "subline": "Education",
+      "text": "Sebastian studies philosophy of science, econometrics, and machine learning, currently in Tübingen. In 2017, an internship brought him to CorrelAid and data science. After working in the project team and the local chapter Stuttgart, he now takes care of our educational offers for non-profits and volunteers."
+    },
+    "de": {
+      "subline": "Education",
+      "text": "Sebastian studiert Wissenschaftstheorie, Ökonometrie und Machine Learning, derzeit in Tübingen. 2017 hat ihn ein Praktikum zu CorrelAid und der Datenanalyse gebracht. Nach Stationen im Projektteam und der Lokalgruppe Stuttgart kümmert er sich jetzt um Bildungsangebote für non-profits und unsere Volunteers."
+    }
+  },
+  "marco": {
+    "name": "Marco",
+    "img": "/images/people/marco.jpg",
+    "email": "marco.l@correlaid.org",
+    "en": {
+      "subline": "Community & CorrelAidX",
+      "text": "Marco is currently studying Politics and Public Administration at the University of Konstanz. He joined CorrelAid in 2021 through the Local Chapter in Constance. Together with Phil, he'll take care of community management. He is looking forward to working with all CorrelAidX chapters and is happy to assist with any questions or concerns in the chapters."
+    },
+    "de": {
+      "subline": "Community & CorrelAidX",
+      "text": "Marco studiert zurzeit im Bachelor Politik- und Verwaltungswissenschaften an der Universität Konstanz. Zu CorrelAid ist er 2021 durch das Local Chapter in Konstanz gekommen. Bei CorrelAid kümmert er sich ab jetzt mit Phil um den Bereich Community Management. Er freut sich dieses Jahr auf die Zusammenarbeit mit allen CorrelAidX Chaptern und steht euch bei Fragen oder Anliegen in den Chaptern gerne zur Seite."
     }
   }
 }
