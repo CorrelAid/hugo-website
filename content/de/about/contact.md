@@ -23,6 +23,11 @@ meta:
 >}}
 {{< /contact >}}
 
+{{< contact
+    key="regina"
+    link-color="ca-green-text"
+>}}
+{{< /contact >}}
 
 {{< contact
     key="frie"
