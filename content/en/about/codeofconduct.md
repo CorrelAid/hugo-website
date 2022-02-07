@@ -28,29 +28,33 @@ When deciding on partners to cooperate with, our ethics commission will place gr
 # Our working principles
 
 
-### Self-determination
-Volunteers and partners work and make decisions self-determined and responsibly. To accommodate for different working styles and backgrounds, we do not prefer specific coding languages or technologies but rather encourage our partners and members to choose the right path for themselves, guiding them through their unique journey.
+### Civil courage
 
+We use data-based methods and tools responsibly and are committed to positive societal change. We do not shy away from working on hard problems or making difficult decisions. We say no to things if they do not align with CorrelAid's values and speak up when we see injustice or discrimination. We own up to our mistakes.
+
+### Responsibility
+Data protection and security are our key concerns. We commit ourselves to the regulations of the GDPR and believe that data privacy is a human right. We especially make sure that confidential data is treated responsibly and is deleted after project closure. We dedicate ourselves to have high working standards and ensure that insights derived from our analysis are profound.
+We take charge of our tasks and solve matters proactively.
 ### Pragmatism
 
 We create practical and sustainable solutions that have real value to our partners. We do so by striving to use technologies that can be implemented, used, maintained and updated by our partners, even if that means that we have to integrate less advanced tools. We foster an impact-driven mindset for the greater good.
-
 ### Transparency
+We are transparent in how we derive conclusions and try to explain methods and technologies used to our partners to empower them on their individual data journey. We also present differing views and are honest about the limitations of our knowledge and work.
 
-We are transparent in how we derive conclusions and try to explain methods and technologies used to our partners to empower them on their individual data journey. We also present differing views and are honest about the limitations of our knowledge and work. 
+We believe in sharing our work, knowledge and experience. We make code and resources publicly available whenever possible and attend conferences and talks to share our expertise.
 
-We believe in sharing our work, knowledge and experience. We make code and resources publicly available whenever possible and attend conferences and talks to share our expertise. 
+### Self-determination
+Volunteers and partners work and make decisions self-determined and responsibly. To accommodate for different working styles and backgrounds, we do not prefer specific coding languages or technologies but rather encourage our partners and members to choose the right path for themselves, guiding them through their unique journey.
 
-Information and decision making processes within CorrelAid are accessible and open to as many people as possible. We work towards removing knowledge silos by sharing and documenting workflows, processes and knowledge. 
 
-### Appreciation and Respect
 
-We respect and value other people, the time they volunteer and their views, especially if they are different from ours. We do so by learning from each other and practicing gratitude. This can be as simple as saying ‘thank you’.
 
-We embrace diversity in all its forms and take care of fostering acceptance and respect inside our community and beyond. We want everyone to feel welcome and safe within CorrelAid. 
+### Respect
 
-### Courage
-We don't shy away from working on hard problems or making difficult decisions. We say no to things if they don't align with CorrelAid's values and speak up when we see unfairness or discrimination. We own up to our mistakes. 
+We are open to, respect and value other people, their time and their views, especially if they are different from ours. We do so by learning from each other and practicing gratitude. This can be as simple as saying ‘thank you’.
+
+We embrace diversity in all its forms and take care of fostering acceptance and respect inside our community and beyond. We want everyone to feel welcome and safe within CorrelAid.
+
 
 
 
