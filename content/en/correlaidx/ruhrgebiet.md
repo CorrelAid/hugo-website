@@ -13,28 +13,18 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
-Dortmund has, except for football, beer and their own Tatort the only faculty for statistics at a German university and 
-introduced the very first data science study program in Germany.
-
-With this potential, first attempts to start a local chapter were already made in 2017 and in Februrary 2018, 
-the local kick-off event took place. Data enthusiasts from all over NorthRhine-Westphalia gathered spent an 
-afternoon to discuss about data and society, attend workshops  and start this local chapter. Over this, we stepped away 
-from focusing only on Dortmund as a local group.
-
-The workshops showed, what is possible in the field of data science, how machine learning can actually be done and 
-implemented in R and how to vizualize your data using Tableau. There were also diverse discussions on different topics, 
-such as encryption and the relationship of data and society. We might soon start a first local project cooperation with 
-the Wissenschaftsladen Dortmund that provides e.g. free internet for refugee homes.
+In addition to BVB, beer and its own german Tatort series, Dortmund also has a statistics faculty and its own data science program.
+In February 2018, the Local Chapter Dortmund was founded and a lot was set in motion with a kick-off meeting, workshops and initial project ideas. Since then, however, it has become a bit quieter.
+Now, we want to revive the chapter. We don't want to limit ourselves to Dortmund, but want to build up a chapter for the whole Ruhr area. If you want to join or get in contact with us, write an email to [dortmund@correlaid.org](mailto:dortmund@correlaid.org)
 
 {{< person 
-    name="Damon"
+    name="Fabian"
     subline="CorrelAidX Ruhrgebiet"
-    img="/images/people/damon.jpg"
+    img="/images/people/Fabian_CorrelAid_Dortmund.jpg"
     data-email="dortmund@correlaid.org"
-    data-to="Damon (CorrelAidX Dortmund)"
+    data-to="Fabian (CorrelAidX Dortmund)"
     link-color="ca-red-text"
     x="1"
 >}}
-Damon, enjoying the last months as a student in the staistics program in Dortmund. I work for CorrelAid since 2015, 
-especially for the Local Chapter Ruhrgebiet. Unbeaten Champion of the CorrelAid Tabletennis championships in 2018.
+Already during his physics studies, Fabian was fascinated by the possibilities of machine learning in data analysis. Since his PhD in 2016, he has been working in the research department of a data science company. After joining CorrelAid in 2021, he wants to revive the Local Chapter Dortmund/Ruhr area and is looking forward to the opportunity to use Data Science for a better world with like-minded people.
 {{< /person >}}

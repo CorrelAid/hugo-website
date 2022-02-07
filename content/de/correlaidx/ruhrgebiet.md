@@ -15,20 +15,20 @@ meta:
 
 
 
-Dortmund hat neben BVB, Bier und eigenem Tatort auch als einzige deutsche Stadt eine eigene Statistik-Fakultät und den ersten Data Science-Studiengang Deutschlands eingeführt.
+Dortmund hat neben BVB, Bier und eigenem Tatort auch eine Statistik-Fakultät und einen eigenen Data Science-Studiengang zu bieten.
+Im Februar 2018 kam auch das Local Chapter Dortmund hinzu und es wurden mit einem Kick-Off Meeting, Workshops und ersten Projektideen Einiges auf die Beine gestellt. Anschließend ist es aber etwas ruhiger geworden.
+Seit Anfang 2022 wollen wir nun das Chapter wieder mit Leben füllen. Dabei werden wir uns nicht auf Dortmund beschränken, sondern ein Chapter für das gesamte Ruhrgebiet aufbauen. Wenn ihr mitmachen möchtet oder mit uns in Kontakt kommen wollt, schreibt eine Email an [dortmund@correlaid.org](mailto:dortmund@correlaid.org).
 
-Aufbauend auf diesem Potential wurden erste Anfänge für den Aufbau eines Local Chapters bereits Anfang 2017 gemacht. Der erste Spatenstich zur Gründung wurde dann im Februar 2018 bei einem KickOff-Event gesetzt. Hierbei kamen Dateninteressierte aus ganz NRW zusammen, um einen Nachmittag lang über das Verhältnis von Daten und Gesellschaft zu diskutieren, an spannenden Workshops teilzunehmen und den Local Chapter Ruhrgebiet ins Leben zu rufen - die spezifische Fixierung auf Dortmund wurde erstmal verworfen.
-
-In Workshops wurde erörtert, was mittlerweile mit Data Science alles möglich ist, wie Machine Learning grundsätzlich funktioniert (und in R umgesetzt werden kann) und wie man mit dem Datenvisualiserungs-Tool Tableau schicke interaktive Grafiken basteln kann. Kritischen Input gab es von unserem Referenten vom Wissenschaftsladen Dortmund zum Thema Verschlüsselung und dem Verhältnis zwischen Daten und Gesellschaft. Ein erstes lokales Projekt steht womöglich in Kooperation mit dem Wissenschaftsladen Dortmund, der z.B. kostenloses Internet für Geflüchtetenheime bereitstellt, bereits in den Startlöchern.
+## Kontakt
 
 {{< person 
-    name="Damon"
+    name="Fabian"
     subline="CorrelAidX Ruhrgebiet"
-    img="/images/people/damon.jpg"
+    img="/images/people/Fabian_CorrelAid_Dortmund.jpg"
     data-email="dortmund@correlaid.org"
-    data-to="Damon (CorrelAidX Dortmund)"
+    data-to="Fabian (CorrelAidX Dortmund)"
     link-color="ca-red-text"
     x="1"
 >}}
-Damon, in den Endzügen meines Masters in Statistik. Ich bin seit 2015 bei CorrelAid und kümmere mich um den Local Chapter im Ruhrgebiet. Unangefochtener Sieger der CorrelAid Tischtennismeisterschaften 2018.
+Schon während des Physikstudiums, war Fabian von den Möglichkeiten des Machine Learnings in der Datenanalyse fasziniert. Seit seiner Promotion 2016 arbeitet er in der Forschungsabteilung eines Data Science Unternehmens. Nachdem er 2021 CorrelAid entdeckt hat, möchte er dem Local Chapter Dortmund/Ruhrgebiet wieder etwas Leben einhauchen und freut sich auf die Möglichkeit mit Gleichgesinnten Data Science für eine bessere Welt einzusetzen.
 {{< /person >}}
