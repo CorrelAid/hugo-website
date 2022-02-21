@@ -13,18 +13,36 @@ meta:
   keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
   
-The CorrelAid and Data for Good network is growing and we are now starting to establish a local chapter in Paris. 
-With its vibrant Tech scene,  international crowd,  tons of research institutes and of course being the center of the French NGO landscape, Paris offers a lot of possibilities to become active. 
+CorrelAid gibt es jetzt auch in Paris! Mit seiner lebendigen, internationalen Tech-Szene und Forschungs- und NGO-Landschaft, bietet die Stadt viele Möglichkeiten aktiv zu werden. 
+
+Unser Local Chapter befindet sich im Moment noch in der Formierungsphase. Wir haben noch keine regulären Meetings, aber organisieren Events (wie den [Open Data Day](https://opendataday.org/)), sowie Projekte, oft in Kollaboration mit anderen lokalen or internationalen Organisationen (z.B. mit der Citizen Science Community [iNaturalist](https://www.inaturalist.org/) oder dem [City Interaction Lab](https://sites.google.com/cri-paris.org/cityinteractionlab/home)).
+
+Ihr findet uns online oder am [Learning Planet Institute](https://www.learningplanetinstitute.org/en) (ehemalig Center for Research and Interdisciplinarity). Unsere Forschungsinteressen sind in den Bereichen Citizen, Network, Open Science und Human Computer Interaction, aber wir sind offen für jeder art Data-for-Good Experimenten!
+
+Meldet euch gerne wenn ihr Interesse an CorrelAid Paris habt, wir freuen uns auf euch!
+
 
 
 {{< person 
-  name="Liubov & Mariana"
+  name="Liubov"
   subline="CorrelAidX Paris"
-  img="/images/people/correlaid-x-paris.jpg"
+  img="/images/people/liu_paris.jpg"
   data-email="paris@correlaid.org"
-  data-to="Liubov & Mariana (CorrelAidX Paris)"
+  data-to="Liubov (CorrelAidX Paris)"
   link-color="ca-red-text"
   x="1"
   >}}
-If you're interested in becoming part of the chapter, contact Liubov or Mariana!
+Liu ist Naturwissenschaftlerin (Mathe und Physik) und forscht an komplexen Systemen, der Analyse von urbanen Systemen und Modellierungsprozessen. Sie ist besonders interessiert an stochastischen Prozessen und der Wissenschaft der Städte (Theorie und Anwendung).
+{{< /person >}}
+
+{{< person 
+  name="Katharina"
+  subline="CorrelAidX Paris"
+  img="/images/people/kati_paris.jpg"
+  data-email="paris@correlaid.org"
+  data-to="Katharina (CorrelAidX Paris)"
+  link-color="ca-red-text"
+  x="1"
+  >}}
+Kati hat CorrelAid während ihres Studiums der Kognitions- und Medienwissenschaft an der Uni Duisburg-Essen entdeckt. Nun in Paris, forscht sie im Rahmen eines PhDs an online Tools, die Menschen dabei unterstützen ihre persönlichen Daten zu verstehen. 
 {{< /person >}}
