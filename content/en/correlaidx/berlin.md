@@ -13,7 +13,7 @@ meta:
 ---
 
 
-We meet on a regular basis for a casual exchange. We are always happy to welcome new faces. If you want to participate or get in contact with us, just write us an e-mail to berlin@correlaid.org!
+We meet on a regular basis for a casual exchange. We are always happy to welcome new faces. If you want to participate or get in contact with us, just write us an e-mail to [berlin@correlaid.org](mailto:berlin@correlaid.org)!
 
 This video (~ 6.5 mins) gives a little impression on our CorrelAid X Berlin activites in 2020: 
 
