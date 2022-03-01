@@ -46,7 +46,7 @@ Unsere Mitarbeiter*innen organisieren und koordinieren die tägliche Arbeit des 
 {{< /contact >}}
 
 {{< contact
-    key="nina"
+    key="nala"
     link-color="ca-green-text"
 >}}
 {{< /contact >}}
