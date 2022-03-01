@@ -20,9 +20,13 @@ meta:
 
 CorrelAid is an independent and inclusive non-partisan network dedicated to education. We enable data analysts and scientists to expand and apply their knowledge to topics of social relevance by providing educational opportunities and conducting Data4Good projects. Our projects are aimed at supporting institutions in expanding their social impact by enabling them to actively participate in the digital world of data. We further strive to build a community of like-minded people to exchange knowledge and connect. While doing so, we take a stand against all forms of discrimination and show deep commitment to encouraging equality in our teams and transparency in our work and beyond.
 
-We pledge to make our community an open and welcoming environment by ensuring an harassment-free experience for everyone, regardless of gender identity and expression, age, disability, neuro(a)typicality, ethnicity, profession, level of experience, education, socio-economic status, nationality, physical appearance, race, religion, physical and mental health, lifestyle choices or sexual identity and orientation. 
+**OPTION A**: We pledge to make our community an open and welcoming environment by ensuring an harassment-free experience for everyone, regardless where they fall on dimensions including, but not limited to: gender identity and expression, sexual identity and orientation, age, disability, neuro(a)typicality, ethnicity, profession, level of experience, education, socio-economic status, nationality, physical appearance, race, religion, physical and mental health, or lifestyle choices. 
 
-When deciding on partners to cooperate with, our ethics commission will place great emphasis on the organization’s dedication to our values, its commitment to social good and the benefit for society resulting from a potential project.
+**OPTION B**: We pledge to make our community an open and welcoming environment by ensuring an harassment-free experience for everyone. We work to protect our community members from discrimination, especially those who are potentially affected by multiple systems of discrimination. 
+
+**What is discrimination to us?**
+
+When deciding on partners to cooperate with, our ethics commission will place great emphasis on the organization’s alignment with our values, its commitment to social good and the benefit for society resulting from a potential project.
 
 
 # Our working principles
@@ -76,7 +80,7 @@ We embrace diversity in all its forms and take care of fostering acceptance and 
 This agreement guides the work inside of our community and beyond. We care about following its principles closely in Data4Good projects, when representing our community and vision publicly and more generally when in any collaboration and communication with partners and other community members.
 
 
-# Reporting
+# Reporting violations of the Code of Conduct
 
 If you come across a situation that appears to violate the CorrelAid's code of conduct, if you want to raise a concern about a possible breach of the code of conduct, or if you experienced or witnessed a behavior that does not align with our working principles, we are here to support you. 
 
