@@ -1,0 +1,13 @@
+
+{{ $type := .Get `type` }}
+{{ if  eq $type "info"}}
+<div class="p-3 mb-2 bg-info rounded text-white" style="--bs-bg-opacity: .5;">{{ .Inner }}</div>
+{{ else if eq $type "warning" }}
+<div class="p-3 mb-2 bg-warning rounded text-white">{{ .Inner }}</div>
+{{ else if eq $type "danger" }}
+<div class="p-3 mb-2 bg-danger rounded text-white">{{ .Inner }}</div>
+{{ else if eq $type "info" }}
+<div class="p-3 mb-2 bg-info rounded text-white">{{ .Inner }}</div>
+
+{{ else }}
+{{ end }}
