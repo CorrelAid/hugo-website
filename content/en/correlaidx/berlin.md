@@ -12,12 +12,8 @@ meta:
     keywords: "Berlin, CorrelAid, CorrelAidX, Data4Good, NGOs, Engagement 4.0"
 ---
 
-    
-We're a group of more than 20 active CorrelAid network members. We meet regularly to code and learn R and Python and brainstorm ideas for projects with local NGOs.
-We also organize MeetUps like the [Data Dialogue](https://www.meetup.com/de-DE/CorrelAid/events/264806335).
 
-If you want to participate or get in contact with us, just write us an e-mail to berlin@correlaid.org!
-
+We meet on a regular basis for a casual exchange. We are always happy to welcome new faces. If you want to participate or get in contact with us, just write us an e-mail to [berlin@correlaid.org](mailto:berlin@correlaid.org)!
 
 This video (~ 6.5 mins) gives a little impression on our CorrelAid X Berlin activites in 2020: 
 
@@ -26,7 +22,6 @@ This video (~ 6.5 mins) gives a little impression on our CorrelAid X Berlin acti
     title = "Pecha Kucha CorrelAid X Berlin YouTube Video"
 >}}
 
-[DSSG Berlin](https://dssg-berlin.org/) is another wonderful organization for Data Science For Social Good in Berlin with whom we work closely.
 
 
 {{< person 

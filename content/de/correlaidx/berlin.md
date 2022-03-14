@@ -13,11 +13,7 @@ meta:
 ---
 
     
-Im Local Chapter Berlin sind wir mehr als 20 aktive CorrelAider*innen. 
-
-Wir treffen uns einmal im Monat zum Coden und Lernen von R & Python und Chatten über neue Projektideen mit lokalen NGOs.
-In größeren Abständen organisieren wir auch MeetUps wie einen [Datendialog](https://www.meetup.com/de-DE/CorrelAid/events/264806335/).
-
+Wir treffen uns regelmäßig zum "Stammtisch" und freuen uns immer über neue Gesichter.
 Wenn ihr mitmachen wollt oder mit uns in Kontakt kommen, schreibt uns einfach eine E-Mail an berlin@correlaid.org!
 
 Dieses Video (ca. 6,5 Minuten) gibt dir einen kleinen Eindruck, was wir 2020 bei CorrelAidX Berlin gemacht haben:
@@ -27,7 +23,6 @@ Dieses Video (ca. 6,5 Minuten) gibt dir einen kleinen Eindruck, was wir 2020 bei
     title = "Pecha Kucha CorrelAid X Berlin YouTube Video"
 >}}
 
-[DSSG Berlin](https://dssg-berlin.org/) ist eine weitere wunderbare Organisation für Data Science For Social Good in Berlin mit denen wir eng zusammenarbeiten.
 
 
 {{< person 
