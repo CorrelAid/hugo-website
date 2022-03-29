@@ -15,7 +15,7 @@ meta:
 
 # Imprint
 
-The imprint is valid on: [https://correlaid.org/](https://correlaid.org/) and the respective sub-domains and our social media channels [https://twitter.com/CorrelAid](Twitter), [https://facebook.com/WeAreCorrelAid](Facebook) and [Youtube](https://www.youtube.com/channel/UC59n41SakYfllEU6tqg5yLA).
+The imprint is valid on: [https://correlaid.org/](https://correlaid.org/) and the respective sub-domains (ending in _correlaid.org_), our [podcast](https://soundcloud.com/correlaid_podcast), our social media channels on [https://twitter.com/CorrelAid](Twitter), [https://facebook.com/WeAreCorrelAid](Facebook), [Youtube](https://www.youtube.com/channel/UCs_k9roCuWLy17xxpigrWbg), [Linkedin](https://www.linkedin.com/company/correlaid/), [Instagram](https://www.instagram.com/correlaid/), [Instagram of the podcast](https://www.instagram.com/correltalk/) as well as all Instagram channels of German local chapters ("CorrelAidX"). 
 
 ## Information in accordance with section 5 TMG
 

@@ -15,7 +15,7 @@ meta:
 
 # Impressum
 
-Das Impressum gilt für: [https://correlaid.org/](https://correlaid.org/), alle Subdomains die auf _correlaid.org_ enden, und unsere Social Media Präsenz auf [Twitter](https://twitter.com/CorrelAid), [Facebook](https://facebook.com/WeAreCorrelAid) und [Youtube](https://www.youtube.com/channel/UC59n41SakYfllEU6tqg5yLA).
+Das Impressum gilt für: [https://correlaid.org/](https://correlaid.org/), alle Subdomains die auf _correlaid.org_ enden, den [Podcast](https://soundcloud.com/correlaid_podcast) und unsere Social Media Präsenzen auf [Twitter](https://twitter.com/CorrelAid), [Facebook](https://facebook.com/WeAreCorrelAid), [Youtube](https://www.youtube.com/channel/UCs_k9roCuWLy17xxpigrWbg), [Linkedin](https://www.linkedin.com/company/correlaid/), [Instagram](https://www.instagram.com/correlaid/), [Instagram des Podcasts](https://www.instagram.com/correltalk/) sowie sämtliche Instagram Kanäle von deutschen Lokalgruppen ("CorrelAidX").
 
 ## Angaben gemäß § 5 TMG
 
