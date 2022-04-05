@@ -35,35 +35,19 @@ Most of our work is done online, so interested people from all over Northwest Ge
 >}}
 
 Alice currently coordinates the local chapter Bremen and will be happy to answer any questions you may have. She studied political science and social research and likes to approach social problems with empirical data analysis. She is involved in CorrelAid because here not only the good cause of NPOs is supported, but also data enthusiasts improve their skills through real-world projects and peer learning. Win-win for everyone!
-
-
 {{< /person >}}
 
+
 {{< person 
-    name="Lukas"
+    name="Philipp"
     subline="CorrelAidX Bremen"
-    img="/images/people/lukas_warode.jpeg"
+    img="/images/correlaid/correlaid-x-icon.png"
     data-email="bremen@correlaid.org"
-    data-to="Lukas (CorrelAidX Bremen)"
+    data-to="Philipp (CorrelAidX Bremen)"
     link-color="ca-red-text"
     x="1"
 >}}
-Lukas is a student of Political Science and has been a member since summer 2019. He is very interested in applied data analysis and data visualization. He appreciates CorrelAid not only for its voluntary work, but also for the exchange and the coming together.
-
-
-{{< /person >}}
-
-{{< person 
-    name="Matthies"
-    subline="CorrelAidX Bremen"
-    img="/images/people/matthies_hesse.jpeg"
-    data-email="bremen@correlaid.org"
-    data-to="Matthies (CorrelAidX Bremen)"
-    link-color="ca-red-text"
-    x="1"
->}}
-
-Matthies is a PhD student at the University of Bremen and researches in the field of Artificial Intelligence in Accounting and Finance. He loves constructing modelling systems in all shapes and sizes, and inspiring people for Data Science. Due to his experience in project management at CorrelAidX Bremen, he can be your contact for new exciting projects in Bremen and the surrounding area.
+Philipp is studying Sociology and Social Research in his Master's program at the University of Bremen and joined CorrelAid in 2019. He is particularly interested in quantitative data analysis and computational social science. What he particularly likes about CorrelAid is the combination of the good cause with personal development.
 {{< /person >}}
 
 

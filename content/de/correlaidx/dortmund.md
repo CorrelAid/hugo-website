@@ -18,7 +18,6 @@ Dortmund hat neben BVB, Bier und eigenem Tatort auch eine Statistik-Fakultät un
 Im Februar 2018 kam auch das Local Chapter Dortmund hinzu und es wurden mit einem Kick-Off Meeting, Workshops und ersten Projektideen Einiges auf die Beine gestellt. Anschließend ist es aber etwas ruhiger geworden.
 Seit Anfang 2022 wollen wir nun das Chapter wieder mit Leben füllen. Dabei werden wir uns nicht auf Dortmund beschränken, sondern ein Chapter für das gesamte Ruhrgebiet aufbauen. Wenn ihr mitmachen möchtet oder mit uns in Kontakt kommen wollt, schreibt eine Email an [dortmund@correlaid.org](mailto:dortmund@correlaid.org).
 
-## Kontakt
 
 {{< person 
     name="Fabian"

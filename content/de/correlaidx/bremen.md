@@ -34,35 +34,19 @@ Bei uns findet größtenteils alles online statt, sodass Interessierte aus ganz 
     x="1"
 >}}
 Alice steht euch gerne für alle Fragen und die erste Kontaktaufnahme zur Verfügung. Sie hat Politikwissenschaften und Sozialforschung studiert und begegnet gesellschaftlichen Problemen gerne mit empirischer Datenanalyse. Sie engagiert sich bei CorrelAid, weil hier nicht nur die gute Sache von gemeinwohlorientierten Initiativen unterstützt wird, sondern nebenbei auch Datenbegeisterte anhand realer Projektdaten und Peer-Learning ihr Können ausbauen können. Win-win für alle!
-
-
 {{< /person >}}
 
 
 {{< person 
-    name="Lukas"
+    name="Philipp"
     subline="CorrelAidX Bremen"
-    img="/images/people/lukas_warode.jpeg"
+    img="/images/correlaid/correlaid-x-icon.png"
     data-email="bremen@correlaid.org"
-    data-to="Lukas (CorrelAidX Bremen)"
+    data-to="Philipp (CorrelAidX Bremen)"
     link-color="ca-red-text"
     x="1"
 >}}
-Lukas studiert Politikwissenschaft in Bremen und ist seit Mitte 2019 bei CorrelAid aktiv. Er ist sehr interessiert an angewandter Datenanalyse und Datenvisualisierung. An CorrelAid mag er nicht nur das Data4Good Volunteering, sondern auch die Möglichkeiten zum Austausch und Zusammenkommen mit anderen Data Scientists.
+Philipp studiert im Master Soziologie und Sozialforschung an der Universität Bremen und ist seit 2019 bei CorrelAid aktiv. Er interessiert sich besonders für quantitative Datenanalyse und Computational Social Science. An CorrelAid gefällt ihm besonders die Kombination des guten Zwecks mit der persönlichen Weiterentwicklung.
 {{< /person >}}
 
-{{< person 
-    name="Matthies"
-    subline="CorrelAidX Bremen"
-    img="/images/people/matthies_hesse.jpeg"
-    data-email="bremen@correlaid.org"
-    data-to="Matthies (CorrelAidX Bremen)"
-    link-color="ca-red-text"
-    x="1"
->}}
 
-
-
-
-Matthies ist Doktorand an der Universität in Bremen und beschäftigt sich mit künstlicher Intelligenz im Finanz- und Rechnungswesen. Er liebt das Konstruieren von Modellierungssystemen aller Art und begeistert gerne Menschen für Data Science. Aufgrund seiner Erfahrung im Projektmanagement bei CorrelAidX Bremen kann er dein Ansprechpartner für spannende Projekt in Bremen und Umgebung sein.
-{{< /person >}}
