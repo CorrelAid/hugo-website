@@ -24,7 +24,7 @@ If you are interested, please contact Tilman (Vienna) or Felix (Linz)!
     subline="CorrelAidX Austria"
     img="/images/people/tilman_austria.jpg"
     data-email="austria@correlaid.org"
-    data-to="Tliman (CorrelAidX Austria)"
+    data-to="Tilman (CorrelAidX Austria)"
     link-color="ca-red-text"
     x="1"
 >}}
@@ -38,9 +38,21 @@ His focus is on Data Management, Data Collection and Natural Language Processing
     subline="CorrelAidX Austria"
     img="/images/people/felix_austria.jpg"
     data-email="austria@correlaid.org"
-    data-to="Tliman (CorrelAidX Austria)"
+    data-to="Felix (CorrelAidX Austria)"
     link-color="ca-red-text"
     x="1"
 >}}
 Felix wants to advance evidence-based policymaking, preferably using R and open data. After his studies, he worked in government agencies and NGOs. He is currently doing his PhD in Political Science at Johannes Kepler University Linz and analyzes social policy data. In 2021 he discovered CorrelAid and now wants to build a local chapter in Austria with all interested people.
+{{< /person >}}
+
+{{< person 
+    name="Arne"
+    subline="CorrelAidX Austria"
+    img="/images/people/arne_austria.jpg"
+    data-email="austria@correlaid.org"
+    data-to="Arne (CorrelAidX Austria)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Arne started working with CorrelAid in Berlin in 2018. Since 2019 he lives in Berlin and pursues a PhD at the University of Vienna. His research focusses on conducting network analyses with international organizations involved in ocean governance. He is interested in data collection and management and (social) network analysis. 
 {{< /person >}}

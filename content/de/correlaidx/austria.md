@@ -45,3 +45,15 @@ Sein Fokus liegt auf Data Management, Data Collection und Natural Language Proce
 >}}
 Felix möchte evidenzbasierte Politikgestaltung weiterbringen und das am liebsten mit R und offenen Daten. Nach seinem Studium hat er in Behörden und NGOs gearbeitet. Aktuell promoviert er in Politikwissenschaft an der Johannes Kepler Universität Linz und analysiert sozialpolitische Daten. 2021 hat er CorrelAid entdeckt und möchte jetzt mit allen Interessierten ein Local Chapter in Österreich aufbauen.
 {{< /person >}}
+
+{{< person 
+    name="Arne"
+    subline="CorrelAidX Austria"
+    img="/images/people/arne_austria.jpg"
+    data-email="austria@correlaid.org"
+    data-to="Arne (CorrelAidX Austria)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Arne hat 2018 im Berliner Chapter von CorrelAid angefangen. Seit 2019 lebt er in Wien und promoviert im MARIPOLDATA Projekt an der Universität Wien. Dort macht er Netzwerkanalysen mit internationalen Organisationen im Bereich der Meerespolitik. Er interessiert sich besonders für Data Collection, Management und (soziale) Netzwerkanalyse und arbeitet größtenteils mit R.
+{{< /person >}}
