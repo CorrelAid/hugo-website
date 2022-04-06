@@ -51,3 +51,15 @@ Philipp is studying Sociology and Social Research in his Master's program at the
 {{< /person >}}
 
 
+{{< person 
+    name="Matthies"
+    subline="CorrelAidX Bremen"
+    img="/images/people/matthies_hesse.jpeg"
+    data-email="bremen@correlaid.org"
+    data-to="Matthies (CorrelAidX Bremen)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+
+Matthies is a PhD student at the University of Bremen and researches in the field of Artificial Intelligence in Accounting and Finance. He loves constructing modelling systems in all shapes and sizes, and inspiring people for Data Science. Due to his experience in project management at CorrelAidX Bremen, he can be your contact for new exciting projects in Bremen and the surrounding area.
+{{< /person >}}
