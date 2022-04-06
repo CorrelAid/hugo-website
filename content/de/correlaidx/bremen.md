@@ -46,7 +46,7 @@ Alice steht euch gerne für alle Fragen und die erste Kontaktaufnahme zur Verfü
     link-color="ca-red-text"
     x="1"
 >}}
-Philipp studiert im Master Soziologie und Sozialforschung an der Universität Bremen und ist seit 2019 bei CorrelAid aktiv. Er interessiert sich besonders für quantitative Datenanalyse und Computational Social Science. An CorrelAid gefällt ihm besonders die Kombination des guten Zwecks mit der persönlichen Weiterentwicklung.
+Philipp studiert im Master Soziologie und Sozialforschung an der Universität Bremen und ist seit 2019 bei CorrelAid aktiv. Er interessiert sich besonders für quantitative Datenanalyse und Computational Social Science. An CorrelAid gefällt ihm die Kombination des guten Zwecks mit der persönlichen Weiterentwicklung.
 {{< /person >}}
 
 
