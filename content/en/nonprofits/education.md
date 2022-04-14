@@ -17,11 +17,11 @@ At CorrelAid e.V., we are not only committed to the idea of using data for good,
 
 ## Data hour
 
-Every Thursday afternoon we offer an opportunity for nonprofits to talk about their data challenges of any kind. You have questions and would like to talk to a data analyst? Arrange your 30-minute meeting [here](https://calendly.com/correlaid/30min).
+Every Thursday afternoon we offer an opportunity for nonprofits to talk about their data challenges of any kind. You have questions and would like to talk to a data analyst? Arrange your 30-minute meeting [here](https://calendly.com/correlaid-frie/datensprechstunde).
 
 {{< button 
     btn-class="btn-dark"
-    href="https://calendly.com/correlaid/30min"
+    href="https://calendly.com/correlaid-frie/datensprechstunde"
     justify="center"
 >}}
 Arrange a data hour!

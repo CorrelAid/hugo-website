@@ -16,11 +16,11 @@ Wir bei CorrelAid e.V. setzen uns nicht nur die Nutzung von Daten für den guten
 
 
 ## Datensprechstunde
-Jeden Donnerstagnachmittag bieten wir die Seelsorge für Datenherausforderungen jeglicher Art an. Ihr habt Fragen und möchtet mit einem Datenanalyst/einer Datenanalystin sprechen? Vereinbart euren 30-minütigen Termin [hier](https://calendly.com/correlaid/30min).
+Jeden Donnerstagnachmittag bieten wir die Seelsorge für Datenherausforderungen jeglicher Art an. Ihr habt Fragen und möchtet mit einem Datenanalyst/einer Datenanalystin sprechen? Vereinbart euren 30-minütigen Termin [hier](https://calendly.com/correlaid-frie/datensprechstunde).
 
 {{< button 
     btn-class="btn-dark"
-    href="https://calendly.com/correlaid/30min"
+    href="https://calendly.com/correlaid-frie/datensprechstunde"
     justify="center"
 >}}
 Vereinbart eine Datensprechstunde!
