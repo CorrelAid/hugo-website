@@ -12,6 +12,12 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
+
+
+{{< tabs tabTotal="4" tabRightAlign="0">}}
+{{< tab tabName="LC Konstanz" >}}
+
+# Das LC
 In Konstanz hat CorrelAid fast schon Tradition!
 
 Als "Geburtsort" von CorrelAid gab es in der kleinen Uni-Stadt am See schon immer einen großen Kreis an Data-Science begeisterten Studierenden. 
@@ -24,7 +30,16 @@ Ihr seht, Konstanz hat nicht nur CorrelAid-Tradition, ein eigenes Local Chapter 
 
 Meldet euch also gerne wenn Ihr Lust habt bei uns mitzumischen oder einfach nur mal reinzuschnuppern.
 
+{{< /tab >}}
 
+{{< tab tabName="Projekte" >}}
+
+# Projekte
+
+{{< /tab >}}
+{{< tab tabName="Mitglieder" >}}
+
+# Mitglieder
 
 
 {{< person 
@@ -77,5 +92,15 @@ Phil studiert derzeit Social & Economic Data Science im Master und hatte als ehe
 >}}
 Zurzeit studiert Nico den Bachelor Politik- und Verwaltungswissenschaften. Die Kombination aus diesem Studiengang und großem Interesse an Data Science for Good führte unweigerlich zur Mitarbeit bei CorrelAid.
 {{< /person >}}
+
+
+
+
+{{< /tab >}}
+{{< tab tabName="Workshops">}}
+
+# Workshops
+{{< /tab >}}
+{{< /tabs >}}
 
 
