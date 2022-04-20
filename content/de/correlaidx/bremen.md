@@ -46,7 +46,18 @@ Alice steht euch gerne für alle Fragen und die erste Kontaktaufnahme zur Verfü
     link-color="ca-red-text"
     x="1"
 >}}
-Philipp studiert im Master Soziologie und Sozialforschung an der Universität Bremen und ist seit 2019 bei CorrelAid aktiv. Er interessiert sich besonders für quantitative Datenanalyse und Computational Social Science. An CorrelAid gefällt ihm besonders die Kombination des guten Zwecks mit der persönlichen Weiterentwicklung.
+Philipp studiert im Master Soziologie und Sozialforschung an der Universität Bremen und ist seit 2019 bei CorrelAid aktiv. Er interessiert sich besonders für quantitative Datenanalyse und Computational Social Science. An CorrelAid gefällt ihm die Kombination des guten Zwecks mit der persönlichen Weiterentwicklung.
 {{< /person >}}
 
 
+{{< person 
+    name="Matthies"
+    subline="CorrelAidX Bremen"
+    img="/images/people/matthies_hesse.jpeg"
+    data-email="bremen@correlaid.org"
+    data-to="Matthies (CorrelAidX Bremen)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Matthies ist Doktorand an der Universität in Bremen und beschäftigt sich mit künstlicher Intelligenz im Finanz- und Rechnungswesen. Er liebt das Konstruieren von Modellierungssystemen aller Art und begeistert gerne Menschen für Data Science. Aufgrund seiner Erfahrung im Projektmanagement bei CorrelAidX Bremen kann er dein Ansprechpartner für spannende Projekt in Bremen und Umgebung sein.
+{{< /person >}}
