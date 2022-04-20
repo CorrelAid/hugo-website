@@ -9,7 +9,7 @@ categories:
 author: 
  name:           "Phil"
  image:          "philipp_bosch.jpg"
- description:    "In seiner Rolle als Community Manager bei CorrelAid betreut Phil sowohl unsere Lokalgruppe sowie einzelne Volunteers während ihrer Zeit bei CorrelAid. Phil befindet sich derzeit in den letzen Zügen seines Masters in "Social and Economic Data Science" an der Universität Konstanz. Vor seiner Zeit als Community Manager oganisierte er die Lokalgruppe in Konstanz, der Gründungsstadt von CorrelAid."
+ description:    "In seiner Rolle als Community Manager bei CorrelAid betreut Phil sowohl unsere Lokalgruppe sowie einzelne Volunteers während ihrer Zeit bei CorrelAid. Phil befindet sich derzeit in den letzen Zügen seines Masters in “Social and Economic Data Science” an der Universität Konstanz. Vor seiner Zeit als Community Manager oganisierte er die Lokalgruppe in Konstanz, der Gründungsstadt von CorrelAid."
  twitter:        ""
  facebook:       ""
  github:         ""
