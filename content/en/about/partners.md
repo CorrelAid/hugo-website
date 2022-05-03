@@ -25,6 +25,14 @@ meta:
 {{< /partner >}}
 
 {{< partner 
+    name="Google.org"
+    img="/images/partners/googleorg.png"
+    website="https://google.org/"
+>}}
+[Google.org](https://google.org/) has been supporting CorrelAid e.V. in the scaling of its processes, activities and impact since 2019 and will continue to serve as a crucial partner until the end of 2022. Without the generous basic funding, we could not offer many of our services to civic society. Through the support, we were able to grow the CorrelAid e.V. network by 50%, conducted four times more projects and were finally able to kick off long-awaited educational programs.
+{{< /partner >}}
+
+{{< partner 
     name="DSEE"
     img="/images/partners/dsee.png"
     website="https://www.deutsche-stiftung-engagement-und-ehrenamt.de/"
@@ -48,10 +56,4 @@ Each year [IOMIDS](https://iomids.com/) enables our volunteers to join their dat
 Together with [D3 - so geht digital](https://so-geht-digital.de), [OpenTransfer](https://opentransfer.de/) and [GoVolunteer](https://govolunteer.com) we came up with *"Plötzlich digital: Die Sprechstunde* ("digital over night: the walk-in hour") at the beginning of the Corona crisis. Every other week, nonprofits get the opportunity to learn more about new tools for digital collaboration. Whether Slack, Trello, HumHub, Office365, Nextcloud or Password Manager: experts give a 45-minute practical introduction into a tool that they know by heart. Thanks to the excellent organizational skills of the D3 team, the format has been going strong for 1,5 years! You can find more information - and the recordings of all past sessions - [here](https://so-geht-digital.de/ploetzlich-digital-die-sprechstunde/).
 {{< /partner >}}
 
-{{< partner 
-    name="Tides Foundation"
-    img="/images/partners/tidesfoundation.png"
-    website="https://www.tides.org/"
->}}
-The [Tides Foundation](https://www.tides.org/) has been supporting CorrelAid e.V. in the scaling of its processes, activities and impact since 2019 and will continue to serve as a crucial partner until the end of 2022. Without the generous basic funding, we could not offer many of our services to civic society. Through the support, we were able to grow the CorrelAid e.V. network by 50%, conducted four times more projects and were finally able to kick off long-awaited educational programs.
-{{< /partner >}}
+
