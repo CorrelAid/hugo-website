@@ -54,6 +54,22 @@ Zoé studiert derzeit im Master "Social and Economic Data Science" an der Uni Ko
 
 
 {{< person 
+    name="Jonas"
+    subline="CorrelAidX Konstanz"
+    img="/images/people/jonas_konstanz.jpg"
+    data-email="konstanz@correlaid.org"
+    data-to="Jonas (CorrelAidX Konstanz)"
+    link-color="ca-red-text"
+    x="1"
+>}}
+Mehr an dem "S" als an dem "E" interessiert, studiert Jonas SEDS (Social and Economic Data Science). Ihm gefällt, dass CorrelAid Data Science einsetzt, um der Gesellschaft zu helfen, anstatt mit ethisch fragwürdigen Methoden Gewinne zu maximieren. CorrelAid ermöglicht es ihm, mit während des Studiums erlernten Fähigkeiten einen positiven Einfluss zu haben.
+{{< /person >}}
+
+
+
+
+
+{{< person 
     name="Philipp"
     subline="CorrelAidX Konstanz"
     img="/images/people/philipp_bosch.jpg"
