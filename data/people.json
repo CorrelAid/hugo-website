@@ -69,12 +69,12 @@
     "img": "/images/people/isabel.jpg",
     "email": "isabel.w@correlaid.org",
     "en": {
-      "subline": "Head of Community Management (on parental leave, please reach out to Phil)",
-      "text": "Isabel works as the Head of Community Management at CorrelAid and cares about the well-being of our volunteers. She coordinates the local CorrelAidX groups and ensures that our network grows and flourishes. She completed her master's degree in international relations in Berlin and then worked in project management at the Falling Walls Foundation. Isabel is interested in the operational development of our network in close dialogue with our community. As a certified mediator, communication on equal terms is as important to her as the appreciation of diversity. If you are interested in working with one of our CorrelAidX chapters, would like to start a new one, or are generally interested in working with CorrelAid, please feel free to reach out to Isabel."
+      "subline": "Head of Community Management",
+      "text": "Isabel works as the Head of Community Management at CorrelAid and cares about the well-being of our volunteers. She acts as your first point of contact as a volunteer at CorrelAid. Isabel also coordinates the CorrelAidX local groups and ensures that our network grows and thrives. She completed her Master's degree in International Relations in Berlin and then worked in project management at the Falling Walls Foundation. Isabel is interested in the operational development of our network in close dialogue with our community. As a certified mediator, she is as passionate about communication at eye level as she is about valuing diversity and variety. If you are interested in working with one of our CorrelAidX local chapters, starting a new local chapter, or are interested in working with CorrelAid in general, please feel free to contact Isabel at any time."
     },
     "de": {
-      "subline": "Head of Community Management (in Elternzeit, vertreten von Phil)",
-      "text": "Isabel ist Community Managerin bei CorrelAid und kümmert sich um das Wohlergehen unserer Volunteers. Sie koordiniert die CorrelAidX Lokalgruppen und sorgt dafür, dass unser Netzwerk wächst und gedeiht. Sie hat ihr Masterstudium der internationalen Beziehungen in Berlin absolviert und anschließend bei der Falling Walls Foundation im Projektmanagement gearbeitet. Isabel interessiert sich für die operative Weiterentwicklung unseres Netzwerks im engen Dialog mit unserer Community. Als zertifizierte Mediatorin liegt ihr die Kommunikation auf Augenhöhe ebenso am Herzen, wie die Wertschätzung von Diversität und Vielfalt. Wenn du an der Arbeit bei einer unserer CorrelAidX Lokalgruppen interessiert bist, eine neue Lokalgruppe gründen möchtest oder dich allgemein für eine Mitarbeit bei CorrelAid interessierst, kannst du Isabel jederzeit kontaktieren."
+      "subline": "Head of Community Management",
+      "text": "Isabel ist Community Managerin bei CorrelAid und kümmert sich um das Wohlergehen unserer Volunteers. Sie fungiert damit als deine erste Ansprechperson als Volunteer bei CorrelAid. Außerdem koordiniert Isabel die CorrelAidX Lokalgruppen und sorgt dafür, dass unser Netzwerk wächst und gedeiht. Sie hat ihr Masterstudium der internationalen Beziehungen in Berlin absolviert und anschließend bei der Falling Walls Foundation im Projektmanagement gearbeitet. Isabel interessiert sich für die operative Weiterentwicklung unseres Netzwerks im engen Dialog mit unserer Community. Als zertifizierte Mediatorin liegt ihr die Kommunikation auf Augenhöhe ebenso am Herzen, wie die Wertschätzung von Diversität und Vielfalt. Wenn du an der Arbeit bei einer unserer CorrelAidX Lokalgruppen interessiert bist, eine neue Lokalgruppe gründen möchtest oder dich allgemein für eine Mitarbeit bei CorrelAid interessierst, kannst du Isabel jederzeit kontaktieren."
     }
   },
   "nala": {
@@ -88,6 +88,19 @@
     "de": {
       "subline": "Feel Good Manager",
       "text": "Nala kümmert sich mit süßen Fotos und vielen Schlecks um unser Wohlbefinden. Sie akzeptiert ihr Gehalt in Snacks und Streicheleinheiten."
+    }
+  },
+  "zoe": {
+    "name": "Zoé",
+    "img": "/images/people/zoe_konstanz.jpg",
+    "email": "zoe.w@correlaid.org",
+    "en": {
+      "subline": "Student Trainee",
+      "text": "Zoé joined CorrelAid in 2018 and has been working for CorrelAid as a student trainee since June 2022. After her bachelor's degree in 'Political and Public Administration', she is currently studying for a master's degree in 'Social and Economic Data Science' in Konstanz. So she's also active in the Local Chapter there and was recently also responsible for its coordination. As a working student, she would like to share her experience from the local level - be it in 'R Lernen', workshops, project organization or other things."
+    },
+    "de": {
+      "subline": "Werkstudentin",
+      "text": "Zoé ist seit 2018 bei CorrelAid aktiv und arbeitet seit Juni 2022 als Werkstudentin für CorrelAid. Nach ihrem Bachelor in ‘Politik- und Verwaltungswissenschaft‘ studiert sie aktuell im Master in Konstanz ‘Social and Economic Data Science‘. So ist sie auch im Local Chapter dort aktiv und war zuletzt auch für dessen Koordination verantwortlich. Als Werkstudentin möchte sie ihre Erfahrung von der lokalen Ebene einbringen – sei es bei 'R Lernen', Workshops, Projektorga oder anderem."
     }
   },
   "phil": {

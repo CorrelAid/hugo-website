@@ -17,7 +17,7 @@ meta:
 
 For general inquiries, please contact us at [info [at] correlaid [dot] org](mailto:info@correlaid.org).
 ## The remote office
-Our three full-time employees organize and coordinate the everyday work of the CorrelAid network.
+Our four employees organize and coordinate the everyday work of the CorrelAid network.
 
 {{< contact
     key="frie"
@@ -32,13 +32,13 @@ Our three full-time employees organize and coordinate the everyday work of the C
 {{< /contact >}}
  
 {{< contact
-    key="phil"
+    key="isabel"
     link-color="ca-green-text"
 >}}
 {{< /contact >}}
 
 {{< contact
-    key="isabel"
+    key="zoe"
     link-color="ca-green-text"
 >}}
 {{< /contact >}}
