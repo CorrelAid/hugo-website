@@ -34,13 +34,13 @@ Unsere Mitarbeiter*innen organisieren und koordinieren die tägliche Arbeit des 
 {{< /contact >}}
  
 {{< contact
-    key="phil"
+    key="isabel"
     link-color="ca-green-text"
 >}}
 {{< /contact >}}
 
 {{< contact
-    key="isabel"
+    key="zoe"
     link-color="ca-green-text"
 >}}
 {{< /contact >}}
