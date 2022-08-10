@@ -26,7 +26,7 @@ meta:
     keywords: "CorrelAid, data ethics, diversity, data4good"
 ---
 
-
+<!-- Yay, no errors, warnings, or alerts! -->
 
 ## Why we care about diversity, anti-discrimination and inclusion
 
@@ -51,7 +51,7 @@ This is what we’ll do in the next few months:
 
 
 
-1. From September 9 to 11, 40 volunteers will come together in Berlin for a hackathon to explore options to design and implement a survey research ecosystem for diversity and visibility.
+1. From September 9 to 11, 40 volunteers will come together in Berlin for a [hackathon](https://citizensforeurope.notion.site/2022-Hackathon-Agenda-CorrelAid-Citizens-For-Europe-b809211654d54eb49fd0f042e671edab) to explore options to design and implement a survey research ecosystem for diversity and visibility.
 2. The hackathon kicks off Data4Good projects that run from September until the end of the year. The project teams will build on the results from the hackathon to improve CFE’s data workflows.
 3. In coordination with the board and employees of CorrelAid e.V., Citizens For Europe will develop and conduct a survey on anti-discrimination and inclusion within CorrelAid, based on CFE’s survey tool. This survey will be open to all CorrelAid volunteers and will be run around the end of the year. 
 4. The analysis of the survey results by the experts of CFE (until spring 2023) will use the workflows and tools developed in the three Data4Good projects.
@@ -60,16 +60,16 @@ This is what we’ll do in the next few months:
 
 ## Get involved!
 
-We see diversity and inclusion as a topic that affects everyone at CorrelAid. This is why we welcome everyone from our network to join in: Registration for the hackathon and/or the following projects is now open! Register quickly, spots are given out on a first come, first serve basis. 
+We see diversity and inclusion as a topic that affects everyone at CorrelAid. This is why we welcome everyone from our network to join in: Registration for the hackathon is now open! Read more about the event [here](https://citizensforeurope.notion.site/2022-Hackathon-Agenda-CorrelAid-Citizens-For-Europe-b809211654d54eb49fd0f042e671edab) and register quickly - spots are given out on a first come, first served basis. Of course, you can also express your interest in participating in the Data4Good projects without coming to the hackathon [here](https://ee.correlaid.org/single/H0FMKwEd).
 
-If you want to contribute on a smaller scale, you can suggest edits to the [code of conduct](https://correlaid.org/about/codeofconduct/) by contacting our ethics committee ([ethics@correlaid.org](mailto:ethics@correlaid.org)). We are also working on establishing a new community team which will work along the ethics committee and our community manager to make CorrelAid a place where everyone can have a fun and safe volunteer experience. 
+If you want to contribute on a smaller scale, you can suggest edits to the [code of conduct](https://correlaid.org/about/codeofconduct/) by contacting our ethics committee ([ethics@correlaid.org](mailto:ethics@correlaid.org)). We are also working on establishing a new community team which will work along the ethics committee and our community manager to make CorrelAid a place where everyone can have a fun and safe volunteering experience. 
 
 Our community manager Isabel ([isabel.w@correlaid.org](mailto:isabel.w@correlaid.org)) and Frie ([frie.p@correlaid.org](mailto:frie.p@correlaid.org)) as the responsible person for the Citizens For Europe partnership are always open for general feedback and suggestions. 
 
 
 ## Resources
 
-To learn more about diversity and inclusion in the data science/AI space, you can check out the following resources to get started:
+To learn more about diversity and inclusion in the data science/AI space, you can check out the following resources (non-exhaustive list) to get started:
 
 
 
@@ -81,6 +81,7 @@ To learn more about diversity and inclusion in the data science/AI space, you ca
     * [Bertelsmann Stiftung](https://www.bertelsmann-stiftung.de/de/unsere-projekte/ethik-der-algorithmen) - Ethik der Algorithmen project (GER)
     * [Algorithmwatch](https://algorithmwatch.org/en/) (GER)
     * [Disability Ethical AI](https://disabilityethicalai.org/) (USA)
+
 
 [^1]:
      Organisations working on this topic include [Data for Black lives](https://d4bl.org/), [Algorithmwatch](https://algorithmwatch.org/en/), [Algorithm Justice League](https://www.ajl.org/), [Bertelsmann Stiftung](https://www.bertelsmann-stiftung.de/de/unsere-projekte/ethik-der-algorithmen) amongst many others. 
