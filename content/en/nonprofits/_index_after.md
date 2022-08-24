@@ -1,3 +1,13 @@
+## Data hour
+Do you work for a NPO? You can discuss all your questions revolving around our work and data with one of our coordinators in our 1:1 *data hour*. Whether projects, educational sessions, events, data collection, or data analysis: we will see you there!
+{{< button 
+    btn-class="btn-dark"
+    href="https://calendly.com/correlaid-frie/datensprechstunde"
+    justify="center"
+>}}
+Book the data hour!
+{{< /button >}}
+
 ## Newsletter
 
 In our monthly newsletter for non-profit organizations, we give insights into our work and put the focus on a specific data topic.
