@@ -24,10 +24,10 @@ If you are interested in starting a local chapter yourself, or if you want to kn
 >}}
 
 {{< contact
-    key="phil"
+    key="isabel"
     link-color="ca-green-text"
 >}}
-Do you want to learn more about how you can get involved at CorrelAid? Want to join the Slack community? Need information about an upcoming event? Phil is looking forward to meeting you, sharing more information with you and finding out where your place in CorrelAid can be.
+Do you want to learn more about how you can get involved at CorrelAid? Want to join the Slack community? Need information about an upcoming event? Isabel is looking forward to meeting you, sharing more information with you and finding out where your place within CorrelAid can be.
 {{< /contact >}}
 
 

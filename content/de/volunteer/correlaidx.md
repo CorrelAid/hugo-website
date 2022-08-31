@@ -22,10 +22,10 @@ Wenn du ein eigenes Chapter gründen möchtest, oder wenn du wissen möchtest, o
 >}}
 
 {{< contact
-    key="phil"
+    key="isabel"
     link-color="ca-green-text"
 >}}
-Willst du mehr darüber erfahren, wie du dich bei CorrelAid engagieren kannst? Möchtest du dem Slack Workspace beitreten? Brauchst du Informationen über ein bevorstehendes Event? Phil freut sich darauf, dich kennenzulernen, mehr Informationen mit dir zu teilen und herauszufinden, wo dein Platz bei CorrelAid sein kann.
+Willst du mehr darüber erfahren, wie du dich bei CorrelAid engagieren kannst? Möchtest du dem Slack Workspace beitreten? Brauchst du Informationen über ein bevorstehendes Event? Isabel freut sich darauf, dich kennenzulernen, mehr Informationen mit dir zu teilen und herauszufinden, wo dein Platz bei CorrelAid sein kann.
 {{< /contact >}}
 
 # Alle Lokalgruppen
