@@ -3,7 +3,7 @@ title: "Matching methods for causal inference"
 date: 2020-05-11T22:01:56+02:00
 subtitle: "Open Online Data Meetup - Vol. 8"
 correlaidx: false
-eventDate: "2021-11-03"
+start: "2021-11-03"
 eventTime: "19:00 - 20:00"
 eventRegistration: https://pretix.eu/correlaid/oodm/2643527/
 tags: ["oodm"]

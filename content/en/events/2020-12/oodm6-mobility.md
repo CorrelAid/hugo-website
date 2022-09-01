@@ -3,7 +3,7 @@ title: "Mobility Data"
 date: 2020-05-11T22:01:56+02:00
 subtitle: "Open Online Data Meetup - Vol. 6"
 correlaidx: false
-eventDate: "2020-12-02"
+start: "2020-12-02"
 eventRegistration: https://www.eventbrite.com/e/open-online-data-meetup-vol-6-mobility-data-tickets-130394490431
 tags: ["oodm"]
 languages: 

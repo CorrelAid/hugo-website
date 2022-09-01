@@ -3,7 +3,7 @@ title: "The Lazy Data Scientist: Automating things feat. R, Python, AWS, and a R
 date: 2020-05-11T22:01:56+02:00
 subtitle: "Open Online Data Meetup - Vol. 4"
 correlaidx: false
-eventDate: "2020-09-23"
+start: "2020-09-23"
 eventRegistration: https://www.eventbrite.de/e/the-lazy-data-scientist-automating-things-feat-r-python-aws-and-a-pi-registration-121498787143
 tags: ["oodm"]
 languages: 

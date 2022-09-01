@@ -1,7 +1,7 @@
 ---
 title: "Remote Data Dialogue"
 date: 2020-05-11T22:01:56+02:00
-eventDate: "2020-06-11"
+start: "2020-06-11"
 eventTime: "19:00"
 eventRegistration: https://docs.google.com/forms/d/e/1FAIpQLScrsL5yaCkA2nEK_GuCPji5iJb8HGpbOd0LWojkltGJ5_bkSA/viewform
 subtitle: "With GoVolunteer & Amadeu Antonio Stiftung"

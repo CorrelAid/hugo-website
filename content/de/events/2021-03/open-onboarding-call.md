@@ -2,7 +2,7 @@
 title: "Open Onboarding Call"
 date: 2020-05-11T22:01:56+02:00
 correlaidx: false
-eventDate: "2021-03-01"
+start: "2021-03-01"
 eventTime: "7:00 PM – 8:00 PM CET"
 eventRegistration: https://www.eventbrite.de/e/open-onboarding-call-tickets-129284261707
 languages: 

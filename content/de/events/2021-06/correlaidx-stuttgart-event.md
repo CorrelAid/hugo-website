@@ -2,7 +2,7 @@
 title: "CorrelAidX Stuttgart invites: Data Science, Meaning, and Diversity - Epistemic Humility and Standpoint Theory for doing data science better"
 date: 2020-05-11T22:01:56+02:00
 correlaidx: false
-eventDate: "2021-06-15"
+start: "2021-06-15"
 eventTime: "8:00 PM CET"
 eventRegistration: https://pretix.eu/correlaid/data-science-diversity/
 languages: 

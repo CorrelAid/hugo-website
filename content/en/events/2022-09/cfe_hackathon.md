@@ -2,7 +2,7 @@
 title: "Hackathon with Citizens For Europe: Survey research ecosystem for diversity and visibility"
 date: 2020-05-11T22:01:56+02:00
 correlaidx: false
-eventDate: "2022-09-10"
+start: "2022-09-10"
 eventTime: "9:00-21:00"
 eventRegistration: https://citizensforeurope.notion.site/2022-Hackathon-Agenda-CorrelAid-Citizens-For-Europe-b809211654d54eb49fd0f042e671edab
 tags: ["hackathon", "data4good", "berlin"]

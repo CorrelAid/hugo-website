@@ -2,7 +2,7 @@
 title: "CorrelCon - A Weekend of Data4Good"
 date: 2018-08-23T10:48:46+02:00
 draft: false
-eventDate: "2020-11-07"
+start: "2020-11-07"
 eventRegistration: "https://hopin.to/events/correlcon-2020"
 eventImage: "events/correlcon_header.png"
 meta:

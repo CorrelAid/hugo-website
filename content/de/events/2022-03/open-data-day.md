@@ -3,7 +3,7 @@ title: "Open Data Day 2022"
 date: 2020-05-11T22:01:56+02:00
 subtitle: "CorrelAid X in Numbers"
 correlaidx: false
-eventDate: "2022-03-05"
+start: "2022-03-05"
 eventTime: "10:00 - 16:00"
 eventRegistration: https://ee.correlaid.org/x/c2RZm9cT
 tags: ["correlaidx"]

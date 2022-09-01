@@ -3,7 +3,7 @@ title: "Sprache analysieren mit Machine Learning"
 subtitle: "Präsentiert von CorrelAidX Stuttgart"
 date: 2020-05-11T22:01:56+02:00
 correlaidx: true
-eventDate: "2020-12-15"
+start: "2020-12-15"
 eventTime: "7:00 PM – 8:00 PM CET"
 eventRegistration: https://www.eventbrite.de/e/correlaidx-stuttgart-prasentiert-sprache-analysieren-mit-machine-learning-tickets-131833775371
 tags: ["correlaidx"]

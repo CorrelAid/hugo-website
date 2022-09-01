@@ -2,7 +2,7 @@
 title: "CorrelAidX Jena kick-off workshop on web scraping"
 date: 2020-05-11T22:01:56+02:00
 correlaidx: true
-eventDate: "2021-06-23"
+start: "2021-06-23"
 eventTime: "6:00-7:30 PM (UTC+2)"
 eventRegistration: https://pretix.eu/correlaid/jena-workshop/
 languages: 

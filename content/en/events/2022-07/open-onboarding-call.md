@@ -2,7 +2,7 @@
 title: "Open Onboarding Call"
 date: 2020-05-11T22:01:56+02:00
 correlaidx: false
-eventDate: "2022-07-04"
+start: "2022-07-04"
 eventTime: "7:00 PM – 8:00 PM CET"
 eventRegistration: https://pretix.eu/correlaid/open-onboarding/ 
 languages: 

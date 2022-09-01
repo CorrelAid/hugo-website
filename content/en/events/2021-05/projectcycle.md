@@ -2,7 +2,7 @@
 title: "CorrelAid Project Cycle Workshops - various events"
 date: 2020-05-11T22:01:56+02:00
 correlaidx: false
-eventDate: "2021-05-06"
+start: "2021-05-06"
 eventTime: "5.00 PM - 7.00 PM CET"
 eventRegistration: https://pretix.eu/correlaid/projektzyklus-21q2/
 languages: 

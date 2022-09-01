@@ -2,7 +2,7 @@
 title: "CorrelAid TidyTuesday Challenge: Visualizing the electoral potential of migrant communities"
 date: 2020-05-11T22:01:56+02:00
 correlaidx: false
-eventDate: "2021-08-17"
+start: "2021-08-17"
 eventTime: "8:00 PM – 10:00 PM CET"
 eventRegistration: https://pretix.eu/correlaid/tidytuesday/2488109/
 languages: 

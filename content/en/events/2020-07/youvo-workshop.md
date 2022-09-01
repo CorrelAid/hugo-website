@@ -3,7 +3,7 @@ title: "Datenstrategie"
 date: 2020-05-11T22:01:56+02:00
 subtitle: "Workshop in Zusammenarbeit mit Youvo e.V."
 correlaidx: false
-eventDate: "2020-07-23"
+start: "2020-07-23"
 tags: ["education"]
 languages: 
     - german
