@@ -1,0 +1,15 @@
+{
+  "henry_webel": {
+    "name": "Henry Webel",
+    "img": "/images/people/Henry.jpg",
+    "GitHub": "https://github.com/RasmussenLab/",
+    "en": {
+      "subline": "Python, Jupyter, Deep learning, Gorkflows, HPC, Git, Github, Github pages, Github workflows",
+      "text": "I analyze data in the biomedical domain using tools in python. I know about areas of deep learning (mainly self-supervised) and have a general interest in software development. Familiar with snakemake for workflows, git+github for version control, github workflows, github pages, and VS Code or JupyterLab for coding."
+    },
+    "de": {
+      "subline": "Python, Jupyter, Deep learning, Gorkflows, HPC, Git, Github, Github pages, Github workflows",
+      "text": "Ich analysiere Daten im biomedizinischen Bereich mit Tools in Python. Ich kenne mich mit Bereichen des Deep Learning (hauptsächlich self-supervised) aus und habe ein allgemeines Interesse an Softwareentwicklung. Ich bin vertraut mit snakemake für Workflows, git+github für Versionskontrolle, github-Workflows, github-Seiten und VS Code oder JupyterLab für die Programmierung."
+    }
+  }
+}
