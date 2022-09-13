@@ -9,11 +9,10 @@ translationKey: "experts"
 ---
 
 
-# Experts
 Do you need support for specific topic areas or looking for speakers? We match civic society with experts from our network. Contact us at [education [at] correlaid [dot] org](mailto:education@correlaid.org) for general inquiries.
 
-{{< contact
-    key="henry"
+{{< expert
+    key="henry_webel"
     link-color="ca-green-text"
 >}}
-{{< /contact >}}
+{{< /expert >}}

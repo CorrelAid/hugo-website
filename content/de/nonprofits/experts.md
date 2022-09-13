@@ -9,11 +9,10 @@ translationKey: "experts"
 ---
 
 
-# Expert:innnen
 Ihr benötigt Unterstützung bei spezifischen Themen und sucht dafür Referent:innen? Wir vermitteln Expert:innen aus unserem Netzwerk an die Zivilgesellschaft. Für generelle Anfragen könnt Ihr uns gerne unter [education [at] correlaid [dot] org](mailto:education@correlaid.org) kontaktieren.
 
-{{< contact
-    key="henry"
+{{< expert
+    key="henry_webel"
     link-color="ca-green-text"
 >}}
-{{< /contact >}}
+{{< /expert >}}
