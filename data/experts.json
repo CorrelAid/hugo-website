@@ -1,16 +1,71 @@
 {
-  "henry_webel": {
+  "ann_kristin_vester": {
+    "name": "Ann-Kristin Vester",
+    "img": "/images/people/ann_kristin.jpg",
+    "website": "https://akvester.de/",
+    "github": "https://github.com/akvester",
+    "en": {
+      "subline": "Data Strategy, Data Visualization, Excel",
+      "text": "I share my experience as a Data Scientist in the IT and finance industry as a lecturer in Data Analytics and Statistics. I give workshops in Data Strategy/Data Culture, programming courses in R (especially Tidyverse, Visualization, Machine Learning) and Excel courses."
+    },
+    "de": {
+      "subline": "Datenstrategie, Datenvisualisierung, Excel",
+      "text": "Meine Erfahrungen als Data Scientist in der IT- und Finanzbranche gebe ich als Dozentin für Datenanalysen und Statistik weiter. Ich gebe Workshops in Data Strategy/Data Culture, Programmierkurse in R (v.a. Tidyverse, Visualisierung, Machine Learning) und Excel-Kurse."
+    }
+  },
+    "francesco_gastaldello": {
+    "name": "Francesco Gastaldello",
+    "img": "/images/people/francesco.jpeg",
+    "linkedin": "https://www.linkedin.com/in/fgastaldello/",
+    "github": "https://github.com/Gasta88",
+    "en": {
+      "subline": "Data Strategy, Data Visualization, Excel",
+      "text": "I have been working with data for many years, mostly in pharma/biotech and recently in e-learning contexts. I have an extensive background in Python and I'm expanding my AWS skillset on a day to day basis. I'm interest in anything that concern data manipulation/modelling/orchestration to service big data platforms and AI systems."
+    },
+    "de": {
+      "subline": "Datenstrategie, Datenvisualisierung, Excel",
+      "text": "Ich arbeite seit vielen Jahren mit Daten, vor allem in der Pharma-/Biotech-Branche und seit kurzem auch im Bereich E-Learning. Ich verfüge über umfangreiche Kenntnisse in Python und erweitere meine AWS-Kenntnisse Tag für Tag. Ich interessiere mich für alles, was mit Datenmanipulation/Modellierung/Orchestrierung zu tun hat, um Big-Data-Plattformen und KI-Systeme zu bedienen."
+    }
+  },
+    "henry_webel": {
     "name": "Henry Webel",
     "img": "/images/people/henry.jpg",
     "github": "https://github.com/RasmussenLab/",
-    "website": "https://google.com",
     "en": {
-      "subline": "Python, Jupyter, Deep learning, Gorkflows, HPC, Git, Github, Github pages, Github workflows",
+      "subline": "Python, Deep Learning, Git",
       "text": "I analyze data in the biomedical domain using tools in python. I know about areas of deep learning (mainly self-supervised) and have a general interest in software development. Familiar with snakemake for workflows, git+github for version control, github workflows, github pages, and VS Code or JupyterLab for coding."
     },
     "de": {
-      "subline": "Python, Jupyter, Deep learning, Gorkflows, HPC, Git, Github, Github pages, Github workflows",
+      "subline": "Python, Deep Learning, Git",
       "text": "Ich analysiere Daten im biomedizinischen Bereich mit Tools in Python. Ich kenne mich mit Bereichen des Deep Learning (hauptsächlich self-supervised) aus und habe ein allgemeines Interesse an Softwareentwicklung. Ich bin vertraut mit snakemake für Workflows, git+github für Versionskontrolle, github-Workflows, github-Seiten und VS Code oder JupyterLab für die Programmierung."
+    }
+  },
+    "katharina_kloppenborg": {
+    "name": "Katharina Kloppenborg",
+    "img": "/images/people/katharina.jpg",
+    "github": "https://github.com/katoss",
+    "en": {
+      "subline": "Citizen Science, User Experience (UX), Natural Language Processing (NLP)",
+      "text": "I am currently doing a PhD in the field of participatory development of citizen science platforms at Université Paris Cité. I have a M.Sc. in Applied Cognitive Sciences, wrote my bachelor’s thesis about the user-centred development of an app to monitor mental health, and my master’s thesis about the detection of hate speech in the area of NLP. Intermediately I have worked as a user experience researcher in an agency with clients primarily from the public sector in Germany. Languages: German, English, French"
+    },
+    "de": {
+      "subline": "Citizen Science, User Experience (UX), Textverarbeitung (NLP)",
+      "text": "Ich promoviere derzeit im Bereich der partizipativen Entwicklung von Citizen Science Plattformen an der Université Paris Cité. Ich habe einen M.Sc. in Angewandten Kognitionswissenschaften absolviert, mit einer Bachelorarbeit zur nutzerzentrierten Entwicklung von einer App zum Monitoring von mentaler Gesundheit, und einer Masterarbeit im Bereich NLP zur Erkennung von Hate Speech. Zwischenzeitlich habe ich als User Experience Researcher in einer Agentur mit Kunden primär aus dem öffentlichen Sektor in Deutschland gearbeitet. Sprachen: Deutsch, Englisch, Französisch"
+    }
+  },
+    "michael_aydinbas": {
+    "name": "Michael Aydinbas",
+    "img": "/images/people/michael_ay.jpg",
+    "linkedin": "https://de.linkedin.com/in/michael-aydinbas", 
+    "github": "https://github.com/pmayd",
+    "website": "https://pybit.es/author/michaelaydinbas/"
+    "en": {
+      "subline": "Cloud (incl. AWS), Machine Learning & Deep Learning in Python, Spark",
+      "text": "I work as a Lead Data Engineer at Exxeta at the intersection of Data Science, Data Engineering and Data Strategy. I manage all kinds of projects related to data, including the design and implementation of data platforms and data paths (ETL/Pipelines), customized solutions for data processing and data analysis, connectivity and evaluation of data, and problem-oriented solution methods using Machine Learning and AI. I am an expert in Python and the development of Python applications as well as Big Data Processing, including with Apache Spark. Besides that, I also work as an author and coach and share my knowledge in Python, Data Science, ML & AI at seminars and trainings."
+    },
+    "de": {
+      "subline": "Cloud (incl. AWS), Maschinelles Lernen & Deep Learning in Python, Spark",
+      "text": "Ich arbeite als Lead Data Engineer bei Exxeta an der Schnittstelle von Data Science, Data Engineering und Data Strategy. Ich betreue alle möglichen Projekte mit Datenbezug, unter anderem die Konzeption und Umsetzung von Datenplattformen und Datenstrecken (ETL/Pipelines), maßgeschneiderte Lösungen für Datenverarbeitung und Datenanalyse, Anbindungen und Auswertung von Daten, sowie problemorientierte Lösungsverfahren mit Machine Learning und AI. Ich bin Experte in Python und der Entwicklung von Python-Anwendungen sowie von Big Data Processing, u.a. mit Apache Spark. Daneben arbeite ich auch als Autor und Coach und gebe mein Wissen in Python, Data Science, ML & AI auf Seminaren und Schulungen weiter."
     }
   }
 }
