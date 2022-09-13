@@ -81,4 +81,4 @@ Hugo provides a development server that enables _hot-reload_. The folder is watc
 
 ### 4.2 Using images
 
-Every image that is used for a blog entry has the size **800px\*500px**.
+Every image that is used for a blog entry has the size **800px\*500px**. Every picture for people is **500px\*500px**.
