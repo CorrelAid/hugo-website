@@ -9,10 +9,34 @@ translationKey: "experts"
 ---
 
 
-Ihr benötigt Unterstützung bei spezifischen Themen und sucht dafür Referent:innen? Wir vermitteln Expert:innen aus unserem Netzwerk an die Zivilgesellschaft. Für generelle Anfragen könnt Ihr uns gerne unter [education [at] correlaid [dot] org](mailto:education@correlaid.org) kontaktieren.
+Ihr benötigt Unterstützung bei spezifischen Themen und sucht dafür Referent:innen? Wir vermitteln Expert:innen aus unserem Netzwerk an die Zivilgesellschaft. Für die Kontaktdaten unserer Expert:innen und für generelle Anfragen könnt Ihr uns gerne unter [education [at] correlaid [dot] org](mailto:education@correlaid.org) kontaktieren.
+
+{{< expert
+    key="ann_kristin_vester"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
+    key="francesco_gastaldello"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
 
 {{< expert
     key="henry_webel"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
+    key="katharina_kloppenborg"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
+    key="michael_aydinbas"
     link-color="ca-green-text"
 >}}
 {{< /expert >}}
