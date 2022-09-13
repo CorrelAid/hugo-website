@@ -31,9 +31,14 @@
                     </a>
                 {{end}}
                 {{ with $person.website }}
+                    -<a href="{{ . }}">
+                        Website
+                    </a>
+                {{end}}
+                {{ with $person.linkedin }}
                 -<a href="{{ . }}">
-                    Website
-                </a>
+                        LinkedIn
+                    </a>
                 {{end}}
             </p>
         </div>
