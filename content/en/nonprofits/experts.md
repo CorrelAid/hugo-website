@@ -9,10 +9,34 @@ translationKey: "experts"
 ---
 
 
-Do you need support for specific topic areas or looking for speakers? We match civic society with experts from our network. Contact us at [education [at] correlaid [dot] org](mailto:education@correlaid.org) for general inquiries.
+Do you need support for specific topic areas or looking for speakers? We match civic society with experts from our network. Contact us at [education [at] correlaid [dot] org](mailto:education@correlaid.org) for contact details and general inquiries.
+
+{{< expert
+    key="ann_kristin_vester"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
+    key="francesco_gastaldello"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
 
 {{< expert
     key="henry_webel"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
+    key="katharina_kloppenborg"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
+    key="michael_aydinbas"
     link-color="ca-green-text"
 >}}
 {{< /expert >}}
