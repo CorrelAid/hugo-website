@@ -1,6 +1,7 @@
 import csv
 import datetime
 import os
+import base64
 
 import frontmatter
 import requests
@@ -16,7 +17,7 @@ res.raise_for_status()
 csv_string = res.content.decode(encoding="utf-8")
 events = csv.DictReader(csv_string.splitlines(), delimiter="\t")
 
-yaml_keys = ["start", "end", "title", "correlaidx", "tags", "id", "slug"]
+yaml_keys = ["start", "end", "title", "correlaidx", "website", "tags", "id", "slug"]
 for event in events:
     print("------")
     print(f"Processing Event {event['title']}")
@@ -32,7 +33,11 @@ for event in events:
 
     # some things we do not want in our markdown as they came from gsheets
     # tags need to be list not string
-    metadata["tags"] = metadata.get("tags", []).split(sep=",")
+    metadata["tags"] = metadata.get("tags", "").split(",") if metadata.get("tags", "") != "" else []
+    # convert boolean variables 
+    metadata["correlaidx"] = bool(metadata["correlaidx"].lower())
+    metadata["website"] = bool(metadata["website"].lower())
+
     # slug can't be empty in markdown header
     slug = metadata.get("slug", "") # need it later
     if slug == "":
@@ -51,7 +56,7 @@ for event in events:
     if slug != "":
         file_prefix = slug
     else: 
-        file_prefix = str(abs(hash(metadata["id"])))[0:10] 
+        file_prefix = metadata["id"][0:10] 
         # remove slug from metadata
 
     # both languages
