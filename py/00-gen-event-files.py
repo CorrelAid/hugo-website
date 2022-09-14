@@ -35,8 +35,8 @@ for event in events:
     # tags need to be list not string
     metadata["tags"] = metadata.get("tags", "").split(",") if metadata.get("tags", "") != "" else []
     # convert boolean variables 
-    metadata["correlaidx"] = bool(metadata["correlaidx"].lower())
-    metadata["website"] = bool(metadata["website"].lower())
+    metadata["correlaidx"] = metadata["correlaidx"].lower() == "true"
+    metadata["website"] = metadata["website"].lower() == "true"
 
     # slug can't be empty in markdown header
     slug = metadata.get("slug", "") # need it later
