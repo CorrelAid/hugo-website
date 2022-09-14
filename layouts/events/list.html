@@ -8,12 +8,10 @@
       {{ if (time .Params.start).After now }} 
       {{ partial "event-summary.html" . }} {{ end }} {{ end }}
       <h1>{{ i18n "events-past" }}</h1>
-      <details>
         {{ range sort .Pages ".Params.start" "desc"}}
         {{ if (time .Params.start).Before now }} 
         {{ partial "event-summary.html" . }} {{ end }} {{ end }}
 
-      </details>
     </div>
   </div>
 </div>
