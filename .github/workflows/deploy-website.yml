@@ -5,7 +5,6 @@ on:
   push:
     branches:
       - main  # Set a branch to deploy
-      - events-gcal  # testing
     paths:
       - "archetypes/**"
       - "content/**"
@@ -17,6 +16,9 @@ on:
       - "static/**"
       - ".github/**"
       - "config.toml"
+  # webhook for pipedream 
+  repository_dispatch:
+    types: [pipedream-trigger]
 
 jobs:
   deploy:
