@@ -20,8 +20,8 @@ The imprint is valid on: [https://correlaid.org/](https://correlaid.org/) and th
 ## Information in accordance with section 5 TMG
 
 CorrelAid e.V.<br />
-Petersburger Str. 47<br />
-10249 Berlin<br />
+Pasteurstr. 34<br />
+10407 Berlin<br />
 E-Mail: [info@correlaid.org](info@correlaid.org)<br />
 
 Represented by:

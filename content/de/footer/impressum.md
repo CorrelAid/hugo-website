@@ -20,8 +20,8 @@ Das Impressum gilt für: [https://correlaid.org/](https://correlaid.org/), alle 
 ## Angaben gemäß § 5 TMG
 
 CorrelAid e.V.<br />
-Petersburger Str. 47<br />
-10249 Berlin<br />
+Pasteurstr. 34<br />
+10407 Berlin<br />
 E-Mail: [info@correlaid.org](info@correlaid.org)
 
 ### Gemeinschaftlich vertretungsbefugt:
