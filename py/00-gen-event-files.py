@@ -43,7 +43,10 @@ for event in events:
     # events are sorted into folders with yyyy-mm
     start_year_month = start_dt.strftime("%Y-%m")
     # if the event has a slug specified, use that. otherwise hash the id
-    file_prefix = event.get("slug", str(abs(hash(event["id"])))[0:10])
+    if event.get("slug") and event.get("slug") != "":
+        file_prefix = event.get("slug")
+    else: 
+        file_prefix = str(abs(hash(event["id"])))[0:10] 
 
     # both languages
     for lang in ["de", "en"]:
