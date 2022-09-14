@@ -16,7 +16,6 @@ res.raise_for_status()
 csv_string = res.content.decode(encoding="utf-8")
 events = csv.DictReader(csv_string.splitlines(), delimiter="\t")
 
-# TODO: add slugs
 yaml_keys = ["start", "end", "title", "correlaidx", "tags", "id", "slug"]
 for event in events:
     print("------")
@@ -30,24 +29,30 @@ for event in events:
 
     # parse metadata into dictionary
     metadata = {key: event[key] for key in yaml_keys}
-    if metadata.get("tags") != "":
-        metadata["tags"] = metadata["tags"].split(sep=",")
-    else: 
-        del metadata["tags"]
-    # get markdown from html
-    content = markdownify(event.get("description", ""))
 
+    # some things we do not want in our markdown as they came from gsheets
+    # tags need to be list not string
+    metadata["tags"] = metadata.get("tags", []).split(sep=",")
+    # slug can't be empty in markdown header
+    slug = metadata.get("slug", "") # need it later
+    if slug == "":
+        del metadata["slug"]
+
+    # get markdown from html
     # create a "Post" object and dump to file -> this creates a hugo compatible file
+    content = markdownify(event.get("description", ""))
     post = frontmatter.Post(content)
     post.metadata = metadata
 
+    # WRITE TO FILE -----
     # events are sorted into folders with yyyy-mm
     start_year_month = start_dt.strftime("%Y-%m")
     # if the event has a slug specified, use that. otherwise hash the id
-    if event.get("slug") and event.get("slug") != "":
-        file_prefix = event.get("slug")
+    if slug != "":
+        file_prefix = slug
     else: 
-        file_prefix = str(abs(hash(event["id"])))[0:10] 
+        file_prefix = str(abs(hash(metadata["id"])))[0:10] 
+        # remove slug from metadata
 
     # both languages
     for lang in ["de", "en"]:
