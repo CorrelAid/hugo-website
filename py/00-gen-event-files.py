@@ -30,9 +30,10 @@ for event in events:
 
     # parse metadata into dictionary
     metadata = {key: event[key] for key in yaml_keys}
-    if metadata["tags"]:
+    if metadata.get("tags") != "":
         metadata["tags"] = metadata["tags"].split(sep=",")
-
+    else: 
+        del metadata["tags"]
     # get markdown from html
     content = markdownify(event.get("description", ""))
 
