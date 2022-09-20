@@ -14,9 +14,7 @@ meta:
 ---
 
 
-Our Austrian chapter is still in the founding phase, so besides pittoresque ski resorts, rustic cuisine and the Opera in Vienna, you will also find a small, but motivated group of people who live for Data4Good in Austria.
-Our goal is to offer low-threshold help and to help local organizations in a sustainable way.
-If you are interested, please contact Tilman (Vienna) or Felix (Linz)!
+CorrelAidX Austria invites you to free workshops around data visualization and modeling. Every Tuesday at 8pm via Zoom and hybrid in Vienna and Innsbruck. Basic knowledge in R is helpful. All information can be found here. We look forward to seeing you!
 
 
 {{< person 
