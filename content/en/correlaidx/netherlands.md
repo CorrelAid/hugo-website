@@ -18,7 +18,9 @@ These data scientists could either be students in a quantitative field that want
  
 Stichting CorrelAid Nederland is inspired by, and in contact with, CorrelAid which was originally founded in Germany.
 
-If you are interested in CorrelAid Nederland or you want to get involved in our network: go to our [website](https://correlaid.nl), [mail](mailto:andrew.sutjahjo@correlaid.org) [one](mailto:fabian.dablander@correlaid.org) [of](mailto:yiran.g@correlaid.org) [us](mailto:netherlands@correlaid.org), or subscribe to our mailing list.
+If you are interested in CorrelAid Nederland or you want to get involved in our network: go to
+ our [website](https://correlaid.nl), [mail one of us](mailto:core-org@correlaid.nl), or
+  subscribe to our mailing list.
 
 # The Team
 
@@ -27,7 +29,7 @@ If you are interested in CorrelAid Nederland or you want to get involved in our 
     name="Andrew"
     subline="CorrelAidX Nederland"
     img="/images/people/nl-andrew.jpg"
-    data-email="andrew.sutjahjo@correlaid.org"
+    data-email="andrew@correlaid.nl"
     data-to="CorrelAidX Netherlands"
     link-color="ca-red-text"
     x="1"
@@ -44,7 +46,7 @@ have with data, he’s switched from building orphanages to building models for 
     name="Fabian"
     subline="CorrelAidX Nederland"
     img="/images/people/nl-fabian.jpg"
-    data-email="fabian.dablander@correlaid.org"
+    data-email="fabian@correlaid.nl"
     data-to="CorrelAidX Netherlands"
     link-color="ca-red-text"
     x="1"
@@ -62,7 +64,7 @@ and on his <a href="https://fabiandablander.com/">website</a>.
     name="Joel"
     subline="CorrelAidX Nederland"
     img="/images/people/joel.jpg"
-    data-email="joel.h@correlaid.org"
+    data-email="core-org@correlaid.nl"
     data-to="CorrelAidX Netherlands"
     link-color="ca-red-text"
     x="1"
@@ -76,7 +78,7 @@ We are curious if we can transfer the concept of "data for good" on another cult
     name="Mandy"
     subline="CorrelAidX Nederland"
     img="/images/people/nl-mandy.jpg"
-    data-email="mandy.c@correlaid.org"
+    data-email="core-org@correlaid.nl"
     data-to="Mandy (CorrelAidX Netherlands)"
     link-color="ca-red-text"
     x="1"
@@ -90,7 +92,7 @@ Passionate about making a positive difference, she is excited to work with Corre
     name="Daphne"
     subline="CorrelAidX Nederland"
     img="/images/people/nl-daphne.jpg"
-    data-email="netherlands@correlaid.org"
+    data-email="core-org@correlaid.nl"
     data-to="CorrelAidX Netherlands"
     link-color="ca-red-text"
     x="1"
@@ -103,7 +105,7 @@ Daphne is currently specializing in labor law and in mediation. She wants to hel
     name="Florian"
     subline="CorrelAidX Nederland"
     img="/images/people/nl-florian.jpg"
-    data-email="netherlands@correlaid.org"
+    data-email="core-org@correlaid.nl"
     data-to="CorrelAidX Netherlands"
     link-color="ca-red-text"
     x="1"
@@ -120,7 +122,7 @@ teammates and is excited to combine all this at CorrelAid. You can find him on t
     name="Jacob"
     subline="CorrelAidX Nederland"
     img="/images/people/nl-jacob.jpg"
-    data-email="netherlands@correlaid.org"
+    data-email="core-org@correlaid.nl"
     data-to="CorrelAidX Netherlands"
     link-color="ca-red-text"
     x="1"
