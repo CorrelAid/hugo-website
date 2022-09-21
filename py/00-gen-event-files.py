@@ -61,7 +61,7 @@ for event in events:
 
     # both languages
     for lang in ["de", "en"]:
-        folder_path = f"content/{lang}/events/{start_year_month}/"
+        folder_path = f"content/{lang}/events/{start_year_month}"
         # create folder if it doesnt exist
         if not os.path.exists(folder_path):
             os.mkdir(folder_path)
