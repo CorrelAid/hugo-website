@@ -70,3 +70,4 @@ for event in events:
         file_path = f"{folder_path}/{file_prefix}.md"
         with open(file_path, "w+") as f:
             f.write(frontmatter.dumps(post))
+            print(f"created file {file_path}")
