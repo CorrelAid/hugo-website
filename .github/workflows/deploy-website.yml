@@ -2,6 +2,8 @@ name: GitHub Pages
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: 15 0 * * *
   push:
     branches:
       - main  # Set a branch to deploy
@@ -17,9 +19,9 @@ on:
       - "static/**"
       - ".github/**"
       - "config.toml"
-  # webhook for pipedream 
-  repository_dispatch:
-    types: [pipedream-trigger]
+  # webhook for pipedream - disabled
+  # repository_dispatch:
+  #  types: [pipedream-trigger]
 
 jobs:
   deploy:
