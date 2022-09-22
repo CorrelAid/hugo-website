@@ -1,4 +1,17 @@
 {
+  "anastasiia_kulakova": {
+    "name": "Anastasiia Kulakova",
+    "img": "/images/people/anastasiia_kulakova.jpg",
+    "linkedin": "https://www.linkedin.com/in/nastyakul",
+    "en": {
+      "subline": "Productionising Machine Learning (ML) models, Python for automation, Data visualization",
+      "text": "I'm a full-stack data scientist and a scrum master eager to dive into the data and the processes it originates from. Having worked both in R&D building Machine Learning models and on the forefront of business operations, I can efficiently handle ad-hoc analytics and productionize data solutions for the long-term. I take inspiration from precision economy concepts and strive to contribute to a more sustainable world (currently, at an e-mobility start-up Jedlix). Tech I use: Python, Spark, SQL, dbt, Databricks, Airflow / Dagster, Tableau, Azure stack."
+    },
+    "de": {
+      "subline": "Maschinelles Lernen in Arbeitsprozessen, Python für Automatisierungen, Datenvisualisierung",
+      "text": "Ich bin ein Full-Stack Data Scientist und ein Scrum Master, der sich gerne mit den Daten und den Prozessen beschäftigt, aus denen sie stammen. Da ich sowohl in der Forschung und Entwicklung von Machine-Learning-Modellen als auch im operativen Geschäft gearbeitet habe, kann ich Ad-hoc-Analysen effizient durchführen und Datenlösungen langfristig produzieren. Ich lasse mich von Konzepten der Präzisionswirtschaft inspirieren und strebe danach, einen Beitrag zu einer nachhaltigeren Welt zu leisten (derzeit bei einem Start-up-Unternehmen für Elektromobilität, Jedlix). Technik, die ich benutze: Python, Spark, SQL, dbt, Databricks, Airflow / Dagster, Tableau, Azure Stack."
+    }
+  },
   "ann_kristin_vester": {
     "name": "Ann-Kristin Vester",
     "img": "/images/people/ann_kristin.jpg",
