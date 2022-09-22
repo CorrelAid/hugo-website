@@ -18,6 +18,12 @@ Ihr benötigt Unterstützung bei spezifischen Themen und sucht dafür Referent:i
 {{< /expert >}}
 
 {{< expert
+    key="daniela_vogler"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
     key="francesco_gastaldello"
     link-color="ca-green-text"
 >}}
