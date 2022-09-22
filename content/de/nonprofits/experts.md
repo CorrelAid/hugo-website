@@ -42,7 +42,25 @@ Ihr benötigt Unterstützung bei spezifischen Themen und sucht dafür Referent:i
 {{< /expert >}}
 
 {{< expert
+    key="marcus_voß"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
     key="michael_aydinbas"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
+    key="nina_hauser"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
+    key="selma_hadzic"
     link-color="ca-green-text"
 >}}
 {{< /expert >}}
