@@ -18,6 +18,12 @@ Do you need support for specific topic areas or looking for speakers? We match c
 {{< /expert >}}
 
 {{< expert
+    key="daniela_vogler"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
     key="francesco_gastaldello"
     link-color="ca-green-text"
 >}}
