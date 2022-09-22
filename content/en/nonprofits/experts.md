@@ -42,7 +42,25 @@ Do you need support for specific topic areas or looking for speakers? We match c
 {{< /expert >}}
 
 {{< expert
+    key="marcus_voß"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
     key="michael_aydinbas"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
+    key="nina_hauser"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
+    key="selma_hadzic"
     link-color="ca-green-text"
 >}}
 {{< /expert >}}
