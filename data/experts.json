@@ -13,6 +13,20 @@
       "text": "Meine Erfahrungen als Data Scientist in der IT- und Finanzbranche gebe ich als Dozentin für Datenanalysen und Statistik weiter. Ich gebe Workshops in Data Strategy/Data Culture, Programmierkurse in R (v.a. Tidyverse, Visualisierung, Machine Learning) und Excel-Kurse."
     }
   },
+  "daniela_vogler": {
+    "name": "Daniela Vogler",
+    "img": "/images/people/daniela_vogler.jpg",
+    "website": "https://www.xing.com/profile/Daniela_Vogler10",
+    "github": "https://github.com/DaVo82/",
+    "en": {
+      "subline": "Business Intelligence (BI), Qlik Sense, Data Bases",
+      "text": "I work as a consultant for business intelligence with Qlik Sense and I am happy to share my knowledge on creating insightful analysis and dashboars in digital tools."
+    },
+    "de": {
+      "subline": "Business Intelligence (BI), Qlik Sense, Datenbanken",
+      "text": "Ich arbeite als Beraterin für Busines Intelligence mit Qlik Sense und gebe meine Kenntnisse zur Erstellung von erkenntnisreichen Datenanalysen und Dashboards gerne an die Zivilgesellschaft weiter."
+    }
+  },
     "francesco_gastaldello": {
     "name": "Francesco Gastaldello",
     "img": "/images/people/francesco.jpeg",
