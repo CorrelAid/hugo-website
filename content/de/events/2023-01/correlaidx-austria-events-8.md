@@ -1,8 +1,8 @@
 ---
-title: "CorrelAidX Austria - Web Visualisations"
+title: "CorrelAidX Austria - Form-R-Surveys"
 date: 2020-05-11T22:01:56+02:00
 correlaidx: false
-eventDate: "2022-11-08"
+start: "2023-01-10"
 eventTime: "20:00-21:00"
 eventRegistration: https://correlaid.github.io/correlaidx-austria-education/
 tags: [austria, "education", correlaidx]

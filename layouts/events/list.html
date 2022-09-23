@@ -4,13 +4,14 @@
     <div class="col-12 mt-5 mb-2">
       {{ .Content }}
       <h1>{{ i18n "events-upcoming" }}</h1>
-      {{ range sort .Pages ".Params.eventdate"}}
-      {{ if (time .Params.eventDate).After now }} 
+      {{ range sort .Pages ".Params.start"}}
+      {{ if (time .Params.start).After now }} 
       {{ partial "event-summary.html" . }} {{ end }} {{ end }}
       <h1>{{ i18n "events-past" }}</h1>
-      {{ range sort .Pages ".Params.eventdate" "desc"}}
-      {{ if (time .Params.eventDate).Before now }} 
-      {{ partial "event-summary.html" . }} {{ end }} {{ end }}
+        {{ range sort .Pages ".Params.start" "desc"}}
+        {{ if (time .Params.start).Before now }} 
+        {{ partial "event-summary.html" . }} {{ end }} {{ end }}
+
     </div>
   </div>
 </div>

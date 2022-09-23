@@ -3,7 +3,7 @@ title: "Interactive Science"
 date: 2020-05-11T22:01:56+02:00
 subtitle: "Open Online Data Meetup - Vol. 3"
 correlaidx: false
-eventDate: "2020-08-26"
+start: "2020-08-26"
 eventRegistration: https://www.eventbrite.com/e/interactive-science-using-shiny-and-r-to-make-research-accessible-registration-116566424313
 tags: ["oodm"]
 languages: 

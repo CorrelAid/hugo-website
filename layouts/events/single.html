@@ -71,7 +71,7 @@
       <h2>
         {{ if isset .Params "subtitle" }} {{ .Params.subtitle }} {{ end }}
       </h2>
-      <p><b>{{ i18n "events-when" }}: </b>{{ .Params.eventDate }} 
+      <p><b>{{ i18n "events-when" }}: </b>{{ .Params.start }} 
         {{ with .Params.eventTime }}, {{ . }} {{ end }}</p>
       <p><b>{{ i18n "events-lang" }}: </b> {{ range .Params.languages}} {{ .}} {{end}}</p>
       {{ with .Params.eventRegistration }} <p><b>

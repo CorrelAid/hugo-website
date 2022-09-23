@@ -3,7 +3,7 @@ title: "Das kleine ABC der Daten"
 subtitle: "Open Online Data Meetup - Vol. 8"
 date: 2020-05-11T22:01:56+02:00
 correlaidx: false
-eventDate: "2021-02-10"
+start: "2021-02-10"
 eventTime: "19:00-20:00 Uhr"
 eventRegistration: https://www.eventbrite.com/e/das-kleine-abc-der-daten-tickets-138917918233
 tags: ["oodm"]

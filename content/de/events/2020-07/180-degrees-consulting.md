@@ -3,7 +3,7 @@ title: "Wirkungsmessung"
 date: 2020-05-11T22:01:56+02:00
 subtitle: "Workshop in Zusammenarbeit mit 180 Degrees Consulting e.V."
 correlaidx: false
-eventDate: "2020-07-09"
+start: "2020-07-09"
 tags: ["education"]
 languages: 
     - german

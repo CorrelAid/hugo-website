@@ -1,8 +1,8 @@
 ---
-title: "CorrelAidX Austria - R ggplot2 (1)"
+title: "CorrelAidX Austria - R ggplot2 (2)"
 date: 2020-05-11T22:01:56+02:00
 correlaidx: false
-eventDate: "2022-09-20"
+start: "2022-09-27"
 eventTime: "20:00-21:00"
 eventRegistration: https://correlaid.github.io/correlaidx-austria-education/
 tags: [austria, "education", correlaidx]

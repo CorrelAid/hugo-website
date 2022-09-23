@@ -3,7 +3,7 @@ title: "svelte - Shiny for people that are annoyed by brackets (and want to go b
 date: 2020-05-11T22:01:56+02:00
 subtitle: "Open Online Data Meetup"
 correlaidx: false
-eventDate: "2022-03-31"
+start: "2022-03-31"
 eventTime: "18:30-20:00"
 eventRegistration: https://pretix.eu/correlaid/oodm/3102684/
 tags: ["oodm"]

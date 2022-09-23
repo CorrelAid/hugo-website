@@ -3,7 +3,7 @@ title: "Data strategy: What it is and why every company should have one"
 date: 2020-05-11T22:01:56+02:00
 subtitle: "Open Online Data Meetup - Vol. 2"
 correlaidx: false
-eventDate: "2020-07-22"
+start: "2020-07-22"
 eventRegistration: https://www.eventbrite.de/e/data-strategy-what-it-is-and-why-every-company-should-have-one-oodm-2-registration-113334807460?ref=estw
 tags: ["oodm"]
 languages: 

@@ -2,7 +2,7 @@
 title: "CorrelCon 2021"
 date: 2018-08-23T10:48:46+02:00
 draft: false
-eventDate: "2021-11-13"
+start: "2021-11-13"
 eventTime: "and 2021-11-12"
 eventRegistration: "https://hopin.com/events/correlcon-7941b515-2ff6-4ba4-b463-77682b372bfd"
 meta:

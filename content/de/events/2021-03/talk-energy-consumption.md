@@ -3,7 +3,7 @@ title: "Behavioural insights to change energy consumption patterns in Kosovo"
 subtitle: "Presented by CorrelAidX Cologne"
 date: 2020-03-10T13:01:56+02:00
 correlaidx: true
-eventDate: "2021-03-16"
+start: "2021-03-16"
 eventTime: "7:00 PM – 8:00 PM CET"
 eventRegistration: https://www.meetup.com/de-DE/dataforgood-correlaid-koln/events/276851047/
 tags: ["correlaidx"]

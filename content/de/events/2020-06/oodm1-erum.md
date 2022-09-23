@@ -3,7 +3,7 @@ title: "e-Rum 2020 - (Knowledge) sharing is caring!"
 date: 2020-05-11T22:01:56+02:00
 subtitle: "Open Online Data Meetup - Vol. 1"
 correlaidx: false
-eventDate: "2020-06-24"
+start: "2020-06-24"
 eventRegistration: https://correlaid-oodm1-erum2020.eventbrite.de
 tags: ["oodm"]
 languages: 

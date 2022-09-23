@@ -3,7 +3,7 @@
 title: "Wirkungsstrategie: Wir entwickeln Wirkungskette und erste Indikatoren"
 date: 2020-05-11T22:01:56+02:00
 correlaidx: false
-eventDate: "2021-08-27"
+start: "2021-08-27"
 eventTime: "3:00 PM – 4:00 PM CET"
 eventRegistration: https://www.edudip.com/de/webinar/dina-spotlight-mit-correlaid-wirkungsmessung-fur-zivilgesellschaftliche-organisationen-teil-1-wirkungsstrategie/1555040
 languages: 

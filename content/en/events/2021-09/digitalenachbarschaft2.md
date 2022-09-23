@@ -3,7 +3,7 @@
 title: "Wirkungsmessung in der Praxis"
 date: 2020-05-11T22:01:56+02:00
 correlaidx: false
-eventDate: "2021-09-03"
+start: "2021-09-03"
 eventTime: "3:00 PM – 4:00 PM CET"
 eventRegistration: https://www.edudip.com/de/webinar/dina-spotlight-mit-correlaid-wirkungsmessung-fur-zivilgesellschaftliche-organisationen-teil-2-wirkungsmessung-in-der-praxis/1565704
 languages: 
