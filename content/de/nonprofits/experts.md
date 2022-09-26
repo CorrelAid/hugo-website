@@ -24,6 +24,12 @@ Ihr benötigt Unterstützung bei spezifischen Themen und sucht dafür Referent:i
 {{< /expert >}}
 
 {{< expert
+    key="arndt_leininger"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
     key="daniela_vogler"
     link-color="ca-green-text"
 >}}
@@ -67,6 +73,12 @@ Ihr benötigt Unterstützung bei spezifischen Themen und sucht dafür Referent:i
 
 {{< expert
     key="selma_hadzic"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
+    key="tim_fangmeyer"
     link-color="ca-green-text"
 >}}
 {{< /expert >}}
