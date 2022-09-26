@@ -26,6 +26,20 @@
       "text": "Meine Erfahrungen als Data Scientist in der IT- und Finanzbranche gebe ich als Dozentin für Datenanalysen und Statistik weiter. Ich gebe Workshops in Data Strategy/Data Culture, Programmierkurse in R (v.a. Tidyverse, Visualisierung, Machine Learning) und Excel-Kurse."
     }
   },
+    "arndt_leininger": {
+    "name": "Arndt Leininger",
+    "img": "/images/people/arndt.jpg",
+    "website": "https://aleininger.eu/",
+    "github": "https://gitlab.com/arndtl",
+    "en": {
+      "subline": "Surveys, Causal Inference, R",
+      "text": "I am a junior professor of political science research methods at Chemnitz University of Technology. My main focus is on political science research on elections and attitudes. I work on this topic using quantitative methods based on aggregate and individual data and also conduct surveys myself. From time to time I give introductory courses in the statistical programming language R."
+    },
+    "de": {
+      "subline": "Umfragen, Kausale Inferenz, R",
+      "text": "Ich bin Juniorprofessor für Politikwissenschaftliche Forschungsmethoden an der Technischen Universität Chemnitz. Mein inhaltlicher Schwerpunkt liegt auf der politikwissenschaftlichen Wahl- und Einstellungsforschung. Ich bearbeitete dieses Themenfeld mit Hilfe quantitativer Methoden auf Basis von Aggregat- und Individualdaten und führe dazu auch selbst Umfragen durch. Von Zeit zu Zeit gebe ich Einführungskurse in die statistische Programmiersprache R."
+    }
+  },
   "daniela_vogler": {
     "name": "Daniela Vogler",
     "img": "/images/people/daniela_vogler.jpg",
@@ -135,6 +149,19 @@
     "de": {
       "subline": "Datenwissenschaft und maschinelles Lernen, produktionsreife Modelle, Liefermanagement",
       "text": "Als Experte für Datenwissenschaft und maschinelles Lernen habe ich Teams von Datenwissenschaftlern geleitet und skaliert, End-to-End-Projekte geplant, mit mehreren internationalen Stakeholdern koordiniert und die Lieferung gesteuert. Ich bin sehr versiert in Python, maschinellem Lernen, Datenvisualisierung, Projekt- und Liefermanagement, Stakeholder- und Teammanagement, agilen Methoden für Data Science, Big Data, produktionsreifen Modellen, Orchestrierungstools, CI/CD und Cloud-Plattformen."
+    }
+  },   
+  "tim_fangmeyer": {
+    "name": "Tim Fangmeyer",
+    "img": "/images/people/tim_fangmeyer.jpg",
+    "website": "https://timfangmeyer.netlify.app/",
+    "en": {
+      "subline": "Data Analytics in Python and R, Geo Data and Visualization, Wordpress",
+      "text": "In data analysis, I am particularly interested in processing larger data sets with tools such as Pandas (Python) or the R Tidyverse. In my professional work in managing websites in IT, I also deal with setting up pages with the content management system Wordpress and the associated plugins. Maps and visualizations of geodata are part of my extended knowledge."
+    },
+    "de": {
+      "subline": "Datenanalyse mit Python und R, Geodaten- und Visualisierungen, Wordpress",
+      "text": "In der Datenanalyse interessiere ich mich vor allem für das Bearbeiten von größeren Datensätzen mit Tools wie Pandas (Python) oder dem R Tidyverse. In meiner beruflichen Tätigkeit im Managen von Websites in der IT beschäftige ich mich außerdem mit dem Aufsetzen von Seiten mit dem Content-Management-System Wordpress und den dazugehörigen Plugins. Karten und Visualisierungen von Geodaten gehören zu meinen erweiterten Kenntnissen."
     }
   }
 }
