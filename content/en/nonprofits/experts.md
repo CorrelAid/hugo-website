@@ -24,6 +24,12 @@ Do you need support for specific topic areas or looking for speakers? We match c
 {{< /expert >}}
 
 {{< expert
+    key="arndt_leininger"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
     key="daniela_vogler"
     link-color="ca-green-text"
 >}}
@@ -61,6 +67,12 @@ Do you need support for specific topic areas or looking for speakers? We match c
 
 {{< expert
     key="nina_hauser"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
+
+{{< expert
+    key="tim_fangmeyer"
     link-color="ca-green-text"
 >}}
 {{< /expert >}}
