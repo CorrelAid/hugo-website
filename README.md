@@ -5,6 +5,20 @@
 Please note that the MIT license does not apply to all the files shared in this repository. See [LICENSE.md](https://github.com/CorrelAid/hugo-website/blob/main/LICENSE) and [LICENSE-images.md](https://github.com/CorrelAid/hugo-website/blob/main/LICENSE-images.md) for details.
 
 # How to's
+## Add content
+
+### Create a new page
+
+1. Make a copy of a page which is found in the content folder under a language. These are markdown files `.md`
+2. Change the yaml header to suit your new page:
+   * The menu key will add a link in the top menu of the banner; its weight governs the ordering of the links
+3. Create the content in your new page 
+4. Ensure there's a version of the page for each language in the content folder
+   
+### Using images
+
+Every image that is used for a blog entry has the size **800px\*500px**. Every picture for people is **500px\*500px**.
+
 ## Add an event
 
 ### Manually via GitHub interface
@@ -36,61 +50,6 @@ This will create a markdown file with the given name under `content/de/events` (
 2. Edit the file as needed, especially the YAML header - you'll find instructions in the comments. 
 3. Copy the file to the appropriate location under `content/en/events` to also add the event to the English version of our website. 
 
-### Via the CorrelAid Events Calendar
-An automated bridge exists that can add events from the [CorrelAid Events Calendar](https://calendar.google.com/calendar/embed?src=c_3mg1mfpa10cg1a03ogkrg6v1n4%40group.calendar.google.com&ctz=Europe%2FBerlin) to the Hugo website.
-
-:warning: Due to the experimental nature of the workflow, it is recommended to only use this for events with low time pressure to allow for potential debugging. Good candidates are recurring events such as the open onboarding call. If you need your event to appear on the website asap, please use one of the "manual" methods described above. :warning:
-
-
-**Prerequisites**:
-- CorrelAid Google Workspace account. Request [here](https://docs.google.com/forms/d/e/1FAIpQLScJYiZDTlo0S4N7eeRVyo7GgSHFzdiaKvBt5RJ8C5Fo_22r0g/viewform) if you are an active member of CorrelAid. If you are an external person who stumbled here and you want to add an event, please reach out to info at correlaid dot org. 
-- Write access to the CorrelAid Events Calendar. Request via Slack DM from Frie or Isabel. 
-- added CorrelAid Events Calendar to your calendar.google.com view, see [instructions here](https://docs.correlaid.org/wiki/infrastructure/google-workspace#displaying-group-calendars). The calendar ID is: `c_3mg1mfpa10cg1a03ogkrg6v1n4@group.calendar.google.com`
-
-
-**Steps**:
-1. Open [calendar.google.com](https://calendar.google.com)
-2. Create a new event in the CorrelAid Events Calendar. 
-3. Edit title and time as usual. The title will be the title of the event on the website. If it is a recurring event, you *need* to set an end to the schedule (and **not** let it run forever). Otherwise, it'll crash the pipeline because there will be an indefinite amount of events.
-4. Copy the following YAML header into the description field (including the `---`) and edit it (see explanation in the table below):
-
-```
----
-website: true 
-correlaidx: false
-tags: [] 
-slug: ""
----
-```
-
-
-variable | values | what it does 
----------|----------|---------
- website | true or false | toggles whether event is on website
- correlaidx | true or false | if true, use blue/red design for event instead of green/blue
- tags | list of comma-separated tags, e.g. [dataviz, data4good] | displayed under the event on the [list view](https://correlaid.org/events) as list of hashtags
-
-5. under the header, add your description of the event in English or German. Use the formatting options provided by Google Calendar. Save the event. 
-6. Check the next day whether it has worked (reload the CorrelAid website if it was open). If it hasn't worked, reach out to Frie via Slack.
-- if you do not want to wait until the next day: wait half an hour and then go to [GitHub Actions](https://github.com/CorrelAid/hugo-website/actions) and trigger the website build manually. 
-
-**To delete an event from the website**
-
---> delete the YAML header or set `website` to `false`.
-
-
-**How it works**
-
-- each half an hour, a [Pipedream](https://pipedream.com/) workflow gets the newly created or updated events from the CorrelAid Events Calendar and inputs them into a Google Sheets spreadsheet in a tabular form. 
-- our [nightly website build GitHub Action](https://github.com/CorrelAid/hugo-website/blob/main/.github/workflows/deploy-website.yml) pulls the events from the Google Spreadsheet and transforms them into markdown files which are then part of the hugo build process.
-
-**Limitations**
-- Events created this way are not tracked in GitHub as they are generated on the fly in the GitHub action (see "how it works"). I.e. there is no way to make small fixes via GitHub later. To track the events as files in GitHub would require an additional layer to map events in Google Calendar to file operations (e.g. deletion of event in GCal -> deletion of file)
-- Time delay: The pipeline operates asynchronously, GitHub Action only running once a day. A possible extension would be to trigger a rebuild from pipedream directly via a webhook - however this might result in an unnecessary amount of GitHub Action runs if events are edited often (-> to be avoided for environmental reasons). 
-
-
-
-
 
 
 
@@ -104,7 +63,6 @@ detailed instructions coming soon. Pointer for now: edit [`data/people.json`](ht
 3. [Deployment](#3-deployment)
 4. [Add Content](#4-add-content)
 
-## 
 
 ## 1. Installation
 
@@ -161,18 +119,3 @@ Hugo provides a development server that enables _hot-reload_. The folder is watc
 2. Pull requests to the `main` branched are built into a _deploy preview_ by Netlify. You will see this in the PR status checks. If you click on "Details" for the last status check (it should say something like "Deploy preview ready!"), you'll be taken to the deploy preview.
 3. After someone has reviewed your changes and approved them, they'll be merged to `main` and automatically deployed to our FTP server by GitHub Actions. You can check the status of this deployment by looking at the "Actions" tab of the GitHub Repository. This will only happend if you have modified files that are actually relevant to the website, i.e. updating the README will not trigger a build.
 
-## 4. Add content
-
-### 4.1 Create a new page
-
-1. Make a copy of a page which is found in the content folder under a language. These are markdown files `.md`
-2. Change the yaml header to suit your new page:
-   * The menu key will add a link in the top menu of the banner; its weight governs the ordering of the links
-3. Create the content in your new page 
-4. Ensure there's a version of the page for each language in the content folder
-   
- 
-
-### 4.2 Using images
-
-Every image that is used for a blog entry has the size **800px\*500px**. Every picture for people is **500px\*500px**.
