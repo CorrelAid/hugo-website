@@ -15,9 +15,8 @@ meta:
 ---
 
 
-Das österreichische Chapter befindet sich noch in der Gründungsphase, neben guten Skigebieten, rustikaler Küche und der Wiener Oper findet man also auch eine, noch kleine, aber motivierte Gruppe an Menschen, die für Data4Good lebt.
-Unser Ziel ist es niedrigschwellig Hilfe anzubieten und nachhaltig lokalen Organisationen zu helfen.
-Wenn du Interesse hast, dann melde dich gern bei Tilman (Wien) oder Felix (Linz)!
+CorrelAidX Austria lädt zu kostenlosen Workshops rund um Datenvisualisierung und -modellierung ein. Jeden Dienstag um 20 Uhr via Zoom und hybrid in Wien und Innsbruck. Grundkenntnisse in R sind hilfreich. Alle Informationen findet ihr [hier](https://correlaid.github.io/correlaidx-austria-education/). 
+Wir freuen uns auf euch!
 
 
 {{< person 
