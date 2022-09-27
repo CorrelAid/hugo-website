@@ -26,7 +26,7 @@
       "text": "Meine Erfahrungen als Data Scientist in der IT- und Finanzbranche gebe ich als Dozentin für Datenanalysen und Statistik weiter. Ich gebe Workshops in Data Strategy/Data Culture, Programmierkurse in R (v.a. Tidyverse, Visualisierung, Machine Learning) und Excel-Kurse."
     }
   },
-    "arndt_leininger": {
+  "arndt_leininger": {
     "name": "Arndt Leininger",
     "img": "/images/people/arndt.jpg",
     "website": "https://aleininger.eu/",
@@ -54,7 +54,7 @@
       "text": "Ich arbeite als Beraterin für Busines Intelligence mit Qlik Sense und gebe meine Kenntnisse zur Erstellung von erkenntnisreichen Datenanalysen und Dashboards gerne an die Zivilgesellschaft weiter. Außerdem befasse ich mich mit Medical Data Science und unterstütze gerne bei der Anwendung von statistischen Modellen und Machine Learning in der Medizin."
     }
   },
-    "francesco_gastaldello": {
+  "francesco_gastaldello": {
     "name": "Francesco Gastaldello",
     "img": "/images/people/francesco.jpeg",
     "linkedin": "https://www.linkedin.com/in/fgastaldello/",
@@ -68,7 +68,7 @@
       "text": "Ich arbeite seit vielen Jahren mit Daten, vor allem in der Pharma-/Biotech-Branche und seit kurzem auch im Bereich E-Learning. Ich verfüge über umfangreiche Kenntnisse in Python und erweitere meine AWS-Kenntnisse Tag für Tag. Ich interessiere mich für alles, was mit Datenmanipulation/Modellierung/Orchestrierung zu tun hat, um Big-Data-Plattformen und KI-Systeme zu bedienen."
     }
   },
-    "henry_webel": {
+  "henry_webel": {
     "name": "Henry Webel",
     "img": "/images/people/henry.jpg",
     "github": "https://github.com/RasmussenLab/",
@@ -81,7 +81,7 @@
       "text": "Ich analysiere Daten im biomedizinischen Bereich mit Tools in Python. Ich kenne mich mit Bereichen des Deep Learning (hauptsächlich self-supervised) aus und habe ein allgemeines Interesse an Softwareentwicklung. Ich bin vertraut mit snakemake für Workflows, git+github für Versionskontrolle, github-Workflows, github-Seiten und VS Code oder JupyterLab für die Programmierung."
     }
   },
-    "katharina_kloppenborg": {
+  "katharina_kloppenborg": {
     "name": "Katharina Kloppenborg",
     "img": "/images/people/katharina.jpg",
     "github": "https://github.com/katoss",
@@ -94,7 +94,7 @@
       "text": "Ich promoviere derzeit im Bereich der partizipativen Entwicklung von Citizen Science Plattformen an der Université Paris Cité. Ich habe einen M.Sc. in Angewandten Kognitionswissenschaften absolviert, mit einer Bachelorarbeit zur nutzerzentrierten Entwicklung von einer App zum Monitoring von mentaler Gesundheit, und einer Masterarbeit im Bereich NLP zur Erkennung von Hate Speech. Zwischenzeitlich habe ich als User Experience Researcher in einer Agentur mit Kunden primär aus dem öffentlichen Sektor in Deutschland gearbeitet. Sprachen: Deutsch, Englisch, Französisch"
     }
   },
-    "marcus_voß": {
+  "marcus_voß": {
     "name": "Marcus Voß",
     "img": "/images/people/marcus_voß.jpg",
     "github": "https://github.com/marcus-voss",
@@ -109,12 +109,12 @@
       "text": "Ich bin KI-Experte und Berater bei Birds on Mars. Von dort aus habe ich Erfahrung in der Umsetzung von KI Proof-of-Concept-Projekten (Zeitreihen, Optimierung, Computer Vision), in der Einführung von KI in “Production” und in der Befähigung von Unternehmen und Menschen in Unternehmen, KI zu nutzen. Zuvor habe ich in der Forschung an der Analyse von Energiezeitreihen gearbeitet. Ich unterrichte leidenschaftlich gern Data Science und KI-Themen für verschiedene Zielgruppen. So zum einen in Trainings bei Unternehmen oder zum anderen als externer Dozent, zum Beispiel an der TU Berlin Summer University, der Climate Change and AI Summer School, der Hertie School, der CODE University of Applied Sciences und der Leuphana Universität Lüneburg. Auf der fachlichen Seite interessiere ich mich für alle Anwendungen von KI und Daten in nachhaltigen, umwelt- und klimarelevanten Anwendungen."
     }
   },
-    "michael_aydinbas": {
+  "michael_aydinbas": {
     "name": "Michael Aydinbas",
     "img": "/images/people/michael_ay.jpg",
-    "linkedin": "https://de.linkedin.com/in/michael-aydinbas", 
+    "linkedin": "https://de.linkedin.com/in/michael-aydinbas",
     "github": "https://github.com/pmayd",
-    "website": "https://pybit.es/author/michaelaydinbas/"
+    "website": "https://pybit.es/author/michaelaydinbas/",
     "en": {
       "subline": "Cloud (incl. AWS), Machine Learning & Deep Learning in Python, Spark",
       "text": "I work as a Lead Data Engineer at Exxeta at the intersection of Data Science, Data Engineering and Data Strategy. I manage all kinds of projects related to data, including the design and implementation of data platforms and data paths (ETL/Pipelines), customized solutions for data processing and data analysis, connectivity and evaluation of data, and problem-oriented solution methods using Machine Learning and AI. I am an expert in Python and the development of Python applications as well as Big Data Processing, including with Apache Spark. Besides that, I also work as an author and coach and share my knowledge in Python, Data Science, ML & AI at seminars and trainings."
@@ -126,18 +126,18 @@
   },
   "nina_hauser": {
     "name": "Nina Hauser",
-    "img": "images/people/nina.png",
+    "img": "/images/people/nina.png",
     "linkedin": "https://www.linkedin.com/in/nina-hauser-a6b87211a/",
     "github": "https://github.com/NinaCorrelAid",
     "en": {
       "subline": "Impact Measurement, Data Analytics, Data Literacy, Design Thinking",
       "text": "Working for United Nations and Deloitte, I established a proficient level of skill in impact measurement in both the strategic planning and practical assessment of chosen indicators. I am a proficient R user and I am familiar with Python and Tableau. For CorrelAid e.V., I established a hands-on, switched classroom model data literacy and R course, providing participants with our own learning platform."
-      }
+    },
     "de": {
       "subline": "Wirkungsmessung, Data Analytics, datenwissenschaftliche Bildung, Design Thinking",
       "text": "Bei den Vereinigten Nationen und Deloitte habe ich tiefe Kenntnisse in der strategischen Konzeptionierung und praktischen Durchführung von Wirkungsmessung gewonnen. Ich programmiere in R, bin allerdings auch mit Python und Tableau vertraut. Für CorrelAid e.V. habe ich einen praxisnahen Bildungskurs zu Daten und R entworfen, der moderne, pädagogische Konzepte wie das umgedrehte Klassenzimmer nutzt und eine hauseigene Lernplattform beinhaltet."
     }
-  },   
+  },
   "selma_hadzic": {
     "name": "Selma Hadzic",
     "img": "/images/people/selma_hadzic.jpg",
@@ -150,7 +150,7 @@
       "subline": "Datenwissenschaft und maschinelles Lernen, produktionsreife Modelle, Liefermanagement",
       "text": "Als Experte für Datenwissenschaft und maschinelles Lernen habe ich Teams von Datenwissenschaftlern geleitet und skaliert, End-to-End-Projekte geplant, mit mehreren internationalen Stakeholdern koordiniert und die Lieferung gesteuert. Ich bin sehr versiert in Python, maschinellem Lernen, Datenvisualisierung, Projekt- und Liefermanagement, Stakeholder- und Teammanagement, agilen Methoden für Data Science, Big Data, produktionsreifen Modellen, Orchestrierungstools, CI/CD und Cloud-Plattformen."
     }
-  },   
+  },
   "tim_fangmeyer": {
     "name": "Tim Fangmeyer",
     "img": "/images/people/tim_fangmeyer.jpg",
