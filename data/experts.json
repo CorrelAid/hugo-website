@@ -1,7 +1,7 @@
 {
   "anastasiia_kulakova": {
     "name": "Anastasiia Kulakova",
-    "img": "/images/people/anastasiia_kulakova.jpg",
+    "img": "/images/people/anastasiia.png",
     "linkedin": "https://www.linkedin.com/in/nastyakul",
     "en": {
       "subline": "Productionising Machine Learning (ML) models, Python for automation, Data visualization",
@@ -126,7 +126,7 @@
   },
   "nina_hauser": {
     "name": "Nina Hauser",
-    "img": "images/people/nina.png",
+    "img": "/images/people/nina.png",
     "linkedin": "https://www.linkedin.com/in/nina-hauser-a6b87211a/",
     "github": "https://github.com/NinaCorrelAid",
     "en": {
