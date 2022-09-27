@@ -1,0 +1,167 @@
+{
+  "anastasiia_kulakova": {
+    "name": "Anastasiia Kulakova",
+    "img": "/images/people/anastasiia.png",
+    "linkedin": "https://www.linkedin.com/in/nastyakul",
+    "en": {
+      "subline": "Productionising Machine Learning (ML) models, Python for automation, Data visualization",
+      "text": "I'm a full-stack data scientist and a scrum master eager to dive into the data and the processes it originates from. Having worked both in R&D building Machine Learning models and on the forefront of business operations, I can efficiently handle ad-hoc analytics and productionize data solutions for the long-term. I take inspiration from precision economy concepts and strive to contribute to a more sustainable world (currently, at an e-mobility start-up Jedlix). Tech I use: Python, Spark, SQL, dbt, Databricks, Airflow / Dagster, Tableau, Azure stack."
+    },
+    "de": {
+      "subline": "Maschinelles Lernen in Arbeitsprozessen, Python für Automatisierungen, Datenvisualisierung",
+      "text": "Ich bin ein Full-Stack Data Scientist und ein Scrum Master, der sich gerne mit den Daten und den Prozessen beschäftigt, aus denen sie stammen. Da ich sowohl in der Forschung und Entwicklung von Machine-Learning-Modellen als auch im operativen Geschäft gearbeitet habe, kann ich Ad-hoc-Analysen effizient durchführen und Datenlösungen langfristig produzieren. Ich lasse mich von Konzepten der Präzisionswirtschaft inspirieren und strebe danach, einen Beitrag zu einer nachhaltigeren Welt zu leisten (derzeit bei einem Start-up-Unternehmen für Elektromobilität, Jedlix). Technik, die ich benutze: Python, Spark, SQL, dbt, Databricks, Airflow / Dagster, Tableau, Azure Stack."
+    }
+  },
+  "ann_kristin_vester": {
+    "name": "Ann-Kristin Vester",
+    "img": "/images/people/ann_kristin.jpg",
+    "website": "https://akvester.de/",
+    "github": "https://github.com/akvester",
+    "en": {
+      "subline": "Data Strategy, Data Visualization, Excel",
+      "text": "I share my experience as a Data Scientist in the IT and finance industry as a lecturer in Data Analytics and Statistics. I give workshops in Data Strategy/Data Culture, programming courses in R (especially Tidyverse, Visualization, Machine Learning) and Excel courses."
+    },
+    "de": {
+      "subline": "Datenstrategie, Datenvisualisierung, Excel",
+      "text": "Meine Erfahrungen als Data Scientist in der IT- und Finanzbranche gebe ich als Dozentin für Datenanalysen und Statistik weiter. Ich gebe Workshops in Data Strategy/Data Culture, Programmierkurse in R (v.a. Tidyverse, Visualisierung, Machine Learning) und Excel-Kurse."
+    }
+  },
+  "arndt_leininger": {
+    "name": "Arndt Leininger",
+    "img": "/images/people/arndt.jpg",
+    "website": "https://aleininger.eu/",
+    "github": "https://gitlab.com/arndtl",
+    "en": {
+      "subline": "Surveys, Causal Inference, R",
+      "text": "I am a junior professor of political science research methods at Chemnitz University of Technology. My main focus is on political science research on elections and attitudes. I work on this topic using quantitative methods based on aggregate and individual data and also conduct surveys myself. From time to time I give introductory courses in the statistical programming language R."
+    },
+    "de": {
+      "subline": "Umfragen, Kausale Inferenz, R",
+      "text": "Ich bin Juniorprofessor für Politikwissenschaftliche Forschungsmethoden an der Technischen Universität Chemnitz. Mein inhaltlicher Schwerpunkt liegt auf der politikwissenschaftlichen Wahl- und Einstellungsforschung. Ich bearbeitete dieses Themenfeld mit Hilfe quantitativer Methoden auf Basis von Aggregat- und Individualdaten und führe dazu auch selbst Umfragen durch. Von Zeit zu Zeit gebe ich Einführungskurse in die statistische Programmiersprache R."
+    }
+  },
+  "daniela_vogler": {
+    "name": "Daniela Vogler",
+    "img": "/images/people/daniela_vogler.jpg",
+    "website": "https://www.xing.com/profile/Daniela_Vogler10",
+    "github": "https://github.com/DaVo82/",
+    "en": {
+      "subline": "Business Intelligence (BI), Qlik Sense, Data Bases",
+      "text": "I work as a consultant for business intelligence with Qlik Sense and I am happy to share my knowledge on creating insightful analysis and dashboars in digital tools. Additionally, I am studying applications of Medical Data Science and supporting the application of statistical models and machine learninf in medicine."
+    },
+    "de": {
+      "subline": "Business Intelligence (BI), Qlik Sense, Datenbanken",
+      "text": "Ich arbeite als Beraterin für Busines Intelligence mit Qlik Sense und gebe meine Kenntnisse zur Erstellung von erkenntnisreichen Datenanalysen und Dashboards gerne an die Zivilgesellschaft weiter. Außerdem befasse ich mich mit Medical Data Science und unterstütze gerne bei der Anwendung von statistischen Modellen und Machine Learning in der Medizin."
+    }
+  },
+  "francesco_gastaldello": {
+    "name": "Francesco Gastaldello",
+    "img": "/images/people/francesco.jpeg",
+    "linkedin": "https://www.linkedin.com/in/fgastaldello/",
+    "github": "https://github.com/Gasta88",
+    "en": {
+      "subline": "Data Strategy, Data Visualization, Excel",
+      "text": "I have been working with data for many years, mostly in pharma/biotech and recently in e-learning contexts. I have an extensive background in Python and I'm expanding my AWS skillset on a day to day basis. I'm interest in anything that concern data manipulation/modelling/orchestration to service big data platforms and AI systems."
+    },
+    "de": {
+      "subline": "Datenstrategie, Datenvisualisierung, Excel",
+      "text": "Ich arbeite seit vielen Jahren mit Daten, vor allem in der Pharma-/Biotech-Branche und seit kurzem auch im Bereich E-Learning. Ich verfüge über umfangreiche Kenntnisse in Python und erweitere meine AWS-Kenntnisse Tag für Tag. Ich interessiere mich für alles, was mit Datenmanipulation/Modellierung/Orchestrierung zu tun hat, um Big-Data-Plattformen und KI-Systeme zu bedienen."
+    }
+  },
+  "henry_webel": {
+    "name": "Henry Webel",
+    "img": "/images/people/henry.jpg",
+    "github": "https://github.com/RasmussenLab/",
+    "en": {
+      "subline": "Python, Deep Learning, Git",
+      "text": "I analyze data in the biomedical domain using tools in python. I know about areas of deep learning (mainly self-supervised) and have a general interest in software development. Familiar with snakemake for workflows, git+github for version control, github workflows, github pages, and VS Code or JupyterLab for coding."
+    },
+    "de": {
+      "subline": "Python, Deep Learning, Git",
+      "text": "Ich analysiere Daten im biomedizinischen Bereich mit Tools in Python. Ich kenne mich mit Bereichen des Deep Learning (hauptsächlich self-supervised) aus und habe ein allgemeines Interesse an Softwareentwicklung. Ich bin vertraut mit snakemake für Workflows, git+github für Versionskontrolle, github-Workflows, github-Seiten und VS Code oder JupyterLab für die Programmierung."
+    }
+  },
+  "katharina_kloppenborg": {
+    "name": "Katharina Kloppenborg",
+    "img": "/images/people/katharina.jpg",
+    "github": "https://github.com/katoss",
+    "en": {
+      "subline": "Citizen Science, User Experience (UX), Natural Language Processing (NLP)",
+      "text": "I am currently doing a PhD in the field of participatory development of citizen science platforms at Université Paris Cité. I have a M.Sc. in Applied Cognitive Sciences, wrote my bachelor’s thesis about the user-centred development of an app to monitor mental health, and my master’s thesis about the detection of hate speech in the area of NLP. Intermediately I have worked as a user experience researcher in an agency with clients primarily from the public sector in Germany. Languages: German, English, French"
+    },
+    "de": {
+      "subline": "Citizen Science, User Experience (UX), Textverarbeitung (NLP)",
+      "text": "Ich promoviere derzeit im Bereich der partizipativen Entwicklung von Citizen Science Plattformen an der Université Paris Cité. Ich habe einen M.Sc. in Angewandten Kognitionswissenschaften absolviert, mit einer Bachelorarbeit zur nutzerzentrierten Entwicklung von einer App zum Monitoring von mentaler Gesundheit, und einer Masterarbeit im Bereich NLP zur Erkennung von Hate Speech. Zwischenzeitlich habe ich als User Experience Researcher in einer Agentur mit Kunden primär aus dem öffentlichen Sektor in Deutschland gearbeitet. Sprachen: Deutsch, Englisch, Französisch"
+    }
+  },
+  "marcus_voß": {
+    "name": "Marcus Voß",
+    "img": "/images/people/marcus_voß.jpg",
+    "github": "https://github.com/marcus-voss",
+    "website": "https://marcusvoss.com/",
+    "linkedin": "https://www.linkedin.com/in/marcus-vo%C3%9F-5b6944ba/",
+    "en": {
+      "subline": "Artificial Intelligence, Time Series, AI and Sustainability",
+      "text": "I am an AI expert and consultant at Birds on Mars, from where I have experience in working on implementing AI proof of concept projects (time series, optimization, computer vision), getting AI into production, and enabling companies and people within companies to use AIs. Before, I worked in research on analyzing energy time series data. I am passionate about teaching data science and AI topics to different target groups. So, on the one hand, in company training formats or on the other hand, as an external lecturer, for instance, at TU Berlin Summer University, the Climate Change and AI summer school, Hertie School, CODE University of Applied Sciences, and Leuphana University Lüneburg. On the domain side, I am interested in all applications of AI and data in sustainable, environmental, and climate change-relevant applications."
+    },
+    "de": {
+      "subline": "Künstliche Intelligenz, Zeitreihen, KI und Nachhaltigkeit",
+      "text": "Ich bin KI-Experte und Berater bei Birds on Mars. Von dort aus habe ich Erfahrung in der Umsetzung von KI Proof-of-Concept-Projekten (Zeitreihen, Optimierung, Computer Vision), in der Einführung von KI in “Production” und in der Befähigung von Unternehmen und Menschen in Unternehmen, KI zu nutzen. Zuvor habe ich in der Forschung an der Analyse von Energiezeitreihen gearbeitet. Ich unterrichte leidenschaftlich gern Data Science und KI-Themen für verschiedene Zielgruppen. So zum einen in Trainings bei Unternehmen oder zum anderen als externer Dozent, zum Beispiel an der TU Berlin Summer University, der Climate Change and AI Summer School, der Hertie School, der CODE University of Applied Sciences und der Leuphana Universität Lüneburg. Auf der fachlichen Seite interessiere ich mich für alle Anwendungen von KI und Daten in nachhaltigen, umwelt- und klimarelevanten Anwendungen."
+    }
+  },
+  "michael_aydinbas": {
+    "name": "Michael Aydinbas",
+    "img": "/images/people/michael_ay.jpg",
+    "linkedin": "https://de.linkedin.com/in/michael-aydinbas",
+    "github": "https://github.com/pmayd",
+    "website": "https://pybit.es/author/michaelaydinbas/",
+    "en": {
+      "subline": "Cloud (incl. AWS), Machine Learning & Deep Learning in Python, Spark",
+      "text": "I work as a Lead Data Engineer at Exxeta at the intersection of Data Science, Data Engineering and Data Strategy. I manage all kinds of projects related to data, including the design and implementation of data platforms and data paths (ETL/Pipelines), customized solutions for data processing and data analysis, connectivity and evaluation of data, and problem-oriented solution methods using Machine Learning and AI. I am an expert in Python and the development of Python applications as well as Big Data Processing, including with Apache Spark. Besides that, I also work as an author and coach and share my knowledge in Python, Data Science, ML & AI at seminars and trainings."
+    },
+    "de": {
+      "subline": "Cloud (incl. AWS), Maschinelles Lernen & Deep Learning in Python, Spark",
+      "text": "Ich arbeite als Lead Data Engineer bei Exxeta an der Schnittstelle von Data Science, Data Engineering und Data Strategy. Ich betreue alle möglichen Projekte mit Datenbezug, unter anderem die Konzeption und Umsetzung von Datenplattformen und Datenstrecken (ETL/Pipelines), maßgeschneiderte Lösungen für Datenverarbeitung und Datenanalyse, Anbindungen und Auswertung von Daten, sowie problemorientierte Lösungsverfahren mit Machine Learning und AI. Ich bin Experte in Python und der Entwicklung von Python-Anwendungen sowie von Big Data Processing, u.a. mit Apache Spark. Daneben arbeite ich auch als Autor und Coach und gebe mein Wissen in Python, Data Science, ML & AI auf Seminaren und Schulungen weiter."
+    }
+  },
+  "nina_hauser": {
+    "name": "Nina Hauser",
+    "img": "/images/people/nina.png",
+    "linkedin": "https://www.linkedin.com/in/nina-hauser-a6b87211a/",
+    "github": "https://github.com/NinaCorrelAid",
+    "en": {
+      "subline": "Impact Measurement, Data Analytics, Data Literacy, Design Thinking",
+      "text": "Working for United Nations and Deloitte, I established a proficient level of skill in impact measurement in both the strategic planning and practical assessment of chosen indicators. I am a proficient R user and I am familiar with Python and Tableau. For CorrelAid e.V., I established a hands-on, switched classroom model data literacy and R course, providing participants with our own learning platform."
+    },
+    "de": {
+      "subline": "Wirkungsmessung, Data Analytics, datenwissenschaftliche Bildung, Design Thinking",
+      "text": "Bei den Vereinigten Nationen und Deloitte habe ich tiefe Kenntnisse in der strategischen Konzeptionierung und praktischen Durchführung von Wirkungsmessung gewonnen. Ich programmiere in R, bin allerdings auch mit Python und Tableau vertraut. Für CorrelAid e.V. habe ich einen praxisnahen Bildungskurs zu Daten und R entworfen, der moderne, pädagogische Konzepte wie das umgedrehte Klassenzimmer nutzt und eine hauseigene Lernplattform beinhaltet."
+    }
+  },
+  "selma_hadzic": {
+    "name": "Selma Hadzic",
+    "img": "/images/people/selma_hadzic.jpg",
+    "linkedin": "https://www.linkedin.com/in/selma-hadzic-9630625b/",
+    "en": {
+      "subline": "Data Science & Machine Learning, Production-ready Models, Delivery Management",
+      "text": "Data science and machine learning expert, I led and scaled teams of data scientists, scoped end-to-end projects, coordinated with multiple international stakeholders and managed delivery. I am well versed in python, machine learning, data visualisation, project and delivery management, stakeholder and team management, agile methods for data science, big data, production-ready models, orchestration tools, CI/CD, Cloud platforms."
+    },
+    "de": {
+      "subline": "Datenwissenschaft und maschinelles Lernen, produktionsreife Modelle, Liefermanagement",
+      "text": "Als Experte für Datenwissenschaft und maschinelles Lernen habe ich Teams von Datenwissenschaftlern geleitet und skaliert, End-to-End-Projekte geplant, mit mehreren internationalen Stakeholdern koordiniert und die Lieferung gesteuert. Ich bin sehr versiert in Python, maschinellem Lernen, Datenvisualisierung, Projekt- und Liefermanagement, Stakeholder- und Teammanagement, agilen Methoden für Data Science, Big Data, produktionsreifen Modellen, Orchestrierungstools, CI/CD und Cloud-Plattformen."
+    }
+  },
+  "tim_fangmeyer": {
+    "name": "Tim Fangmeyer",
+    "img": "/images/people/tim_fangmeyer.jpg",
+    "website": "https://timfangmeyer.netlify.app/",
+    "en": {
+      "subline": "Data Analytics in Python and R, Geo Data and Visualization, Wordpress",
+      "text": "In data analysis, I am particularly interested in processing larger data sets with tools such as Pandas (Python) or the R Tidyverse. In my professional work in managing websites in IT, I also deal with setting up pages with the content management system Wordpress and the associated plugins. Maps and visualizations of geodata are part of my extended knowledge."
+    },
+    "de": {
+      "subline": "Datenanalyse mit Python und R, Geodaten- und Visualisierungen, Wordpress",
+      "text": "In der Datenanalyse interessiere ich mich vor allem für das Bearbeiten von größeren Datensätzen mit Tools wie Pandas (Python) oder dem R Tidyverse. In meiner beruflichen Tätigkeit im Managen von Websites in der IT beschäftige ich mich außerdem mit dem Aufsetzen von Seiten mit dem Content-Management-System Wordpress und den dazugehörigen Plugins. Karten und Visualisierungen von Geodaten gehören zu meinen erweiterten Kenntnissen."
+    }
+  }
+}
