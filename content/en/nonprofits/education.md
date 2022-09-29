@@ -30,12 +30,6 @@ Arrange a data hour!
 ## Learning R - The data course for civic society
 Every quarter we kick-off our 12-weeks educational program "Learning R - The data course for civic society" that is funded by the Stiftung für Engagement und Ehrenamt. 25 participants are able to learn how to work with data in the programming language R in a hybrid format with our own in-house learning platfrom with tutorial videos, texts, interactive quiz and exercises and local challenges, aided by tutors from our network. Participation is free of charge. Registration via [E-Mail](mailto:education@correlaid.org).
 
-{{< contact
-    key="nina"
-    link-color="ca-green-text"
->}}
-
-{{< /contact >}}
 ## Workshops
 ### Impact measurement
 In this course, participants learn how social organizations develop impact chains and impact indicators. During the workshop we will work with illustrative examples, directly transferable instruments, jointly design impact chains and talk about the current state of impact measurement in Germany.
@@ -71,6 +65,13 @@ We are also happy to come up with individual workshops. Write us an e-mail with 
 
 {{< contact
     key="zoe"
+    link-color="ca-green-text"
+>}}
+
+{{< /contact >}}
+
+{{< contact
+    key="nina"
     link-color="ca-green-text"
 >}}
 
