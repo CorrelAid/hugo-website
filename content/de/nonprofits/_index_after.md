@@ -8,6 +8,16 @@ Du bist bei einer NPO aktiv? Alle deine Fragen rund um unsere Arbeit und Daten k
 Datensprechstunde vereinbaren!
 {{< /button >}}
 
+## Expert*innen Datenbank
+Ihr benötigt Unterstützung bei spezifischen Themen und sucht dafür Referent:innen? Wir vermitteln Expert:innen aus unserem Netzwerk an die Zivilgesellschaft. 
+
+{{< button 
+    btn-class="btn-dark"
+    href="/nonprofits/experts"
+    justify="center"
+>}}
+Zur Datenbank!
+{{< /button >}}
 ## Newsletter
 
  In unserem Newsletter für gemeinnützige Organisationen berichten wir einmal im Monat aus unserer Arbeit und stellen ein bestimmtes Datenthema in den Fokus. 
