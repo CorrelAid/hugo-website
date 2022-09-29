@@ -18,7 +18,7 @@ meta:
 
 ## Warum Mitglied werden?
 
-CorrelAid ist ein **Netzwerk** von Data-Science begeisterten Menschen, die die Welt mithilfe von Data Science verändern wollen. CorrelAid **e.V.** ist als gemeinnütziger Verein die **legale Struktur**, die die Arbeit von CorrelAid trägt. Beim Verein sind z.B. unsere Mitarbeiter:innen Nina, Phil und Frie angestellt, die einen signifikanten Teil der CorrelAid Angebote ermöglichen. CorrelAid e.V. besteht aus ca. 50 Mitgliedern, aus deren Kreis der Vorstand sowie die Ethikkommission gewählt werden.
+CorrelAid ist ein **Netzwerk** von Data-Science begeisterten Menschen, die die Welt mithilfe von Data Science verändern wollen. CorrelAid **e.V.** ist als gemeinnütziger Verein die **legale Struktur**, die die Arbeit von CorrelAid trägt. Beim Verein sind z.B. unsere Mitarbeiter:innen Isabel, Frie und unserer Werkstudentin Zoé angestellt, die einen signifikanten Teil der CorrelAid Angebote ermöglichen. CorrelAid e.V. besteht aus ca. 50 Mitgliedern, aus deren Kreis der Vorstand sowie die Ethikkommission gewählt werden.
 
 **Wichtig: Alle CorrelAid Angebote und Aktivitäten sind offen für alle Personen, unabhängig davon, ob sie Mitglied im Verein CorrelAid e.V. sind** (Ausnahme: Betätigung in den Gremien des Vereins, derzeit Vorstand und Ethikkommission).
 

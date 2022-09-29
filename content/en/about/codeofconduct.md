@@ -79,4 +79,4 @@ This agreement guides the work inside of our community and beyond. We care about
 
 If you come across a situation that appears to violate the CorrelAid's code of conduct, if you want to raise a concern about a possible breach of the code of conduct, or if you experienced or witnessed a behavior that does not align with our working principles, we are here to support you. 
 
-You can reach us by contacting Nina Hauser (E-Mail: nina.h@correlaid.org). Kindly include '[CoC Support]' in the headline.
+You can reach us by contacting Isabel Willmann (E-Mail: isabel.w@correlaid.org). Kindly include '[CoC Support]' in the headline.

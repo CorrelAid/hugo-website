@@ -18,7 +18,7 @@ meta:
 
 ## Why join CorrelAid e.V.?
 
-CorrelAid is a **network** of data science enthusiasts who want to change the world with the help of data science. CorrelAid **e.V.** is a registered German non-profit association and the **legal structure** that supports the work of CorrelAid. Our employees Nina, Phil and Frie who make a significant part of the CorrelAid offers possible are employed by the association. CorrelAid e.V. consists of about 50 members, amongst whom the board and the ethics committee are elected.
+CorrelAid is a **network** of data science enthusiasts who want to change the world with the help of data science. CorrelAid **e.V.** is a registered German non-profit association and the **legal structure** that supports the work of CorrelAid. Our employees Isabel and Frie as well as our working student Zoé who make a significant part of the CorrelAid offers possible are employed by the association. CorrelAid e.V. consists of about 50 members, amongst whom the board and the ethics committee are elected.
 
 
 **Important: All CorrelAid offers and activities are open to everyone, regardless of whether they are a member of the association CorrelAid e.V.** (exception: activity in the bodies of the association, currently board and ethics committee).
