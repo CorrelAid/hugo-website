@@ -19,10 +19,10 @@ Every November, our digital conference offers attendees the opportunity to atten
 ## Conferences
 We also advocate for the digital needs of civil society at external events: upcoming dates are posted in [our calendar](/en/events/).
 Are you still looking for speakers for your event?
-We are happy to support you with presentations and workshops on Data4Good. Feel free to reach out to Nina. 
+We are happy to support you with presentations and workshops on Data4Good. Feel free to reach out to Frie. 
 
 {{< contact
-    key="nina"
+    key="frie"
     link-color="ca-green-text"
 >}}
 

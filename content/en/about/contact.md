@@ -25,11 +25,6 @@ Our four employees organize and coordinate the everyday work of the CorrelAid ne
 >}}
 {{< /contact >}}
 
-{{< contact
-    key="nina"
-    link-color="ca-green-text"
->}}
-{{< /contact >}}
  
 {{< contact
     key="isabel"
@@ -49,6 +44,13 @@ Our four employees organize and coordinate the everyday work of the CorrelAid ne
 >}}
 {{< /contact >}}
 
+## R Lernen - Der Datenkurs von und für die Zivilgesellschaft
+
+{{< contact
+    key="nina"
+    link-color="ca-green-text"
+>}}
+{{< /contact >}}
 ## Our board
 The elected board of CorrelAid e.V., the official registered non-profit association, consists of CorrelAid volunteers. They work together with our employees and develop the long-term strategy for CorrelAid.
 
@@ -97,3 +99,4 @@ The elected board of CorrelAid e.V., the official registered non-profit associat
     link-color="ca-green-text"
 >}}
 {{< /contact >}}
+
