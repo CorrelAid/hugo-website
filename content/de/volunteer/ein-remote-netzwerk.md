@@ -16,11 +16,11 @@ img: "volunteer/a-remote-network.png"
     title="Ein lebendiges Netzwerk" 
     color="ca-grey-text"
     img="/images/volunteer/community.jpg"
-    href="mailto:phil.b@correlaid.org"
+    href="mailto:isabel.w@correlaid.org"
     order="order-md-1"
 >}}
 - tausche dich mit über 1000 Data4Good begeisterten Data Scientists in unserer aktiven Slack-Community aus
-- ehrenamtliches Core Team: beteilige dich an der Erstellung von Inhalten ([Blog](/blog), [technischer Blog](https://codes.correlaid.org), [Podcast](https://soundcloud.com/correlaid_podcast), soziale Medien), organisiere Veranstaltungen für das Netzwerk oder koordiniere Data4Good-Projekte
+- ehrenamtliches Team: beteilige dich an der Erstellung von Inhalten ([Blog](/blog), [Podcast](https://soundcloud.com/correlaid_podcast), soziale Medien), organisiere das Mentoring Programm oder Veranstaltungen für das Netzwerk oder koordiniere Data4Good-Projekte
 - einmal im Jahr ein offline Social Event 
 {{< /feature >}}
 
@@ -34,10 +34,20 @@ img: "volunteer/a-remote-network.png"
     href="/de/events/"
     order="order-md-0"
 >}}
-- regelmäßige Workshops, Webinare und Events, z. B. zweiwöchentlicher [TidyTuesday Coding Hangout] (https://pretix.eu/correlaid/tidytuesday/) oder monatliches Open Online Data Meetup
+- regelmäßige Workshops, Webinare und Events
 - Finde eine*n Mentor\*in (oder Mentee) in unserem Mentoring-Programm
 - Erhalte Support im #help Slack-Channel
 - Lizenzen für Projektteammitglieder für eine Data Science Lernplatform
+{{< /feature >}}
+
+{{< feature 
+    title="TidyTuesday Meetup" 
+    color="ca-grey-text"
+    img="/images/blog/2021-09-16_parliamentJL.png"
+    href="/de/events/"
+    order="order-md-1"
+>}}
+Du möchtest lernen Datenvisualisierungen in R zu erstellen? Dann sind [TidyTuesdays](https://github.com/rfordatascience/tidytuesday/) der R Community eine super Möglichkeit, um praktische Erfahrung zu sammeln. Ganz im Sinne des "learning by doing". CorrelAid Volunteers Andreas und Long bieten ein Meetup an, bei dem ihr euch könnt, um gemeinsam an einem TidyTuesday zu coden, euch über Data Viz auszutauschen und neue Dinge zu lernen. Und du kannst sogar deinen eigenen Datensatz mitbringen oder Feedback zu deinen Visualisierungen bekommen. Das besondere? Es gibt keinen fixen Termin - du buchst dir einfach in drei Klicks dein Meetup! [Hier gehts zur "Buchung"](https://calendly.com/correlaid-main/tidytuesday)! 
 {{< /feature >}}
 
 {{< feature 
@@ -45,7 +55,7 @@ img: "volunteer/a-remote-network.png"
     color="ca-grey-text"
     img="/images/volunteer/correlcon.png"
     href="/events/2020-11/correlcon/"
-    order="order-md-1"
+    order="order-md-0"
 >}}
 - Vorträge, Workshops und Networking rund um Data4Good und Data Science
 - über 300 Teilnehmer*innen [letztes Jahr](/de/events/2020-11/correlcon/)

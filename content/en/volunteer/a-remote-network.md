@@ -17,11 +17,11 @@ weight: 2
     title="An active community" 
     color="ca-grey-text"
     img="/images/volunteer/community.jpg"
-    href="mailto:phil.b@correlaid.org"
+    href="mailto:isabel.w@correlaid.org"
     order="order-md-1"
 >}}
 - connect with over 1000 Data4Good data scientists in our active Slack community
-- volunteer core team: get involved in content creation ([blog](/blog), [technical blog](https://codes.correlaid.org), [podcast](https://soundcloud.com/correlaid_podcast), social media), organize events for the community or coordinate Data4Good projects to keep CorrelAid running
+- volunteer core team: get involved in content creation ([blog](/blog), [technical blog](https://codes.correlaid.org), [podcast](https://soundcloud.com/correlaid_podcast), social media), organize our mentoring program and events for the community or coordinate Data4Good projects to keep CorrelAid running
 - in-person social event once a year 
 {{< /feature >}}
 
@@ -35,10 +35,19 @@ weight: 2
     href="/en/events/"
     order="order-md-0"
 >}}
-- regular workshops, webinars and events, e.g. bi-weekly [TidyTuesday Coding Hangout](https://pretix.eu/correlaid/tidytuesday/) or monthly Open Online Data Meetup
+- regular workshops, webinars and events
 - find a mentor (or mentee) in our mentoring program
 - get help in the #help Slack channel
 - licenses for project team members for data science learning platform
+{{< /feature >}}
+
+{{< feature 
+    title="TidyTuesday Meetup" 
+    color="ca-grey-text"
+    img="/images/blog/2021-09-16_parliamentJL.png"
+    order="order-md-1"
+>}}
+Do you want to learn to create data visualizations in R? Then the [TidyTuesdays](https://github.com/rfordatascience/tidytuesday/) of the R Community are a great way to gain hands-on experience - "learning by doing". CorrelAid volunteers Andreas and Long offer a meetup where you can get together to code on a TidyTuesday, chat about Data Viz, and learn new things together. You can even bring your own dataset or get feedback on your own visualizations. What's special about it? There's no fixed date - you just book your meetup in three clicks! [Click here to "book"](https://calendly.com/correlaid-main/tidytuesday)! 
 {{< /feature >}}
 
 {{< feature 
@@ -46,12 +55,13 @@ weight: 2
     color="ca-grey-text"
     img="/images/volunteer/correlcon.png"
     href="/en/events/2020-11/correlcon/"
-    order="order-md-1"
+    order="order-md-0"
 >}}
 - talks, workshops and networking all about Data4Good and Data Science
 - over 300 attendees [last year](/events/2020-11/correlcon/)
 - fully remote, materials available [here](https://docs.correlaid.org/correlcollection/correlcon)
 {{< /feature >}}
+
 
 {{< contact
     key="isabel"
