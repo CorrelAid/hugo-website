@@ -41,7 +41,7 @@ img: "volunteer/a-remote-network.png"
 {{< /feature >}}
 
 {{< feature 
-    title="TidyTuesday Meetup" 
+    title="TidyTuesday Datenvisualisierungs-Meetup" 
     color="ca-grey-text"
     img="/images/blog/2021-09-16_parliamentJL.png"
     href="/de/events/"

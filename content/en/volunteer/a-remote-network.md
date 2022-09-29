@@ -42,7 +42,7 @@ weight: 2
 {{< /feature >}}
 
 {{< feature 
-    title="TidyTuesday Meetup" 
+    title="TidyTuesday Data Visualization Meetup" 
     color="ca-grey-text"
     img="/images/blog/2021-09-16_parliamentJL.png"
     order="order-md-1"
