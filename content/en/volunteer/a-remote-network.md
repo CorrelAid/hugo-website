@@ -47,7 +47,7 @@ weight: 2
     img="/images/blog/2021-09-16_parliamentJL.png"
     order="order-md-1"
 >}}
-Do you want to learn to create data visualizations in R? Then the [TidyTuesdays](https://github.com/rfordatascience/tidytuesday/) of the R Community are a great way to gain hands-on experience - "learning by doing". CorrelAid volunteers Andreas and Long offer a meetup where you can get together to code on a TidyTuesday, chat about Data Viz, and learn new things together. You can even bring your own dataset or get feedback on your own visualizations. What's special about it? There's no fixed date - you just book your meetup in three clicks! [Click here to "book"](https://calendly.com/correlaid-main/tidytuesday) and [here]() for a detailed [booking tutorial](https://docs.google.com/document/d/1TIPWovf8MgCO8T5M-r686qAUC2DFjo8_gDvylx1QFq4/edit?usp=sharing)! 
+Do you want to learn to create data visualizations in R? Then the [TidyTuesdays](https://github.com/rfordatascience/tidytuesday/) of the R Community are a great way to gain hands-on experience - "learning by doing". CorrelAid volunteers Andreas and Long offer a meetup where you can get together to code on a TidyTuesday, chat about Data Viz, and learn new things together. You can even bring your own dataset or get feedback on your own visualizations. What's special about it? There's no fixed date - you just book your meetup in three clicks! [Click here to "book"](https://calendly.com/correlaid-main/tidytuesday)! If you are unsure how this works, check out our detailed [booking tutorial](https://docs.google.com/document/d/1TIPWovf8MgCO8T5M-r686qAUC2DFjo8_gDvylx1QFq4/edit?usp=sharing). 
 {{< /feature >}}
 
 {{< feature 
