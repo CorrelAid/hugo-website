@@ -47,7 +47,7 @@ img: "volunteer/a-remote-network.png"
     href="/de/events/"
     order="order-md-1"
 >}}
-Du möchtest lernen Datenvisualisierungen in R zu erstellen? Dann sind [TidyTuesdays](https://github.com/rfordatascience/tidytuesday/) der R Community eine super Möglichkeit, um praktische Erfahrung zu sammeln. Ganz im Sinne des "learning by doing". CorrelAid Volunteers Andreas und Long bieten ein Meetup an, bei dem ihr euch zusammen kommen könnt, um gemeinsam an einem TidyTuesday zu coden, euch über Data Viz auszutauschen und neue Dinge zu lernen. Und du kannst sogar deinen eigenen Datensatz mitbringen oder Feedback zu deinen Visualisierungen bekommen. Das besondere? Es gibt keinen fixen Termin - du buchst dir einfach in drei Klicks dein Meetup! [Hier gehts zur "Buchung"](https://calendly.com/correlaid-main/tidytuesday)! 
+Du möchtest lernen Datenvisualisierungen in R zu erstellen? Dann sind [TidyTuesdays](https://github.com/rfordatascience/tidytuesday/) der R Community eine super Möglichkeit, um praktische Erfahrung zu sammeln. Ganz im Sinne des "learning by doing". CorrelAid Volunteers Andreas und Long bieten ein Meetup an, bei dem ihr euch zusammen kommen könnt, um gemeinsam an einem TidyTuesday zu coden, euch über Data Viz auszutauschen und neue Dinge zu lernen. Und du kannst sogar deinen eigenen Datensatz mitbringen oder Feedback zu deinen Visualisierungen bekommen. Das besondere? Es gibt keinen fixen Termin - du buchst dir einfach in drei Klicks dein Meetup! [Hier gehts zur "Buchung"](https://calendly.com/correlaid-main/tidytuesday) und hier zum detaillierten ["Booking Tutorial"](https://docs.google.com/document/d/1TIPWovf8MgCO8T5M-r686qAUC2DFjo8_gDvylx1QFq4/edit?usp=sharing)!
 {{< /feature >}}
 
 {{< feature 
