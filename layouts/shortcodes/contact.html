@@ -4,6 +4,7 @@
     {{ $key := .Get `key` }}
     {{ $lang := .Site.Language.Lang }}
     {{ $person := index $people $key }}
+    {{ $email := .Get `email` }}
 
 
     <div class="row my-5">
@@ -25,11 +26,19 @@
             <p class="lead">{{ index $person $lang "text" | markdownify }}</p>
             {{ end }}
             <p class="lead">
+                {{ if $email }}
+                [<a href="mailto:{{ $email }}">
+                    {{ $email }}
+                </a>]
+                {{ else }}
                 {{ with $person.email }}
                     [<a href="mailto:{{ . }}">
                         {{ . }}
                     </a>]
                 {{end}}
+                {{end}}
+
+
             </p>
         </div>
     </div>

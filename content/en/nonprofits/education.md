@@ -59,6 +59,7 @@ We are also happy to come up with individual workshops. Write us an e-mail with 
 {{< contact
     key="frie"
     link-color="ca-green-text"
+    email="education@correlaid.org"
 >}}
 
 {{< /contact >}}
@@ -66,6 +67,7 @@ We are also happy to come up with individual workshops. Write us an e-mail with 
 {{< contact
     key="zoe"
     link-color="ca-green-text"
+    email="education@correlaid.org"
 >}}
 
 {{< /contact >}}
@@ -73,6 +75,7 @@ We are also happy to come up with individual workshops. Write us an e-mail with 
 {{< contact
     key="nina"
     link-color="ca-green-text"
+    email="education@correlaid.org"
 >}}
 
 {{< /contact >}}

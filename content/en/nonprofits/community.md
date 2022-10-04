@@ -24,6 +24,7 @@ We are happy to support you with presentations and workshops on Data4Good. Feel 
 {{< contact
     key="frie"
     link-color="ca-green-text"
+    email="education@correlaid.org"
 >}}
 
 {{< /contact >}}
