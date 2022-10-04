@@ -5,6 +5,8 @@
 Please note that the MIT license does not apply to all the files shared in this repository. See [LICENSE.md](https://github.com/CorrelAid/hugo-website/blob/main/LICENSE) and [LICENSE-images.md](https://github.com/CorrelAid/hugo-website/blob/main/LICENSE-images.md) for details.
 
 # How to's
+
+
 ## Add content
 
 ### Create a new page
@@ -18,6 +20,32 @@ Please note that the MIT license does not apply to all the files shared in this 
 ### Using images
 
 Every image that is used for a blog entry has the size **800px\*500px**. Every picture for people is **500px\*500px**.
+
+## Add an expert 
+
+What information / content you need:
+- name of expert
+- image (500px x 500px)
+- 2-3 words about the areas of their expertise (used for the subheader, see [here](https://correlaid.org/nonprofits/experts/))
+- 2-3 description of the expert, in English and German
+- optional but recommended, any of the following: GitHub profile link, Linkedin profile link, personal website
+
+### Manually via GitHub interface
+
+If you do not have write access to the website repository or you don't want to clone the repo and setup hugo, you can add (yourself as) an expert via the GitHub graphical interface:
+
+1. Make sure you're logged into GitHub and that you have all the content ready.
+2. open [this link](https://github.dev/CorrelAid/hugo-website/blob/add_experts/data/experts.json). It should open an editor in your browser.
+2. Scroll to the end of the file and copy-paste the last block. Make sure to add a comma before it (invalid JSON will be underlined in red). 
+3. Edit the key (`firstname_lastname`, e.g. `alex_musterperson`) and the content of your new block as needed. Available keys for social links are `website`, `github`, `linkedin` (check the other experts for examples).
+4. In the sidebar, navigate to `static/images/people`. Right-click on `people` and click on "upload". Upload your square image. It needs to be named like the `image` element in `experts.json` from step 3. Pay attention to the file extension, lower-/uppercase and the separator (`_` or `-`).
+5. Navigate to `content/en/nonprofits/experts.md`. Copy-paste any of the blocks and edit the `key` element to `firstname_lastname`. It needs to match the key from step 3. 
+6. Repeat for `content/de/nonprofits/experts.md`.
+7. In the sidebar, go to the Git tab. You should be able to commit your changes there. It might create a fork if you do not have write rights to the repository.
+8. Go to https://github.com/correlaid/hugo-website/pulls and open your Pull Request (there should be a yellow sign)
+9. Ping Frie via Slack to let them know about your PR, sending them the link to it. 
+
+If you have any problems with the process, ask Frie. 
 
 ## Add an event
 
