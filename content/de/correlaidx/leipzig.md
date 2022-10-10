@@ -12,7 +12,7 @@ meta:
     keywords: "CorrelAid, Data4Good, NGOs, Engagement 4.0"
 ---
 
-Hallo an alle Datenwissenschaftler:innen in Ostdeutschland! Wir sind das Leipziger Chapter von CorrelAid!
+Hallo an alle Datenwissenschaftler*innen in Ostdeutschland! Wir sind das Leipziger Chapter von CorrelAid!
 
 Nachdem wir alle im Jahr 2020 den größten Teil unserer Zeit vor unseren kleinen, großen oder mittelgroßen Bildschirmen verbracht haben, dachten wir, es wäre eine tolle Idee, unsere Bildschirmzeit noch ein wenig zu verlängern. Das Ziel unseres Vorhabens: den Geist von CorrelAid weiterzutragen, nämlich Datenwissenschaft für einen guten Zweck zu betreiben.
 Glücklicherweise hat sich auf Anhieb eine heterogene und lebendige Gruppe gebildet. Wir haben begonnen, uns monatlich virtuell zu treffen, wobei wir planen, so bald wie möglich auch in der realen Welt zusammenzukommen. Profis, Nerds und Noobs gleichermaßen, jeder ist willkommen - wir sind vielfältig und enthusiastisch.

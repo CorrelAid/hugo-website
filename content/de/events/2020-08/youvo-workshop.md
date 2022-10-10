@@ -11,12 +11,12 @@ languages:
 
 
 ## Der Workshop
-Die Teilnehmer:innen lernen gemeinsam mit uns, wie Daten und Technologie evidenzbasierte und ganz neue Arbeitsweisen ermöglichen. Wir stellen Fallbeispiele aus unserer Arbeit vor, geben eine Einführung in Instrumente, mit denen soziale Organisationen ihre Datenstrategie erarbeiten können, und führen erste Datenanalysen durch.
+Die Teilnehmer*innen lernen gemeinsam mit uns, wie Daten und Technologie evidenzbasierte und ganz neue Arbeitsweisen ermöglichen. Wir stellen Fallbeispiele aus unserer Arbeit vor, geben eine Einführung in Instrumente, mit denen soziale Organisationen ihre Datenstrategie erarbeiten können, und führen erste Datenanalysen durch.
 Lernziele:
-- Die Teilnehmer:innen erhalten ein Verständnis für das Potenzial von Daten und Datenanalyse allgemein.
-- Die Teilnehmer:innen werden befähigt, das Potential von Datenanalyse in ihren Organisationen zu erkennen, und können potenzielle Hindernisse benennen.
-- Die Teilnehmer:innen können einfache Datenanalysen und -visualisierungen durchführen.
-- Die Teilnehmer:innen kennen Anlaufstellen und Hilfsangebote rund ums Thema Daten für ihre Organisation.
+- Die Teilnehmer*innen erhalten ein Verständnis für das Potenzial von Daten und Datenanalyse allgemein.
+- Die Teilnehmer*innen werden befähigt, das Potential von Datenanalyse in ihren Organisationen zu erkennen, und können potenzielle Hindernisse benennen.
+- Die Teilnehmer*innen können einfache Datenanalysen und -visualisierungen durchführen.
+- Die Teilnehmer*innen kennen Anlaufstellen und Hilfsangebote rund ums Thema Daten für ihre Organisation.
 
 Für mehr Informationen zu diesem Workshopformat schreibt uns gerne unter [nina.h@correlaid.org](mailto:nina.h@correlaid.org)!
 

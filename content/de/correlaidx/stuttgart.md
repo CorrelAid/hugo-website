@@ -15,7 +15,7 @@ meta:
 
 
 
-Stuttgart - das Herz des Innovationsstandortes Baden-Württemberg, nicht weit entfernt vom Tübinger „Cyber Valley". Optimale Voraussetzungen also für eine CorrelAid Lokalgruppe, damit nicht nur Daimler, Bosch und Co, sondern auch kleine, gemeinnützige Organisationen vom Know-how (angehender) Datenanalyst:innen profitieren. 
+Stuttgart - das Herz des Innovationsstandortes Baden-Württemberg, nicht weit entfernt vom Tübinger „Cyber Valley". Optimale Voraussetzungen also für eine CorrelAid Lokalgruppe, damit nicht nur Daimler, Bosch und Co, sondern auch kleine, gemeinnützige Organisationen vom Know-how (angehender) Datenanalyst*innen profitieren. 
 
 Wir bauen ein Netzwerk auf, in dem wir unser Wissen austauschen können, Workshops, Diskussionsrunden und Challenges anbieten und mit lokalen Projekten gemeinnützige Organisationen im Raum Stuttgart unterstützen können. 
 Wir befinden uns im Aufbau unserer Lokalgruppe und suchen Interessierte jeden Levels – ganz egal, ob du schon berufstätig bist oder gerade deinen allerersten Statistik-Kurs an der Uni abgelegt hast, bei uns bist du herzlich willkommen! Für unsere Arbeit entwickeln wir gerade eigene Strukturen, du hast also die Möglichkeit, dich mit deinen Ideen einzubringen, Verantwortung zu übernehmen und die Lokalgruppe aktiv mitzugestalten. Es sind aber auch alle willkommen, die nur ein bisschen hineinschnuppern wollen oder zunächst von einem Einführungskurs in R oder Python profitieren wollen. 

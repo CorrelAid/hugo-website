@@ -6,7 +6,7 @@ menu:
   nonprofits:
     weight: 40
 translationKey: "education"
-description: "Wir bieten Mitarbeiter:innen und ehrenamtlich Engagierten aus gemeinnützigen Organisationen Möglichkeiten ihr Wissen über Daten zu verbessern."
+description: "Wir bieten Mitarbeiter*innen und ehrenamtlich Engagierten aus gemeinnützigen Organisationen Möglichkeiten ihr Wissen über Daten zu verbessern."
 weight: 6
 img: "nonprofits/education.png"
 
@@ -27,29 +27,29 @@ Vereinbart eine Datensprechstunde!
 {{< /button >}}
 
 ## R Lernen - Der Datenkurs für die Zivilgesellschaft
-Jedes Quartal startet unser 12-wöchiges Bildungsprogramm "R Lernen - Der Datenkurs für die Zivilgesellschaft", das von der Deutschen Stiftung für Engagement und Ehrenamt gefördert wird. Je 25 Teilnehmer:innen können in dem Hybridformat mit eigener Lernplattform in Videos, Lerntexten, interaktiven Quiz und Übungen und lokalen Hausaufgaben mit Tutor:innen aus unserem Netzwerk lernen, wie man Daten in der Programmiersprache R verarbeitet. Die Teilnahme ist kostenfrei. Anmeldung erfolgt per [E-Mail](mailto:education@correlaid.org).
+Jedes Quartal startet unser 12-wöchiges Bildungsprogramm "R Lernen - Der Datenkurs für die Zivilgesellschaft", das von der Deutschen Stiftung für Engagement und Ehrenamt gefördert wird. Je 25 Teilnehmer*innen können in dem Hybridformat mit eigener Lernplattform in Videos, Lerntexten, interaktiven Quiz und Übungen und lokalen Hausaufgaben mit Tutor*innen aus unserem Netzwerk lernen, wie man Daten in der Programmiersprache R verarbeitet. Die Teilnahme ist kostenfrei. Anmeldung erfolgt per [E-Mail](mailto:education@correlaid.org).
 
 ## Workshops
 ### Wirkungsmessung
-Die Teilnehmer:innen lernen gemeinsam mit uns, wie soziale Organisationen Wirkungsketten und Wirkungsindikatoren entwickeln. Wir arbeiten während des Workshops mit anschaulichen Beispielen, direkt übertragbaren Instrumenten, gestalten gemeinsam Wirkungsketten und sprechen über den derzeitigen Stand der Wirkungsmessung in Deutschland.
+Die Teilnehmer*innen lernen gemeinsam mit uns, wie soziale Organisationen Wirkungsketten und Wirkungsindikatoren entwickeln. Wir arbeiten während des Workshops mit anschaulichen Beispielen, direkt übertragbaren Instrumenten, gestalten gemeinsam Wirkungsketten und sprechen über den derzeitigen Stand der Wirkungsmessung in Deutschland.
 **Lernziele:**
-- Die Teilnehmer:innen erforschen ihre Intention für Wirkungsmessung
-- Die Teilnehmer:innen erarbeiten ihre Wirkungskette
-- Die Teilnehmer:innen wählen Wirkungsindikatoren aus
+- Die Teilnehmer*innen erforschen ihre Intention für Wirkungsmessung
+- Die Teilnehmer*innen erarbeiten ihre Wirkungskette
+- Die Teilnehmer*innen wählen Wirkungsindikatoren aus
 
 ### Datenstrategie
-Die Teilnehmer:innen lernen gemeinsam mit uns, wie Daten und Technologie evidenzbasierte und ganz neue Arbeitsweisen ermöglichen. Wir stellen Fallbeispiele aus unserer Arbeit vor, geben eine Einführung in Instrumente, mit denen soziale Organisationen ihre Datenstrategie erarbeiten können.
+Die Teilnehmer*innen lernen gemeinsam mit uns, wie Daten und Technologie evidenzbasierte und ganz neue Arbeitsweisen ermöglichen. Wir stellen Fallbeispiele aus unserer Arbeit vor, geben eine Einführung in Instrumente, mit denen soziale Organisationen ihre Datenstrategie erarbeiten können.
 **Lernziele:**
-- Die Teilnehmer:innen erhalten ein Verständnis für das Potenzial von Daten und Datenanalyse allgemein
-- Die Teilnehmer:innen werden befähigt, das Potential von Datenanalyse in ihren Organisationen zu erkennen, und können potenzielle Hindernisse benennen
-- Die Teilnehmer:innen kennen Anlaufstellen und Hilfsangebote rund ums Thema Daten für ihre Organisation
+- Die Teilnehmer*innen erhalten ein Verständnis für das Potenzial von Daten und Datenanalyse allgemein
+- Die Teilnehmer*innen werden befähigt, das Potential von Datenanalyse in ihren Organisationen zu erkennen, und können potenzielle Hindernisse benennen
+- Die Teilnehmer*innen kennen Anlaufstellen und Hilfsangebote rund ums Thema Daten für ihre Organisation
 
 ### Datenvisualisierung mit Shiny Web Apps (R)
-Die Teilnehmer:innen lernen gemeinsam mit uns, wie Daten in R visualisiert werden können. Dazu nutzen wir das Open Source Framework R Shiny, mit dem wir interaktive Visualisierungen erstellen können.
+Die Teilnehmer*innen lernen gemeinsam mit uns, wie Daten in R visualisiert werden können. Dazu nutzen wir das Open Source Framework R Shiny, mit dem wir interaktive Visualisierungen erstellen können.
 **Lernziele:**
-- Die Teilnehmer:innen verstehen, wie Datenprojekte umgesetzt werden
-- Die Teilnehmer:innen können erste Codesegmente in R adaptieren
-- Die Teilnehmer:innen lernen Open Source Framework für die Umsetzung von Datenprojekten kennen
+- Die Teilnehmer*innen verstehen, wie Datenprojekte umgesetzt werden
+- Die Teilnehmer*innen können erste Codesegmente in R adaptieren
+- Die Teilnehmer*innen lernen Open Source Framework für die Umsetzung von Datenprojekten kennen
 
 ### Euer Thema?
 Gerne gestalten wir für Euch auch eigene Workshopformate! Schreibt uns dazu eine E-Mail mit Euren Themenwünschen und wir vereinbaren ein Erstgespräch.

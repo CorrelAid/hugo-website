@@ -21,7 +21,7 @@ Danke an alle unsere Speaker, Teilnehmer*innen und Organisatorinnen des diesjäh
 [Hier](https://correlaid.github.io/workshops/germany-meetups.html#november-2019-berlin) könnt ihr alle Folien und Informationen zu den einzelnen Talks finden.
 
 ## Was?
-Wie jedes Jahr erwartet dich eine spannende Mischung an Workshops - diesmal unter dem Überthema Open Data. Weiterhin wird es Möglichkeiten zum Austausch von Erfahrungen mit CorrelAid X - unseren lokalen Chaptern - und auch allgemeine Kurse für Anfänger:innen und Fortgeschrittene in verschiedenste Software und Coding-Techniken geben.
+Wie jedes Jahr erwartet dich eine spannende Mischung an Workshops - diesmal unter dem Überthema Open Data. Weiterhin wird es Möglichkeiten zum Austausch von Erfahrungen mit CorrelAid X - unseren lokalen Chaptern - und auch allgemeine Kurse für Anfänger*innen und Fortgeschrittene in verschiedenste Software und Coding-Techniken geben.
 
 Du warst noch nie bei einem CorrelAid Meetup? Perfekt! Denn das ist die beste Gelegenheit, um CorrelAid kennenzulernen. Wir freuen uns darauf, dich kennenzulernen! :) Florian hat seine Erfahrungen als "CorrelAid-Newbie" beim letztjährigen Meetup in diesem [Blog-Post](https://correlaid.org/blog/meetup-mannheim/) aufgeschrieben. Lies doch mal rein!
 

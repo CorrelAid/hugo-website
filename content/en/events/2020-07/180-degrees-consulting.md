@@ -13,13 +13,13 @@ languages:
 
 ## Der Workshop
 
-Die Teilnehmer:innen lernen gemeinsam mit uns, wie soziale Organisationen Wirkungsketten und Wirkungsindikatoren entwickeln. Wir arbeiten während des Workshops mit anschaulichen Beispielen, direkt übertragbaren Instrumenten, gestalten gemeinsam Wirkungsketten und sprechen über den derzeitigen Stand der Wirkungsmessung in Deutschland.
+Die Teilnehmer*innen lernen gemeinsam mit uns, wie soziale Organisationen Wirkungsketten und Wirkungsindikatoren entwickeln. Wir arbeiten während des Workshops mit anschaulichen Beispielen, direkt übertragbaren Instrumenten, gestalten gemeinsam Wirkungsketten und sprechen über den derzeitigen Stand der Wirkungsmessung in Deutschland.
 
 **Lernziele**:
 
-- Die Teilnehmer:innen erforschen ihre Intention für Wirkungsmessung
-- Die Teilnehmer:innen erarbeiten ihre Wirkungskette
-- Die Teilnehmer:innen wählen Wirkungsindikatoren aus
+- Die Teilnehmer*innen erforschen ihre Intention für Wirkungsmessung
+- Die Teilnehmer*innen erarbeiten ihre Wirkungskette
+- Die Teilnehmer*innen wählen Wirkungsindikatoren aus
 
 Für mehr Informationen zu diesem Workshopformat schreibt uns gerne unter nina.h@correlaid.org!
 
