@@ -2,7 +2,7 @@
 title: "CorrelAidX Austria - Raincloud Plots"
 date: 2020-05-11T22:01:56+02:00
 correlaidx: false
-eventDate: "2022-10-11"
+eventDate: "2022-10-18"
 eventTime: "20:00-21:00"
 eventRegistration: https://correlaid.github.io/correlaidx-austria-education/
 tags: [austria, "education", correlaidx]
