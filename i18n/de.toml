@@ -29,7 +29,7 @@ other       = "Unsere Arbeit"
 [support]
 other       = "Unterstützen"
 [mailing-list]
-other       = "Email Verteiler für Datenanalyst:innen"
+other       = "Email Verteiler für Datenanalyst\*innen"
 [mailing-list-npo]
 other       = "Newsletter für Non-Profits"
 [press]
@@ -59,7 +59,7 @@ other       = "Los geht's!"
 [data-hour]
 other   = "Datensprechstunde"
 [data-hour-description]
-other       = "Du bist bei einer NPO aktiv? Alle deine Fragen rund um unsere Arbeit und Daten kannst du in unserer *Datensprechstunde* mit unseren Koordinator:innen besprechen. Ob Projekte, Bildungsangebote, Veranstaltungen, Datenerhebung oder Datenanalyse: wir sehen uns dort!"
+other       = "Du bist bei einer NPO aktiv? Alle deine Fragen rund um unsere Arbeit und Daten kannst du in unserer *Datensprechstunde* mit unseren Koordinator*innen besprechen. Ob Projekte, Bildungsangebote, Veranstaltungen, Datenerhebung oder Datenanalyse: wir sehen uns dort!"
 [data-hour-book] 
 other = "Datensprechstunde vereinbaren"
 [error-claim-1]

@@ -20,7 +20,7 @@ meta:
     img="/images/partners/dataquest.png"
     website="https://dataquest.io"
 >}}
-[Dataquest](https://dataquest.io) unterstützt uns mit kostenlosen Lizenzen für ihre exzellenten Data Science Online Kurse. Auf Dataquest kann sich jeder unserer Data Scientists ganz individuell weiterbilden, um unsere Projektpartner:innen noch besser bei ihren Datenherausforderungen unterstützen zu können. 
+[Dataquest](https://dataquest.io) unterstützt uns mit kostenlosen Lizenzen für ihre exzellenten Data Science Online Kurse. Auf Dataquest kann sich jeder unserer Data Scientists ganz individuell weiterbilden, um unsere Projektpartner\*innen noch besser bei ihren Datenherausforderungen unterstützen zu können. 
 {{< /partner >}}
 
 {{< partner 
@@ -36,7 +36,7 @@ meta:
     img="/images/partners/dsee.png"
     website="https://www.deutsche-stiftung-engagement-und-ehrenamt.de/"
 >}}
-[Die Deutsche Stiftung für Engagement und Ehrenamt (DSEE)](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/) fördert seit 2020 ehrenamtliches Engagement in Deutschland. Dank ihrer Unterstützung können wir seit 2021 den 12-wöchigen Kurs "R Lernen - Der Datenkurs von und für die Zivilgesellschaft" anbieten, in dem Vertreter:innen aus der Zivilgesellschaft lernen, wie sie Datenprojekte angehen und in der Programmiersprache R umsetzen können.
+[Die Deutsche Stiftung für Engagement und Ehrenamt (DSEE)](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/) fördert seit 2020 ehrenamtliches Engagement in Deutschland. Dank ihrer Unterstützung können wir seit 2021 den 12-wöchigen Kurs "R Lernen - Der Datenkurs von und für die Zivilgesellschaft" anbieten, in dem Vertreter\*innen aus der Zivilgesellschaft lernen, wie sie Datenprojekte angehen und in der Programmiersprache R umsetzen können.
 {{< /partner >}}
 
 {{< partner 
@@ -52,7 +52,7 @@ meta:
     website="https://so-geht-digital.de"
 >}}
 
-Zusammen mit [*D3 - so geht digital*](https://so-geht-digital.de), [*OpenTransfer*](https://opentransfer.de/) und [*GoVolunteer*](https://govolunteer.com) haben wir zu Beginn der Corona-Krise das Angebot *Plötzlich digital: Die Sprechstunde* geschaffen. Die Sprechstunde gibt Nonprofits alle zwei Wochen die Möglichkeit, mehr über neue Tools zur digitalen Zusammenarbeit kennenzulernen. Ob Slack, Trello, HumHub, Office365, Nextcloud oder Passwortmanager: Expert:innen geben in 45 Minuten einen ersten praxisorientierten Einblick in Tools. Dank der exzellenten Organisationsskills des D3 Teams gibt es das Format nun schon seit 1,5 Jahren! [Hier](https://so-geht-digital.de/ploetzlich-digital-die-sprechstunde/) gibt es mehr Infos - und die Streams der vergangenen Sitzungen! 
+Zusammen mit [*D3 - so geht digital*](https://so-geht-digital.de), [*OpenTransfer*](https://opentransfer.de/) und [*GoVolunteer*](https://govolunteer.com) haben wir zu Beginn der Corona-Krise das Angebot *Plötzlich digital: Die Sprechstunde* geschaffen. Die Sprechstunde gibt Nonprofits alle zwei Wochen die Möglichkeit, mehr über neue Tools zur digitalen Zusammenarbeit kennenzulernen. Ob Slack, Trello, HumHub, Office365, Nextcloud oder Passwortmanager: Expert*innen geben in 45 Minuten einen ersten praxisorientierten Einblick in Tools. Dank der exzellenten Organisationsskills des D3 Teams gibt es das Format nun schon seit 1,5 Jahren! [Hier](https://so-geht-digital.de/ploetzlich-digital-die-sprechstunde/) gibt es mehr Infos - und die Streams der vergangenen Sitzungen! 
 {{< /partner >}}
 
 

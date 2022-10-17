@@ -48,9 +48,9 @@ In this course, participants learn how data and technology enable evidence-based
 ### Data visualization with Shiny Web Apps (R)
 In this course, participants learn how to visualize data in R. We will work with the open source frameworj R Shiny with which we will create interactive visualizations.
 **Learning objectives:**
-- Die Teilnehmer:innen understand data projects are conducted
-- Die Teilnehmer:innen can adapt code segments
-- Die Teilnehmer:innen get to know open source frame works for data analysis
+- Die Teilnehmer*innen understand data projects are conducted
+- Die Teilnehmer*innen can adapt code segments
+- Die Teilnehmer*innen get to know open source frame works for data analysis
 
 ### Your topic?
 We are also happy to come up with individual workshops. Write us an e-mail with your topic of choice and we can schedule a first appointment to figure out the details.
