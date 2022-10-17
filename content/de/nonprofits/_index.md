@@ -6,7 +6,7 @@ draft: false
 
 
 Während sich in der Wirtschaft in den letzten Jahren ein Verständnis für
-digitale Technologien entwickelt hat, werden Gesellschaft und zivilgesellschaftliche Organisationen hier bislang abgehängt. Deutlich wurde das im [Digital-Report 2020](https://www.digital-report.org/): 72 Prozent der 3,400 befragten Organisationen haben eine Organisationsstrategie, aber nur 38 Prozent erheben und/oder nutzen (externe) Daten zur Strategieentwicklung. Eine vollständig durchdachte Wirkungslogik haben nur 30 Prozent der Organisationen und nur insgesamt 28 Prozent messen tatsächlich ihre soziale Wirkung. Es fehlen finanzielle und personelle Ressourcen, um die neuen Möglichkeiten durch Daten und Datenanalyse erfolgreich nutzen zu können. Mitarbeiter:innen schätzen ihre Fähigkeiten und Kenntnisse im Umgang mit Daten als zu gering ein. 
+digitale Technologien entwickelt hat, werden Gesellschaft und zivilgesellschaftliche Organisationen hier bislang abgehängt. Deutlich wurde das im [Digital-Report 2020](https://www.digital-report.org/): 72 Prozent der 3,400 befragten Organisationen haben eine Organisationsstrategie, aber nur 38 Prozent erheben und/oder nutzen (externe) Daten zur Strategieentwicklung. Eine vollständig durchdachte Wirkungslogik haben nur 30 Prozent der Organisationen und nur insgesamt 28 Prozent messen tatsächlich ihre soziale Wirkung. Es fehlen finanzielle und personelle Ressourcen, um die neuen Möglichkeiten durch Daten und Datenanalyse erfolgreich nutzen zu können. Mitarbeiter\*innen schätzen ihre Fähigkeiten und Kenntnisse im Umgang mit Daten als zu gering ein. 
 
 Dabei können Daten und ihre Analyse ein wichtiger Enabler für gesellschaftliche Wirkung sein, indem sie dabei helfen, folgende Fragen zu beantworten:
 

@@ -3,16 +3,16 @@
     {
       "title": "Projektdefinition",
       "duration": "1-3 Wochen",
-      "work": "iterativer Austausch mit Projektkoordinator:innen (ca. 1-3 Stunden)",
+      "work": "iterativer Austausch mit Projektkoordinator*innen (ca. 1-3 Stunden)",
       "icon": "fa-comments",
-      "content": "Unsere Projektkoordinator:innen definieren zusammen mit euch das zu lösende Problem. Anschließend entscheiden wir, ob unsere ehrenamtlichen Data Scientists euch helfen können. Falls ja, klären unsere Projektkoordinator:innen zusammen mit euch ungefähre Dauer und Inhalt des Projekts ab und tragen die Inhalte für die Projektausschreibung zusammen."
+      "content": "Unsere Projektkoordinator*innen definieren zusammen mit euch das zu lösende Problem. Anschließend entscheiden wir, ob unsere ehrenamtlichen Data Scientists euch helfen können. Falls ja, klären unsere Projektkoordinator*innen zusammen mit euch ungefähre Dauer und Inhalt des Projekts ab und tragen die Inhalte für die Projektausschreibung zusammen."
     },
     {
       "title": "Ausschreibung und Teamauswahl",
       "duration": "1-3 Wochen",
       "work": "keiner",
       "icon": "fa-search",
-      "content": "Wir schreiben das Projekt an unser Netzwerk aus und stellen aus den Bewerber:innen ein Projektteam aus 2-8 ehrenamtlichen Datenanalyst:innen zusammen."
+      "content": "Wir schreiben das Projekt an unser Netzwerk aus und stellen aus den Bewerber*innen ein Projektteam aus 2-8 ehrenamtlichen Datenanalyst*innen zusammen."
     },
     {
       "title": "Onboarding und Kickoff",
@@ -33,7 +33,7 @@
       "duration": "1 Tag - 2 Wochen",
       "work": "Teilnahme an einem mehrstündigen Handover-Workshop, ggf. intern IT-Voraussetzungen zur Übernahme von zu hostenden Endprodukten schaffen, intensive Auseinandersetzung mit dem Endergebnis, seiner Wartung und Nutzung",
       "icon": "fa-sync-alt",
-      "content": "Das Team übergibt euch in einem Abschlussworkshop die Ergebnisse und führt euch in die Nutzung und eventuelle Wartung des Endprodukts ein. Bei zu hostenden Dashboards arbeiten wir mit euren IT-Expert:innen zusammen, um das Endprodukt erfolgreich bei euch in Produktion zu bringen."
+      "content": "Das Team übergibt euch in einem Abschlussworkshop die Ergebnisse und führt euch in die Nutzung und eventuelle Wartung des Endprodukts ein. Bei zu hostenden Dashboards arbeiten wir mit euren IT-Expert*innen zusammen, um das Endprodukt erfolgreich bei euch in Produktion zu bringen."
     },
     {
       "title": "Follow-Up",

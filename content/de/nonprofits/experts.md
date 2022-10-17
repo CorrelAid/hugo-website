@@ -1,5 +1,5 @@
 ---
-title: "Expert:innen"
+title: "Expert*innen"
 date: 2022-09-07T10:48:46+02:00
 draft: false
 menu:
@@ -9,7 +9,7 @@ translationKey: "experts"
 ---
 
 
-Ihr benötigt Unterstützung bei spezifischen Themen und sucht dafür Referent:innen? Wir vermitteln Expert:innen aus unserem Netzwerk an die Zivilgesellschaft. Für die Kontaktdaten unserer Expert:innen und für generelle Anfragen könnt Ihr uns gerne unter [education [at] correlaid [dot] org](mailto:education@correlaid.org) kontaktieren.
+Ihr benötigt Unterstützung bei spezifischen Themen und sucht dafür Referent*innen? Wir vermitteln Expert*innen aus unserem Netzwerk an die Zivilgesellschaft. Für die Kontaktdaten unserer Expert*innen und für generelle Anfragen könnt Ihr uns gerne unter [education [at] correlaid [dot] org](mailto:education@correlaid.org) kontaktieren.
 
 {{< expert
     key="anastasiia_kulakova"

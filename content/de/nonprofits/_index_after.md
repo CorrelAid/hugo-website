@@ -1,5 +1,5 @@
 ## Datensprechstunde
-Du bist bei einer NPO aktiv? Alle deine Fragen rund um unsere Arbeit und Daten kannst du in unserer *Datensprechstunde* mit unseren Koordinator:innen besprechen. Ob Projekte, Bildungsangebote, Veranstaltungen, Datenerhebung oder Datenanalyse: wir sehen uns dort!
+Du bist bei einer NPO aktiv? Alle deine Fragen rund um unsere Arbeit und Daten kannst du in unserer *Datensprechstunde* mit unseren Koordinator*innen besprechen. Ob Projekte, Bildungsangebote, Veranstaltungen, Datenerhebung oder Datenanalyse: wir sehen uns dort!
 {{< button 
     btn-class="btn-dark"
     href="https://calendly.com/correlaid-frie/datensprechstunde"
@@ -9,7 +9,7 @@ Datensprechstunde vereinbaren!
 {{< /button >}}
 
 ## Expert*innen Datenbank
-Ihr benötigt Unterstützung bei spezifischen Themen und sucht dafür Referent:innen? Wir vermitteln Expert:innen aus unserem Netzwerk an die Zivilgesellschaft. 
+Ihr benötigt Unterstützung bei spezifischen Themen und sucht dafür Referent\*innen? Wir vermitteln Expert\*innen aus unserem Netzwerk an die Zivilgesellschaft. 
 
 {{< button 
     btn-class="btn-dark"
