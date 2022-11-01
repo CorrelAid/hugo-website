@@ -163,5 +163,18 @@
       "subline": "Datenanalyse mit Python und R, Geodaten- und Visualisierungen, Wordpress",
       "text": "In der Datenanalyse interessiere ich mich vor allem für das Bearbeiten von größeren Datensätzen mit Tools wie Pandas (Python) oder dem R Tidyverse. In meiner beruflichen Tätigkeit im Managen von Websites in der IT beschäftige ich mich außerdem mit dem Aufsetzen von Seiten mit dem Content-Management-System Wordpress und den dazugehörigen Plugins. Karten und Visualisierungen von Geodaten gehören zu meinen erweiterten Kenntnissen."
     }
+  },
+  "andrew_sutjahjo": {
+    "name": "Andrew Sutjahjo",
+    "img": "/images/people/andrew_sutjahjo.jpg",
+    "website": "https://gitlab.com/andrewsutjahjo",
+    "en": {
+      "subline": "Scoping Data Science Projects; Search & Recommender Systems; NLP for social media",
+      "text": "I’m an end-to-end data scientist that has experience in large consultancies, startups, and scaleups. Most of my career has been focused on search and recommender systems for everything from police detectives to secondhand fashion, and to matching jobs and people. I’m comfortable with the entire journey of a data science project: scoping and exploration, productionization, monitoring and testing, and leaving it in a state in which others can easily improve upon it. Tech stack: python, scala, Golang, docker, kubernetes, terraform, GCP/AWS, SQL, NoSQL, Hadoop stack, Elasticsearch."
+    },
+    "de": {
+      "subline": "Scoping von Data Science-Projekten; Such- und Empfehlungssysteme; NLP für soziale Medien",
+      "text": "Ich bin ein Datenwissenschaftler, der Erfahrungen in großen Beratungsunternehmen, Start-ups und Scale-ups gesammelt hat. Die meiste Zeit meiner Karriere habe ich mich auf Such- und Empfehlungssysteme für so unterschiedliche Dinge wie Polizeidetektiven, Secondhand-Mode und dem Matching von Jobs und Menschen konzentriert. Ich kenne mich mit dem gesamten Weg eines Data-Science-Projekts aus: Scoping und Exploration, Produktion, Überwachung und Testen sowie die Übergabe des Projekts in einem Zustand, in dem andere es leicht verbessern können. Tech Stack: Python, Scala, Golang, Docker, Kubernetes, Terraform, GCP/AWS, SQL, NoSQL, Hadoop Stack, Elasticsearch."
+    }
   }
 }
