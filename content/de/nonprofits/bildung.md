@@ -4,10 +4,10 @@ date: 2020-05-10T22:01:56+02:00
 draft: false
 menu:
   nonprofits:
-    weight: 40
+    weight: 2
 translationKey: "education"
 description: "Wir bieten Mitarbeiter*innen und ehrenamtlich Engagierten aus gemeinnützigen Organisationen Möglichkeiten ihr Wissen über Daten zu verbessern."
-weight: 6
+weight: 2
 img: "nonprofits/education.png"
 
 ---

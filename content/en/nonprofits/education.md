@@ -4,11 +4,11 @@ date: 2020-05-10T22:01:56+02:00
 draft: false
 menu:
   nonprofits:
-    weight: 20
+    weight: 3
 translationKey: "education"
 description: "We provide opportunities for staff and volunteers from nonprofit organizations to improve their data skills."
 img: "nonprofits/education.png"
-weight: 2
+weight: 3
 ---
 
 

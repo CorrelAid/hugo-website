@@ -4,10 +4,10 @@ date: 2020-05-10T22:01:56+02:00
 draft: false
 menu:
   nonprofits:
-    weight: 200
+    weight: 3
 translationKey: "community"
 description: "We advocate for the digital needs of civil society and engage in a dialogue about the value and benefits of data and data analytics for the common good."
-weight: 8
+weight: 3
 img: "nonprofits/community.jpg"
 
 ---

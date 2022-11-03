@@ -1,10 +1,17 @@
 <div class="container" id="data-science">
-    <div class="row my-5">
+    <div class="row my-2">
         <div class="col-12 col-md-4col-lg-5 align-self-center">
+            {{  if isset .Params "link"  }}
+            <a href="{{ .Params.link }}" class="ca-img-container link">
+                <img class="img-fluid dark" src="/images/{{ .Params.img }}" alt="{{ .Title }}" />
+                <div class="ca-img-border"></div>
+            </a>
+            {{ else  }}
             <a href="{{ .Permalink }}" class="ca-img-container link">
                 <img class="img-fluid dark" src="/images/{{ .Params.img }}" alt="{{ .Title }}" />
                 <div class="ca-img-border"></div>
             </a>
+            {{ end }}
         </div>
         <div class="col-12 align-self-center">
             <h1 class="my-0"><a href="{{ .Permalink }}">{{.Title}}</a></h1>

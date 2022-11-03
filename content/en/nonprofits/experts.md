@@ -6,8 +6,10 @@ menu:
   nonprofits:
     weight: 1000
 translationKey: "experts"
+description: "Do you need support for specific topic areas or looking for speakers? We match civic society with experts from our network. "
+weight: 8
+img: "nonprofits/experts.jpg"
 ---
-
 
 Do you need support for specific topic areas or looking for speakers? We match civic society with experts from our network. Contact us at [education [at] correlaid [dot] org](mailto:education@correlaid.org) for contact details and general inquiries.
 

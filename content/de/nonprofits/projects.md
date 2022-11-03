@@ -4,10 +4,10 @@ date: 2020-05-10T22:01:56+02:00
 draft: false
 menu:
   nonprofits:
-    weight: 10
+    weight: 1
 translationKey: "projectsnpo"
 description: "Wir führen pro-bono Datenanalyseprojekte für gemeinnützige Organisationen durch und ermöglichen so, dass auch die Zivilgesellschaft das große Potential von Daten und Datenanalyse nutzen kann."
-weight: 2
+weight: 1
 img: "nonprofits/projects.JPG"
 
 ---
