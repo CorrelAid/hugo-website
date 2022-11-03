@@ -1,0 +1,169 @@
+---
+title: "Data Science Master Programmes"
+date: 2021-02-14T00:00:00+02:00
+image: "image.jpg"
+slug:   "master-programmes"
+summary: "Overview and testimonials of some Data Science Masters in Germany and Europe"
+draft:      true
+categories:       
+    - Data Science
+    - Statistics
+    - Master Programm
+    - University
+author: 
+    name:           "Frie & Nicolas"
+    image:          "FrieNicolas.jpg"
+    description:    "Frie is founding member of CorrelAid and currently employed there. Nicolas is active in CorrelAid as part of the Mentoring Programm orgainzation team and in the naklar.io project"
+    twitter:        "https://twitter.com/ameisen_strasse"
+    facebook:       ""
+    github:         "friep"
+    email:          "frie.p@correlaid.org"
+    website:        "https://frie.codes"
+meta:
+  title: "Data Science Master Programmes"
+  description: "The other day I went through the list of books I have read over the last
+                half a year. And I noticed that most popular science books on that list
+                were somewhat related to data science – in one way or the other."
+  image: "image.jpg"
+  keywords: "CorrelAid, Data4Good, Master Programmes, testimonials"
+---
+
+
+Social Science and Data Science 
+==
+
+## Study programmes 
+
+- Germany:
+    - Data Science
+        - Data Science, Mannheim
+        - [Management & Data Science](https://www.leuphana.de/graduate-school/master/studienangebot/management-data-science.html), Lüneburg
+         - Data Science LMU
+         - CITH - Bamberg
+         - Hertie School: social / political data science 
+         - SEDS (Konstanz)
+    - Statistik
+        - Survey Statistics, Bamberg
+        - Survey Statistics, Trier
+        - Statistik, Berlin
+        - Statistik, LMU
+        - Statisik mit sozial- und wirtschaftswissenschaftlicher Ausrichtung, LMU
+        - Statistik, Dortmund
+        - Social and Economic Data Analysis, Konstanz
+
+    - Methoden 
+        - Survey Methodology
+- UK 
+    - Social Research Methods (LSE)
+    - (Evidence-based Social Intervention and Policy Evaluation (Oxford)) --> nicht wirklich Data Science aber trotzdem geil :D
+    - Social Data Science (Oxford)
+    - Official Statistics (South Hampthon)
+
+- Belgium
+    - Statistics, Leuven
+- Sweden
+    - [Statistics & Machine Learning](https://liu.se/en/education/program/f7msl)
+
+## Erfahrungsberichte
+
+### Survey Statistik Bamberg
+Trotz relativ geringer Anforderungen an den Methodenanteil im Bachelor sollte der Mathematische Anspruch nicht unterschätzt werden, es handelt sich weiterhin um einen Statistik-Master für den man in Algebra, Integral- und Matrizenrechnung fit sein sollte.
+Das Studium legt einen Schwerpunkt auf Bayesianische Methoden und Imputationsverfahren. Es ist aber auch eine spezialisierung auf Stichprobenverfahren oder Survey Methodik möglich. Als Software wird hier meist R benutzt. :tada:
+Weitere Kurse bsp aus der angewandten Infomatik können im Wahlbereich belegt werden, sind aber kein fester Bestandteil des Masters. 
+Generell gutes Betreuungsverhältnis und große Kursauswahl -auch bedingt durch die Kooperation mit Trier/Berlin.
+
+### Applied Statistics in Trier
+Der englischsprachige Master, welcher zuvor den Namen Survey Statistics trug, richtet sich im Grunde genommen an alle Absolventen quantitativer Fachrichtungen mit entsprechender Motivation - und genügend ECTS-Punkten (an der Zahl 30) in statistischen Kursen. Wer diese nicht erreicht sollte es mit einem guten Motivationsscheiben versuchen, der Lehrstuhl ist hier durchaus kulant. Die Kursgrößen sind sehr klein und nach einer Woche kennt man jeden Kommolitonen persönlich. Wie auch in Bamberg sollte jedoch beachtet werden, dass der mathematische Anteil durchaus hoch ist; damit bietet sich hier einer der wenigen Gelegenheiten für SoWi-Bachelor, im Studium ihre ausgeprägten Methodenkenntnisse mit fundierter Mathematik zu stärken. Das erste Semester ist entsprechend straff (Analysis, Lineare Algebra, teils mathematische Beweise) und offenbar zum Aussieben konzipiert worden. Im Gegensatz zu Bamberg mit baysianischem Schwerpunkt steht die frequentistische Statisik im Vordergrund. Machine Learning spielt erst im späteren Verlauf eine Rolle. 
+
+Die weiteren Semester werden allerdings viel lockerer und man hat Zeit, sich zu spezialisieren. Es besteht nach wie vor eine Kooperation mit den Masterprogrammen in Bamberg und Berlin. Aus diesen können einzelne Kurse per Videokonferenz belegt werden. In Applied Statistics muss eine Spezialsierung gewählt werden, seit neustem kann dies auch "Data Science" sein, da vor kurzem an der Universität ein benachbarter Data Science Studiengang gegründet wurde. Auch Spezialisierungen auf amtliche Statistik, Stichprobentheorie oder Geostatistik sind möglich; die hauptsächlich genutzte Sprache ist R. Die Universität Trier legt mit ihrem Lehrstuhl für Wirtschafts- und Sozialstatistik einen besonderen Fokus auf Mikrosimulationen und steht in enger Kooperation mit den statistischen Ämtern; ein EMOS-Zertifikat kann erworben werden, was für eine Beamtenlaufbahn in der Statistik schnell eine Eintrittskarte darstellt. Mit entsprechender Motivation und Eigenintiative für zusätzliche Fertigkeiten stellt Applied Statistics eine gute Grundlage für eine Data-Science-Karriere dar.
+
+### Mannheim Master in Data Science
+Der Mannheim Master in Data Science (MMDS) ist sehr Informatik-lastig. Die einzigen Unterschiede zum regulären Wirtschaftsinformatik-Master sind, dass der MMDS auch SozialwissenschaftlerInnen offen steht und (theoretisch) Kurse aus Wirtschaftsmathematik, Soziologie und Politik  belegt werden können. Zu Beginn des Studiums (nur im Wintersemester!) gibt es ein "Fundamentals"-Modul, in dem die Studierenden auf einen Stand gebracht werden sollen. D.h. InformatikerInnen besuchen Bachelorvorlesungen in empirischen Methoden, für alle Anderen gibt es "Crashkurse" in Java und Datenbanksystemen - Beide Kurse sind sehr umfang- und arbeitsreich. Generell ist der MMDS eher auf Wirtschaftsinformatiker und -mathematikerInnen ausgerichtet, entsprechend wird solides Vorwissen in Linearer Algebra, Matritzenrechnung, Beweisführung und Theoretischer Informatik vorausgesetzt. Als Software wird hauptsächlich RapidMiner sowie Java inkl. diverser Bibliotheken (Mahout, TensorFlow...) genutzt, teilweise auch Python. R findet gelegentlich Verwendung, spezielle R-Kurse werden aber nicht angeboten.
+
+Zum Schluss noch ein Wort der Warnung: Der MMDS wird erst seit Sommer 2017 angeboten und hat deshalb noch massiv mit diversen Kinderkrankheiten zu kämpfen (Kollidierende Vorlesungs- und Klausurtermine, miserable Kommunikation, viel zu wenige Plätze in den Seminaren, Probleme bei Auslandsaufenthalten etc.), die einen Abschluss in Regelstudienzeit nicht, oder nur mit sehr viel (Los-)Glück, möglich machen. 5-6 Semester sind wesentlich realistischer. Außerdem sollte man sich bewusst sein, dass die Uni Mannheim sehr leistungs- und wettbewerbsorientiert ist: Die Durchschnittsnote ist Entscheidungskriterium für Alles, vom Austauschplatz über die Mitgliedschaft bei studentischen Initiativen bis hin zur Einladung zur Grillparty der Fakultät.
+
+### Lüneburg Master Management and Data Science
+[](https://)
+Der Master Management & Data Science in Lüneburg ist eine Kombination aus Informatik und Mathematik. Der Managementteil begrenzt sich auf 3 Vorlesungen in den 4 Semestern und befasst sich hauptsächlich mit Entrepreneurship. Ein besonderes Merkmal der Leuphana ist das Komplementärangebot, das in drei Themenbereiche der philosophischen und kritischen Betrachtung wissenschaftlicher Methodik unterteilt ist. Es ist vorgesehen, dass Studierende in den ersten drei Semestern ein Management Modul, ein Komplementärmodul und vier Data Science Veranstaltungen besuchen. Der Master ist grundsätzlich offen für Studierende auch mit sozialwissenschaftlichem Hintergrund, allerdings müssen Mathematikkentnisse in linearer Algebra und Wahrscheinlichkeitstheorie vorhanden sein. Des Weiteren ist der Master interdisziplinär und auf Englisch. Insgesamt werden 25 Studierende, wovon 12-13 Studierende aus dem europäischem und nicht-europäischem Ausland kommen, zu dem Master zugelassen. Zu Beginn des Masters werden Grundlagenvorlesungen zu linearer Algebra, Machine Learning, Programmieren (R später Python) angeboten. In den weiteren Semestern hat man dann vermehrt die Möglichkeit Multy Layer Perceptrons, Support Vector Machines, Neuronale Netze und vieles mehr anzuwenden (auch erste Erfahrungen in GPU Programmierung zu machen). Für die Implementierung werden verschiedene Bibliotheken genutzt wie Tensorflow, Theano, Caffe, SciPy und viele mehr, genutzt. Alles was Implementierung angeht, wird einem selbst überlassen. Man bekommt Aufgaben und Projekte, jedoch ist es an den Studierenden die Praxis autodidaktisch selbst zu erlernen.   
+
+Der Master Management & Data Science besteht erst seit 2015 und daher gibt es noch Verbesserungspotential bei der Strukturierung und inhaltlichen Abstimmungen der Veranstaltungen. Wenn man einen starken Mathematik und/oder Informatikhintergrund hat, dann sollte der Master in 4 Semestern machbar sein. Das Masterprogramm ist inhaltlich sehr spannend und macht große Freude, auch wenn die Struktur manchmal etwas chaotisch wirkt.
+
+(https://www.leuphana.de/en/graduate-school/master/course-offerings/management-data-science.html)
+
+### Duisburg Master Survey Methodology
+Der Master Survey Methodology am Institut für Soziologie in Duisburg beschäftigt sich im Kern mit den konzeptionellen und methodischen Aspekten bei der Durchführung von quantitativen Befragungen sowie mit der dazugehörigen Datenanalyse.Der Verlaufsplan ist fest vorgegeben und enthält unter anderem Kurse zu Fragebogenkonstruktion, Erhebungsmodi, Stichprobenziehung sowie zu multivariater Statistik und zur Analyse von Längsschnittdaten.
+Der Master ist offen für andere Studiengänge (etwa Politik, Psychologie, VWL), jedoch werden grundlegende Kenntnisse in den Bereichen Statistik und Methoden der empirischen Sozialforschung vorausgesetzt. Die Kohorten sind recht klein (bis zu ca. 16), so dass ein sehr gutes Betreuungsverhältnis zu den Dozierenden besteht. Die Seminare sind alle auf Deutsch, jedoch ist die verwendete Literatur größtenteils auf Englisch.
+In den Kursen zur Datenanalyse kommen in erster Linie SPSS und Stata zum Einsatz, jedoch spielt auch R eine sehr wichtige Rolle. Neben dem regulären Curriculum werden jedes Semester übergreifend eine Reihe an freiwilligen Zusatzseminaren angeboten, die unter anderem spezielle methodische Fragestellungen und Analysetechniken behandeln.
+Insgesamt ist der Master inhaltlich eher anspruchsvoll, jedoch gut in den vier Semestern schaffbar. Hervorzuheben ist, dass es sich bundesweit aktuell um den einzigen Master handelt, der sich speziell mit der Methodik und der Durchführung quantitativer Befragungen auseinandersetzt. Wer sich genau hierfür interessiert (in Kombination mit entsprechenden statistischen Analyseverfahren), ist hier bestens aufgehoben.
+
+
+## Blogeintrag
+
+Bald beginnt hier in Deutschalnd nicht nur ein neues Semester sondern auch die Bewerbungsphase für viele Master-Studiengänge. Einige Mitglieder unseres Netzwerks müssen sich die Frage stellen, wie es nach ihrem Bachelor weiter gehen soll und auch in unserem Kernteam standen wir vor nicht allzu langer Zeit vor ähnlichen Fragen. 
+Nachdem Frie zuletzt bereits bei Women in Data Science über den Übergang von den Sozialwissenschaften zu Data Science gesprochen hat ([siehe hier](https://twitter.com/fraukolos/status/971771383897313280)), möchte ich euch in diesem Blogeintrag einen kleinen Überblick zu Methoden, Data-Science und Statistik-Mastern geben. Hier ist er also: The CorrelAid-Guide to Masterstudium!
+
+Ihr solltet zunächst Fragen in welche Richtung ihr mit eurem Master gehen wollt. Liegt euch der Sinn eher nach einem Studium mit inhaltlichem Schwerpunkt und großem Methodenmodul, wollt ihr euch auf statistische Methoden spezialisieren oder doch eher in Richtung Informatik? Hiervon hängt nicht nur die letztendliche Wahl des Masters sondern auch die Vorbereitung auf das kommende Studium ab. Zu guter letzt beschränken sich gute Masterstudiengänge natürlich nicht nur auf Deutschand. Im letzten Abschnitt stelle ich dementsprechend auch einige internationale Programme vor. 
+
+Zunächst zu den Statistik-Mastern:
+
+- Msc Statistik (Universität Dortmund)
+    Die Technische Universität Dortmund hält eine eigene Fakultät für Statistik mit etwa 700 Studierenden. An dieser wird, aufbauend auf dem gleichnamigen Bachelorprogramm, ein Master in Statistik angeboten. Dieser Master richtet sich hauptsächlich an Personen, die bereits ein statistisches Grundstudium abgeschlossen haben und ihre Kenntnisse weiter vertiefen möchten.                     Möglichkeiten werden hierfür, neben den Grundmodulen Statistik V/VI, unter Anderem in den Bereichen klinische Statistik oder Ökonometrie geboten. Die Zulassungsvoraussetzung erfordern jedoch, im Gegensatz zu vielen anderen Programmen, nicht nur eine bestimmte Anzahl von Credits in Methoden oder Mathematik, sondern die inhaltliche Gleichwertigkeit des eigenen Bachelors mit dem der Uni Dortmund. Soltet ihr euch hier unsicher sein lohnt es sich die Studienberatung direkt anzuschreiben. Ein weiters Plus falls ihr euch für Dortmund entscheiden solltet ist natürlich unser Local Chapter unter der Leitung von Damon!
+
+- Msc Statistische Wissenschaften (Bielefeld)
+    Ebenfalls in NRW bietet die Universität Bielefeld den interdisziplinär ausgerichteten Master statistische Wissenschaften an. Dieser wird gemeinsam von den Fakultäten Soziologie, Psychologie, Wirtschaftswissenschaften und Mathematik angeboten und richtet sich explizit an Studierende all dieser Fachrichtungen solange diese einen methodischen Schwerpunkt im Bachelor nachweisen können. Um eingen gleichen Kenntnissstand im Studium sicherzustellen, gibt es in den ersten beiden Semestern eine Angleichungsphase in der eventuell Fehlende Grundlagen nachgeholt werden können. Anschließend gibt es die Möglichkeit sich unter anderem in Marketing, Forschungsmethoden und Evaluation oder empirischer Sozialforschung zu spezialisieren. Ein Auslandssemester lässt sich durch ein eigens darauf ausgelegtes Modul ebenfalls problemlos einbinden.
+    Zugangsvorraussetzung sind mindestens 20 Credits im Methodenbereich. Setzen sich diese nicht mendestens aus jeweils 10 in Methoden bzw. Mathematik zusammen, kann es zu Auflagen kommen die in den ersten Mastersemestern nachgeholt werden müssen.
+    
+- MSc Angewandte Statistik (Universität Göttingen)
+    Der Master Angewandte Statistik in Göttingen ist ebenfalls interdisziplinär ausgerichtet, wendet sich jedoch eher an Studierende die bereits einen technischen Hintergrund haben. Zur Angleichung wird zu Studienbeginn ein Mathevorkurs angeboten. Der Master legt insgesamt einen Schwerpunkt auf statistische Modellierung bietet aber darüber hinaus die Möglicheit sich auf Informatik, empirische Sozialforschung, Lebens- oder Wirtschaftswissenschaften zu spezialisieren. Hauptarbeitstool ist hier R was wir natürlich sehr unterstützen! [Hier](https://www.uni-goettingen.de/de/421501.html) findet ihr einen Link zum Studienplan. :R:
+    Um sich in den Master einzuschreben müsst ihr mindestens 60 Credits im Methodenbereich vorweisen von denen mindestens 24 aus dem Bereich Statistik kommen müssen.
+
+- Msc Statistik / Statisik mit sozial- und wirtschaftswissenschaftlicher Ausrichtung / Biostatistik (LMU München)
+- Msc Statistics (FU/TU/Humboldt/Charité Berlin)
+- Msc Survey Statistik (Trier)
+- Msc Survey Statistik (Bamberg)
+
+Doch nicht nur in der Statistik gibt es mittlerweile ein großes Angebot auch die Master im Bereich Data-Science sind auf dem Vormarsch.
+
+- Msc Data Science (Marburg)
+- Msc Data Science (Dortmund)
+- Msc Data Science (LMU München)
+- Msc Data Science (Mannheim)
+- Msc Social and Economical Data Science (Konstanz)
+- Msc Management and Data Science (Lüneburg)
+
+Weitere Master in Deutschland
+- MA Survey Methodology (Duisburg)
+- Msc Computing in the Humanities (Bamberg)
+- Liste Methodenlastige Masterstudiengänge Prof Goerres
+- Informatik für Geistes- und Sozialwissenschaftler (Chemnitz)
+
+
+Internationale Programme
+- UK
+    - Social Research Methods (LSE)
+    - (Evidence-based Social Intervention and Policy Evaluation (Oxford)) --> nicht wirklich Data Science aber trotzdem geil :D
+    - Social Data Science (Oxford)
+    - Official Statistics (South Hampthon)
+
+- Belgium
+    - Statistics, Leuven
+- Sweden
+    - [Statistics & Machine Learning](https://liu.se/en/education/program/f7msl)
+
+Weitere Masterstudiengänge in den Sozialwissenschaften mit ausgeprägtem  Methodenbereich
+Falls ihr aus der Politikwissenschaft kommt und doch lieber ein Studium mit fachlichem Schwerpunkt anstrebt könnte euch außerdem [diese](https://www.uni-due.de/politik/goerres_empfehlungen.php) Liste von Professor Goerres weiterhefen. Hier wurden weitere Studiengänge mit großem Methodenanteil gesammelt.
+
+Überblickstabelle
+
+| Studiengang | Stadt | Zulassungsvorraussetzungen | Bewerbungsphase | Studienstart | Website |
+|------ | ----- | ----- | ----- | ----| ----- |
+| Msc Statistik | ? | gleichwertiger BA Statistik |   
+| Msc statistische Wissenschaften | ? | 20 Credits in Methoden (min. 10 Statistik **und** Mathematik)
+| Msc Angewandte Statistik |Göttingen| 60 Credits in Methoden (min. 24in Statistik) | 01.04. - 14.05. | nur WS | https://www.uni-goettingen.de/de/421501.html |
+| Msc Statistik mit wirtschafts- und sozialwissenschafticher Ausrichtung | München |Bachelor mit Statistik als Haupt oder Nebenfach (min. 42 Credits), Eignungstest | 01.04. - 15.07. bzw. 01.10. - 15.01 | Ws und SS | https://www.uni-muenchen.de/studium/studienangebot/studiengaenge/studienfaecher/statistik/master1/index.html |
+| Informatik für Geistes- und Sozialwissenschaftler | Chemnitz | zulassungsfrei |bis 15.07 |https://www.cs.uni-kl.de/studium/studiengaenge/bm-si/ |
+| Master of Data Master of Data Science for Public Policy (MDS) | Berlin | ? | ? | September | https://www.uni-konstanz.de/en/study/before-you-study/study-programmes/masters-degree/social-and-economic-data-science-msc/ |
+| Msc Social and Economic Data Science | Konstanz | ? | ? | ? | https://www.hertie-school.org/en/mds |
+
+
+------------------------------------------------------------------------
