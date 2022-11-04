@@ -84,6 +84,8 @@ other       = "Upcoming Events"
 other       = "Past Events"
 [events-when]
 other = "When"
+[events-place]
+other = "Where"
 [events-lang]
 other = "Language"
 [events-registration]
