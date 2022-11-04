@@ -4,44 +4,41 @@
 
 {{ if eq .Params.correlaidx true }}
 <div class="hero correlaid-x">
-    <div class="row justify-content-center h-100">
-      <div class="col-12 align-self-center text-center">
-        <img class="img-fluid mb-5 correlaid-logo" src="/images/correlaid/correlaid-x-brand.png" alt="CorrelAid Logo" />
-        <h1 class="events-correlaid-x-box uppercase">
-            <span>{{ trim .Title " " }}</span>
-        </h1>
-        {{ with .Params.subtitle }}
-        <h2 class="events-correlaid-x-box">
-            <span>{{ . }}</span>
-        </h2>
-        {{end }}
-      </div>
+  <div class="row justify-content-center h-100">
+    <div class="col-12 align-self-center text-center">
+      <img class="img-fluid mb-5 correlaid-logo" src="/images/correlaid/correlaid-x-brand.png" alt="CorrelAid Logo" />
+      <h1 class="events-correlaid-x-box uppercase">
+        <span>{{ trim .Title " " }}</span>
+      </h1>
+      {{ with .Params.subtitle }}
+      <h2 class="events-correlaid-x-box">
+        <span>{{ . }}</span>
+      </h2>
+      {{end }}
     </div>
   </div>
+</div>
 {{ else }}
 <!-- CorrelAidX global -->
 <div class="hero correlaid">
-    <div class="row justify-content-center h-100">
-      <div class="col-12 align-self-center text-center">
-        <img
-          class="img-fluid mb-5 correlaid-logo"
-          src="/images/correlaid/correlaid-brand.png"
-          alt="CorrelAid Logo"
-        />
-        <h1 class="events-correlaid-box uppercase">
-            <span>
-                {{ trim .Title " " }}</h1>
-            </span>
-        {{ with .Params.subtitle }}
-        <h2 class="events-correlaid-box">
-            <span>
-                {{ . }}
-            </span>
-        </h2>
-        {{end }}
-      </div>
+  <div class="row justify-content-center h-100">
+    <div class="col-12 align-self-center text-center">
+      <img class="img-fluid mb-5 correlaid-logo" src="/images/correlaid/correlaid-brand.png" alt="CorrelAid Logo" />
+      <h1 class="events-correlaid-box uppercase">
+        <span>
+          {{ trim .Title " " }}
+      </h1>
+      </span>
+      {{ with .Params.subtitle }}
+      <h2 class="events-correlaid-box">
+        <span>
+          {{ . }}
+        </span>
+      </h2>
+      {{end }}
     </div>
   </div>
+</div>
 
 {{ end }}
 
@@ -51,11 +48,8 @@
   <div class="collapse navbar-collapse">
     <div class="navbar-nav mr-auto"></div>
     <div class="navbar-nav mr-auto">
-      <a
-        href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"
-        target="_blank"
-        class="nav-item nav-link active"
-      >
+      <a href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"
+        target="_blank" class="nav-item nav-link active">
         <b>{{ .Params.newsletter }}</b>
       </a>
     </div>
@@ -71,15 +65,23 @@
       <h2>
         {{ if isset .Params "subtitle" }} {{ .Params.subtitle }} {{ end }}
       </h2>
-      <p><b>{{ i18n "events-when" }}: </b>{{ .Params.eventDate }} 
-        {{ with .Params.eventTime }}, {{ . }} {{ end }}</p>
-      <p><b>{{ i18n "events-lang" }}: </b> {{ range .Params.languages}} {{ .}} {{end}}</p>
-      {{ with .Params.eventRegistration }} <p><b>
-        {{ i18n "events-registration" }}: </b>
-        <a href="{{.}}">{{ i18n "here" }}</a> 
-      </p> 
-       {{ end }}
-        {{ .Content }}
+      <p>
+        <b>{{ i18n "events-when" }}:</b> {{ .Params.eventDate }}{{ with .Params.eventTime }}, {{ . }} {{ end }}
+      </p>
+      {{  if isset .Params "place"  }}
+      <p>
+        <b>{{ i18n "events-place" }}: </b> {{  .Params.place }} 
+      </p>
+      {{  end  }}
+      <p>
+        <b>{{ i18n "events-lang" }}: </b> {{ range .Params.languages}} {{ .}} {{end}}
+      </p>
+      {{ with .Params.eventRegistration }} 
+      <p><b>{{ i18n "events-registration" }}: </b>
+        <a href="{{.}}">{{ i18n "here" }}</a>
+      </p>
+      {{ end }}
+      {{ .Content }}
     </div>
   </div>
 </div>

@@ -5,6 +5,7 @@ start: 2020-05-11T22:01:56+02:00 # edit date in ISO Format, e.g. 2022-09-06, lea
 eventDate: "2022-11-15"
 eventTime: "17:00-18:30"
 eventRegistration: "https://ee.correlaid.org/x/gWy2ss6P" # leave empty if not needed
+place: "University of Konstanz - G227a"
 tags: ["konstanz", "education", "correlaidx"] 
 languages: ["deutsch"]
 ---
