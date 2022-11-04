@@ -1,5 +1,5 @@
 {{ define "main" }} {{ $lang := .Site.Language.Lang }}
-<div class="container mt-5 pt-5">
+<div class="container mt-5 pt-5 pb-5">
 
   <div class="row">
     <div class="col-12">
@@ -19,21 +19,27 @@
   <div class="row">
     <div class="col-12">{{ .Content }}</div>
   </div>
-  
+
+  <!-- Kacheln -->
+
   <div class="row">
-    
     <div class="col-12">
       <div class="row">
         {{ range .Pages.ByWeight }}
-        {{ if not (or (strings.HasSuffix .File.BaseFileName "_after") (strings.HasSuffix .File.BaseFileName "_before" ) (eq .File.BaseFileName "experts")) }}      
+        {{ if not (or (strings.HasSuffix .File.BaseFileName "_after") (strings.HasSuffix .File.BaseFileName "_before" )) }}  
+        
         <div class="col-12 col-md-4">
-          {{ partial "feature-volunteer.html" . }}
+          {{ partial "feature.html" . }}
         </div>
         {{ end }}
         {{ end }}
       </div>
     </div>
-    
+  </div>
+    <!--  -->
+ 
+ <!-- Elmo -->
+    <div class="row">
     {{ $afterPath := printf "%s%s_after.md" .Dir .File.BaseFileName }}
     {{ if (fileExists $afterPath) -}}
         {{ with .Site.GetPage $afterPath }}
@@ -43,6 +49,7 @@
         {{ end }}
     {{- end }}
   </div>
+<!--  -->
 
 </div>
 {{ end }}

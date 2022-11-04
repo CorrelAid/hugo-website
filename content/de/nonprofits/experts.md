@@ -6,6 +6,9 @@ menu:
   nonprofits:
     weight: 1000
 translationKey: "experts"
+description: "Ihr benötigt Unterstützung bei spezifischen Themen und sucht dafür Referent*innen? Wir vermitteln Expert*innen aus unserem Netzwerk an die Zivilgesellschaft."
+weight: 8
+img: "nonprofits/experts.jpg"
 ---
 
 
