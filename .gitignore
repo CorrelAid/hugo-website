@@ -16,3 +16,5 @@ venv
 
 PRETIX_API_TOKEN
 .hugo_build.lock
+
+hugo
