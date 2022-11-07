@@ -14,7 +14,11 @@
             {{ end }}
         </div>
         <div class="col-12 align-self-center">
+            {{  if isset .Params "link"  }}
+            <h1 class="my-0"><a href="{{ .Params.link }}">{{.Title}}</a></h1>
+            {{  else  }}
             <h1 class="my-0"><a href="{{ .Permalink }}">{{.Title}}</a></h1>
+            {{  end  }}
             <p class="lead">
                 {{ .Params.description }}
             </p>
