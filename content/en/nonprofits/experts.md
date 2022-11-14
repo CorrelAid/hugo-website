@@ -84,3 +84,9 @@ Do you need support for specific topic areas or looking for speakers? We match c
     link-color="ca-green-text"
 >}}
 {{< /expert >}}
+
+{{< expert
+    key="andrew_sutjahjo"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
