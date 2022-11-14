@@ -180,5 +180,70 @@
       "subline": "Community & CorrelAidX",
       "text": "Marco studiert zurzeit im Bachelor Politik- und Verwaltungswissenschaften an der Universität Konstanz. Zu CorrelAid ist er 2021 durch das Local Chapter in Konstanz gekommen. Bei CorrelAid kümmert er sich ab jetzt mit Phil um den Bereich Community Management. Er freut sich dieses Jahr auf die Zusammenarbeit mit allen CorrelAidX Chaptern und steht euch bei Fragen oder Anliegen in den Chaptern gerne zur Seite."
     }
+  },
+  "rahel_becker": {
+    "name": "Rahel Becker",
+    "img": "/images/people/rahel_becker.png",
+    "email": "rahel.b@correlaid.org",
+    "en": {
+      "subline": "Ethics Commission Member",
+      "text": "Rahel, data scientist by training, quantitative sociologist by education works at the German Parliament as research assistant and consultant for digital transformation and data topics. As an almost-founding member of CorrelAid e.V. and from several jobs in data science, she was and is well-aware of the necessity of an ethics perspective data (4 good) projects."
+    },
+    "de": {
+      "subline": "Mitglied der Ethikkommission",
+      "text": "Rahel, gelernte Data Scientist, studierte Quanti-Soziologin, arbeitet als wiss. Mitarbeiterin im deutschen Bundestag zu den Themen Digitalisierung und Daten.Als fast-Gründungsmitglied von CorrelAid und aus ihrer Arbeitserfahrung weiß sie um die Notwendigkeit der Daten-Ethik-Perspektive in Data(4Good) Projekten."
+    }
+  },
+  "lada_rudnitskaya": {
+    "name": "Lada Rudnitskaya",
+    "img": "/images/people/lada_rudnitskaya.jpg",
+    "email": "lada.r@correlaid.org",
+    "en": {
+      "subline": "Ethics Commission Member",
+      "text": "Lada is a Data Scientist with an interest in models interpretability, Big Data and AI ethics. After participating in several Data for Good projects with CorrelAid she took the opportunity to join the Ethics committee to help CorrelAid making responsible decisions."
+    },
+    "de": {
+      "subline": "Mitglied der Ethikkommission",
+      "text": "Lada ist Data Scientist mit Interesse an der Interpretierbarkeit von Modellen, Big Data und KI-Ethik. Nachdem sie an mehreren Data for Good Projekten mit CorrelAid teilgenommen hat, hat sie die Gelegenheit ergriffen, dem Ethik-Komitee beizutreten, um CorrelAid bei verantwortungsvollen Entscheidungen zu unterstützen."
+    }
+  },
+  "sabrina_arnold": {
+    "name": "Sabrina Arnold",
+    "img": "/images/people/sabrina_arnold.jpg",
+    "email": "sabrina.a@correlaid.org",
+    "en": {
+      "subline": "Ethics Commission Member",
+      "text": "Sabrina works as a web developer and is particularly interested in environmental data science. Therefore, she enjoys interacting with nonprofits that care about the environment and nature to help them understand the potential of data science. Because ethics in data science is important to her, she is well served on the Ethics Committee."
+    },
+    "de": {
+      "subline": "Mitglied der Ethikkommission",
+      "text": "Sabrina arbeitet als Webentwicklerin und interessiert sich besonders für Umweltdatenwissenschaft. Sie interagiert daher gerne mit gemeinnützigen Organisationen, die sich für die Umwelt und die Natur einsetzen, um ihnen das Potenzial der Datenwissenschaft zu vermitteln. Da ihr die Ethik in der Datenwissenschaft wichtig ist, ist sie im Ethikkomitee gut aufgehoben."
+    }
+  },
+  "andreas_domberg": {
+    "name": "Andreas Domberg",
+    "img": "/images/people/andreas_domberg.jpg",
+    "email": "andreas.d@correlaid.org",
+    "en": {
+      "subline": "Ethics Commission Member",
+      "text": "Andreas is a postdoctoral associate in developmental psychology and currently works at the Max Planck Institute for Human Development in Berlin. As an IRB member there, he already has some relevant experience, which he is now bringing to the non-profit data science table."
+    },
+    "de": {
+      "subline": "Mitglied der Ethikkommission",
+      "text": "Andreas ist Post-doc in der Entwicklungspsychologie und arbeitet am Max-Planck-Institut für Bildungsforschung in Berlin. Als Mitglied des dortigen Ethikrats bringt er bereits Erfahrungen mit, die er nun im Kontext der Data-Science und NGOs anwendet."
+    }
+  },
+  "arndt_leininger": {
+    "name": "Arndt Leininger",
+    "img": "/images/people/arndt_leininger.jpg",
+    "email": "arndt.l@correlaid.org",
+    "en": {
+      "subline": "Chair of the Ethics Commission",
+      "text": "Arndt works as an assistant professor for political science research methods at Chemnitz University of Technology. He is a founding member and former board member of CorrelAid e.V. Recalling many discussions about ethics in the early days of CorrelAid and his experience in conducting surveys in his work, he is now applying his expertise to CorrelAid's ethics committee."
+    },
+    "de": {
+      "subline": "Vorsitzender der Ethikkommission",
+      "text": "Arndt arbeitet als Juniorprofessor für Politikwissenschaftliche Forschungsmethoden an der Technischen Universität Chemnitz. Er ist Gründungsmitglied und ehemaliges Vorstandsmitglied von CorrelAid e.V. Er erinnert sich noch an viele Diskussionen über Ethik in den Anfängen von CorrelAid und hat seine eigenen Erfahrungen mit Datenschutzfragen bei der Durchführung von Umfragen in seiner Arbeit gemacht. Dies bringt er nun in die Arbeit im Ehtikkommittee von CorrelAid ein."
+    }
   }
 }

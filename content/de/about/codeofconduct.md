@@ -77,6 +77,5 @@ This agreement guides the work inside of our community and beyond. We care about
 
 # Reporting violations of the Code of Conduct
 
-If you come across a situation that appears to violate the CorrelAid's code of conduct, if you want to raise a concern about a possible breach of the code of conduct, or if you experienced or witnessed a behavior that does not align with our working principles, we are here to support you. 
-
-You can reach us by contacting Isabel Willmann (E-Mail: isabel.w@correlaid.org). Kindly include '[CoC Support]' in the headline.
+If you have further questions or come across a situation that appears to violate the CorrelAid’s Code of Conduct, if you want to raise a concern about a possible breach of the Code of Conduct, or if you experienced or witnessed a behavior that does not align  with our working principles, we are here to support you.
+Reach us by contacting the [CorrelAid Ethics committee](/about/ethics) at [ethics@correlaid.org](mailto:ethics@correlaid.org).
