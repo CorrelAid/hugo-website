@@ -2,6 +2,7 @@
 title: "Ethikkommission"
 date: 2018-08-23T12:35:49+02:00
 draft: false
+slug: "ethics"
 menu: 
     about:
         weight: 2
