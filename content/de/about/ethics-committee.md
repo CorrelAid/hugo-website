@@ -62,7 +62,7 @@ Du kannst sie unter [ethics@correlaid.org](mailto:ethics@correlaid.org) erreiche
 {{< /contact >}}
 
 {{< contact
-    key="lada_rudnitskaya"
+    key="lada_rudnitckaia"
     link-color="ca-green-text"
 >}}
 {{< /contact >}}

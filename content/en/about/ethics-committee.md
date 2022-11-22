@@ -65,7 +65,7 @@ You can reach the ethics committee by contacting [ethics@correlaid.org](mailto:e
 {{< /contact >}}
 
 {{< contact
-    key="lada_rudnitskaya"
+    key="lada_rudnitckaia"
     link-color="ca-green-text"
 >}}
 {{< /contact >}}
