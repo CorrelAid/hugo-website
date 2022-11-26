@@ -2,11 +2,22 @@
 <a rel="me" href="https://masto.ai/@correlaid" style="display: none;">Mastodon</a>
 <nav class="navbar navbar-expand-md navbar-dark fixed-top ca-dark-blue">
   <a class="navbar-brand" href="{{ .Site.Home.URL }}">
-    <img src="/images/correlaid/correlaid-icon.svg" height="30" alt="CorrelAid" />
+    <img
+      src="/images/correlaid/correlaid-icon.svg"
+      height="30"
+      alt="CorrelAid"
+    />
   </a>
 
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
-    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+  <button
+    class="navbar-toggler"
+    type="button"
+    data-toggle="collapse"
+    data-target="#navbarCollapse"
+    aria-controls="navbarCollapse"
+    aria-expanded="false"
+    aria-label="Toggle navigation"
+  >
     <span class="navbar-toggler-icon"></span>
   </button>
 
@@ -15,13 +26,22 @@
     <ul class="navbar-nav">
       <!-- ABOUT US -->
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="about-us-dropdown" role="button" data-toggle="dropdown"
-          aria-haspopup="true" aria-expanded="false">
+        <a
+          class="nav-link dropdown-toggle"
+          href="#"
+          id="about-us-dropdown"
+          role="button"
+          data-toggle="dropdown"
+          aria-haspopup="true"
+          aria-expanded="false"
+        >
           {{ i18n "about-us" }}
         </a>
         <div class="dropdown-menu" aria-labelledby="about-us-dropdown">
           {{ range .Site.Menus.about }}
-          <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+          <a class="dropdown-item" href="{{ .URL | absLangURL }}"
+            >{{ .Name }}</a
+          >
           {{ end }}
         </div>
       </li>
@@ -30,14 +50,24 @@
       <!-- FOR NONPROFITS -->
       <li class="nav-item">
         <div class="btn-group">
-          <a class="nav-link" href="{{ .Site.Home.Permalink }}nonprofits">
+          <a
+            class="nav-link"
+            href="{{ .Site.Home.Permalink }}nonprofits"
+          >
             {{ i18n "for-nonprofits" }}
           </a>
-          <button type="button" class="btn dropdown-toggle dropdown-toggle-split d-none d-md-block"
-            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></button>
+          <button
+            type="button"
+            class="btn dropdown-toggle dropdown-toggle-split d-none d-md-block"
+            data-toggle="dropdown"
+            aria-haspopup="true"
+            aria-expanded="false"
+          ></button>
           <div class="dropdown-menu">
             {{ range .Site.Menus.nonprofits }}
-            <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+            <a class="dropdown-item" href="{{ .URL | absLangURL }}"
+              >{{ .Name }}</a
+            >
             {{ end }}
           </div>
         </div>
@@ -47,24 +77,36 @@
 
         <!-- FOR VOLUNTEERS -->
         <div class="btn-group">
-          <a class="nav-link" href="{{ .Site.Home.Permalink }}volunteer">
+          <a
+            class="nav-link"
+            href="{{ .Site.Home.Permalink }}volunteer"
+          >
             {{ i18n "for-volunteers" }}
           </a>
-          <button type="button" class="btn dropdown-toggle dropdown-toggle-split d-none d-md-block"
-            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></button>
+          <button
+            type="button"
+            class="btn dropdown-toggle dropdown-toggle-split d-none d-md-block"
+            data-toggle="dropdown"
+            aria-haspopup="true"
+            aria-expanded="false"
+          ></button>
           <div class="dropdown-menu">
             {{ range .Site.Menus.volunteer }}
-            <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+            <a class="dropdown-item" href="{{ .URL | absLangURL }}"
+              >{{ .Name }}</a
+            >
             {{ end }}
           </div>
         </div>
-
+  
         <!-- /END FOR VOLUNTEERS -->
       </li>
 
       {{ $currentPage := . }} {{ range .Site.Menus.main }}
       <li class="nav-item">
-        <a class="nav-link" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+        <a class="nav-link" href="{{ .URL }}" title="{{ .Title }}"
+          >{{ .Name }}</a
+        >
       </li>
       {{ end }}
 
@@ -76,53 +118,68 @@
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href="https://soundcloud.com/correlaid_podcast">Podcast</a>
+        <a class="nav-link" href="https://soundcloud.com/correlaid_podcast"
+          >Podcast</a
+        >
       </li>
       <!-- /END BLOGS AND PODCASTS-->
       <!-- LANGUAGE -->
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="languages-dropdown" role="button" data-toggle="dropdown"
-          aria-haspopup="true" aria-expanded="false">
+        <a
+          class="nav-link dropdown-toggle"
+          href="#"
+          id="languages-dropdown"
+          role="button"
+          data-toggle="dropdown"
+          aria-haspopup="true"
+          aria-expanded="false"
+        >
           {{ upper .Language }}
         </a>
         <div class="dropdown-menu lang" aria-labelledby="languages-dropdown">
           {{ range .Translations }}
-          <a class="dropdown-item" href="{{ .Permalink }}">{{ upper .Language }}</a>
+          <a class="dropdown-item" href="{{ .Permalink }}"
+            >{{ upper .Language }}</a
+          >
           {{ end}}
         </div>
       </li>
       <li class="nav-item">
-        <a class="btn btn-donate my-2 my-sm-0 mr-2"
-          href="https://www.betterplace.org/de/projects/58963-correlaid-e-v-data-for-good" target="_blank"> {{ i18n
-          "donate" }}</a>
+        <a class="btn btn-donate my-2 my-sm-0 mr-2" href="https://www.betterplace.org/de/projects/58963-correlaid-e-v-data-for-good"
+        target="_blank"> {{ i18n "donate" }}</a>
       </li>
 
       {{ range .Site.Menus.becomemember }}
       <li class="nav-item">
-        <a class="btn btn-donate my-2 my-sm-0 mr-0" href="{{ .URL | absLangURL }}">
+        <a class="btn btn-donate my-2 my-sm-0 mr-0" href="{{ .URL | absLangURL }}"> 
           {{ .Title }}</a>
       </li>
       {{ end }}
       <!-- /END LANGUAGE -->
-
+      
     </ul>
   </div>
 </nav>
 <!-- /END MAIN NAV -->
 
 <!-- CORRELAID X NAV -->
-<nav class="
+<nav
+  class="
     navbar navbar-expand-md
     fixed-top
     second
     navbar-dark
     ca-x-gradient
     d-none d-md-block
-  " id="correlaid-x-navbar">
+  "
+  id="correlaid-x-navbar"
+>
   <div class="collapse navbar-collapse">
     <div class="navbar-nav mr-auto">
       {{ range .Site.Menus.correlaidx.ByName }}
-      <a class="nav-item nav-link active" href="{{ .URL | absLangURL }}">{{ .Title }}</a>
+      <a class="nav-item nav-link active" href="{{ .URL | absLangURL }}"
+        >{{ .Title }}</a
+      >
       {{ end }}
     </div>
     <div class="navbar-nav"></div>
