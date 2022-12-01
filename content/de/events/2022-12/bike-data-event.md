@@ -9,8 +9,6 @@ eventRegistration: "https://pretix.eu/correlaid/bike-data-event" # leave empty i
 tags: ["opendata", "mobility", "showcase"] 
 languages: ["english"]
 ---
-
-
 ## The event
 
 The mobility transition is an important puzzle piece in combating climate change and making our cities and communities greener and healthier. As we work towards a more sustainable mobility, more people are encouraged to switch to more sustainable modes of transport such as biking.
@@ -28,5 +26,4 @@ Time | Title | Speaker(s)
  19:10 -- 19:25 | Where to build new bicycle parking spots in Paris? Supporting data-driven decision making  with open data. | Representatives from CorrelAid Data4Good Project Team
  19:25 -- 19:40 | tbd | Tim Fangmeyer and Andreas Neumann, CorrelAid Volunteers
  19:40 -- 19:55 | Using OpenBikeSensors to measure and visualize critical overtaking distance in Cologne. | Fritz Niesel and Florian Feix, CorrelAidX Cologne 
- 19:55 -- 20:10 | tbd | tbd 
- 20:10 -- 20:30 | Q&A and open discussion | Moderation: Frie Preu, COO of CorrelAid e.V. 
+ 19:55 -- 20:30 | Q&A and open discussion | Moderation: Frie Preu, COO of CorrelAid e.V. 

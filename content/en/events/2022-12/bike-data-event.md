@@ -26,5 +26,4 @@ Time | Title | Speaker(s)
  19:10 -- 19:25 | Where to build new bicycle parking spots in Paris? Supporting data-driven decision making  with open data. | Representatives from CorrelAid Data4Good Project Team
  19:25 -- 19:40 | tbd | Tim Fangmeyer and Andreas Neumann, CorrelAid Volunteers
  19:40 -- 19:55 | Using OpenBikeSensors to measure and visualize critical overtaking distance in Cologne. | Fritz Niesel and Florian Feix, CorrelAidX Cologne 
- 19:55 -- 20:10 | tbd | tbd 
- 20:10 -- 20:30 | Q&A and open discussion | Moderation: Frie Preu, COO of CorrelAid e.V. 
+ 19:55 -- 20:30 | Q&A and open discussion | Moderation: Frie Preu, COO of CorrelAid e.V. 
