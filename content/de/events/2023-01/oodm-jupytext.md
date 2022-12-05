@@ -11,22 +11,18 @@ languages:
     - english
 ---
 
+## Die Veranstaltung [en]
 
-## The event
+jupytext ist ein einfaches Werkzeug, um Skripte entweder als Notizbücher (`.ipynb`) oder textbasierte Dateiformate zu speichern. Zum Beispiel als Markdown-Dateien (`.md`), die leicht auf GitHub wiedergegeben werden können, oder Python-Dateien (`.py`), die in der interaktiven Shell von VSCode ausgeführt werden können und besser für die Versionskontrolle geeignet sind. Einige Tools benötigen jedoch immer noch ipynb, um zu funktionieren, z.B. papermill. Daher ist es praktisch, verschiedene Versionen eines Skripts synchron zu halten.
 
-**Jupyter Notebooks in Jupyter Lab, VSCode, GitHub, Papermill and Jupytext - a good ensemble - a scientific use case**
+In diesem OODM werde ich euch einen Überblick über meinen Stack und meine Arbeitsweise in den Biowissenschaften geben. Ihr werdet einige interessante Werkzeuge und die vielen Möglichkeiten rund um jupyter kennenlernen, das mit quarto oder rmarkdown vergleichbar sind.
 
-jupytext is a lightweight tool to keep scripts either as notebooks (`.ipynb`) or simpler text based file formats. For example, as a markdown files (`.md`) which can be easily rendered on GitHub or python files (`.py`), can be executed in VSCode’s interactive shell, and are better for version control. But some tools still need ipynb to work, e.g. papermill. Therefore, it is handy to keep different version of a script in sync. 
+Warum verwende ich mehr als eine Dateiversion für ein und dasselbe Dokument?
+- Die jupyter-Kernel ermöglichen die Live-Erkundung von Attributen,
+- jupyter lab verfügt über eine großartige Scratch-Zelle zur Erkundung, wobei die allgemeine Struktur eines Notizbuchs beibehalten wird,
+- VSCode eignet sich hervorragend, um Änderungen an vielen Stellen vorzunehmen ("Refactoring"),
+- VSCode ermöglicht die Suche über viele Dateien hinweg.
 
-In this OODM, I will give you an overview over my stack and practices working in life sciences. You will learn about some interesting tools and the many possibilities around jupyter, which can be compared to quarto or rmarkdown.
+# Sprecher: Henry Webel
 
-Why do I use more than one file version for the same document?
-- jupyter kernels allow live exploration of attributes,
-- jupyter lab has a great scratch cell for exploration, while keeping the general structure of a notebook,
-- VSCode is great for applying changes in many places (”refactoring”),
-- VSCode allows the search over many files.
-
-
-# Speaker: Henry Webel
-
-I am a PhD student at the Novo Nordisk Foundation Center for Protein Research and work on analyzing data and working on methodological questions. I’ll code using and package code into python packages, but I can read and adapt R code if I need to. 
+Ich bin Doktorand am Novo Nordisk Foundation Center for Protein Research und arbeite an der Analyse von Daten und an methodischen Fragen. Ich programmiere mit - und packe Code in -python-Pakete, kann aber auch R-Code lesen und anpassen, wenn es nötig ist.
