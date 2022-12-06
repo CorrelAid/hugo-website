@@ -18,16 +18,15 @@ CorrelAidX Austria invites you to free workshops around data visualization and m
 
 
 {{< person 
-    name="Tilman"
+    name="Julian"
     subline="CorrelAidX Austria"
-    img="/images/people/tilman_austria.jpg"
+    img="/images/people/julian_austria.jpg"
     data-email="austria@correlaid.org"
-    data-to="Tilman (CorrelAidX Austria)"
+    data-to="Julian (CorrelAidX Austria)"
     link-color="ca-red-text"
     x="1"
 >}}
-Tilman joined CorrelAid in 2019 - first with the local chapter in Konstanz and now landed in Vienna and thus at the Austrian chapter through his Master's degree in Data Science. He believes that not only big companies should benefit through and from data.
-His focus is on Data Management, Data Collection and Natural Language Processing.
+Julian is a PhD students in Economics and Statistics at the Department of Statistics, Innsbruck, in the heart of the Alpes. His research addresses the construction of hedonic models to estimate (the distribution of) real estate prices. By joining CorrelAid, Julian aims at sharing his knowledge with others and building networks with people interested in pro bono data analyses.
 {{< /person >}}
 
 
