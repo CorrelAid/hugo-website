@@ -20,16 +20,15 @@ Wir freuen uns auf euch!
 
 
 {{< person 
-    name="Tilman"
+    name="Julian"
     subline="CorrelAidX Austria"
-    img="/images/people/tilman_austria.jpg"
+    img="/images/people/julian_austria.jpg"
     data-email="austria@correlaid.org"
-    data-to="Tliman (CorrelAidX Austria)"
+    data-to="Julian (CorrelAidX Austria)"
     link-color="ca-red-text"
     x="1"
 >}}
-Tilman ist seit 2019 bei CorrelAid - zuerst in der Konstanzer Lokalgruppe und nun durch sein Masterstudium in Data Science in Wien und damit beim österreichischen Chapter gelandet. Er glaubt daran, dass nicht nur große Unternehmen durch und von Daten profitieren können.
-Sein Fokus liegt auf Data Management, Data Collection und Natural Language Processing.
+Julian ist Doktorand der Wirtschaftswissenschaften und Statistik am Institut für Statistik in Innsbruck, im Herzen der Alpen. Seine Forschung befasst sich mit der Konstruktion von hedonischen Modellen zur Schätzung (der Verteilung) von Immobilienpreisen. Mit seinem Beitritt zu CorrelAid möchte Julian sein Wissen mit anderen teilen und ein Netzwerk mit Personen aufbauen, die sich für Pro-Bono-Datenanalysen interessieren.
 {{< /person >}}
 
 
