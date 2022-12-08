@@ -28,7 +28,7 @@ Wir freuen uns auf euch!
     link-color="ca-red-text"
     x="1"
 >}}
-Julian ist Doktorand der Wirtschaftswissenschaften und Statistik am Institut für Statistik in Innsbruck, im Herzen der Alpen. Seine Forschung befasst sich mit der Konstruktion von hedonischen Modellen zur Schätzung (der Verteilung) von Immobilienpreisen. Mit seinem Beitritt zu CorrelAid möchte Julian sein Wissen mit anderen teilen und ein Netzwerk mit Personen aufbauen, die sich für Pro-Bono-Datenanalysen interessieren.
+Julian ist Doktorand der Volkswirtschaft und Statistik am Institut für Statistik in Innsbruck, im Herzen der Alpen. Seine Forschung befasst sich mit der Konstruktion von hedonischen Modellen zur Schätzung (der Verteilung) von Immobilienpreisen. Mit seinem Beitritt zu CorrelAid möchte Julian sein Wissen mit anderen teilen und ein Netzwerk mit Personen aufbauen, die sich für Pro-Bono-Datenanalysen interessieren.
 {{< /person >}}
 
 
