@@ -1,5 +1,5 @@
 ---
-title: "R Lernen von und für die Zivilgesellschaft: Runde 5 startet im Februar 2023"
+title: "R Lernen von und für die Zivilgesellschaft: Runde 6 startet im Februar 2023"
 date: 2022-12-14T00:00:00+02:00
 image: "r_lernen_2023.png"
 slug:       "r_lernen_2023"
