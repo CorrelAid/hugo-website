@@ -26,6 +26,7 @@ Hi, we are CorrelAid Münster! Besides students and bicycles, there is now also 
     x="1"
 >}}
 I am currently studying Information Systems at the WWU Münster and work as an RPA developer. In my studies, I already dealt with applied data science in sustainability research and am now trying to continue this, among other things, through my involvement here at CorrelAid. When I found out that there was no CorrelAid chapter in Münster yet, I decided to take things into my own hands and bring CorrelAid to Münster. I am excited to see where this journey will take us!
+{{< /person >}}
 
 
 {{< person 
