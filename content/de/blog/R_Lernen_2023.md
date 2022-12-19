@@ -32,6 +32,14 @@ meta:
 
 In den zwölf Teilen des Kurses beschäftigt Ihr Euch mit Datenschutz und lernt, die statistische Programmiersprache R zu nutzen, um abschließend Euer eigenes Datenprojekt zu planen. Ihr arbeitet mit den zwölf Lektionen auf unserer interaktiven Lernplattform, die aus Videos, Quizfragen und Code-Blöcken bestehen und trefft uns jede Woche am Freitag von 12 bis 13 Uhr über Zoom zu einem Live-Q&A. Außerdem habt Ihr die Chance, Euch regelmäßig mit Eurer Übungspartner:in auszutauschen und könnt zusätzlich 1:1 Sprechstunden mit den Datenprofis buchen, um parallel an Eurem eigenen Projekt zu arbeiten.
 
+Das sagen die Teilnehmer:innen zur letzen Runde des R Kurses:
+
+
+{{< video
+    video_url = "https://www.youtube.com/watch?v=tYwd8zc1UUc"
+    title = "R Lernen 2022"
+>}}
+
 ### Was ist R?
 R ist eine statistische Programmiersprache, die besonders in der Sozial- und Wirtschaftswissenschaft verwendet wird und somit dafür bekannt ist, auch ohne Vorwissen aus der Informatik leicht zugänglich zu sein. Mit R eröffnet sich für die Zivilgesellschaft die Möglichkeit, auf Daten automatisiert zuzugreifen, diese zu bereinigen und in nützlichen Reports, interaktiven Visualisierungen und anderen Formaten zu verarbeiten.
 Kleine Randnotiz: sogar unsere Lernplattform haben wir mit Hilfe von R gebaut!
