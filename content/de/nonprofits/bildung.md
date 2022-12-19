@@ -27,7 +27,7 @@ Vereinbart eine Datensprechstunde!
 {{< /button >}}
 
 ## R Lernen - Der Datenkurs für die Zivilgesellschaft
-Jedes Quartal startet unser 12-wöchiges Bildungsprogramm "R Lernen - Der Datenkurs für die Zivilgesellschaft", das von der Deutschen Stiftung für Engagement und Ehrenamt gefördert wird. Je 25 Teilnehmer\*innen können in dem Hybridformat mit eigener Lernplattform in Videos, Lerntexten, interaktiven Quiz und Übungen und lokalen Hausaufgaben mit Tutor\*innen aus unserem Netzwerk lernen, wie man Daten in der Programmiersprache R verarbeitet. Die Teilnahme ist kostenfrei. Anmeldung erfolgt per [E-Mail](mailto:education@correlaid.org).
+Jedes Quartal startet unser 12-wöchiges Bildungsprogramm "R Lernen - Der Datenkurs für die Zivilgesellschaft", das von der Deutschen Stiftung für Engagement und Ehrenamt gefördert wird. Je 25 Teilnehmer\*innen können in dem Hybridformat mit eigener Lernplattform in Videos, Lerntexten, interaktiven Quiz und Übungen und lokalen Hausaufgaben mit Tutor\*innen aus unserem Netzwerk lernen, wie man Daten in der Programmiersprache R verarbeitet. Die Teilnahme ist kostenfrei. Informationen zum nächsten Kurs findet Ihr auf unseren [Blog](https://correlaid.org/blog/r_lernen_2023/). Anmelden könnt Ihr Euch [hier](https://ee.correlaid.org/single/OwiGn9iI?return_url=https://www.correlaid.org/).
 
 ## Workshops
 ### Wirkungsmessung
