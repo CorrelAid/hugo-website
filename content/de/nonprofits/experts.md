@@ -92,3 +92,9 @@ Ihr benötigt Unterstützung bei spezifischen Themen und sucht dafür Referent*i
     link-color="ca-green-text"
 >}}
 {{< /expert >}}
+
+
+{{< expert
+    key="katharina_rasch"
+    link-color="ca-green-text"
+>}}

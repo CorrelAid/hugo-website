@@ -176,5 +176,18 @@
       "subline": "Scoping von Data Science-Projekten; Such- und Empfehlungssysteme; NLP für soziale Medien",
       "text": "Ich bin ein Datenwissenschaftler, der Erfahrungen in großen Beratungsunternehmen, Start-ups und Scale-ups gesammelt hat. Die meiste Zeit meiner Karriere habe ich mich auf Such- und Empfehlungssysteme für so unterschiedliche Dinge wie Polizeidetektiven, Secondhand-Mode und dem Matching von Jobs und Menschen konzentriert. Ich kenne mich mit dem gesamten Weg eines Data-Science-Projekts aus: Scoping und Exploration, Produktion, Überwachung und Testen sowie die Übergabe des Projekts in einem Zustand, in dem andere es leicht verbessern können. Tech Stack: Python, Scala, Golang, Docker, Kubernetes, Terraform, GCP/AWS, SQL, NoSQL, Hadoop Stack, Elasticsearch."
     }
+  },
+  "katharina_rasch": {
+    "name": "Katharina Rasch",
+    "img": "/images/people/katharina_rasch.jpg",
+    "website": "https://krasch.io/",
+    "en": {
+      "subline": "Data consulting, data analysis, programming, computer vision",
+      "text": "I have been working as a freelance data scientist for both small startups and large corporations since 2017. In my projects, I like to get involved in product questions (what problem do we actually want to solve exactly and why?), but I am also mainly responsible for the technical implementation. Thanks to years of volunteer work, I have a lot of experience talking to community-based and non-profit organizations about data and developing sustainable data strategies. For organizations looking to build their own data skills, I'm also happy to provide training and mentoring."
+    },
+    "de": {
+      "subline": "Datenberatung, Datenanalyse, Programmierung, Bilderkennung",
+      "text": "Ich bin seit 2017 als freelance Data Scientist sowohl für kleine Startups als auch für große Konzerne tätig. In meinen Projekten bringe ich mich gern in Produktfragen ein (welches Problem wollen wir eigentlich genau lösen und warum), bin aber vor allem auch für die technische Umsetzung zuständig. Dank jahrelangem ehrenamtlichen Engagement habe ich viel Erfahrung darin, mit gemeinwohlorientierten Organisationen über Daten zu sprechen und nachhaltige Datenstrategien zu entwickeln. Für Organisationen die eigene Datenkompetenzen aufbauen wollen, stehe ich auch gern für Training und Mentoring bereit."
+    }
   }
 }
