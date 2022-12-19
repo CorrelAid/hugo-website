@@ -36,7 +36,7 @@ Das sagen die Teilnehmer:innen zur letzen Runde des R Kurses:
 
 
 {{< video
-    video_url = "https://www.youtube.com/watch?v=tYwd8zc1UUc"
+    video_url = "https://www.youtube.com/embed/tYwd8zc1UUc"
     title = "R Lernen 2022"
 >}}
 
