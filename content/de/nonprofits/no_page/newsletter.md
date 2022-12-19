@@ -2,7 +2,7 @@
 title: "Newsletter"
 date: 2022-09-07T10:48:46+02:00
 draft: false
-translationKey: "experts"
+translationKey: "newsletter"
 description: "In unserem Newsletter für gemeinnützige Organisationen berichten wir einmal im Monat aus unserer Arbeit und stellen ein bestimmtes Datenthema in den Fokus. "
 weight: 6
 img: "nonprofits/newsletter.jpg"

@@ -2,7 +2,7 @@
 title: "Datensprechstunde"
 date: 2022-09-07T10:48:46+02:00
 draft: false   
-translationKey: "experts"
+translationKey: "data-hour"
 description: "Du bist bei einer NPO aktiv? Alle deine Fragen rund um unsere Arbeit und Daten kannst du in unserer *Datensprechstunde* mit unseren Koordinator*innen besprechen. Ob Projekte, Bildungsangebote, Veranstaltungen, Datenerhebung oder Datenanalyse: wir sehen uns dort!"
 weight: 4
 img: "nonprofits/data_hour.jpg"
