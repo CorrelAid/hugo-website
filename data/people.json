@@ -160,11 +160,11 @@
     "img": "/images/people/sebastianz.jpg",
     "email": "sebastian.z@correlaid.org",
     "en": {
-      "subline": "Education",
+      "subline": "Chairman",
       "text": "Sebastian studies philosophy of science, econometrics, and machine learning, currently in Tübingen. In 2017, an internship brought him to CorrelAid and data science. After working in the project team and the local chapter Stuttgart, he now takes care of our educational offers for non-profits and volunteers."
     },
     "de": {
-      "subline": "Education",
+      "subline": "Vorstandsvorsitz",
       "text": "Sebastian studiert Wissenschaftstheorie, Ökonometrie und Machine Learning, derzeit in Tübingen. 2017 hat ihn ein Praktikum zu CorrelAid und der Datenanalyse gebracht. Nach Stationen im Projektteam und der Lokalgruppe Stuttgart kümmert er sich jetzt um Bildungsangebote für non-profits und unsere Volunteers."
     }
   },
@@ -192,6 +192,45 @@
     "de": {
       "subline": "Mitglied der Ethikkommission",
       "text": "Rahel, gelernte Data Scientist, studierte Quanti-Soziologin, arbeitet als wiss. Mitarbeiterin im deutschen Bundestag zu den Themen Digitalisierung und Daten.Als fast-Gründungsmitglied von CorrelAid und aus ihrer Arbeitserfahrung weiß sie um die Notwendigkeit der Daten-Ethik-Perspektive in Data(4Good) Projekten."
+    }
+  },
+  "pia": {
+    "name": "Pia Baronetzky",
+    "img": "/images/people/pia_baronetzky.jpg",
+    "email": "pia.b@correlaid.org",
+    "en": {
+      "subline": "Data4Good projects",
+      "text": "Pia studies Mathematics with Computer Science as a minor at the Technical University of Munich and is focussing on Data Science topics there. She discovered CorrelAid in 2020 and founded the Local Chapter of Munich. With her Local Chapter, she has already organised some projects and is now a board member for projects."
+    },
+    "de": {
+      "subline": "Data4Good Projekte",
+      "text": "Pia studiert Mathematik mit Informatik an der Technischen Universität München und spezialisiert sich dabei auf Themen, die mit Data Science zu tun haben. Sie hat CorrelAid 2020 entdeckt und das Local Chapter München gegründet. Mit ihrem Local Chapter hat sie bereits einige Projekte organisiert, jetzt kümmert sich seit 2023 auch als Vorstandsmitglied um Projekte."
+    }
+  },
+  "roven": {
+    "name": "Roven Goerke",
+    "img": "/images/people/pia_baronetzky.jpg",
+    "email": "pia.b@correlaid.org",
+    "en": {
+      "subline": "Data4Good projects",
+      "text": "Pia studies Mathematics with Computer Science as a minor at the Technical University of Munich and is focussing on Data Science topics there. She discovered CorrelAid in 2020 and founded the Local Chapter of Munich. With her Local Chapter, she has already organised some projects and is now a board member for projects."
+    },
+    "de": {
+      "subline": "Data4Good Projekte",
+      "text": "Pia studiert Mathematik mit Informatik an der Technischen Universität München und spezialisiert sich dabei auf Themen, die mit Data Science zu tun haben. Sie hat CorrelAid 2020 entdeckt und das Local Chapter München gegründet. Mit ihrem Local Chapter hat sie bereits einige Projekte organisiert, jetzt kümmert sich seit 2023 auch als Vorstandsmitglied um Projekte."
+    }
+  },
+  "ann_kristin": {
+    "name": "Ann-Kristin Vester",
+    "img": "/images/people/pia_baronetzky.jpg",
+    "email": "pia.b@correlaid.org",
+    "en": {
+      "subline": "Data4Good projects",
+      "text": "Pia studies Mathematics with Computer Science as a minor at the Technical University of Munich and is focussing on Data Science topics there. She discovered CorrelAid in 2020 and founded the Local Chapter of Munich. With her Local Chapter, she has already organised some projects and is now a board member for projects."
+    },
+    "de": {
+      "subline": "Data4Good Projekte",
+      "text": "Pia studiert Mathematik mit Informatik an der Technischen Universität München und spezialisiert sich dabei auf Themen, die mit Data Science zu tun haben. Sie hat CorrelAid 2020 entdeckt und das Local Chapter München gegründet. Mit ihrem Local Chapter hat sie bereits einige Projekte organisiert, jetzt kümmert sich seit 2023 auch als Vorstandsmitglied um Projekte."
     }
   },
   "lada_rudnitckaia": {
