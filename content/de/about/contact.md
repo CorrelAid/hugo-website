@@ -40,6 +40,11 @@ Unsere Mitarbeiter*innen organisieren und koordinieren die tägliche Arbeit des 
 >}}
 {{< /contact >}}
 
+{{< contact
+    key="jonas"
+    link-color="ca-green-text"
+>}}
+{{< /contact >}}
 
 ## Der Vorstand
 Der gewählte Vorstand von CorrelAid e.V., dem gemeinnützigen Verein, besteht aus CorrelAid Ehrenamtlichen. Sie arbeiten mit dem remote Büro zusammen und entwickeln die langfristige Strategie für CorrelAid.

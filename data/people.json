@@ -95,11 +95,11 @@
     "img": "/images/people/zoe_konstanz.jpg",
     "email": "zoe.w@correlaid.org",
     "en": {
-      "subline": "Student Trainee",
+      "subline": "Working Student - Education",
       "text": "Zoé joined CorrelAid in 2018 and has been working for CorrelAid as a student trainee since June 2022. After her bachelor's degree in 'Political and Public Administration', she is currently studying for a master's degree in 'Social and Economic Data Science' in Konstanz. So she's also active in the Local Chapter there and was recently also responsible for its coordination. As a working student, she would like to share her experience from the local level - be it in 'R Lernen', workshops, project organization or other things."
     },
     "de": {
-      "subline": "Werkstudentin",
+      "subline": "Werkstudentin - Bildung",
       "text": "Zoé ist seit 2018 bei CorrelAid aktiv und arbeitet seit Juni 2022 als Werkstudentin für CorrelAid. Nach ihrem Bachelor in ‘Politik- und Verwaltungswissenschaft‘ studiert sie aktuell im Master in Konstanz ‘Social and Economic Data Science‘. So ist sie auch im Local Chapter dort aktiv und war zuletzt auch für dessen Koordination verantwortlich. Als Werkstudentin möchte sie ihre Erfahrung von der lokalen Ebene einbringen – sei es bei 'R Lernen', Workshops, Projektorga oder anderem."
     }
   },
@@ -147,12 +147,12 @@
     "img": "/images/people/patrizia.png",
     "email": "patrizia.m@correlaid.org",
     "en": {
-      "subline": "Data4Good projects",
-      "text": "Patrizia is a psychologist and currently works as a neuroscientist at the Charité - Universitätsmedizin Berlin. She joined CorrelAid in January 2021 and is a member of the board since end of 2021. At CorrelAid she is taking care of project organization and infrastructure-related topics, together with Frie."
+      "subline": "Chair of the board",
+      "text": "Patrizia is a psychologist and currently works as a neuroscientist at the Charité - Universitätsmedizin Berlin. She joined CorrelAid in January 2021 and  has been part of the board 2022 for the topics Data4Good projects and infrastructure. Since the end of 2022, she's part of the chair of the board, together with Sebastian."
     },
     "de": {
-      "subline": "Data4Good Projekte",
-      "text": "Patrizia ist Psychologin und arbeitet aktuell als Neurowissenschaftlerin an der Charité - Universitätsmedizin Berlin. Sie ist seit Anfang 2021 bei CorrelAid und seit Ende 2021 Teil des Vereinsvorstands. Bei CorrelAid kümmert sie sich gemeinsam mit Frie um die Bereiche Projektarbeit und Infrastruktur."
+      "subline": "Vorstandsvorsitz",
+      "text": "Patrizia ist Psychologin und arbeitet aktuell als Neurowissenschaftlerin an der Charité - Universitätsmedizin Berlin. Sie ist seit Anfang 2021 bei CorrelAid war 2022 im Vorstand für die Bereiche Projektarbeit und Infrastruktur. Seit Ende 2022 bildet sie zusammen mit Sebastian den Vorstandsvorsitz."
     }
   },
   "sebastian": {
@@ -160,12 +160,12 @@
     "img": "/images/people/sebastianz.jpg",
     "email": "sebastian.z@correlaid.org",
     "en": {
-      "subline": "Chairman",
-      "text": "Sebastian studies philosophy of science, econometrics, and machine learning, currently in Tübingen. In 2017, an internship brought him to CorrelAid and data science. After working in the project team and the local chapter Stuttgart, he now takes care of our educational offers for non-profits and volunteers."
+      "subline": "Chair of the board",
+      "text": "Sebastian is doing a PhD at the intersection of philosophy and data science in Tübingen. In 2017, an internship brought him to CorrelAid and data science. After working in the project team and the local chapter Stuttgart, he was board member for education in 2022. Since the end of 2022, he acts as the chair of the board, together with Patrizia."
     },
     "de": {
       "subline": "Vorstandsvorsitz",
-      "text": "Sebastian studiert Wissenschaftstheorie, Ökonometrie und Machine Learning, derzeit in Tübingen. 2017 hat ihn ein Praktikum zu CorrelAid und der Datenanalyse gebracht. Nach Stationen im Projektteam und der Lokalgruppe Stuttgart kümmert er sich jetzt um Bildungsangebote für non-profits und unsere Volunteers."
+      "text": "Sebastian promoviert an der Schnittstelle von Philosophie und Data Science in Tübingen. 2017 hat ihn ein Praktikum zu CorrelAid und der Datenanalyse gebracht. Nach Stationen im Projektteam und der Lokalgruppe Stuttgart und seiner Zeit als Vorstandsmitglied für den Bereich Bildung ist bildet er zusammen mit Patrizia den Vorstandsvorsitz."
     }
   },
   "marco": {
@@ -179,6 +179,19 @@
     "de": {
       "subline": "Community & CorrelAidX",
       "text": "Marco studiert zurzeit im Bachelor Politik- und Verwaltungswissenschaften an der Universität Konstanz. Zu CorrelAid ist er 2021 durch das Local Chapter in Konstanz gekommen. Bei CorrelAid kümmert er sich ab jetzt mit Phil um den Bereich Community Management. Er freut sich dieses Jahr auf die Zusammenarbeit mit allen CorrelAidX Chaptern und steht euch bei Fragen oder Anliegen in den Chaptern gerne zur Seite."
+    }
+  },
+  "jonas": {
+    "name": "Jonas Stettner",
+    "img": "/images/people/jonas_stettner.jpg",
+    "email": "jonas.s@correlaid.org",
+    "en": {
+      "subline": "Working Student - Infrastructure",
+      "text": "Jonas studies Social and Economic Data Science at the University of Konstanz. Since November 2022, he has been a working student at CorrelAid. Together with Frie, he takes care of our infrastructure."
+    },
+    "de": {
+      "subline": "Werksstudent - Infrastruktur",
+      "text": "Jonas studiert Social and Economic Data Science an der Universität Konstanz. Seit November 2022 ist er Werksstudent bei CorrelAid. Zusammen mit Frie kümmert er sich um den Bereich Infrastruktur"
     }
   },
   "rahel_becker": {
@@ -209,28 +222,28 @@
   },
   "roven": {
     "name": "Roven Goerke",
-    "img": "/images/people/pia_baronetzky.jpg",
-    "email": "pia.b@correlaid.org",
+    "img": "/images/people/roven_goerke.png",
+    "email": "roven.g@correlaid.org",
     "en": {
-      "subline": "Data4Good projects",
-      "text": "Pia studies Mathematics with Computer Science as a minor at the Technical University of Munich and is focussing on Data Science topics there. She discovered CorrelAid in 2020 and founded the Local Chapter of Munich. With her Local Chapter, she has already organised some projects and is now a board member for projects."
+      "subline": "Community & PR",
+      "text": "Roven is data scientist and high school teacher to be for computer science and mathemathics. They have been with the podcast team for 3 years now and got more involved in daily CorrelAid business in 2022. In 2023, they joined the board and are now responsible for communications (PR) & community building."
     },
     "de": {
-      "subline": "Data4Good Projekte",
-      "text": "Pia studiert Mathematik mit Informatik an der Technischen Universität München und spezialisiert sich dabei auf Themen, die mit Data Science zu tun haben. Sie hat CorrelAid 2020 entdeckt und das Local Chapter München gegründet. Mit ihrem Local Chapter hat sie bereits einige Projekte organisiert, jetzt kümmert sich seit 2023 auch als Vorstandsmitglied um Projekte."
+      "subline": "Community & PR",
+      "text": "Roven ist Data Scientist und angehende Informatik & Mathematik Lehrkraft. Dey ist seit 3 Jahren Teil des Podcastteams und 2022 zu weiteren CorrelAid Initiativen dazu gestoßen. 2023 ist dey im Vorstand zuständig für Communications (PR) & Community Building."
     }
   },
   "ann_kristin": {
     "name": "Ann-Kristin Vester",
-    "img": "/images/people/pia_baronetzky.jpg",
-    "email": "pia.b@correlaid.org",
+    "img": "/images/people/ann-kristin_vester.jpg",
+    "email": "ann-kristin.vb@correlaid.org",
     "en": {
-      "subline": "Data4Good projects",
-      "text": "Pia studies Mathematics with Computer Science as a minor at the Technical University of Munich and is focussing on Data Science topics there. She discovered CorrelAid in 2020 and founded the Local Chapter of Munich. With her Local Chapter, she has already organised some projects and is now a board member for projects."
+      "subline": "Education",
+      "text": "Ann-Kristin is a Data Scientist in the area of finance and teaches R and data strategy as a freelancer. She studied empirical social research in Bonn, Stuttgart and Copenhagen. After working in various Data4Good projects, she has been in charge of educational services at CorrelAid since January 2023."
     },
     "de": {
-      "subline": "Data4Good Projekte",
-      "text": "Pia studiert Mathematik mit Informatik an der Technischen Universität München und spezialisiert sich dabei auf Themen, die mit Data Science zu tun haben. Sie hat CorrelAid 2020 entdeckt und das Local Chapter München gegründet. Mit ihrem Local Chapter hat sie bereits einige Projekte organisiert, jetzt kümmert sich seit 2023 auch als Vorstandsmitglied um Projekte."
+      "subline": "Bildung",
+      "text": "Ann-Kristin arbeitet als Data Scientist in einer Bank und gibt als Freelancerin Workshops in R und zu Datenstrategie. Sie hat in Bonn, Stuttgart und Kopenhagen empirische Sozialforschung studiert. Nach der Mitarbeit in verschiedenen Data4Good-Projekten kümmert sie sich seit Januar 2023 um die Bildungsangebote bei CorrelAid."
     }
   },
   "lada_rudnitckaia": {

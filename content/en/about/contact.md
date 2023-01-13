@@ -39,6 +39,11 @@ Our four employees organize and coordinate the everyday work of the CorrelAid ne
 {{< /contact >}}
 
 
+{{< contact
+    key="jonas"
+    link-color="ca-green-text"
+>}}
+{{< /contact >}}
 
 ## Our board
 The elected board of CorrelAid e.V., the official registered non-profit association, consists of CorrelAid volunteers. They work together with our employees and develop the long-term strategy for CorrelAid.
