@@ -16,7 +16,7 @@ img: "volunteer/correlaidx.png"
 
 
 With our program CorrelAidX, we have also established local chapters in several German cities, the Netherlands and Paris. The advantage is that you can start conducting your own workshops, hackathons, projects with local NGOs and to meet on a regular basis. You can find all existing CorrelAidX chapters and points of contact on the individual pages that you can find below.
-If you are interested in starting a local chapter yourself, or if you want to know if there are people around you also interested in starting this, write an e-mail to our Head of Community Management [Phil](mailto:phil.b@correlaid.org). 
+If you are interested in starting a local chapter yourself, or if you want to know if there are people around you also interested in starting this, write an e-mail to our Head of Community Management [Isabel](mailto:isabel.w@correlaid.org). 
 
 
 {{< correlaidx-map 
