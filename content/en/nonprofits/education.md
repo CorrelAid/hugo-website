@@ -72,10 +72,3 @@ We are also happy to come up with individual workshops. Write us an e-mail with 
 
 {{< /contact >}}
 
-{{< contact
-    key="nina"
-    link-color="ca-green-text"
-    email="education@correlaid.org"
->}}
-
-{{< /contact >}}

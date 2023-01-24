@@ -13,7 +13,7 @@ img: "volunteer/correlaidx.png"
 ---
 
 Im Rahmen von CorrelAidX haben wir - in Ergänzung zu unserem Remote Netzwerk - Local Chapter in einigen deutschen Städten sowie in den Niederlanden und in Paris gegründet. In einem Local Chapter können Data Scientists eigene Workshops und Hackathons organisieren sowie Projekte mit lokalen NPOs organisieren. Alle existierenden CorrelAidX-Chapter und Anlaufstellen findest du auf den Chapter-Seiten, die unten verlinkt sind.
-Wenn du ein eigenes Chapter gründen möchtest, oder wenn du wissen möchtest, ob es in deiner Umgebung andere Data4Good Data Scientists gibt, schreib eine E-Mail an unseren Community Manager [Phil](mailto:phil.b@correlaid.org). 
+Wenn du ein eigenes Chapter gründen möchtest, oder wenn du wissen möchtest, ob es in deiner Umgebung andere Data4Good Data Scientists gibt, schreib eine E-Mail an unseren Community Managerin [Isabel](mailto:isabel.w@correlaid.org). 
 
 
 

@@ -71,10 +71,4 @@ Gerne gestalten wir für Euch auch eigene Workshopformate! Schreibt uns dazu ein
 
 {{< /contact >}}
 
-{{< contact
-    key="nina"
-    link-color="ca-green-text"
-    email="education@correlaid.org"
->}}
 
-{{< /contact >}}
