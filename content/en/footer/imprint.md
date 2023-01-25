@@ -28,23 +28,22 @@ Represented by:
 
 ### 1. Vorsitzender
 
-Johannes Müller<br />
-E-Mail: [johannes.m@correlaid.org](johannes.m@correlaid.org)
+Sebastian Zezulka<br />
+E-Mail: [sebastian.z@correlaid.org](sebastian.z@correlaid.org)
 
 ### 2. Vorsitzender
 
-Regina Siegers<br />
-E-Mail: [regina.s@correlaid.org](regina.s@correlaid.org)
+Patrizia Maier<br />
+E-Mail: [patrizia.m@correlaid.org](patrizia.m@correlaid.org)
 
 ### Register entry:
 
-Register Court: Amtsgericht Freiburg im Breisgau<br />
-Registernummer: VR 701448
-
+Register Court: Amtsgericht Charlottenburg   
+Register number: VR 37779 B
 ### Person responsible for content in accordance with 55 Abs. 2 RStV:
 
-Johannes Müller<br />
-E-Mail: [johannes.m@correlaid.org](johannes.m@correlaid.org)
+Sebastian Zezulka<br />
+E-Mail: [sebastian.z@correlaid.org](sebastian.z@correlaid.org)
 
 ## Disclaimer
 
@@ -71,8 +70,8 @@ e-mail: info@correlaid.org
 
 ### The data protection officer is:
 
-Thomas Handke<br />
-e-mail: datenschutz@correlaid.org
+Thomas Handke<br />  
+e-mail: info@correlaid.org
 
 ### Scope of application
 

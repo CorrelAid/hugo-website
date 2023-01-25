@@ -19,32 +19,32 @@ Das Impressum gilt für: [https://correlaid.org/](https://correlaid.org/), alle 
 
 ## Angaben gemäß § 5 TMG
 
-CorrelAid e.V.<br />
-Pasteurstr. 34<br />
-10407 Berlin<br />
+CorrelAid e.V.  
+Pasteurstr. 34  
+10407 Berlin  
 E-Mail: [info@correlaid.org](info@correlaid.org)
 
 ### Gemeinschaftlich vertretungsbefugt:
 
 #### 1. Vorsitzender
 
-Johannes Müller<br />
-E-Mail: [johannes.m@correlaid.org](johannes.m@correlaid.org)
+Sebastian Zezulka<br />
+E-Mail: [sebastian.z@correlaid.org](sebastian.z@correlaid.org)
 
 #### 2. Vorsitzender
 
-Regina Siegers<br />
-E-Mail: [regina.s@correlaid.org](regina.s@correlaid.org)
+Patrizia Maier<br />
+E-Mail: [patrizia.m@correlaid.org](patrizia.m@correlaid.org)
 
 ### Vereinsregistereintrag:
 
-Registergericht: Amtsgericht Freiburg im Breisgau<br />
-Registernummer: VR 701448
+Registergericht: Amtsgericht Charlottenburg   
+Registernummer: VR 37779 B
 
 ### Verantwortlicher i.S.d. § 55 Abs. 2 RStV:
 
-Johannes Müller<br />
-E-Mail: [johannes.m@correlaid.org](johannes.m@correlaid.org)
+Sebastian Zezulka<br />
+E-Mail: [sebastian.z@correlaid.org](sebastian.z@correlaid.org)
 
 ## Haftungsausschluss
 
@@ -64,16 +64,15 @@ Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden 
 
 ### Verantwortlich im Sinne des geltenden Datenschutzgesetzes ist:
 
-CorrelAid e.V.<br />
-c/o Arndt Leininger<br />
-Emser Str. 15<br />
-12051 Berlin<br />
+CorrelAid e.V.  
+Pasteurstr. 34  
+10407 Berlin  
 E-Mail: [info@correlaid.org](info@correlaid.org)
 
 ### Der Datenschutzbeauftragte des Verantwortlichen:
 
 Thomas Handke<br />
-E-Mail: [datenschutz@correlaid.org](datenschutz@correlaid.org)
+E-Mail: [info@correlaid.org](info@correlaid.org)
 
 ### Inhalt
 
