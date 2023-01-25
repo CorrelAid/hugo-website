@@ -94,12 +94,6 @@ The elected board of CorrelAid e.V., the official registered non-profit associat
 ## Volunteer Project Managers
 
 {{< contact
-    key="nina"
-    link-color="ca-green-text"
->}}
-{{< /contact >}}
-
-{{< contact
     key="jasmin"
     link-color="ca-green-text"
 >}}
