@@ -70,7 +70,7 @@ e-mail: info@correlaid.org
 
 ### The data protection officer is:
 
-Thomas Handke<br />  
+Frie Preu<br />  
 e-mail: info@correlaid.org
 
 ### Scope of application

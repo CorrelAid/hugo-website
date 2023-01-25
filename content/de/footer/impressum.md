@@ -71,7 +71,7 @@ E-Mail: [info@correlaid.org](info@correlaid.org)
 
 ### Der Datenschutzbeauftragte des Verantwortlichen:
 
-Thomas Handke<br />
+Frie Preu<br />
 E-Mail: [info@correlaid.org](info@correlaid.org)
 
 ### Inhalt
