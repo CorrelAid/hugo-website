@@ -95,12 +95,6 @@ Der gewählte Vorstand von CorrelAid e.V., dem gemeinnützigen Verein, besteht a
 ## Ehrenamtliche Ansprechpartner*innen
 
 {{< contact
-    key="nina"
-    link-color="ca-green-text"
->}}
-{{< /contact >}}
-
-{{< contact
     key="jasmin"
     link-color="ca-green-text"
 >}}
