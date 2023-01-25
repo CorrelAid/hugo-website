@@ -66,7 +66,7 @@ Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden 
 
 CorrelAid e.V.  
 Pasteurstr. 34  
-10407 Berlin  
+10407 Berlin   
 E-Mail: [info@correlaid.org](info@correlaid.org)
 
 ### Der Datenschutzbeauftragte des Verantwortlichen:

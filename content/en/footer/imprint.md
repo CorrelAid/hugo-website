@@ -67,7 +67,7 @@ c/o Arndt Leininger<br />
 Emser Str. 15<br />
 12051 Berlin<br />
 e-mail: info@correlaid.org
-
+ 
 ### The data protection officer is:
 
 Frie Preu<br />  
