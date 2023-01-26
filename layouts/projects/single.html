@@ -5,18 +5,24 @@
         {{ $path := .Params.project_id | printf "https://correlaid.github.io/projects/%s.json"  }}
         {{ $project := getJSON $path }}
         <div class="col-12 my-5">
-
+            
             {{ with $project }}
             {{ if eq .published true }}
+            {{ $content := (index .description $lang )}}
             <h1>{{ (index .title $lang ) }}</h1>
 
-           <h1 class="ca-blue-text">{{ i18n "project-challenge" }}</h1>
+            {{ if gt (len (index $content.summary) ) 1 }}
+            <h1 class="ca-blue-text">{{ i18n "project-summary" }}</h1>
+            <p align="justify">{{ $content.summary | markdownify }}</p>
+            {{ end }}
+            
+            <h1 class="ca-blue-text">{{ i18n "project-challenge" }}</h1>
 
            <div class="col-md-6 float-right">
                 <div class="col-md-12 mb-2 mt-0 ml-sm-0 ml-md-5 pb-3 pr-5 ca-gradient-container">
                     <h2 class="ca-blue-text">{{ .organization.name }}</h2>
                     {{ $about := (index .organization.about $lang ) }}
-                    <p>
+                    <p align="justify">
                         {{ $about.text | markdownify }} 
                     </p>
                     <div class="row">
@@ -28,14 +34,13 @@
                     <div class="ca-gradient-border"></div>
                 </div>
             </div>
-                {{ $content := (index .description $lang )}}
-                <p>{{ $content.problem | markdownify }}</p>
+                <p align="justify">{{ $content.problem | markdownify }}</p>
                 <h1 class="ca-blue-text">{{ i18n "project-data" }}</h1>
-                <p>{{ $content.data | markdownify }}</p>
+                <p align="justify">{{ $content.data | markdownify }}</p>
                 <h1 class="ca-blue-text">{{ i18n "project-approach" }}</h1>
-                <p>{{ $content.approach | markdownify }}</p>
+                <p align="justify">{{ $content.approach | markdownify }}</p>
                 <h1 class="ca-blue-text">{{ i18n "project-impact" }}</h1>
-                <p>{{ $content.impact | markdownify }}</p>
+                <p align="justify">{{ $content.impact | markdownify }}</p>
                 {{ end }}
                 
                 {{ $links := (index .links $lang )}}

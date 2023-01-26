@@ -16,6 +16,8 @@ other       = "Schreib uns!"
 other       = "Vergangene Projekte"
 [projects-your-input]
 other       = "Euer Beitrag:"
+[project-summary]
+other       = "Zusammenfassung"
 [project-challenge]
 other       = "Die Challenge"
 [project-data]

@@ -2,7 +2,7 @@ library(jsonlite)
 library(purrr)
 
 projects <- jsonlite::read_json("https://correlaid.github.io/projects/projects.json")
-
+projects
 
 ids <- projects %>% 
     purrr::walk(function(proj) { 

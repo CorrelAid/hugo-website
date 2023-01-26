@@ -12,6 +12,8 @@ other       = "People"
 other       = "Contact"
 [contact-us]
 other       = "Contact us!"
+[project-summary]
+other       = "Summary"
 [projects-past]
 other       = "Past projects"
 [projects-your-input]
