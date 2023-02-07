@@ -41,9 +41,12 @@ E-Mail: [patrizia.m@correlaid.org](patrizia.m@correlaid.org)
 Registergericht: Amtsgericht Charlottenburg   
 Registernummer: VR 37779 B
 
-### Verantwortlicher i.S.d. § 55 Abs. 2 RStV:
+### Inhaltlich verantwortlich:
 
-Sebastian Zezulka<br />
+Sebastian Zezulka  
+c/o CorrelAid e.V.  
+Pasteurstr. 34  
+10407 Berlin  
 E-Mail: [sebastian.z@correlaid.org](sebastian.z@correlaid.org)
 
 ## Haftungsausschluss
