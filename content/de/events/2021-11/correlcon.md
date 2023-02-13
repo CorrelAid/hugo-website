@@ -53,7 +53,7 @@ Ever needed to create the same report over and over in Excel? Or design a survey
 This is why we have reserved Friday afternoon of the CorrelCon to show you how we can support you with your data challenges. We share insights into previous projects and discuss all things data science in the social sector in our topic sessions.
 
 
-Hop over to [Hopin](https://hopin.com/events/correlcon-7941b515-2ff6-4ba4-b463-77682b372bfd) to register! Make sure to subscribe to our [newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=175fade988) and follow us on [Twitter](https://twitter.com/correlaid) to always be uptodate.
+Hop over to [Hopin](https://hopin.com/events/correlcon-7941b515-2ff6-4ba4-b463-77682b372bfd) to register! Make sure to subscribe to our [newsletter](https://dashboard.mailerlite.com/forms/257414/78748110521631819/share) and follow us on [Twitter](https://twitter.com/correlaid) to always be uptodate.
 
 # For data scientists and data enthusiasts
 
@@ -61,7 +61,7 @@ As at our “meetups” in previous years and at last year's CorrelCon, we hope 
 
 You can expect discussions and input on topics like data science and the environment and different pathways to data science. In the more technical sessions, you’ll be able to learn and discuss your favorite data science technologies and domains with other like-minded data enthusiasts. From data visualization to working with geographical data to concrete tips and resources for beginners on how to start their data science journey - there will be plenty of opportunities to share knowledge and expand your data science horizon. Because that is what the CorrelAid network is all about!
 
-Hop over to [Hopin](https://hopin.com/events/correlcon-7941b515-2ff6-4ba4-b463-77682b372bfd) to register! Make sure to subscribe to our [newsletter](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=175fade988) and follow us on [Twitter](https://twitter.com/correlaid) to always be uptodate.
+Hop over to [Hopin](https://hopin.com/events/correlcon-7941b515-2ff6-4ba4-b463-77682b372bfd) to register! Make sure to subscribe to our [newsletter](https://dashboard.mailerlite.com/forms/257414/78748110521631819/share) and follow us on [Twitter](https://twitter.com/correlaid) to always be uptodate.
 
 # Sponsors
 

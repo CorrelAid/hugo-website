@@ -23,7 +23,7 @@ meta:
 
 *Meine Erfahrung als Neuling auf dem Meetup in Mannheim - und eines der besten Wochenenden seit langer Zeit. Aber der Reihe nach.*
 
-Ich stehe seit circa anderthalb Jahren auf dem [Mailverteiler](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff) von CorrelAid und lese regelmäßig die Blogbeiträge. So auch die Ankündigung zum Meetup in Mannheim vom 30.11. bis zum 2.12.2018. Ausschlaggebend für meine Anmeldung war meine Neugier und der Wunsch, mich mit anderen Menschen mit ähnlichen Interessen (alles mit Daten) zu treffen, denn die meisten kannte ich nur von Twitter oder aus dem Slack-Channel von CorrelAid. Also buchte ich ein Bahnticket, um die Jugendherberge hatte sich CorrelAid schon gekümmert.
+Ich stehe seit circa anderthalb Jahren auf dem [Mailverteiler](https://dashboard.mailerlite.com/forms/257414/78748110521631819/share) von CorrelAid und lese regelmäßig die Blogbeiträge. So auch die Ankündigung zum Meetup in Mannheim vom 30.11. bis zum 2.12.2018. Ausschlaggebend für meine Anmeldung war meine Neugier und der Wunsch, mich mit anderen Menschen mit ähnlichen Interessen (alles mit Daten) zu treffen, denn die meisten kannte ich nur von Twitter oder aus dem Slack-Channel von CorrelAid. Also buchte ich ein Bahnticket, um die Jugendherberge hatte sich CorrelAid schon gekümmert.
 
 {{< image-subtitle
     image="509-mannheim1.jpg"

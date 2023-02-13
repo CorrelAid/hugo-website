@@ -10,10 +10,10 @@ Our network provides different possibilities to network and get active for Data4
 
 Want to learn more about the way we work and our principles? Check out the section below or take a look at our [Hitchhiker's Guide to CorrelAid](https://docs.correlaid.org/wiki/hitchhikers-guide). Our regular newsletter is the best way to stay up to date about offers and activities within CorrelAid.
 
-{{< button 
+{{< button-ref
     btn-class="btn-dark"
-    href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"
+    ref="newsletter"
     justify="center"
 >}}
 Sign up for the newsletter!
-{{< /button >}}
+{{< /button-ref >}}

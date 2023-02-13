@@ -8,7 +8,7 @@
     <div class="col-12">
       <div class="row">
         {{ range .Pages.ByWeight }}
-        {{ if not (or (strings.HasSuffix .File.BaseFileName "_after") (strings.HasSuffix .File.BaseFileName "_before" )) }}      
+        {{ if not (or (strings.HasSuffix .File.BaseFileName "_after") (eq .File.BaseFileName "newsletter") (strings.HasSuffix .File.BaseFileName "_before" )) }}      
 
         <div class="col-12 col-md-4">
           {{ partial "feature.html" . }}

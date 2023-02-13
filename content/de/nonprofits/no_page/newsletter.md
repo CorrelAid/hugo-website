@@ -6,7 +6,7 @@ translationKey: "newsletter"
 description: "In unserem Newsletter für gemeinnützige Organisationen berichten wir einmal im Monat aus unserer Arbeit und stellen ein bestimmtes Datenthema in den Fokus. "
 weight: 6
 img: "nonprofits/newsletter.jpg"
-link: "https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=175fade988"
+link: "https://dashboard.mailerlite.com/forms/257414/78742752988235359/share"
 ---
 
 <!-- ## Newsletter
@@ -14,7 +14,7 @@ link: "https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2d
  In unserem Newsletter für gemeinnützige Organisationen berichten wir einmal im Monat aus unserer Arbeit und stellen ein bestimmtes Datenthema in den Fokus. 
 {{< button 
     btn-class="btn-dark"
-    href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=175fade988"
+    href="https://dashboard.mailerlite.com/forms/257414/78748110521631819/share"
     justify="center"
 >}}
 Abonniere den Newsletter!

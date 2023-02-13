@@ -89,7 +89,7 @@ Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift
 
 Wir weisen jedoch darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist somit nicht möglich. Ihnen sollte außerdem bewusst sein, dass durch das öffentliche Teilen von Bildern, Kommentaren oder ähnlichem Material auf unseren Seiten dazu führt, dass unbekannte Dritten diese Informationen kopieren und auf anderen Seiten verbreiten können. Dies führt dazu, dass geteilte Informationen auch nach ihrer Löschung von unserer Seite weiterhin im Internet auffindbar sein können.
 
-### Newsletter
+### Newsletter für Volunteers
 
 Über unsere Webseite können Sie sich für unseren Newsletter anmelden. Die von Ihnen eingegebenen Daten werden zum Versand von Newslettern und von Informationen zur Registrierung verwendet. Es werden mit diesen Daten außerdem anonyme Nutzerstatistiken erstellt. Ihre Daten werden darüber hinaus nicht an Dritte weitergegeben. Die Verarbeitung Ihrer angaben erfolgt auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO.
 
