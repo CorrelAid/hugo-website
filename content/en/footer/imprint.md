@@ -62,6 +62,8 @@ Copyright
 
 Our web pages and their contents are subject to German copyright law. Unless expressly permitted by law (§ 44a et seq. of the copyright law), every form of utilizing, reproducing or processing works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights. Individual reproductions of a work are allowed only for private use, so must not serve either directly or indirectly for earnings. Unauthorized utilization of copyrighted works is punishable (§ 106 of the copyright law).
 
+
+
 ## Data privacy statement
 
 ### Responsible in the sense of the valid data protection law:
@@ -91,27 +93,42 @@ Please note, however, that data transmission over the internet (for example, whe
 
 ### Newsletter
 
-You can register for our newsletter via our website. The data you enter will be used to send newsletters and registration information. Anonymous user statistics are also created using this data. Your data will also not be disclosed to third parties. The processing of your information is based on Art. 6 para. 1 lit. a GDPR.
+We curate two newsletters as part of our work. 
 
-If you would like to receive the newsletter offered on the website, we need a valid e-mail address from you, as well as information that allows us to verify that you are the owner of the e-mail address provided and that you agree to receive the newsletter. To ensure that an e-mail address is not abused by third parties in our mailing list, we work in accordance with the law with the so-called "double-opt-in" procedure. As part of this process, the order date of the newsletter, the dispatch of the confirmation email and the receipt of the confirmation of registration will be logged.
+#### Processed data and purpose of processing: Newsletter for Nonprofits
+If you subscribe to the newsletter for nonprofits on our website, we use your email address, first and last name to send you the newsletter regularly and to provide you with updates about CorrelAids activities.
 
-Optionally, you can provide information about your name, your home town, your professional status and your personal IT skills. This information is used to personalize your newsletter and to create anonymous user statistics.
+Optionally, you can share more data with us in the [subscription form](https://dashboard.mailerlite.com/forms/257414/78742752988235359/share) and give us consent to process it for certain additional purposes:
 
-The newsletter is distributed via "MailChimp", a newsletter shipping platform of Rocket Science Group, LLC, 675 Ponce De Leon Ave # 5000, Atlanta, GA 30308, USA.
+- For the purpose of compiling anonymous user statistics so that we can learn more about our target audience: organization's website and field of activity.
 
-The e-mail addresses of our Newsletter recipients, as well as their other information described in these notes, are stored on the servers of MailChimp in the USA. MailChimp uses this information to send and evaluate the newsletters on our behalf. Furthermore, MailChimp may, according to its own information, use this data to optimize or improve its own services, e.g. for the technical optimization of the shipping and the presentation of the newsletter or for economic purposes, to determine from which countries the recipients come. However, MailChimp does not use the data of our newsletter recipients to write them down or to pass them on to third parties.
+We do not use tracking in our newsletter emails.
 
-We rely on the reliability, IT and data security of MailChimp. MailChimp is certified under the US-EU privacy shield "Privacy Shield" and is committed to complying with EU data protection requirements. Furthermore, we have concluded a data processing agreement with MailChimp. This is a contract in which MailChimp pledges to protect the data of our users, to process it in accordance with its privacy policy on our behalf and, in particular, not to disclose it to third parties. The privacy policy of MailChimp can be viewed here.
+#### Processed data and purpose of processing: Newsletter for volunteers.
+If you subscribe to the newsletter on our website, we use your email address, first and last name, and your (optional) choice of CorrelAidX chapters to send you the newsletter regularly, to provide you with updates about CorrelAid, its activities and (optional) activities in your region.
 
-The newsletters contain a so-called "web-beacon", i. a pixel-sized file that is retrieved from the MailChimp server when the newsletter is opened. This call will initially collect technical information, such as information about the browser and your system, as well as your IP address and time of retrieval. This information is used to improve the technical performance of services based on their specifications or audience and their reading habits, based on their locations (which can be determined using the IP address) or access times.
+Optionally, you can share more data with us in the [registration form](https://dashboard.mailerlite.com/forms/257414/78748110521631819/share) and give us consent to process it for certain additional purposes:
 
-Statistical surveys also include determining if the newsletters will be opened, when they will be opened and which links will be clicked. For technical reasons, this information can be assigned to the individual newsletter recipients. However, it is neither our desire nor that of MailChimp to observe individual users. The evaluations serve us much more to recognize the reading habits of our users and to adapt our content to them or to send different content according to the interests of our users.
+- For the purpose of informing you about newly created or reactivated CorrelAidX chapters and updates about their future activities: city and country of residence
+- For the purpose of compiling anonymous user statistics so that we can learn more about our target audience: Gender, year of birth, city and country of residence.
 
-There are cases in which we direct the newsletter recipients to the MailChimp websites. For example, Our newsletters contain a link that allows newsletter recipients to retrieve newsletters online (for example, in the case of display problems in the e-mail program). Furthermore, newsletter recipients can store their data, such as correct the e-mail address later. Similarly, the privacy policy of MailChimp is only available on their page.
+We do not use tracking in our newsletter emails.
 
-In this context, we pointed out that on the websites of MailChimp cookies are used and thus personal data processed by MailChimp, their partners and service providers used (such as Google Analytics). We have no influence on this data collection. For more information, see the privacy policy of MailChimp.
+#### Legal basis for data processing, revocation of consent, etc.
 
-The granted consent to the storage of the data, the e-mail address and their use for sending the newsletter can be revoked at any time, for example via the "unsubscribe" link in the newsletter or by contacting our data protection officer.
+The **legal basis** for sending the newsletter and the other optional purposes described is your consent (Article 6(1) 1a) GDPR). 
+
+**Tool**: We use [MailerLite](https://mailerlite.com), a tool from MailerLite Limited, Ground Floor, 71 Lower Baggot Street, Dublin 2, D02 P593, Ireland, to store the data and send the newsletter. We have entered into an data processing agreement with MailerLite Limited. 
+
+**Transfer to Third Countries**: Your data is not transfered to third countries. 
+
+**Duration**: The data stored by us for the purposes described above will be stored by us until you unsubscribe from the newsletter. Then, your data will be deleted from both our servers and the servers of MailerLite. Data stored by us for other purposes (e.g. e-mail addresses of members of CorrelAid e.V.) remain unaffected by this. 
+
+**Revocation of consent option**: You have the option to revoke your consent to the processing of your data with effect for the future at any time.
+To do so, you can click on the "unsubscribe" link at the bottom of any newsletter email. The email address you provided for sending the newsletter, as well as all other data you shared with us in the registration form, will be deleted as soon as you revoke your consent to receive the newsletter, unless the data is also used for other communication than for sending the newsletter between us and you (e.g. if you are a member of CorrelAid e.V.).  The legality of the data processing operations already carried out remains unaffected by the revocation. 
+
+**More data protection information**: We would like to point out that cookies are used on MailerLite's websites and that personal data is thus processed by MailerLite, its partners and service providers used (e.g. Google Analytics). We have no influence on this data processing. Further information can be found in the [Privacy Policy of MailerLite](https://www.mailerlite.com/legal/privacy-policy).
+
 
 ### Integration of services and content of third parties
 
