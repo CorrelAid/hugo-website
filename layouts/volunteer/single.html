@@ -3,11 +3,23 @@
   <div class="row">
     <div class="col-12 mt-5">
       <h1>{{ .Title }}</h1>
-
       {{ .Content }}
     </div>
   </div>
-  {{ $lang := .Site.Language.Lang }} {{ if eq .File.BaseFileName "correlaidx" }}
+
+  {{ $lang := .Site.Language.Lang }} 
+
+  {{ if eq .File.BaseFileName "newsletter" }}
+  <div class="row">
+    <div class="col-12 mb-5">
+      <div class="row">
+        <div class="ml-embedded" data-form="byHeJI"></div>
+      </div>
+    </div>
+  </div>
+  {{ end }} 
+
+  {{ if eq .File.BaseFileName "correlaidx" }}
   <div class="row">
     <div class="col-12 mb-5">
       <div class="row">

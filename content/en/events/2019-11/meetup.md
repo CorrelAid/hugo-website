@@ -74,7 +74,7 @@ See [http://tiny.cc/cameetup](http://tiny.cc/cameetup) for the continuously upda
 
 ## Other info
 
-Unfortunately, we cannot provide accomodation this year. However, if you need support finding a place to stay, please let us know (email below)! If you want to give or organize a workshop session - please tell us more about it in the [registration form](https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=562b472bf3) so that we can "book" you in the program. :)
+Unfortunately, we cannot provide accomodation this year. However, if you need support finding a place to stay, please let us know (email below)! If you want to give or organize a workshop session - please tell us more about it in the [registration form](https://dashboard.mailerlite.com/forms/257414/78748110521631819/share) so that we can "book" you in the program. :)
 
 ## Contact
 

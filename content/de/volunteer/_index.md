@@ -8,10 +8,10 @@ Unser Netzwerk bietet dir verschiedene Möglichkeiten, miteinander in Kontakt zu
 
 Wenn du mehr über unsere Arbeitsweise sowie unsere Prinzipien erfahren möchtest, klick dich doch durch die Kacheln unten oder wirf einen Blick auf unseren [Hitchhiker's Guide to CorrelAid](https://docs.correlaid.org/wiki/hitchhikers-guide). Über unsere Aktivitäten und Angebote informieren wir regelmäßig in unserem Newsletter. 
 
-{{< button 
+{{< button-ref
     btn-class="btn-dark"
-    href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"
+    ref="newsletter"
     justify="center"
 >}}
 Abonniere den Newsletter!
-{{< /button >}}
+{{< /button-ref >}}

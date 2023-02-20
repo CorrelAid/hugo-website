@@ -24,13 +24,14 @@ For each project, a call for applications is published via our e-mail newsletter
 - typically remote collaboration over Slack and Zoom
 - work with open source technologies like R, Python, and Git/GitHub
 
-{{< button 
+
+{{< button-ref
     btn-class="btn-dark"
-    href="https://correlaid.us12.list-manage.com/subscribe?u=b294bf2834adf5d89bdd2dd5a&id=915f3f3eff"
+    ref="newsletter"
     justify="center"
 >}}
 Subscribe to the newsletter!
-{{< /button >}}
+{{< /button-ref >}}
 
 
 {{< contact

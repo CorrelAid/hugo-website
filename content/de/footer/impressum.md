@@ -91,29 +91,41 @@ Wir weisen jedoch darauf hin, dass die Datenübertragung im Internet (z.B. bei d
 
 ### Newsletter
 
-Über unsere Webseite können Sie sich für unseren Newsletter anmelden. Die von Ihnen eingegebenen Daten werden zum Versand von Newslettern und von Informationen zur Registrierung verwendet. Es werden mit diesen Daten außerdem anonyme Nutzerstatistiken erstellt. Ihre Daten werden darüber hinaus nicht an Dritte weitergegeben. Die Verarbeitung Ihrer angaben erfolgt auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO.
+Wir kuratieren im Rahmen unserer Arbeit zwei Newsletter. 
 
-Wenn Sie den auf der Webseite angebotenen Newsletter beziehen möchten, benötigen wir von Ihnen eine gültige E-Mail-Adresse sowie Informationen, welche uns die Überprüfung gestatten, dass Sie der Inhaber der angegebenen E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind. Um sicherzustellen, dass eine E-Mail-Adresse nicht missbräuchlich durch Dritte in unseren Verteiler eingetragen wird, arbeiten wir gesetzeskonform mit dem sogenannten Double-Opt-In-Verfahren. Im Rahmen dieses Verfahren werden die Bestellung des Newsletters, der Versand der Bestätigungsmail und der Erhalt der Anmeldebestätigung protokolliert. Optional können Sie Angaben zu Ihrem Namen, Ihrem Heimatort, Ihrem beruflichen Status und Ihren persönlichen IT-Kenntnissen machen. Diese Angaben dienen zur Personalisierung Ihres Newsletters sowie zur Erstellung anonymer Nutzerstatistiken.
+#### Erhobene Daten und Verarbeitungszwecke: Newsletter für Nonprofits
+Wenn du auf unserer Webseite den Newsletter für Nonprofits abonnierst, verwenden wir deine E-Mail-Adresse, deinen Vor- und deinen Nachnamen, um dir regelmäßig den Newsletter zuzusenden und dich mit Wissenswertem über den Verein zu versorgen.
 
-Der Versand der Newsletter erfolgt mittels MailChimp, einer Newsletterversandplattform des US-Anbieters Rocket Science Group, LLC, 675 Ponce De Leon Ave NE #5000, Atlanta, GA 30308, USA.
+Optional kannst du im [Anmeldeformular](https://dashboard.mailerlite.com/forms/257414/78742752988235359/share) weitere Daten mit uns teilen und uns die Einwilligung geben, diese für bestimmte zusätzliche Zwecke zu verarbeiten:
 
-Die E-Mail-Adressen unserer Newsletterempfänger, als auch deren weitere, im Rahmen dieser Hinweise beschriebenen Daten, werden auf den Servern von MailChimp in den USA gespeichert. MailChimp verwendet diese Informationen zum Versand und zur Auswertung der Newsletter in unserem Auftrag. Des Weiteren kann MailChimp nach eigenen Informationen diese Daten zur Optimierung oder Verbesserung der eigenen Services nutzen, z.B. zur technischen Optimierung des Versandes und der Darstellung der Newsletter oder für wirtschaftliche Zwecke, um zu bestimmen aus welchen Ländern die Empfänger kommen. MailChimp nutzt die Daten unserer Newsletterempfänger jedoch nicht, um diese selbst anzuschreiben oder an Dritte weiterzugeben.
+- Zum Zweck der Erstellung von anonymen Benutzer*innenstatistiken, damit wir mehr über unsere Zielgruppe lernen können: Webseite und Tätigkeitsbereich der Organisation
 
-Wir vertrauen auf die Zuverlässigkeit und die IT- sowie Datensicherheit von MailChimp. MailChimp ist unter dem US-EU-Datenschutzabkommen Privacy Shield zertifiziert und verpflichtet sich damit die EU-Datenschutzvorgaben einzuhalten. Des Weiteren haben wir mit MailChimp ein Data-Processing-Agreement abgeschlossen. Dabei handelt es sich um einen Vertrag, in dem sich MailChimp dazu verpflichtet, die Daten unserer Nutzer zu schützen, entsprechend dessen Datenschutzbestimmungen in unserem Auftrag zu verarbeiten und insbesondere nicht an Dritte weiter zu geben. Die Datenschutzbestimmungen von MailChimp können Sie hier einsehen.
+Wir verwenden kein Tracking in unseren Newsletter E-Mails.
 
-Die Newsletter enthalten einen sog. web-beacon, d.h. eine pixelgroße Datei, die beim Öffnen des Newsletters von dem Server von MailChimp abgerufen wird. Im Rahmen dieses Abrufs werden zunächst technische Informationen, wie Informationen zum Browser und Ihrem System, als auch Ihre IP-Adresse und Zeitpunkt des Abrufs erhoben. Diese Informationen werden zur technischen Verbesserung der Services anhand der technischen Daten oder der Zielgruppen und ihres Leseverhaltens anhand derer Abruforte (die mit Hilfe der IP-Adresse bestimmbar sind) oder der Zugriffszeiten genutzt.
+#### Erhobene Daten und Verarbeitungszwecke: Newsletter für Volunteers
+Wenn du auf unserer Webseite den Newsletter abonnierst, verwenden wir deine E-Mail-Adresse, deinen Vor- und deinen Nachnamen sowie deine (optionale) Auswahl an CorrelAidX Chaptern, um dir regelmäßig den Newsletter zuzusenden, dich mit Wissenswertem über den Verein und (optional) Aktivitäten in deiner Region zu versorgen.
 
-Zu den statistischen Erhebungen gehört ebenfalls die Feststellung, ob die Newsletter geöffnet werden, wann sie geöffnet werden und welche Links geklickt werden. Diese Informationen können aus technischen Gründen zwar den einzelnen Newsletterempfängern zugeordnet werden. Es ist jedoch weder unser Bestreben, noch das von MailChimp, einzelne Nutzer zu beobachten. Die Auswertungen dienen uns viel mehr dazu, die Lesegewohnheiten unserer Nutzer zu erkennen und unsere Inhalte auf sie anzupassen oder unterschiedliche Inhalte entsprechend den Interessen unserer Nutzer zu versenden.
+Optional kannst du im [Anmeldeformular](https://dashboard.mailerlite.com/forms/257414/78748110521631819/share) weitere Daten mit uns teilen und uns die Einwilligung geben, diese für bestimmte zusätzliche Zwecke zu verarbeiten:
 
-Es gibt Fälle, in denen wir die Newsletterempfänger auf die Webseiten von MailChimp leiten. Z.B. enthalten unsere Newsletter einen Link, mit dem die Newsletterempfänger die Newsletter online abrufen können (z.B. bei Darstellungsproblemen im E-Mailprogramm). Ferner können Newsletterempfänger ihre Daten, wie z.B. die E-Mailadresse nachträglich korrigieren. Ebenso ist die Datenschutzerklärung von MailChimp nur auf deren Seite abrufbar.
+- Zum Zweck der Information über neu enstehende oder reaktivierte CorrelAidX Chapter und Updates über deren zukünftige Aktivitäten: Wohnort und -land
+- Zum Zweck der Erstellung von anonymen Benutzer*innenstatistiken, damit wir mehr über unsere Zielgruppe lernen können: Gender, Geburtsjahr, Wohnort & -land
 
-In diesem Zusammenhang wiesen wir darauf hin, dass auf den Webseiten von MailChimp Cookies eingesetzt und damit personenbezogene Daten durch MailChimp, deren Partnern und eingesetzten Dienstleistern (z.B. Google Analytics) verarbeitet werden. Auf diese Datenerhebung haben wir keinen Einfluss. Weitere Informationen können Sie der Datenschutzerklärung von MailChimp entnehmen.
+Wir verwenden kein Tracking in unseren Newsletter E-Mails.
 
-Die erteilte Einwilligung zur Speicherung der Daten, der E-Mail-Adresse sowie deren Nutzung zum Versand des Newsletters können Sie jederzeit widerrufen, etwa über den "Austragen"-Link im Newsletter oder indem Sie unseren Datenschutzbeauftragten kontaktieren.
+#### Rechtsgrundlage, Widerrufsmöglichkeit etc.
 
-### Kontaktformular
+Die **Rechtsgrundlage** für den Newsletter-Versand und die weiteren beschriebenen, optionalen Zwecke ist jeweils deine Einwilligung (Artikel 6 Absatz 1 Satz 1 a) DSGVO). 
 
-Wenn Sie uns per Kontaktformular oder per E-Mail kontaktieren, werden Ihre Angaben aus dem Kontaktformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung an Dritte weiter.
+**Empfänger**: Für die Speicherung der Daten und den Versand des Newsletters verwenden  wir [MailerLite](https://mailerlite.com), ein Tool von MailerLite Limited, Ground Floor, 71 Lower Baggot Street, Dublin 2, D02 P593, Ireland. Wir haben mit MailerLite Limited einen Auftragsverarbeitungsvertrag abgeschlossen. 
+
+**Übermittlung an Drittstaaten**: Eine Übermittlung der Daten in Drittstaaten findet nicht statt. 
+
+**Dauer**: Die deinerseits im Rahmen der Einwilligung für die oben beschriebenen Zwecke bei uns gespeicherten Daten werden von uns bis zu deiner Austragung aus dem Newsletter gespeichert und nach der Abbestellung des Newsletters sowohl von unseren Servern als auch von den Servern von MailerLite gelöscht. Daten, die zu anderen Zwecken bei uns gespeichert wurden (z. B. E-Mail-Adressen von Mitgliedern von CorrelAid e.V.) bleiben hiervon unberührt. 
+
+**Widerrufsmöglichkeit**: Du hast die Möglichkeit, deine Einwilligung zur Datenverarbeitung mit Wirkung für die Zukunft jederzeit zu widerrufen.
+Dazu kannst du unten in der Newsletter-E-Mail auf „abbestellen“ oder „unsubscribe“ klicken. Die E-Mail-Adresse, die du für den Versand des Newsletters angegeben haben, sowie alle weiteren Daten, die du mit uns im Anmeldeformular geteilt hast, werden gelöscht, sobald du deine Einwilligung in den Newsletter widerrufst, es sei denn, dass diese E-Mail-Adresse auch für andere Kommunikation als zum Newletter-Versand zwischen dem Verein und dir verwendet wird (z.B. wenn du Vereinsmitglied bist).  Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt. 
+
+**Weitere Datenschutzhinweise**: Wir weisen darauf hin, dass auf den Webseiten von MailerLite Cookies eingesetzt und damit personenbezogene Daten durch MailerLite, deren Partnern und eingesetzten Dienstleistern (z.B. Google Analytics) verarbeitet werden. Auf diese Datenerhebung haben wir keinen Einfluss. Weitere Informationen kannst du der [Datenschutzerklärung von MailerLite](https://www.mailerlite.com/legal/privacy-policy) entnehmen.
 
 ### Einbindung von Diensten und Inhalten Dritter
 
