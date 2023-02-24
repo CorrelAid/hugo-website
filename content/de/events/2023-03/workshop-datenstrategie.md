@@ -23,4 +23,4 @@ Die Lernziele dabei: Die Teilnehmenden...
 Für mehr Informationen zu diesem Workshop schreibt gerne eine Mail an [zoe.w@correlaid.org](mailto:zoe.w@correlaid.org)!
 
 ## Anmeldung 
-Bitte melde Dich über [Pretix](https://pretix.eu/correlaid/open-onboarding/) an. Nach Deiner Anmeldung erhältst Du die ZUgangsdaten zu Zoom per Mail.
+Bitte melde Dich über [Pretix](https://pretix.eu/correlaid/open-onboarding/) an. Nach Deiner Anmeldung erhältst Du die Zugangsdaten zu Zoom per Mail.
