@@ -45,6 +45,14 @@ In this course, participants learn how data and technology enable evidence-based
 - Participants are able to recognize the potential and potential obstacles of data analysis in their organizations.
 - Participants know where to go and how to get help with data for their organization.
 
+{{< button 
+    btn-class="btn-dark"
+    href="https://www.correlaid.org/en/events/2023-03/workshop-datenstrategie/"
+    justify="center"
+>}}
+Next workshop: Mar 28th
+{{< /button >}}
+
 ### Data visualization with Shiny Web Apps (R)
 In this course, participants learn how to visualize data in R. We will work with the open source frameworj R Shiny with which we will create interactive visualizations.
 **Learning objectives:**

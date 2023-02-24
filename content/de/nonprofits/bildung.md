@@ -44,6 +44,14 @@ Die Teilnehmer*innen lernen gemeinsam mit uns, wie Daten und Technologie evidenz
 - Die Teilnehmer*innen werden befähigt, das Potential von Datenanalyse in ihren Organisationen zu erkennen, und können potenzielle Hindernisse benennen
 - Die Teilnehmer*innen kennen Anlaufstellen und Hilfsangebote rund ums Thema Daten für ihre Organisation
 
+{{< button 
+    btn-class="btn-dark"
+    href="https://www.correlaid.org/events/2023-03/workshop-datenstrategie/"
+    justify="center"
+>}}
+Nächster Workshop: 28.03.
+{{< /button >}}
+
 ### Datenvisualisierung mit Shiny Web Apps (R)
 Die Teilnehmer*innen lernen gemeinsam mit uns, wie Daten in R visualisiert werden können. Dazu nutzen wir das Open Source Framework R Shiny, mit dem wir interaktive Visualisierungen erstellen können.
 **Lernziele:**
