@@ -2,9 +2,6 @@
 title: "Data privacy"
 date: 2018-08-23T12:35:58+02:00
 draft: false
-menu: 
-    about:
-        weight: 10
 translationKey: "privacy"
 meta:
     title: "CorrelAid - Data privacy"

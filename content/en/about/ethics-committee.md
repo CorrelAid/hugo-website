@@ -5,7 +5,7 @@ draft: false
 slug: "ethics"
 menu: 
     about:
-        weight: 4
+        weight: 20
 translationKey: "ethics"
 meta:
     title: "CorrelAid - Ethics Commission"

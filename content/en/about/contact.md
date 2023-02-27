@@ -1,10 +1,10 @@
 ---
-title: "Contact"
+title: "Team"
 date: 2018-08-23T10:48:46+02:00
 draft: false
 menu:
   about:
-    weight: 8
+    weight: 10
 translationKey: "contact"
 meta:
     title: "CorrelAid - Contact"

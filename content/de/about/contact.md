@@ -1,11 +1,11 @@
 ---
-title: "Kontakt"
+title: "Team"
 date: 2018-08-23T10:48:46+02:00
 draft: false
 translationKey: "about"
 menu:
   about:
-    weight: 5
+    weight: 10
   essentials:
     weight: 2
 translationKey: "contact"
