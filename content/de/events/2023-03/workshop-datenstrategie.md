@@ -15,7 +15,7 @@ Im Workshop lernen die Teilnehmenden gemeinsam mit uns, wie Daten und Technologi
 
 Die Lernziele dabei: Die Teilnehmenden...
 
-- ...erhalten ein Verständnis für das Potenzial von Daten und Datenanalyse allgemein
+- ...erhalten ein Verständnis für das Potential von Daten und Datenanalyse allgemein
 - ...werden befähigt, das Potential von Datenanalyse in ihren Organisationen zu erkennen, und können potenzielle Hindernisse benennen
 - ...können potenzielle Datenprojekte entlang der Wirkungskette erkennen
 - ...kennen Anlaufstellen und Hilfsangebote rund ums Thema Daten für ihre Organisation
