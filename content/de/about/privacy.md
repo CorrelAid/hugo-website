@@ -2,9 +2,6 @@
 title: "Datenschutz"
 date: 2018-08-23T12:35:58+02:00
 draft: false
-menu: 
-    about:
-        weight: 6
 translationKey: "privacy"
 meta:
     title: "CorrelAid - Datenschutz bei CorrelAid"

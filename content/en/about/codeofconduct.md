@@ -4,7 +4,7 @@ date: 2018-08-23T10:48:46+02:00
 draft: false
 menu:
   about:
-    weight: 6
+    weight: 40
 translationKey: "coc"
 meta:
     title: "CorrelAid - Code of Conduct"
@@ -16,66 +16,79 @@ meta:
 # Code of Conduct
 
 
-# Our commitment to society
-
-CorrelAid is an independent and inclusive non-partisan network dedicated to education. We enable data analysts and scientists to expand and apply their knowledge to topics of social relevance by providing educational opportunities and conducting Data4Good projects. Our projects are aimed at supporting institutions in expanding their social impact by enabling them to actively participate in the digital world of data. We further strive to build a community of like-minded people to exchange knowledge and connect. While doing so, we take a stand against all forms of discrimination and show deep commitment to encouraging equality in our teams and transparency in our work and beyond.
-
-We pledge to make our community an open and welcoming environment by ensuring an harassment-free experience for everyone, regardless where they fall on dimensions including, but not limited to: gender identity and expression, sexual identity and orientation, age, disability, neuro(a)typicality, ethnicity, profession, level of experience, education, socio-economic status, nationality, physical appearance, race, religion, physical and mental health, or lifestyle choices. 
-
-When deciding on partners to cooperate with, our ethics commission will place great emphasis on the organization’s alignment with our values, its commitment to social good and the benefit for society resulting from a potential project.
-
-# Our working principles
-
-
-### Civil courage
-
-We use data-based methods and tools responsibly and are committed to positive societal change. We do not shy away from working on hard problems or making difficult decisions. We say no to things if they do not align with CorrelAid's values and speak up when we see injustice or discrimination. We own up to our mistakes.
-
-### Responsibility
-Data protection and security are our key concerns. We commit ourselves to the regulations of the GDPR and believe that data privacy is a human right. We especially make sure that confidential data is treated responsibly and is deleted after project closure. We dedicate ourselves to have high working standards and ensure that insights derived from our analysis are profound.
-We take charge of our tasks and solve matters proactively.
-### Pragmatism
-
-We create practical and sustainable solutions that have real value to our partners. We do so by striving to use technologies that can be implemented, used, maintained and updated by our partners, even if that means that we have to integrate less advanced tools. We foster an impact-driven mindset for the greater good.
-### Transparency
-We are transparent in how we derive conclusions and try to explain methods and technologies used to our partners to empower them on their individual data journey. We also present differing views and are honest about the limitations of our knowledge and work.
-
-We believe in sharing our work, knowledge and experience. We make code and resources publicly available whenever possible and attend conferences and talks to share our expertise.
-
-### Self-determination
-Volunteers and partners work and make decisions self-determined and responsibly. To accommodate for different working styles and backgrounds, we do not prefer specific coding languages or technologies but rather encourage our partners and members to choose the right path for themselves, guiding them through their unique journey.
+*The goal of this document is to give you actionable advice and guide interventions for Code of Conduct breaches.*
+_If you want to contribute to the Code of Conduct, you can leave comments in [this Google Doc](https://docs.google.com/document/d/13pzXFAYiH_rVnN1draAAcEi75EHspb7vZBhldCuMTl8/edit?usp=sharing)._
 
 
 
+## How we work
 
-### Respect
+We enable data analysts and scientists to expand their knowledge and apply it to topics of societal relevance. Therefore, we provide educational opportunities for our community as well as for NPOs by conducting a range of Data4Good projects. Our projects are aimed at supporting institutions in enhancing their social impact by enabling them to make active use of their own and publicly available data. At the same time, we are building a community of civic-minded data professionals and enthusiasts to exchange knowledge and connect.
 
-We are open to, respect and value other people, their time and their views, especially if they are different from ours. We do so by learning from each other and practicing gratitude. This can be as simple as saying ‘thank you’.
+The work that this community does in cooperation with our partners is at the heart of CorrelAid. We always pursue this work in alignment with our values. We also pursue these values in our public representation, and in our collaboration and communication with partners and other community members. 
 
-We embrace diversity in all its forms and take care of fostering acceptance and respect inside our community and beyond. We want everyone to feel welcome and safe within CorrelAid.
+These are the principles we agree on for our community:
 
+**Oppose problematic behavior**
 
+To make sure that our community can be a safer environment, we all need to adhere to our values and oppose problematic or discriminating behavior whenever it occurs. Each and everyone is asked to take part in creating this safer space.
 
+**Be respectful**
 
-# Examples of how we strive to work
+Approach people with respect within the community, during your work for CorrelAid and beyond.
 
-
-
-*   You work on a Data4Good project. An NPO representative asks you a question that you do not know the answer to. You politely explain that this is unfortunately not your area of expertise and offer to seek advice from the CorrelAid community. When the NPO representative agrees to share the information, you reach out to the network.
-*   You work on a Data4Good project. One of the volunteers disappears and you are now understaffed. You contact the project lead who then aims at resolving the issue with the volunteer. If the issue persists, the project lead contacts the operational team to provide additional resources.
-*   Together with other volunteers you organize an event in which NPOs can propose their data challenges and our community can pitch solutions. One of the NPOs is not satisfied with the outcome. As one of the organizers you send an official apology to the official contact person, thank them for their feedback and take responsibility for what happened. You derive lessons learned and share them with the community. If additional resources become available, you offer more counselling to the affected partner NPO.
-*   In the community, you joke around about a game you played and laugh about a situation that occured. A person that is affected by the situation does not seem to enjoy the conversation. You pull them aside and check in with them to make sure they are okay. When they tell you, they feel bad about it, you apologize, thank them for their honesty and ask how you can improve the situation. When they suggest you can stop to talk about the situation, you honor their wishes and, without exposing your confidant, politely cut mentions of the incident short, whenever they arise.
-*   During a meeting, one of the members keeps cutting other community members off. You thank them for their input but also make clear that others should have the opportunity to contribute to the discussion without being interrupted.
-*   You overhear another volunteer making discriminating comments about another volunteer in their absence. You may confront them privately and refer them to our Code of Conduct and/or seek counselling and report the incident to our responsible Ethics officer (see below).
-*   You overhear another volunteer making discriminating comments about another volunteer in their presence. You interrupt the situation proactively by referring to our Code of Conduct and/or you seek counselling and report the incident to our responsible Ethics officer (see below).
+Not showing respect can include but is not limited to: 
 
 
-# Scope of this agreement 
 
-This agreement guides the work inside of our community and beyond. We care about following its principles closely in Data4Good projects, when representing our community and vision publicly and more generally when in any collaboration and communication with partners and other community members.
+* invasion of personal space, if not explicitly stated and agreed upon
+* bullying & exclusionary behavior
+* discriminatory language
+* deadnaming & misgendering
+* not respecting expressed needs, desires and boundaries of others
+* violent communication 
+* lack of adequate notice on the plans to stop communication and / or collaboration to fellow volunteers
+* jokes about marginalized communities 
+* taking up major shares of talking time, constant interrupting 
+* focusing on overgeneralized statements instead of “I-messages”
+
+When facing such behavior, we strive to reflect upon the offending person’s situation and characteristics, as well as potential biases that we might have towards them based on discriminatory structures.
+
+**Strive towards a more inclusive environment**
+
+Keep yourself informed about diversity and inclusion issues that affect CorrelAid. You have the responsibility to contribute your share. If you observe behavior that affects this inclusive environment, speak up.
+
+**Dealing with errors constructively**
+
+Own up to your mistakes and be respectful towards others when they own up to theirs. Become active to solve problems with the help of the community. The community is there to help, it’s your responsibility to ask for help.
+
+**Communicate transparently**
+
+If possible, communicate transparently, e.g., by using a public channel instead of private messages. This makes it easier for others to learn and participate in conversations they find interesting. Be eager to explain your methods and what you are doing in clear and simple terms and aim to demystify data science. 
+
+**Favor practical and sustainable solutions over more complex systems**
+
+To make sure that your solutions are understandable, maintainable, sustainable and useful, try to keep them as simple as possible. Strive for the simplest solution, not for the most impressive one. 
+
+**Self-Determination**
+
+The Code of Ethics and the Code of Conduct are your guidelines. In the end, it is you who takes the decisions for yourself within CorrelAid. Take them responsibly. 
+
+Sometimes you might not be sure how to handle a situation or question. This is normal and nothing to be ashamed of. This is actually what the community and core team are there for: You can ask for help!
+
+**Handle personal data with care**
+
+Keep yourself informed about current data privacy policies. If you are not sure how to handle projects or issues that might involve dealing with personal or otherwise sensitive data, the community and ethics committee are here to help. It’s your responsibility to seek out that help.
+
+**Consider Open Source and different technologies**
+
+Consider open source, partner wants and needs, and your own preferences when choosing technology.To further enrich the community's knowledge, always consider sharing what you learned, no matter which technology you end up using.
 
 
-# Reporting violations of the Code of Conduct
+## Violations of the Code of Conduct
 
-If you have further questions or come across a situation that appears to violate the CorrelAid’s Code of Conduct, if you want to raise a concern about a possible breach of the Code of Conduct, or if you experienced or witnessed a behavior that does not align  with our working principles, we are here to support you.
-Reach us by contacting the [CorrelAid Ethics committee](/en/about/ethics) at [ethics@correlaid.org](mailto:ethics@correlaid.org).
+**Reporting violations of the Code of Conduct**
+
+If you come across a situation that appears to violate the CorrelAid’s Code of Ethics or Code of Conduct, if you want to raise a concern about a possible breach of the code of ethics, or if you experienced or witnessed a behavior that does not align with our working principles, the CorrelAid Ethics committee is there to support you. 
+
+Guidelines for action after Code of Conduct breaches are currently being drafted. For the time being, consequences can nonetheless be taken depending on the severity of the breach. Responsibility for the determination of these consequences lies with the Ethics committee and/or the organizing party of events.

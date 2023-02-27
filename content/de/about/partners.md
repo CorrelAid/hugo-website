@@ -5,7 +5,7 @@ draft: false
 translationKey: "partners"
 menu: 
     about:
-        weight: 1
+        weight: 60
 meta:
     title: "CorrelAid - Partner organisations and sponsors"
     image: "509-correlaid-thumb.jpg"

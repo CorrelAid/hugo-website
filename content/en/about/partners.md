@@ -5,7 +5,7 @@ draft: false
 translationKey: "partners"
 menu: 
     about:
-        weight: 2
+        weight: 40
 meta:
     title: "CorrelAid - Partner organisations and sponsors"
     description: "CorrelAid Homepage. We are a network of young data analysts that wants to change the world with a more inclusive, integrated and innovative approach to data analysis."
