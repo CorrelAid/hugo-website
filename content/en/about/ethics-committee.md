@@ -31,7 +31,7 @@ If you are in contact with an organization and feel unsure about whether the pro
 More information about processes and tools coming soon. 
 
 #### Code of Conduct and Code of Ethics
-The ethics commission maintains the [Code of Conduct](/en/about/codeofconduct) (currently under revision) and the Code of Ethics (see below, currently work in progress).
+The ethics commission maintains the [Code of Conduct](/en/about/codeofconduct)  and the [Code of Ethics](/en/about/codeofethics).
 
 It is also the  point of contact to report violations of the Code of Conduct:
 If you come across a situation that appears to violate the CorrelAid [Code of Conduct](/en/about/codeofconduct), if you want to raise a concern about a possible breach of the Code of Conduct, or if you experienced or witnessed a behavior that does not align  with our working principles, the ethics committee is here to support you.
@@ -69,13 +69,3 @@ You can reach the ethics committee by contacting [ethics@correlaid.org](mailto:e
     link-color="ca-green-text"
 >}}
 {{< /contact >}}
-
-# Code of ethics
-
-**This content is currently in revision by the ethics committee**
-
-CorrelAid is an independent and inclusive non-partisan network. Our projects are aimed at supporting non-profit organisations in expanding their impact by enabling them to actively participate in the digital world.
-
-We try to keep entry barriers as low as possible and provide the volunteers in our network with diverse opportunities of getting involved - Allowing them to find one that fits their lives.
-
-When deciding on partners to cooperate with, our ethics commission will place great emphasis on the organisation's dedication to [our values]({{< ref "/about#our-values" >}}), its commitment to social good and the benefit for society resulting from a potential project. 
