@@ -91,7 +91,7 @@ Consider open source, partner wants and needs, and your own preferences when cho
 
 **Reporting violations of the Code of Conduct**
 
-If you come across a situation that appears to violate the CorrelAid’s Code of Ethics or Code of Conduct, if you want to raise a concern about a possible breach of the code of ethics, or if you experienced or witnessed a behavior that does not align with our working principles, the CorrelAid Ethics committee is there to support you. 
+If you come across a situation that appears to violate the CorrelAid’s Code of Ethics or Code of Conduct, if you want to raise a concern about a possible breach of the code of ethics, or if you experienced or witnessed a behavior that does not align with our working principles, the [CorrelAid Ethics committee](https://www.correlaid.org/about/ethics/) is there to support you. 
 
 Guidelines for action after Code of Conduct breaches are currently being drafted. For the time being, consequences can nonetheless be taken depending on the severity of the breach. Responsibility for the determination of these consequences lies with the Ethics committee and/or the organizing party of events.
 

@@ -83,4 +83,4 @@ We believe in sharing our work, knowledge and experience. Therefore we make code
 
 ## Reporting violations of the Code of Ethics
 
-If you have further questions or come across a situation that appears to violate the CorrelAid’s code of ethics, if you want to raise a concern about a possible breach of the code of ethics, or if you experienced or witnessed a behaviour that does not align with our working principles, we are here to support you. Reach us by contacting the CorrelAid Ethics committee. 
+If you have further questions or come across a situation that appears to violate the CorrelAid’s code of ethics, if you want to raise a concern about a possible breach of the code of ethics, or if you experienced or witnessed a behaviour that does not align with our working principles, we are here to support you. Reach us by contacting the [CorrelAid Ethics committee](https://www.correlaid.org/en/about/ethics/). 
