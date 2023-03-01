@@ -269,6 +269,7 @@ main ol {
 
 main ul li,
 main ol li {
+    font-family: "Raleway", sans-serif;
     font-size: 1.25rem;
 }
 
