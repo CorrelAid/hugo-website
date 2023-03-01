@@ -25,7 +25,7 @@ Die Geschäftsordnung der Ethikkommission kann [hier](/material/correlaid_ev/202
 ## Hauptaufgaben
 
 #### Evaluation von Data4Good Projekten
-Wenn du mit einer Organisation in Projektscoping Gesprächen bist und dir nicht sicher bist, ob das Projekt, das du planst, ein geeignetes CorrelAid Data4Good Projekt ist, dann kontaktiere die Ethikkommission unter [ethics@correlaid.org](mailto:ethics@correlaid.org).
+Wenn du mit einer Organisation in Projektscoping Gesprächen bist und dir nicht sicher bist, ob das Projekt, das du planst, ein geeignetes CorrelAid Data4Good Projekt ist, dann kontaktiere die Ethikkommission unter [ethics@correlaid.org](mailto:ethics@correlaid.org) oder über den [#ask-the-ethics-committee Slack channel](https://correlaid.slack.com/archives/C04DTBFUM1Q).
 
 #### Code of Conduct und Code of Ethics
 Die Ethikkommission pflegt den [Code of Conduct](/about/codeofconduct) und den [Code of Ethics](/about/codeofethics).
@@ -33,7 +33,7 @@ Die Ethikkommission pflegt den [Code of Conduct](/about/codeofconduct) und den [
 Sie ist auch die Anlaufstelle für die Meldung von Verstößen gegen den Code of Conduct:
 Wenn du ein Verhalten beobachtest, das gegen den CorrelAid [Code of Conduct](/about/codeofconduct) verstößt oder das nicht mit unseren Arbeitsgrundsätzen übereinstimmt, ist die Ethikkommission für dich da.
 
-Du kannst sie unter [ethics@correlaid.org](mailto:ethics@correlaid.org) erreichen.
+Du kannst sie unter [ethics@correlaid.org](mailto:ethics@correlaid.org) oder über den [#ask-the-ethics-committee Slack channel](https://correlaid.slack.com/archives/C04DTBFUM1Q) erreichen.
 
 ## Mitglieder
 

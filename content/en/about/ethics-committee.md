@@ -26,7 +26,7 @@ An unoffical English translation of the rules of procedures of the ethics commis
 ## Main Tasks
 
 #### Evaluation of Data4Good projects
-If you are in contact with an organization and feel unsure about whether the project you're scoping would be a suitable CorrelAid Data4Good project, contact the ethics committee at [ethics@correlaid.org](mailto:ethics@correlaid.org).
+If you are in contact with an organization and feel unsure about whether the project you're scoping would be a suitable CorrelAid Data4Good project, contact the ethics committee at [ethics@correlaid.org](mailto:ethics@correlaid.org) or via the [#ask-the-ethics-committee Slack channel](https://correlaid.slack.com/archives/C04DTBFUM1Q).
 
 More information about processes and tools coming soon. 
 
@@ -36,7 +36,7 @@ The ethics commission maintains the [Code of Conduct](/en/about/codeofconduct)  
 It is also the  point of contact to report violations of the Code of Conduct:
 If you come across a situation that appears to violate the CorrelAid [Code of Conduct](/en/about/codeofconduct), if you want to raise a concern about a possible breach of the Code of Conduct, or if you experienced or witnessed a behavior that does not align  with our working principles, the ethics committee is here to support you.
 
-You can reach the ethics committee by contacting [ethics@correlaid.org](mailto:ethics@correlaid.org).
+You can reach the ethics committee by contacting [ethics@correlaid.org](mailto:ethics@correlaid.org) or via the [#ask-the-ethics-committee Slack channel](https://correlaid.slack.com/archives/C04DTBFUM1Q).
 
 ## Members
 
