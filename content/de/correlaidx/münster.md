@@ -18,7 +18,7 @@ Hi, wir sind CorrelAid Münster! Neben Student*innen und Fahrrädern gibt es in 
 {{< person 
     name="Frederick"
     subline="CorrelAidX Münster"
-    img=""
+    img="/images/people/frederick.jpg
     data-email="muenster@correlaid.org"
     data-to="Münster (CorrelAidX Münster)"
     link-color="ca-red-text"
