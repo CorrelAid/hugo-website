@@ -26,15 +26,3 @@ Hi, wir sind CorrelAid Münster! Neben Student*innen und Fahrrädern gibt es in 
 >}}
 Ich studiere derzeit Information Systems an der WWU Münster und arbeite als RPA-Entwickler. In meinem Studium habe ich mich bereits mit angewandter Data Science in der Nachhaltigkeitsforschung beschäftigt und versuche nun dies unter anderem durch mein Mitwirken hier bei CorrelAid weiterzuführen. Als ich erfahren habe, dass es bisher noch keinen CorrelAid Chapter in Münster gibt, entschied ich mich die Dinge selbst in die Hand zu nehmen und CorrelAid nach Münster zu bringen. Ich bin gespannt wo diese Reise hingeht!
 {{< /person >}}
-
-{{< person 
-    name="Jost"
-    subline="CorrelAidX Münster"
-    img=""
-    data-email="muenster@correlaid.org"
-    data-to="Münster (CorrelAidX Münster)"
-    link-color="ca-red-text"
-    x="1"
->}}
-Ich habe meinen Bachelor in IT-Systems Engineering am Hasso-Plattner-Institut in Potsdam gemacht. Im Studium habe ich mich viel mit skalierbaren Machine Learning Pipelines beschäftigt. Jetzt arbeite ich in Münster als Embedded-Entwickler aber möchte mich nicht ganz aus der Welt der Data Science verabschieden. Deswegen bin ich dem CorrelAid-Chapter Münster beigetreten. Mich fasziniert immer wieder, wie öffentliche verfügbare Daten zur Erkenntnisgewinnung oder Entscheidungsfindung verwendet werden können. Daten liegen überall, man muss sie nur finden!
-{{< /person >}}
