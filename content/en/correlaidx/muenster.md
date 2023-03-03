@@ -19,7 +19,7 @@ Hi, we are CorrelAid Münster! Besides students and bicycles, there is now also 
 {{< person 
     name="Frederick"
     subline="CorrelAidX Münster"
-    img=""
+    img="/images/people/frederick.jpg
     data-email="muenster@correlaid.org"
     data-to="Münster (CorrelAidX Münster)"
     link-color="ca-red-text"
@@ -27,17 +27,3 @@ Hi, we are CorrelAid Münster! Besides students and bicycles, there is now also 
 >}}
 I am currently studying Information Systems at the WWU Münster and work as an RPA developer. In my studies, I already dealt with applied data science in sustainability research and am now trying to continue this, among other things, through my involvement here at CorrelAid. When I found out that there was no CorrelAid chapter in Münster yet, I decided to take things into my own hands and bring CorrelAid to Münster. I am excited to see where this journey will take us!
 {{< /person >}}
-
-
-{{< person 
-    name="Jost"
-    subline="CorrelAidX Münster"
-    img=""
-    data-email="muenster@correlaid.org"
-    data-to="Münster (CorrelAidX Münster)"
-    link-color="ca-red-text"
-    x="1"
->}}
-I did my Bachelor's degree in IT Systems Engineering at the Hasso Plattner Institute in Potsdam. During my studies, I worked a lot on scalable machine learning pipelines. Now I work in Münster as an embedded developer, but I don't want to leave the world of data science completely. That's why I joined the CorrelAid chapter in Münster. I am always fascinated by how publicly available data can be used to gain knowledge or make decisions. Data is everywhere, you just have to find it!
-{{< /person >}}
-
