@@ -1,7 +1,7 @@
 ---
 title: "Internationaler Frauentag 2023"
 date: 2023-03-08T00:00:00+02:00
-image:      "banner-womens-day.png"
+image:      "womens-day.png"
 slug:       "womens-day-2023"
 summary: "Heute ist der 08. März und damit der Internationale feministische Kampftag oder Internationale Frauentag - hier einige unserer Gedanken, wie dieser Tag mit Daten und digitaler Bildung zusammenhängt."
 draft:      false
