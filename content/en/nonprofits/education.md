@@ -32,7 +32,7 @@ Every quarter we kick-off our 12-weeks educational program "Learning R - The dat
 
 {{< button
     btn-class="btn-dark"
-    href="https://correlaid/nonprofits/rlernen/"
+    href="https://correlaid.org/nonprofits/rlernen/"
     justify="center"
 >}}
 More about R Lernen (German)

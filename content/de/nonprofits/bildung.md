@@ -31,7 +31,7 @@ Jedes Quartal startet unser 12-wöchiges Bildungsprogramm "R Lernen - Der Datenk
 
 {{< button
     btn-class="btn-dark"
-    href="https://correlaid/nonprofits/rlernen/"
+    href="https://correlaid.org/nonprofits/rlernen/"
     justify="center"
 >}}
 Mehr über R Lernen!
