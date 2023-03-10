@@ -19,7 +19,7 @@ Hi, we are CorrelAid Münster! Besides students and bicycles, there is now also 
 {{< person 
     name="Frederick"
     subline="CorrelAidX Münster"
-    img="/images/people/frederick.jpg
+    img="/images/people/frederick.jpg"
     data-email="muenster@correlaid.org"
     data-to="Frederick (CorrelAidX Münster)"
     link-color="ca-red-text"
