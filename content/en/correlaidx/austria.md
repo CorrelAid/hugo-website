@@ -14,7 +14,7 @@ meta:
 ---
 
 
-CorrelAidX Austria invites you to free workshops around data visualization and modeling. Every Tuesday at 8pm via Zoom and hybrid in Vienna and Innsbruck. Basic knowledge in R is helpful. All information can be found [here](https://correlaid.github.io/correlaidx-austria-education/). We look forward to seeing you!
+CorrelAidX Austria invites you to free workshops around data visualization and modeling. Every Tuesday at 8pm via Zoom and hybrid in Vienna and Innsbruck. Basic knowledge in R is helpful. All information can be found [here](https://github.com/CorrelAid/austriaWorkshops). We look forward to seeing you!
 
 
 {{< person 
