@@ -1,7 +1,6 @@
 ---
 title: "CorrelAid Strategy 2021 - Evolution"
 date: 2021-02-23T11:05:24+01:00
-draft: false
 image:      "509-2021-02-23-correlaid-strategy.jpg"
 imageattribution: "Photo by [Johannes Plenio](https://unsplash.com/@jplenio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/strategy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
 slug:       "correlaid-strategy-2021"

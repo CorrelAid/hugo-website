@@ -1,7 +1,6 @@
 ---
 title: "(K)eine Datenstrategie für die Zivilgesellschaft"
 date: 2021-02-01T11:05:24+01:00
-draft: false
 image:      "509-2021-02-02-datenstrategie.jpg"
 imageattribution: "Photo by [Isaac Smith](https://unsplash.com/@isaacmsmith?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/data?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)"
 slug:       "datenstrategie"

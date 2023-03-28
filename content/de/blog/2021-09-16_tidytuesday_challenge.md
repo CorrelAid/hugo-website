@@ -1,7 +1,6 @@
 ---
 title: "The potential political power of citizens with a migration background: showcasing results from CorrelAid's #tidytuesday inspired challenge"
 date: 2021-09-16T11:05:24+01:00
-draft: false
 image:      "2021-09-16_parliamentJL.png"
 imageattribution: "Data visualization by Arndt Leininger and Julius Lagodny"
 slug:       "potential-political-power"

@@ -3,7 +3,6 @@ title: "Warum Daten und Datenanalyse ein sexy Thema sind."
 date: 2015-08-31T00:00:00+02:00
 image: "509-sexy-data.jpg"
 summary: "Das Potential der Datenanalyse für die Zivilgesellschaft."
-author: "Johannes"
 categories:       
     - Data Science
 author: 
