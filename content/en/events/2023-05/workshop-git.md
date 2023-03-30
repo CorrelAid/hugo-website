@@ -4,10 +4,10 @@ date: 2020-05-11T22:01:56+02:00
 correlaidx: false
 eventDate: "2023-05-02"
 eventTime: "18:00 - 19:00"
-eventRegistration: https://pretix.eu/correlaid/workshop-datenstrategie/
+eventRegistration: https://ee.correlaid.org/single/v7RvzwPt?return_url=https://www.correlaid.org/
 tags: ["education"]
 languages: 
-    - german
+    - english
 ---
 
 ## Workshop
