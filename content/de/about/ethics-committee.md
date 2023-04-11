@@ -30,8 +30,7 @@ Wenn du mit einer Organisation in Projektscoping Gesprächen bist und dir nicht 
 #### Code of Conduct und Code of Ethics
 Die Ethikkommission pflegt den [Code of Conduct](/about/codeofconduct) und den [Code of Ethics](/about/codeofethics).
 
-Sie ist auch die Anlaufstelle für die Meldung von Verstößen gegen den Code of Conduct:
-Wenn du ein Verhalten beobachtest, das gegen den CorrelAid [Code of Conduct](/about/codeofconduct) verstößt oder das nicht mit unseren Arbeitsgrundsätzen übereinstimmt, ist die Ethikkommission für dich da.
+Das CommUnity Team wacht über die Einhaltung des Code of Ethics und Code of Conduct bei Veranstaltungen und der weiteren Arbeit von CorrelAid. Es ist auch die erste Anlaufstelle für die Meldung von Verstößen gegen den Code of Conduct, um unmittelbar darauf zu reagieren. Wenn du ein Verhalten beobachtest, das gegen den CorrelAid Code of Conduct verstößt oder das nicht mit unseren Arbeitsgrundsätzen übereinstimmt, kannst du dich auch an die Ethikkommission weden. Die Ethikkommission kann dann Empfehlungen abgeben oder Entscheidungen treffen, wie Fehlverhalten zu sanktionieren ist oder in Zukunft vermieden werden kann. Entscheidungen des Ethikkommittees binden den Vorstand.
 
 Du kannst sie unter [ethics@correlaid.org](mailto:ethics@correlaid.org) oder über den [#ask-the-ethics-committee Slack Channel](https://correlaid.slack.com/archives/C04DTBFUM1Q) erreichen.
 

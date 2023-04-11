@@ -33,8 +33,7 @@ More information about processes and tools coming soon.
 #### Code of Conduct and Code of Ethics
 The ethics commission maintains the [Code of Conduct](/en/about/codeofconduct)  and the [Code of Ethics](/en/about/codeofethics).
 
-It is also the  point of contact to report violations of the Code of Conduct:
-If you come across a situation that appears to violate the CorrelAid [Code of Conduct](/en/about/codeofconduct), if you want to raise a concern about a possible breach of the Code of Conduct, or if you experienced or witnessed a behavior that does not align  with our working principles, the ethics committee is here to support you.
+The CommUnity Team watches over compliance with the Code of Ethics and Code of Conduct at events and in the day-to-day work of CorrelAid. It is also the first point of contact for reporting Code of Conduct violations for immediate response. However, if you observe behavior that violates the CorrelAid Code of Conduct or that is inconsistent with our core principles, you can also contact the Ethics Committee. Then, the Ethics Committee can make recommendations to the Board or decisions on how to sanction misconduct or prevent it in the future. Decisions of the Ethics Committee are binding for the CorrelAid Board.
 
 You can reach the ethics committee by contacting [ethics@correlaid.org](mailto:ethics@correlaid.org) or via the [#ask-the-ethics-committee Slack channel](https://correlaid.slack.com/archives/C04DTBFUM1Q).
 
