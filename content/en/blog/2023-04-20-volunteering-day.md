@@ -1,14 +1,14 @@
 ---
 title: "Thank you!"
-date: 2023-03-28T00:00:00+02:00
+date: 2023-04-20T00:00:00+02:00
 image: "volunteer-recognition_thumbnail"
 summary: "Today, on Volunteer Appreciation Day, we at CorrelAid would like to thank all of our volunteers who support our mission to use data to make the world a better place. Without your time and commitment, we would not be able to implement our projects and initiatives - thank you!"
 categories:       
  - Volunteering
 author: 
  name:           "Verena & Zoé"
- image:          "zoe_konstanz.jpg"
- description:    "Verena Zoé ist bei CorrelAid für die Bildungsarbeit verantwortlich und seit 2018 eherenamtlich im Local Chapter in Konstanz aktiv - große Community-Liebe in allen Bereichen von CorrelAid!"
+ image:          "correlaid.jpg"
+ description:    "Verena has been active at CorrelAid since January 2023 and supports the PR team in creating social media posts, with a special interest in educational content. Zoé is responsible for educational work at CorrelAid and has been active in the Local Chapter in Konstanz on a voluntary basis since 2018. The two share a great community love in all areas of CorrelAid!"
  twitter:        ""
  facebook:       ""
  github:         ""
