@@ -7,7 +7,7 @@ categories:
  - Volunteering
 author: 
  name:           "Verena & Zoé"
- image:          "correlaid.jpg"
+ image:          "verenazoe.png"
  description:    "Verena has been active at CorrelAid since January 2023 and supports the PR team in creating social media posts, with a special interest in educational content. Zoé is responsible for educational work at CorrelAid and has been active in the Local Chapter in Konstanz on a voluntary basis since 2018. The two share a great community love in all areas of CorrelAid!"
  twitter:        ""
  facebook:       ""
