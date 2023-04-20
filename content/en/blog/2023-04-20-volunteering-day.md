@@ -1,7 +1,7 @@
 ---
 title: "Thank you!"
 date: 2023-04-20T00:00:00+02:00
-image: "volunteer-recognition_thumbnail"
+image: "volunteer-recognition_thumbnail.png"
 summary: "Today, on Volunteer Appreciation Day, we at CorrelAid would like to thank all of our volunteers who support our mission to use data to make the world a better place. Without your time and commitment, we would not be able to implement our projects and initiatives - thank you!"
 categories:       
  - Volunteering
@@ -17,7 +17,7 @@ author:
 meta:
  title:          "Thank you!"
  description:    "Today, on Volunteer Appreciation Day, we at CorrelAid would like to thank all of our volunteers who support our mission to use data to make the world a better place. Without your time and commitment, we would not be able to implement our projects and initiatives - thank you!"
- image:          "volunteer-recognition_thumbnail"
+ image:          "volunteer-recognition_thumbnail.png"
  keywords:       "CorrelAid, Volunteering"
 ---
 

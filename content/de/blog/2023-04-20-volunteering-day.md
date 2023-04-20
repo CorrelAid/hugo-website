@@ -1,13 +1,13 @@
 ---
 title: "Danke!"
 date: 2023-04-20T00:00:00+02:00
-image: "volunteer-recognition_thumbnail"
+image: "volunteer-recognition_thumbnail.png"
 summary: "Heute, am Tag der Anerkennung von Freiwilligen, möchten wir bei CorrelAid uns bei allen unseren Freiwilligen bedanken, die unsere Mission unterstützen, Daten für eine bessere Welt zu nutzen. Ohne Eure Zeit und Euer Engagement wären wir nicht in der Lage, unsere Projekte und Initiativen umzusetzen - Danke!"
 categories:       
  - Ehrenamt
 author: 
  name:           "Verena & Zoé"
- image:          "correlaid.jpg"
+ image:          "verenazoe.png"
  description:    "Verena ist bei CorrelAid seit Januar 2023 aktiv und unterstützt das PR Team in der Erstellung von Social Media Posts, mit besonderem Interesse für die Bildungsinhalte. Zoé ist bei CorrelAid für die Bildungsarbeit verantwortlich und seit 2018 eherenamtlich im Local Chapter in Konstanz aktiv. Die beiden eint eine große Community-Liebe in allen Bereichen von CorrelAid!"
  twitter:        ""
  facebook:       ""
@@ -17,7 +17,7 @@ author:
 meta:
  title:          "Danke!"
  description:    "Heute, am Tag der Anerkennung von Freiwilligen, möchten wir bei CorrelAid uns bei allen unseren Freiwilligen bedanken, die unsere Mission unterstützen, Daten für eine bessere Welt zu nutzen. Ohne Eure Zeit und Euer Engagement wären wir nicht in der Lage, unsere Projekte und Initiativen umzusetzen - Danke!"
- image:          "volunteer-recognition_thumbnail"
+ image:          "volunteer-recognition_thumbnail.png"
  keywords:       "CorrelAid, Ehrenamt"
 ---
 
