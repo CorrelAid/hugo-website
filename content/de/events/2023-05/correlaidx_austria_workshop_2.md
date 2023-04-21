@@ -4,7 +4,7 @@ date: 2020-05-11T22:01:56+02:00
 correlaidx: false
 eventDate: "2023-05-16"
 eventTime: "20:00-21:00"
-eventRegistration: https://correlaid.github.io/correlaidx-austria-education/
+eventRegistration: https://docs.google.com/forms/d/e/1FAIpQLScbzQRDg6rcq1OApHKGODTYJdrj-oO5GtOcF4bVWsI8_-hu4w/viewform
 tags: [austria, "education", correlaidx]
 languages: 
     - english
