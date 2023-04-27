@@ -4,7 +4,7 @@ date: 2020-05-11T22:01:56+02:00
 correlaidx: false
 eventDate: "2023-05-03"
 eventTime: "18:00 - 19:00"
-eventRegistration: https://ee.correlaid.org/single/v7RvzwPt?return_url=https://www.correlaid.org/
+eventRegistration: https://forms.gle/PdME8QNFYENYWpG76
 tags: ["education"]
 languages: 
     - german
