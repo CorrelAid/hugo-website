@@ -81,11 +81,16 @@ Ihr benötigt Unterstützung bei spezifischen Themen und sucht dafür Referent*i
 {{< /expert >}}
 
 {{< expert
-    key="tim_fangmeyer"
+    key="soeren_etler"
     link-color="ca-green-text"
 >}}
 {{< /expert >}}
 
+{{< expert
+    key="tim_fangmeyer"
+    link-color="ca-green-text"
+>}}
+{{< /expert >}}
 
 {{< expert
     key="andrew_sutjahjo"
