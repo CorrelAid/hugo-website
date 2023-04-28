@@ -151,6 +151,20 @@
       "text": "Als Experte für Datenwissenschaft und maschinelles Lernen habe ich Teams von Datenwissenschaftlern geleitet und skaliert, End-to-End-Projekte geplant, mit mehreren internationalen Stakeholdern koordiniert und die Lieferung gesteuert. Ich bin sehr versiert in Python, maschinellem Lernen, Datenvisualisierung, Projekt- und Liefermanagement, Stakeholder- und Teammanagement, agilen Methoden für Data Science, Big Data, produktionsreifen Modellen, Orchestrierungstools, CI/CD und Cloud-Plattformen."
     }
   },
+  "soeren_etler": {
+    "name": "Sören Etler",
+    "img": "/images/people/soeren_etler.png",
+    "website": "http://soeren101.de/",
+    "linkedin": "https://www.linkedin.com/in/soeren-etler/",
+    "en": {
+      "subline": "Analysis of voice and geodata, development of chatbots",
+      "text": "I specialize in the analysis and visualization of language (NLP) and geodata and particularly enjoy working with open data sources (Open Data). In various projects I have already supported non-profit organizations in digitization. As founder and CEO of Blaue Dächer Digitalwerkstatt, I develop service chatbots and messenger tours and support organizations in workshops and talks to recognize and use the potential of data & artificial intelligence. Tech Stack: Python with pandas, spacy, streamlit among others."
+    },
+    "de": {
+      "subline": "Analyse von Sprach- und Geodaten, Entwicklung von Chatbots",
+      "text": "Ich habe mich auf die Analyse und Visualisierung von Sprache (NLP) und Geodaten spezialisiert und arbeite besonders gerne mit offenen Datenquellen (Open Data). In verschiedenen Projekten habe ich bereits Non-Profit Organisationen bei der Digitalisierung unterstützt. Als Gründer und Geschäftsführer der Blaue Dächer Digitalwerkstatt entwickle ich Service-Chatbots und Messengertouren und unterstütze Organisationen in Workshops und Vorträgen dabei, das Potenzial von Daten & Künstlicher Intelligenz zu erkennen und zu nutzen. Tech Stack: Python mit u.a. pandas, spacy, streamlit."
+    }
+  },
   "tim_fangmeyer": {
     "name": "Tim Fangmeyer",
     "img": "/images/people/tim_fangmeyer.jpg",
