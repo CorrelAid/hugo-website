@@ -26,4 +26,4 @@ The topics covered by the training material and hands-on exercises are:
 Provided training materials are in English, interaction with trainers is also possible in German. 
 
 ## Registration
-Please register for the event [here](https://ee.correlaid.org/single/v7RvzwPt?return_url=https://www.correlaid.org/). Once registered, you will receive the MS Teams link and further information by email prior to the kickoff of the event. Please note that this internal workshop addresses CorrelAid volunteers. 
+Please register for the event [here](https://forms.gle/PdME8QNFYENYWpG76). Once registered, you will receive the MS Teams link and further information by email prior to the kickoff of the event. Please note that this internal workshop addresses CorrelAid volunteers. 

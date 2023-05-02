@@ -26,4 +26,4 @@ Die Themen des Schulungsmaterials und der praktischen Übungen sind:
 Die Trainingsmaterialien sind auf Englisch, eine Interaktion mit den Trainer*innen ist aber auch auf Deutsch möglich. 
 
 ## Anmeldung
-Zum Training kannst du dich [hier](https://ee.correlaid.org/single/v7RvzwPt?return_url=https://www.correlaid.org/) anmelden. Nach deiner Anmeldung erhältst du den MS Teams Link und weitere Informationen zu der Veranstaltung rechtzeitig vorab per Mail. Bitte beachte, dass dieser interne Workshop für die Ehrenamtlichen bei CorrelAid gedacht ist. 
+Zum Training kannst du dich [hier](https://forms.gle/PdME8QNFYENYWpG76) anmelden. Nach deiner Anmeldung erhältst du den MS Teams Link und weitere Informationen zu der Veranstaltung rechtzeitig vorab per Mail. Bitte beachte, dass dieser interne Workshop für die Ehrenamtlichen bei CorrelAid gedacht ist. 
