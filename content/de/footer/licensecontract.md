@@ -55,7 +55,7 @@ To be recognized by the public as a growing network, we follow our common design
 2.    CorrelAid outside of Germany should be called CorrelAid + name of country, for example CorrelAid Netherlands. For local chapter groups within a country, the naming should be as follows: CorrelAidX + name of the city, for example CorrelAidX Amsterdam. In both cases, the purple and blue logo and corresponding color palette should be used.
 3.    For all our documents we use the (freely available) Roboto font.
 
-For all further questions, kindly consider our [design guide](https://correlcloud.org/index.php/s/rSayjmneKg8q5ya).
+For all further questions, kindly consider our [design guide](https://docs.correlaid.org/wiki/design-guide).
 
 
 ## §6 Our responsibilities
