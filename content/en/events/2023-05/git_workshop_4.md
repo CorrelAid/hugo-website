@@ -2,7 +2,7 @@
 title: "Workshop: Distributed version control for efficient code collaboration with Git"
 date: 2020-05-11T22:01:56+02:00
 correlaidx: false
-eventDate: "2023-05-02"
+eventDate: "2023-05-11"
 eventTime: "18:00 - 19:00"
 eventRegistration: https://forms.gle/PdME8QNFYENYWpG76
 tags: ["education"]
