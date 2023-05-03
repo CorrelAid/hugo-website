@@ -48,9 +48,9 @@ Als _aktives Vereinsmitglied_ nimmst du bei der jährlichen Mitgliederversammlun
 
 Bitte beachte, dass aktive Mitglieder an der Mitgliederversammlung teilnehmen sollten. Details zu den Mitgliedschaften findest du in der [Gebührenordnung](/material/correlaid_ev/2021-12-17_gebuehrenordnung.pdf). 
 
-3. Fülle das [Mitgliedsformular](https://ee.correlaid.org/single/xDjRNPPH?returnURL=https://correlaid.org/about/willkommen/) aus und lade dort das Eintrittsformular sowie das SEPA-Lastschriftmandat hoch. Diese Dokumente findest du [hier](https://correlcloud.org/index.php/s/6fxT6b3xTeSADtJ).
+3. Fülle das [Mitgliedsformular](https://ee.correlaid.org/single/xDjRNPPH?returnURL=https://correlaid.org/about/willkommen/) aus und lade dort am Ende das Eintrittsformular sowie das SEPA-Lastschriftmandat hoch. Diese Dokumente findest du [hier](https://cloud.correlaid.org/s/pyoRxdFfa5ZdWMX).
 
-Unser Finanzvorstand Konstantin steht dir bei Fragen oder Problemen gerne via [Email](mailto:finanzen@correlaid.org) zur Verfügung.
+Unser Admin-Team steht dir bei Fragen oder Problemen gerne via [Email](mailto:finanzen@correlaid.org) zur Verfügung.
 
 # Einfach nur spenden?
 

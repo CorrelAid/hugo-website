@@ -51,9 +51,9 @@ As an _active member_ of the association you are expected to take part in the an
 
 Please note that active members are expected to attend the general meeting. For membership details, please see the [fee regulations](/material/correlaid_ev/2021-12-17_gebuehrenordnung.pdf). 
 
-3. Fill out the [membership form](https://ee.correlaid.org/single/xDjRNPPH?returnURL=https://correlaid.org/about/willkommen/) and upload the registration form and the SEPA direct debit mandate. You can find these documents [here](https://correlcloud.org/index.php/s/6fxT6b3xTeSADtJ).
+3. Fill out the [membership form](https://ee.correlaid.org/single/xDjRNPPH?returnURL=https://correlaid.org/about/willkommen/) and upload the registration form and the SEPA direct debit mandate. You can find these documents [here](https://cloud.correlaid.org/s/pyoRxdFfa5ZdWMX).
 
-Our CFO Konstantin is available for questions or problems via [email](mailto:finanzen@correlaid.org).
+Our Admin Team is available for questions or problems via [email](mailto:finanzen@correlaid.org).
 
 # Just want to donate?
 
